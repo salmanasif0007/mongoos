@@ -1,0 +1,6130 @@
+{
+"name":"A B1 "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"100 mg"
+"ganare":"Thiamine Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 0.85"
+},
+{
+"name":"
+A-Cal "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Calcium Carbonate"
+"unitPrice":"
+Unit Price : ৳ 1.51"
+},
+{
+"name":"
+A-Cal "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Calcium Carbonate"
+"unitPrice":"
+Unit Price : ৳ 1.00"
+},
+{
+"name":"
+A-Cal "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Calcium Carbonate"
+"unitPrice":"
+Unit Price : ৳ 4.60"
+},
+{
+"name":"
+A-Cal D "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg+200 IU"
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol"
+"unitPrice":"
+15 tablet pack : ৳ 91.47"
+},
+{
+"name":"
+A-Cal DX "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg+400 IU"
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol"
+"unitPrice":"
+30 tablet pack : ৳ 214.95"
+},
+{
+"name":"
+A-Calm "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Tolperisone Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 5.57"
+},
+{
+"name":"
+A-Card "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Isosorbide Mononitrate"
+"unitPrice":"
+Unit Price : ৳ 1.42"
+},
+{
+"name":"
+A-Clox "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"500 mg"
+"ganare":"Cloxacillin"
+"unitPrice":"
+Unit Price : ৳ 5.98"
+},
+{
+"name":"
+A-Clox "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"125 mg/5 ml"
+"ganare":"Cloxacillin"
+"unitPrice":"
+100 ml bottle : ৳ 44.97"
+},
+{
+"name":"
+A-Clox "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"250 mg/vial"
+"ganare":"Cloxacillin"
+"unitPrice":"
+250 mg vial : ৳ 20.00"
+},
+{
+"name":"
+A-Clox "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"500 mg/vial"
+"ganare":"Cloxacillin"
+"unitPrice":"
+500 mg vial : ৳ 28.43"
+},
+{
+"name":"
+A-Clox "
+"company":"Acme Laboratories Limited"
+"type":"Pediatric Drop"
+"strange":"125 mg/1.25 ml"
+"ganare":"Cloxacillin"
+"unitPrice":"
+15 ml drop : ৳ 26.38"
+},
+{
+"name":"
+A-cof "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":"(10 mg+30 mg+1.25 mg)/5 ml"
+"ganare":"Dextromethorphan + Pseudoephedrine + Triprolidine"
+"unitPrice":"
+100 ml bottle : ৳ 70.21"
+},
+{
+"name":"
+A-cold "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":"4 mg/5 ml"
+"ganare":"Bromhexine Hyrdochloride"
+"unitPrice":"
+100 ml bottle : ৳ 40.11"
+},
+{
+"name":"
+A-Fenac "
+"company":"Acme Laboratories Limited"
+"type":"Gel"
+"strange":"1% w/w"
+"ganare":"Diclofenac Sodium"
+"unitPrice":"
+10 gm tube : ৳ 13.05"
+},
+{
+"name":"
+A-Fenac "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"25 mg"
+"ganare":"Diclofenac Sodium"
+"unitPrice":"
+Unit Price : ৳ 0.55"
+},
+{
+"name":"
+A-Fenac "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Diclofenac Sodium"
+"unitPrice":"
+Unit Price : ৳ 0.84"
+},
+{
+"name":"
+A-Fenac "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"25 mg/ml"
+"ganare":"Diclofenac Sodium"
+"unitPrice":"
+3 ml ampoule : ৳ 14.10"
+},
+{
+"name":"
+A-Fenac "
+"company":"Acme Laboratories Limited"
+"type":"Suppository"
+"strange":"12.5 mg"
+"ganare":"Diclofenac Sodium"
+"unitPrice":"
+Unit Price : ৳ 8.07"
+},
+{
+"name":"
+A-Fenac "
+"company":"Acme Laboratories Limited"
+"type":"Suppository"
+"strange":"50 mg"
+"ganare":"Diclofenac Sodium"
+"unitPrice":"
+Unit Price : ৳ 14.10"
+},
+{
+"name":"
+A-Fenac K "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Diclofenac Potassium"
+"unitPrice":"
+Unit Price : ৳ 3.00"
+},
+{
+"name":"
+A-Fenac Plus "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"(75 mg+20 mg)/2 ml"
+"ganare":"Diclofenac Sodium + Lidocaine Hydrochloride"
+"unitPrice":"
+2 ml ampoule : ৳ 14.06"
+},
+{
+"name":"
+A-Fenac SR "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"100 mg"
+"ganare":"Diclofenac Sodium"
+"unitPrice":"
+Unit Price : ৳ 3.01"
+},
+{
+"name":"
+A-Flox "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"250 mg"
+"ganare":"Flucloxacillin Sodium"
+"unitPrice":"
+Unit Price : ৳ 5.66"
+},
+{
+"name":"
+A-Flox "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"500 mg"
+"ganare":"Flucloxacillin Sodium"
+"unitPrice":"
+Unit Price : ৳ 10.58"
+},
+{
+"name":"
+A-Flox "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"125 mg/5 ml"
+"ganare":"Flucloxacillin Sodium"
+"unitPrice":"
+100 ml bottle : ৳ 61.42"
+},
+{
+"name":"
+A-Flox "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"250 mg/vial"
+"ganare":"Flucloxacillin Sodium"
+"unitPrice":"
+250 mg vial : ৳ 35.25"
+},
+{
+"name":"
+A-Flox "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"500 mg/vial"
+"ganare":"Flucloxacillin Sodium"
+"unitPrice":"
+500 mg vial : ৳ 45.30"
+},
+{
+"name":"
+A-Meb "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"135 mg"
+"ganare":"Mebeverine Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 6.01"
+},
+{
+"name":"A-Migel "
+"company":"Acme Laboratories Limited"
+"type":"Oral Gel"
+"strange":"2% w/w"
+"ganare":"Miconazole Nitrate (Oral Gel)"
+"unitPrice":"
+15 gm tube : ৳ 52.16"
+},
+{
+"name":"
+A-Phenicol "
+"company":"Acme Laboratories Limited"
+"type":"E/E Drop"
+"strange":"0.5%"
+"ganare":"Chloramphenicol"
+"unitPrice":"
+10 ml drop : ৳ 34.50"
+},
+{
+"name":"
+A-Phenicol "
+"company":"Acme Laboratories Limited"
+"type":"Eye Ointment"
+"strange":"1%"
+"ganare":"Chloramphenicol"
+"unitPrice":"
+5 gm tube : ৳ 11.70"
+},
+{
+"name":"
+A-Phenicol D "
+"company":"Acme Laboratories Limited"
+"type":"E/E Drop"
+"strange":"0.1%+0.5%"
+"ganare":"Dexamethasone + Chloramphenicol"
+"unitPrice":"
+5 ml drop : ৳ 70.21"
+},
+{
+"name":"
+A-Spasm "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Oxyphenonium Bromide (Oral preparation)"
+"unitPrice":"
+Unit Price : ৳ 1.44"
+},
+{
+"name":"
+A-Tetra "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"500 mg"
+"ganare":"Tetracycline Hydrochloride (Oral)"
+"unitPrice":"
+Unit Price : ৳ 3.39"
+},
+{
+"name":"
+A-Tetra "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Tetracycline Hydrochloride (Oral)"
+"unitPrice":"
+Unit Price : ৳ 2.30"
+},
+{
+"name":"
+A-Tetra "
+"company":"Acme Laboratories Limited"
+"type":"E/E Ointment"
+"strange":"1%"
+"ganare":"Tetracycline Hydrochloride (Ophthalmic)"
+"unitPrice":"
+5 gm tube : ৳ 11.58"
+},
+{
+"name":"
+A-zyme "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"325 mg"
+"ganare":"Pancreatin"
+"unitPrice":"
+Unit Price : ৳ 3.51"
+},
+{
+"name":"
+Acelex "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"250 mg"
+"ganare":"Cephalexin"
+"unitPrice":"
+Unit Price : ৳ 6.65"
+},
+{
+"name":"
+Acelex "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"500 mg"
+"ganare":"Cephalexin"
+"unitPrice":"
+Unit Price : ৳ 12.49"
+},
+{
+"name":"
+Acelex "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"125 mg/5 ml"
+"ganare":"Cephalexin"
+"unitPrice":"
+100 ml bottle : ৳ 76.81"
+},
+{
+"name":"
+Acelex "
+"company":"Acme Laboratories Limited"
+"type":"Pediatric Drop"
+"strange":"125 mg/1.2 ml"
+"ganare":"Cephalexin"
+"unitPrice":"
+15 ml drop : ৳ 42.47"
+},
+{
+"name":"
+Acemox "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Acetazolamide"
+"unitPrice":"
+Unit Price : ৳ 2.00"
+},
+{
+"name":"
+Aclobet "
+"company":"Acme Laboratories Limited"
+"type":"Cream"
+"strange":"0.05%"
+"ganare":"Clobetasol Propionate"
+"unitPrice":"
+10 gm tube : ৳ 45.13"
+},
+{
+"name":"
+Aclobet "
+"company":"Acme Laboratories Limited"
+"type":"Ointment"
+"strange":"0.05%"
+"ganare":"Clobetasol Propionate"
+"unitPrice":"
+10 gm tube : ৳ 50.14"
+},
+{
+"name":"
+Aclobet-N "
+"company":"Acme Laboratories Limited"
+"type":"Cream"
+"strange":"0.05%+0.5%+2%"
+"ganare":"Clobetasol Propionate + Neomycin Sulphate + Nystatin"
+"unitPrice":"
+10 gm tube : ৳ 60.18"
+},
+{
+"name":"
+Aclobet-N "
+"company":"Acme Laboratories Limited"
+"type":"Ointment"
+"strange":"0.05%+0.5%+2%"
+"ganare":"Clobetasol Propionate + Neomycin Sulphate + Nystatin"
+"unitPrice":"
+15 gm tube : ৳ 65.45"
+},
+{
+"name":"
+Acme's Cholera Saline "
+"company":"Acme Laboratories Limited"
+"type":"Infusion"
+"strange":" "
+"ganare":"Cholera Saline"
+"unitPrice":"
+500 ml bag : ৳ 70.14"
+},
+{
+"name":"
+Acme's Dextrose "
+"company":"Acme Laboratories Limited"
+"type":"Infusion"
+"strange":"5%"
+"ganare":"Dextrose"
+"unitPrice":"
+500 ml bag : ৳ 71.30"
+},
+{
+"name":"
+Acme's Dextrose DS "
+"company":"Acme Laboratories Limited"
+"type":"Infusion"
+"strange":"10%"
+"ganare":"Dextrose"
+"unitPrice":"
+500 ml bag : ৳ 78.20"
+},
+{
+"name":"
+Acme's DNS "
+"company":"Acme Laboratories Limited"
+"type":"Infusion"
+"strange":"0.9%+5%"
+"ganare":"Sodium Chloride + Dextrose"
+"unitPrice":"
+500 ml bag : ৳ 75.89"
+},
+{
+"name":"
+Acme's Hartmann Solution "
+"company":"Acme Laboratories Limited"
+"type":"Infusion"
+"strange":" "
+"ganare":"Hartmann's Solution"
+"unitPrice":"
+500 ml bag : ৳ 71.30"
+},
+{
+"name":"
+Acme's Mannitol "
+"company":"Acme Laboratories Limited"
+"type":"Infusion"
+"strange":"20%"
+"ganare":"Mannitol"
+"unitPrice":"
+500 ml bottle : ৳ 155.47"
+},
+{
+"name":"
+Acme's Milk of magnesia "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"400 mg/5 ml"
+"ganare":"Magnesium Hydroxide"
+"unitPrice":"
+114 ml bottle : ৳ 60.18"
+},
+{
+"name":"
+Acme's Normal Saline "
+"company":"Acme Laboratories Limited"
+"type":"Infusion"
+"strange":"0.9%"
+"ganare":"Sodium Chloride (Intravenous Solution)"
+"unitPrice":"
+500 ml bag : ৳ 67.85"
+},
+{
+"name":"
+Acme's ORS "
+"company":"Acme Laboratories Limited"
+"type":"Powder"
+"strange":"13.95 gm"
+"ganare":"Oral Rehydration Salt (Powder)"
+"unitPrice":"
+Unit Price : ৳ 5.00"
+},
+{
+"name":"
+Acmecilin "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"125 mg/5 ml"
+"ganare":"Ampicillin"
+"unitPrice":"
+100 ml bottle : ৳ 39.71"
+},
+{
+"name":"
+Acmecilin "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"250 mg"
+"ganare":"Ampicillin"
+"unitPrice":"
+Unit Price : ৳ 3.31"
+},
+{
+"name":"
+Acmecilin "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"250 mg/vial"
+"ganare":"Ampicillin"
+"unitPrice":"
+250 mg vial : ৳ 19.43"
+},
+{
+"name":"Acmecilin "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"500 mg/vial"
+"ganare":"Ampicillin"
+"unitPrice":"
+500 mg vial : ৳ 27.32"
+},
+{
+"name":"
+Acmegra "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"25 mg"
+"ganare":"Sildenafil Citrate"
+"unitPrice":"
+Unit Price : ৳ 20.07"
+},
+{
+"name":"
+Acmegra "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Sildenafil Citrate"
+"unitPrice":"
+Unit Price : ৳ 30.10"
+},
+{
+"name":"
+Acmegra "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"100 mg"
+"ganare":"Sildenafil Citrate"
+"unitPrice":"
+Unit Price : ৳ 50.14"
+},
+{
+"name":"
+Acnegel "
+"company":"Acme Laboratories Limited"
+"type":"Gel"
+"strange":"0.1%+2.5%"
+"ganare":"Adapalene + Benzoyl peroxide"
+"unitPrice":"
+10 gm tube : ৳ 160.46"
+},
+{
+"name":"
+Adinir "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"300 mg"
+"ganare":"Cefdinir"
+"unitPrice":"
+Unit Price : ৳ 45.16"
+},
+{
+"name":"
+Adinir"
+"company":"Acme Laboratories Limited"
+"type":" Suspension"
+"strange":"125 mg/5 ml"
+"ganare":"Cefdinir"
+"unitPrice":"
+60 ml bottle : ৳ 175.66"
+},
+{
+"name":"
+Alanil "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"120 mg"
+"ganare":"Fexofenadine Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 7.69"
+},
+{
+"name":"
+Alanil "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"180 mg"
+"ganare":"Fexofenadine Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 9.56"
+},
+{
+"name":"
+Alanil "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"30 mg/5 ml"
+"ganare":"Fexofenadine Hydrochloride"
+"unitPrice":"
+50 ml bottle : ৳ 48.14"
+},
+{
+"name":"
+Alclor "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"500 mg"
+"ganare":"Cefaclor Monohydrate"
+"unitPrice":"
+Unit Price : ৳ 40.11"
+},
+{
+"name":"
+Alclor "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"125 mg/5 ml"
+"ganare":"Cefaclor Monohydrate"
+"unitPrice":"
+100 ml bottle : ৳ 190.58"
+},
+{
+"name":"
+Alclor "
+"company":"Acme Laboratories Limited"
+"type":"Pediatric Drop"
+"strange":"125 mg/1.25 ml"
+"ganare":"Cefaclor Monohydrate"
+"unitPrice":"
+15 ml bottle : ৳ 125.37"
+},
+{
+"name":"
+Alercon "
+"company":"Acme Laboratories Limited"
+"type":"Eye Drop"
+"strange":"0.1%"
+"ganare":"Olopatadine Hydrochloride (Eye Drops)"
+"unitPrice":"
+5 ml drop : ৳ 100.30"
+},
+{
+"name":"
+Alercon "
+"company":"Acme Laboratories Limited"
+"type":"Nasal Spray"
+"strange":"600 mcg/spray"
+"ganare":"Olopatadine Hydrochloride (Nasal Spray)"
+"unitPrice":"
+120 metered sprays : ৳ 401.20"
+},
+{
+"name":"
+Alercon DS "
+"company":"Acme Laboratories Limited"
+"type":"Eye Drop"
+"strange":"0.2%"
+"ganare":"Olopatadine Hydrochloride (Eye Drops)"
+"unitPrice":"
+5 ml drop : ৳ 150.44"
+},
+{
+"name":"
+Aminomix "
+"company":"Acme Laboratories Limited"
+"type":"Infusion"
+"strange":"5%"
+"ganare":"Amino acid"
+"unitPrice":"
+500 ml bottle : ৳ 352.37"
+},
+{
+"name":"
+Aminoplex "
+"company":"Acme Laboratories Limited"
+"type":"Infusion"
+"strange":"5%"
+"ganare":"Amino acid"
+"unitPrice":"
+500 ml bottle : ৳ 402.72"
+},
+{
+"name":"
+Amlopin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Amlodipine"
+"unitPrice":"
+Unit Price : ৳ 7.02"
+},
+{
+"name":"
+Amlopin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Amlodipine"
+"unitPrice":"
+Unit Price : ৳ 5.01"
+},
+{
+"name":"
+Amloten "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg+25 mg"
+"ganare":"Amlodipine + Atenolol"
+"unitPrice":"
+Unit Price : ৳ 5.27"
+},
+{
+"name":"
+Amloten "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg+50 mg"
+"ganare":"Amlodipine + Atenolol"
+"unitPrice":"
+Unit Price : ৳ 6.01"
+},
+{
+"name":"
+Angirid MR "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"35 mg"
+"ganare":"Trimetazidine Dihydrochloride"
+"unitPrice":"
+Unit Price : ৳ 5.03"
+},
+{
+"name":"
+Angist SR "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"2.6 mg"
+"ganare":"Glyceryl Trinitrate (Nitroglycerin)"
+"unitPrice":"
+Unit Price : ৳ 4.03"
+},
+{
+"name":"
+Antox "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"6 mg+200 mg+50 mg"
+"ganare":"Betacarotene + Vitamin C + Vitamin E"
+"unitPrice":"
+Unit Price : ৳ 2.54"
+},
+{
+"name":"
+Apitac "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"100 mg"
+"ganare":"Aceclofenac"
+"unitPrice":"
+Unit Price : ৳ 4.01"
+},
+{
+"name":"
+Arth-A "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"250 mg+200 mg"
+"ganare":"Glucosamine Sulphate + Chondroitin"
+"unitPrice":"
+Unit Price : ৳ 8.07"
+},
+{
+"name":"
+Arth-A Max "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"750 mg+50 mg"
+"ganare":"Glucosamine Sulphate + Diacerein"
+"unitPrice":"
+Unit Price : ৳ 12.03"
+},
+{
+"name":"
+Ascon "
+"company":"Acme Laboratories Limited"
+"type":"Inhaler"
+"strange":"100 mcg/puff"
+"ganare":"Beclometasone Dipropionate (Inhaler)"
+"unitPrice":"
+200 metered doses : ৳ 270.81"
+},
+{
+"name":"
+Ascon "
+"company":"Acme Laboratories Limited"
+"type":"Inhaler"
+"strange":"250 mcg/puff"
+"ganare":"Beclometasone Dipropionate (Inhaler)"
+"unitPrice":"
+200 metered doses : ৳ 320.00"
+},
+{
+"name":"Ascon "
+"company":"Acme Laboratories Limited"
+"type":"Inhaler"
+"strange":"200 mcg/puff"
+"ganare":"Beclometasone Dipropionate (Inhaler)"
+"unitPrice":"
+200 metered doses : ৳ 250.94"
+},
+{
+"name":"
+Avir "
+"company":"Acme Laboratories Limited"
+"type":"Eye Ointment"
+"strange":"3%"
+"ganare":"Acyclovir (Ophthalmic)"
+"unitPrice":"
+Price not available"
+},
+{
+"name":"
+Aximin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"200 mg"
+"ganare":"Rifaximin"
+"unitPrice":"
+Unit Price : ৳ 20.07"
+},
+{
+"name":"
+Aximin "
+"company":"Acme Laboratories Limited"
+"type":"Table"
+"strange":"t550 mg"
+"ganare":"Rifaximin"
+"unitPrice":"
+Unit Price : ৳ 45.13"
+},
+{
+"name":"
+Axinat "
+"company":"Acme Laboratories Limited"
+"type":"Inhaler"
+"strange":"25 mcg/puffS"
+"ganare":"almeterol Xinafoate"
+"unitPrice":"
+120 metered doses : ৳ 125.00"
+},
+{
+"name":"
+Axinat-F "
+"company":"Acme Laboratories Limited"
+"type":"Inhaler"
+"strange":"(25 mcg+125 mcg)/puff"
+"ganare":"Salmeterol + Fluticasone Propionate"
+"unitPrice":"
+120 metered doses : ৳ 577.00"
+},
+{
+"name":"
+Axinat-F "
+"company":"Acme Laboratories Limited"
+"type":"Inhaler"
+"strange":"(25 mcg+250 mcg)/puff"
+"ganare":"Salmeterol + Fluticasone Propionate"
+"unitPrice":"
+120 metered doses : ৳ 752.00"
+},
+{
+"name":"
+Azelec "
+"company":"Acme Laboratories Limited"
+"type":"Cream"
+"strange":"20%"
+"ganare":"Azelaic Acid"
+"unitPrice":"
+5 gm tube : ৳ 40.27"
+},
+{
+"name":"
+Azepam "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Diazepam"
+"unitPrice":"
+Unit Price : ৳ 0.69"
+},
+{
+"name":"
+Azin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Azithromycin"
+"unitPrice":"
+Unit Price : ৳ 35.11"
+},
+{
+"name":"
+Azin "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"250 mg"
+"ganare":"Azithromycin"
+"unitPrice":"
+Unit Price : ৳ 25.08"
+},
+{
+"name":"
+Azin "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"200 mg/5 ml"
+"ganare":"Azithromycin"
+"unitPrice":"
+15 ml bottle : ৳ 95.29"
+},
+{
+"name":"
+Azolin "
+"company":"Acme Laboratories Limited"
+"type":"Nasal Drop"
+"strange":"0.05%"
+"ganare":"Oxymetazoline Hydrochloride (Nasal)"
+"unitPrice":"
+10 ml drop : ৳ 45.13"
+},
+{
+"name":"
+Azolin "
+"company":"Acme Laboratories Limited"
+"type":"Nasal Drop"
+"strange":"0.025%"
+"ganare":"Oxymetazoline Hydrochloride (Nasal)"
+"unitPrice":"
+10 ml drop : ৳ 40.11"
+},
+{
+"name":"
+Baby Zinc "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Zinc Sulphate Monohydrate"
+"unitPrice":"
+Unit Price : ৳ 1.76"
+},
+{
+"name":"
+Beclod"
+"company":"Acme Laboratories Limited"
+"type":" Inhalation Powder"
+"strange":"100 mcg/rotacap"
+"ganare":"Beclometasone Dipropionate (Inhaler)"
+"unitPrice":"
+Unit Price : ৳ 1.50"
+},
+{
+"name":"
+Beclod "
+"company":"Acme Laboratories Limited"
+"type":"Inhalation Powder"
+"strange":"200 mcg/rotacap"
+"ganare":"Beclometasone Dipropionate (Inhaler)"
+"unitPrice":"
+Unit Price : ৳ 2.13"
+},
+{
+"name":"
+Beclomet "
+"company":"Acme Laboratories Limited"
+"type":"Nasal Spray"
+"strange":"0.05%"
+"ganare":"Beclomethasone Dipropionate (Nasal Spray)"
+"unitPrice":"
+200 metered sprays : ৳ 120.37"
+},
+{
+"name":"
+Ben-A "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"400 mg"
+"ganare":"Albendazole"
+"unitPrice":"
+Unit Price : ৳ 5.01"
+},
+{
+"name":"
+Ben-A "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"200 mg/5 ml"
+"ganare":"Albendazole"
+"unitPrice":"
+10 ml bottle : ৳ 20.07"
+},
+{
+"name":"
+Benzyl Lotion "
+"company":"Acme Laboratories Limited"
+"type":"Lotion"
+"strange":"1.25 gm/5 ml"
+"ganare":"Benzyl Benzoate"
+"unitPrice":"
+100 ml bottle : ৳ 126.50"
+},
+{
+"name":"
+Bet-A "
+"company":"Acme Laboratories Limited"
+"type":"Cream"
+"strange":"0.1%"
+"ganare":"Betamethasone"
+"unitPrice":"
+15 gm tube : ৳ 33.10"
+},
+{
+"name":"
+Bet-A "
+"company":"Acme Laboratories Limited"
+"type":"Ointment"
+"strange":"0.1%"
+"ganare":"Betamethasone"
+"unitPrice":"
+15 gm tube : ৳ 35.11"
+},
+{
+"name":"
+Bet-A "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"0.5 mg"
+"ganare":"Betamethasone"
+"unitPrice":"
+Unit Price : ৳ 0.72"
+},
+{
+"name":"
+Bet-CG "
+"company":"Acme Laboratories Limited"
+"type":"Cream"
+"strange":"0.05%+1%+0.1%"
+"ganare":"Betamethasone + Clotrimazole + Gentamicin"
+"unitPrice":"
+15 gm tube : ৳ 75.00"
+},
+{
+"name":"
+Bet-CL "
+"company":"Acme Laboratories Limited"
+"type":"Cream"
+"strange":"0.05%+1%"
+"ganare":"Betamethasone + Clotrimazole"
+"unitPrice":"
+10 gm tube : ৳ 29.20"
+},
+{
+"name":"
+Bet-CL "
+"company":"Acme Laboratories Limited"
+"type":"Ointment"
+"strange":"0.1%+1%"
+"ganare":"Betamethasone + Clotrimazole"
+"unitPrice":"
+10 gm tube : ৳ 29.08"
+},
+{
+"name":"
+Betabis "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"2.5 mg"
+"ganare":"Bisoprolol Fumarate"
+"unitPrice":"
+Unit Price : ৳ 6.01"
+},
+{
+"name":"
+Betabis "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Bisoprolol Fumarate"
+"unitPrice":"
+Unit Price : ৳ 10.03"
+},
+{
+"name":"
+Betaone "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Metoprolol Tartrate"
+"unitPrice":"
+Unit Price : ৳ 2.00"
+},
+{
+"name":"Betaone "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"25 mg"
+"ganare":"Metoprolol Tartrate"
+"unitPrice":"
+Unit Price : ৳ 1.51"
+},
+{
+"name":"
+Brindin "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"1%+0.2%"
+"ganare":"Brinzolamide + Brimonidine Tartrate"
+"unitPrice":"
+5 ml drop : ৳ 550.00"
+},
+{
+"name":"
+Brinop"
+"company":"Acme Laboratories Limited"
+"type":" Suspension"
+"strange":"1%"
+"ganare":"Brinzolamide"
+"unitPrice":"
+5 ml drop : ৳ 500.00"
+},
+{
+"name":"
+BS Ointment "
+"company":"Acme Laboratories Limited"
+"type":"Ointment"
+"strange":"6%+3%"
+"ganare":"Benzoic Acid + Salicylic Acid"
+"unitPrice":"
+1 kg pack : ৳ 667.00"
+},
+{
+"name":"
+Budefort "
+"company":"Acme Laboratories Limited"
+"type":"Inhalation Powder"
+"strange":"(400 mcg+12 mcg)/rotacap"
+"ganare":"Budesonide + Formoterol Fumarate Dihydrate"
+"unitPrice":"
+Unit Price : ৳ 14.00"
+},
+{
+"name":"
+Budefort "
+"company":"Acme Laboratories Limited"
+"type":"Inhalation Powder"
+"strange":"(200 mcg+6 mcg)/rotacap"
+"ganare":"Budesonide + Formoterol Fumarate Dihydrate"
+"unitPrice":"
+Unit Price : ৳ 9.00"
+},
+{
+"name":"
+Budeson "
+"company":"Acme Laboratories Limited"
+"type":"Inhalation Powder"
+"strange":"200 mcg/rotacap"
+"ganare":"Budesonide"
+"unitPrice":"
+Unit Price : ৳ 3.00"
+},
+{
+"name":"
+Burncare "
+"company":"Acme Laboratories Limited"
+"type":"Cream"
+"strange":"1%"
+"ganare":"Silver Sulfadiazine"
+"unitPrice":"
+25 gm tube : ৳ 35.00"
+},
+{
+"name":"
+Butacit "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":"7.5 mg/5 ml"
+"ganare":"Butamirate Citrate"
+"unitPrice":"
+100 ml bottle : ৳ 80.00"
+},
+{
+"name":"
+Carvipress "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"25 mg"
+"ganare":"Carvedilol"
+"unitPrice":"
+Unit Price : ৳ 8.07"
+},
+{
+"name":"
+Carvipress "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"6.25 mg"
+"ganare":"Carvedilol"
+"unitPrice":"
+Unit Price : ৳ 3.00"
+},
+{
+"name":"
+Carvipress"
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"12.5 mg"
+"ganare":"Carvedilol"
+"unitPrice":"
+Unit Price : ৳ 5.03"
+},
+{
+"name":"
+Catnil "
+"company":"Acme Laboratories Limited"
+"type":"Eye Drop"
+"strange":" "
+"ganare":"Sodium Succinate + Cytochrome C + Adenosine + Nicotinamide"
+"unitPrice":"
+5 ml drop : ৳ 125.37"
+},
+{
+"name":"
+Cecon "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Vitamin C (Ascorbic acid)"
+"unitPrice":"
+Unit Price : ৳ 1.90"
+},
+{
+"name":"
+Cetizin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Cetirizine Dihydrochloride"
+"unitPrice":"
+Unit Price : ৳ 3.01"
+},
+{
+"name":"
+Cinazin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"15 mg"
+"ganare":"Cinnarizine"
+"unitPrice":"
+Unit Price : ৳ 0.69"
+},
+{
+"name":"
+Cinazin Plus "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"20 mg+40 mg"
+"ganare":"Cinnarizine + Dimenhydrinate"
+"unitPrice":"
+Unit Price : ৳ 1.51"
+},
+{
+"name":"
+Cinoplus "
+"company":"Acme Laboratories Limited"
+"type":"Suppository"
+"strange":" "
+"ganare":"Aesculin + Cinchocaine + Hydrocortisone + Neomycin Sulphate"
+"unitPrice":"
+Unit Price : ৳ 9.03"
+},
+{
+"name":"
+Cipro A "
+"company":"Acme Laboratories Limited"
+"type":"E/E Drop"
+"strange":"0.3%"
+"ganare":"Ciprofloxacin (Eye/Ear)"
+"unitPrice":"
+5 gm tube : ৳ 40.11"
+},
+{
+"name":"
+Cipro-A "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Ciprofloxacin"
+"unitPrice":"
+Unit Price : ৳ 8.57"
+},
+{
+"name":"
+Cipro-A "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Ciprofloxacin"
+"unitPrice":"
+Unit Price : ৳ 14.27"
+},
+{
+"name":"
+Cipro-A "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"750 mg"
+"ganare":"Ciprofloxacin"
+"unitPrice":"
+Unit Price : ৳ 18.11"
+},
+{
+"name":"
+Cipro-A "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"250 mg/5 ml"
+"ganare":"Ciprofloxacin"
+"unitPrice":"
+60 ml bottle : ৳ 100.30"
+},
+{
+"name":"
+Cipro-A "
+"company":"Acme Laboratories Limited"
+"type":"Infusion"
+"strange":"200 mg/100 ml"
+"ganare":"Ciprofloxacin"
+"unitPrice":"
+100 ml bottle : ৳ 110.78"
+},
+{
+"name":"
+Cipro-D "
+"company":"Acme Laboratories Limited"
+"type":"E/E Drop"
+"strange":"0.3%+0.1%"
+"ganare":"Ciprofloxacin + Dexamethasone"
+"unitPrice":"
+5 ml drop : ৳ 75.22"
+},
+{
+"name":"
+Citrosol"
+"company":"Acme Laboratories Limited"
+"type":" Oral Solution"
+"strange":"(1500 mg+250 mg)/5 ml"
+"ganare":"Potassium Citrate + Citric Acid"
+"unitPrice":"
+200 ml bottle : ৳ 200.00"
+},
+{
+"name":"
+Claricin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Clarithromycin"
+"unitPrice":"
+Unit Price : ৳ 25.17"
+},
+{
+"name":"
+Claricin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Clarithromycin"
+"unitPrice":"
+Unit Price : ৳ 40.27"
+},
+{
+"name":"
+Claricin "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"125 mg/5 ml"
+"ganare":"Clarithromycin"
+"unitPrice":"
+60 ml bottle : ৳ 395.00"
+},
+{
+"name":"
+Clotrim "
+"company":"Acme Laboratories Limited"
+"type":"Cream"
+"strange":"1%"
+"ganare":"Clotrimazole (Topical)"
+"unitPrice":"
+5 gm tube : ৳ 18.37"
+},
+{
+"name":"Clotrim "
+"company":"Acme Laboratories Limited"
+"type":"Vaginal Suppository"
+"strange":"200 mg"
+"ganare":"Clotrimazole (Rectal)"
+"unitPrice":"
+Unit Price : ৳ 20.13"
+},
+{
+"name":"
+Co-Valtin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg+80 mg"
+"ganare":"Amlodipine + Valsartan"
+"unitPrice":"
+Unit Price : ৳ 9.03"
+},
+{
+"name":"
+Co-Valtin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg+160 mg"
+"ganare":"Amlodipine + Valsartan"
+"unitPrice":"
+Unit Price : ৳ 16.03"
+},
+{
+"name":"
+Codfil "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"600 IU+85 IU+0.3 IU"
+"ganare":"Cod Liver Oil"
+"unitPrice":"
+Unit Price : ৳ 2.00"
+},
+{
+"name":"
+Cofrid "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":"(30 mg+100 mg+1.25 mg) / 5 ml"
+"ganare":"Pseudoephedrine + Guaiphenasine + Triprolidine"
+"unitPrice":"
+100 ml bottle : ৳ 60.05"
+},
+{
+"name":"
+Combipen "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"(3 lac unit+1 lac unit)/vial"
+"ganare":"Procaine Penicillin + Benzyl Penicillin"
+"unitPrice":"
+4 lac unit vial : ৳ 17.19"
+},
+{
+"name":"
+Coralex "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg+200 IU"
+"ganare":"Calcium Carbonate (Coral source) + Cholecalciferol"
+"unitPrice":"
+Unit Price : ৳ 10.01"
+},
+{
+"name":"
+Coralex DX "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"600 mg+400 IU"
+"ganare":"Calcium Carbonate (Coral source) + Cholecalciferol"
+"unitPrice":"
+Unit Price : ৳ 15.00"
+},
+{
+"name":"
+Cortimax "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"24 mg"
+"ganare":"Deflazacort"
+"unitPrice":"
+Unit Price : ৳ 30.00"
+},
+{
+"name":"
+Cortimax "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"6 mg"
+"ganare":"Deflazacort"
+"unitPrice":"
+Unit Price : ৳ 8.00"
+},
+{
+"name":"
+Cosium "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Clobazam"
+"unitPrice":"
+Unit Price : ৳ 3.52"
+},
+{
+"name":"
+CP "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"200 mg"
+"ganare":"Cefpodoxime Proxetil"
+"unitPrice":"
+Unit Price : ৳ 42.29"
+},
+{
+"name":"
+CP "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"40 mg/5 ml"
+"ganare":"Cefpodoxime Proxetil"
+"unitPrice":"
+50 ml bottle : ৳ 98.65"
+},
+{
+"name":"
+CP "
+"company":"Acme Laboratories Limited"
+"type":"Pediatric Drop"
+"strange":"20 mg/ml"
+"ganare":"Cefpodoxime Proxetil"
+"unitPrice":"
+15 ml bottle : ৳ 60.41"
+},
+{
+"name":"
+CP DS "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"80 mg/5 ml"
+"ganare":"Cefpodoxime Proxetil"
+"unitPrice":"
+50 ml bottle : ৳ 175.51"
+},
+{
+"name":"
+Cubimox "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"400 mg"
+"ganare":"Moxifloxacin Hydrochloride (Oral or Injection)"
+"unitPrice":"
+Unit Price : ৳ 40.01"
+},
+{
+"name":"
+Dactus "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"1 mg"
+"ganare":"Glimepiride"
+"unitPrice":"
+Unit Price : ৳ 4.00"
+},
+{
+"name":"
+Dactus "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"2 mg"
+"ganare":"Glimepiride"
+"unitPrice":"
+Unit Price : ৳ 6.50"
+},
+{
+"name":"
+Dactus "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"3 mg"
+"ganare":"Glimepiride"
+"unitPrice":"
+Unit Price : ৳ 8.50"
+},
+{
+"name":"
+Daomin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Metformin Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 4.00"
+},
+{
+"name":"
+Daomin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"850 mg"
+"ganare":"Metformin Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 6.00"
+},
+{
+"name":"
+Daomin XR "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Metformin Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 6.00"
+},
+{
+"name":"
+Daomin XR "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"1 gm"
+"ganare":"Metformin Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 8.00"
+},
+{
+"name":"
+Darifen ER "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"7.5 mg"
+"ganare":"Darifenacin"
+"unitPrice":"
+Unit Price : ৳ 22.07"
+},
+{
+"name":"
+Darifen ER "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"15 mg"
+"ganare":"Darifenacin"
+"unitPrice":"
+Unit Price : ৳ 40.00"
+},
+{
+"name":"
+Dclot "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"75 mg"
+"ganare":"Clopidogrel Bisulphate"
+"unitPrice":"
+Unit Price : ৳ 10.77"
+},
+{
+"name":"
+Dclot Plus "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"75 mg+75 mg"
+"ganare":"Clopidogrel + Aspirin"
+"unitPrice":"
+Unit Price : ৳ 10.99"
+},
+{
+"name":"
+Defaz "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg+20 mg"
+"ganare":"Folic Acid + Zinc Sulfate Monohydrate"
+"unitPrice":"
+Unit Price : ৳ 1.51"
+},
+{
+"name":"
+Defaz CI "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"50 mg+0.50 mg+61.80 mg"
+"ganare":"Carbonyl Iron + Folic Acid + Zinc Sulfate Monohydrate"
+"unitPrice":"
+Unit Price : ৳ 3.01"
+},
+{
+"name":"
+Defrol "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"1000 IU"
+"ganare":"Colecalciferol (Vitamin D3)"
+"unitPrice":"
+Unit Price : ৳ 2.00"
+},
+{
+"name":"Defrol "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"20000 IU"
+"ganare":"Colecalciferol (Vitamin D3)"
+"unitPrice":"
+Unit Price : ৳ 20.00"
+},
+{
+"name":"
+Defrol "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"40000 IU"
+"ganare":"Colecalciferol (Vitamin D3)"
+"unitPrice":"
+Unit Price : ৳ 35.00"
+},
+{
+"name":"
+Defrol "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":"1000 IU/5 ml"
+"ganare":"Colecalciferol (Vitamin D3)"
+"unitPrice":"
+100 ml bottle : ৳ 75.00"
+},
+{
+"name":"
+Dermupin "
+"company":"Acme Laboratories Limited"
+"type":"Ointment"
+"strange":"2% w/w"
+"ganare":"Mupirocin"
+"unitPrice":"
+10 gm tube : ৳ 140.42"
+},
+{
+"name":"
+Diloxide "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Diloxanide Furoate"
+"unitPrice":"
+Unit Price : ৳ 1.86"
+},
+{
+"name":"
+Dirozyl "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"200 mg"
+"ganare":"Metronidazole"
+"unitPrice":"
+Unit Price : ৳ 0.67"
+},
+{
+"name":"
+Dirozyl "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"400 mg"
+"ganare":"Metronidazole"
+"unitPrice":"
+Unit Price : ৳ 1.27"
+},
+{
+"name":"
+Dirozyl "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"200 mg/5 ml"
+"ganare":"Metronidazole"
+"unitPrice":"
+60 ml bottle : ৳ 29.90"
+},
+{
+"name":"
+Dirozyl "
+"company":"Acme Laboratories Limited"
+"type":"Suppository"
+"strange":"500 mg"
+"ganare":"Metronidazole"
+"unitPrice":"
+Unit Price : ৳ 12.09"
+},
+{
+"name":"
+Dirozyl "
+"company":"Acme Laboratories Limited"
+"type":"Infusion"
+"strange":"500 mg/100 ml"
+"ganare":"Metronidazole"
+"unitPrice":"
+100 ml bag : ৳ 54.05"
+},
+{
+"name":"
+Dolonil "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"50 mg"
+"ganare":"Tramadol Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 7.53"
+},
+{
+"name":"
+Dolonil "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"100 mg/2 ml"
+"ganare":"Tramadol Hydrochloride"
+"unitPrice":"
+2 mg ampoule : ৳ 20.07"
+},
+{
+"name":"
+Dolonil SR "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"100 mg"
+"ganare":"Tramadol Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 25.00"
+},
+{
+"name":"
+Don-A "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Domperidone Maleate"
+"unitPrice":"
+Unit Price : ৳ 2.25"
+},
+{
+"name":"
+Don-A "
+"company":"Acme Laboratories Limited"
+"type":"Suppository"
+"strange":"15 mg"
+"ganare":"Domperidone Maleate"
+"unitPrice":"
+Unit Price : ৳ 5.03"
+},
+{
+"name":"
+Don-A "
+"company":"Acme Laboratories Limited"
+"type":"Suppository"
+"strange":"30 mg"
+"ganare":"Domperidone Maleate"
+"unitPrice":"
+Unit Price : ৳ 8.07"
+},
+{
+"name":"
+Don-A "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"5 mg/5 ml"
+"ganare":"Domperidone Maleate"
+"unitPrice":"
+60 ml bottle : ৳ 35.11"
+},
+{
+"name":"
+Don-A "
+"company":"Acme Laboratories Limited"
+"type":"Pediatric Drop"
+"strange":"5 mg/ml"
+"ganare":"Domperidone Maleate"
+"unitPrice":"
+15 ml drop : ৳ 24.08"
+},
+{
+"name":"
+Dophylin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"200 mg"
+"ganare":"Doxophylline"
+"unitPrice":"
+Unit Price : ৳ 5.00"
+},
+{
+"name":"
+Dophylin"
+"company":"Acme Laboratories Limited"
+"type":" Tablet"
+"strange":"400 mg"
+"ganare":"Doxophylline"
+"unitPrice":"
+Unit Price : ৳ 8.00"
+},
+{
+"name":"
+Dot  "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"40 mg"
+"ganare":"Drotaverine"
+"unitPrice":"
+Unit Price : ৳ 1.75"
+},
+{
+"name":"
+Dot "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"40 mg/2 ml"
+"ganare":"Drotaverine"
+"unitPrice":"
+2 ml ampoule : ৳ 7.02"
+},
+{
+"name":"
+Doxy-A "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"100 mg"
+"ganare":"Doxycycline"
+"unitPrice":"
+Unit Price : ৳ 2.20"
+},
+{
+"name":"
+Dulox "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Duloxetine Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 6.98"
+},
+{
+"name":"
+Dulox "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Duloxetine Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 7.05"
+},
+{
+"name":"
+Dulox "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"30 mg"
+"ganare":"Duloxetine Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 10.07"
+},
+{
+"name":"
+Duocard "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Cilnidipine"
+"unitPrice":"
+Unit Price : ৳ 7.00"
+},
+{
+"name":"
+Duocard "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Cilnidipine"
+"unitPrice":"
+Unit Price : ৳ 9.00"
+},
+{
+"name":"
+E-Tab "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"200 IU"
+"ganare":"Vitamin E (Alpha Tocopherol Acetate)"
+"unitPrice":"
+Unit Price : ৳ 3.26"
+},
+{
+"name":"
+Ecosprin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"75 mg"
+"ganare":"Aspirin"
+"unitPrice":"
+Unit Price : ৳ 0.63"
+},
+{
+"name":"
+Ecosprin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"300 mg"
+"ganare":"Aspirin"
+"unitPrice":"
+Unit Price : ৳ 1.72"
+},
+{
+"name":"
+Ecosprin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"150 mg"
+"ganare":"Aspirin"
+"unitPrice":"
+Unit Price : ৳ 0.92"
+},
+{
+"name":"
+Ecosprin Plus "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"75 mg+75 mg"
+"ganare":"Clopidogrel + Aspirin"
+"unitPrice":"
+Unit Price : ৳ 11.79"
+},
+{
+"name":"
+Edemide "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"20 mg+50 mg"
+"ganare":"Furosemide + Spironolactone"
+"unitPrice":"
+Unit Price : ৳ 8.00"
+},
+{
+"name":"
+Edemide "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"40 mg+50 mg"
+"ganare":"Furosemide + Spironolactone"
+"unitPrice":"
+Unit Price : ৳ 10.03"
+},
+{
+"name":"
+Electro K "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"600 mg"
+"ganare":"Potassium Chloride"
+"unitPrice":"
+Unit Price : ৳ 0.60"
+},
+{
+"name":"
+Electro K "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":"500 mg/5 ml"
+"ganare":"Potassium Chloride"
+"unitPrice":"
+100 ml bottle : ৳ 25.01"
+},
+{
+"name":"
+Elodep "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Escitalopram"
+"unitPrice":"
+Unit Price : ৳ 5.52"
+},
+{
+"name":"
+Elodep "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Escitalopram"
+"unitPrice":"
+Unit Price : ৳ 10.03"
+},
+{
+"name":"
+Enocam "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Tenoxicam"
+"unitPrice":"
+Unit Price : ৳ 7.99"
+},
+{
+"name":"
+Erocin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Erythromycin (Oral)"
+"unitPrice":"
+Unit Price : ৳ 5.18"
+},
+{
+"name":"
+Erocin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Erythromycin (Oral)"
+"unitPrice":"
+Unit Price : ৳ 10.35"
+},
+{
+"name":"
+Erocin "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"125 mg/5 ml"
+"ganare":"Erythromycin (Oral)"
+"unitPrice":"
+100 ml bottle : ৳ 84.74"
+},
+{
+"name":"
+Etogesic SR "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"600 mg"
+"ganare":"Etodolac"
+"unitPrice":"
+Unit Price : ৳ 15.03"
+},
+{
+"name":"
+Exinil "
+"company":"Acme Laboratories Limited"
+"type":"Cream"
+"strange":"1%+0.1%"
+"ganare":"Econazole Nitrate + Triamcinolone Acetonide"
+"unitPrice":"
+10 gm tube : ৳ 40.00"
+},
+{
+"name":"
+Eyedew "
+"company":"Acme Laboratories Limited"
+"type":"Eye Drop"
+"strange":"0.5%+0.9%"
+"ganare":"Carboxymethyl Cellulose + Glycerin"
+"unitPrice":"
+10 ml drop : ৳ 190.00"
+},
+{
+"name":"
+Eyefen "
+"company":"Acme Laboratories Limited"
+"type":"Eye Drop"
+"strange":"0.09%"
+"ganare":"Bromfenac Sodium"
+"unitPrice":"
+5 ml drop : ৳ 100.30"
+},
+{
+"name":"
+Eyemox "
+"company":"Acme Laboratories Limited"
+"type":"Eye Drop"
+"strange":"0.5%"
+"ganare":"Moxifloxacin Hydrochloride"
+"unitPrice":"
+5 ml drop : ৳ 100.67"
+},
+{
+"name":"
+Eyetin "
+"company":"Acme Laboratories Limited"
+"type":"Eye Drop"
+"strange":"1.5%"
+"ganare":"Bepotastine Besilate"
+"unitPrice":"
+5 ml drop : ৳ 300.00"
+},
+{
+"name":"
+Famicef "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Cefuroxime Axetil"
+"unitPrice":"
+Unit Price : ৳ 25.17"
+},
+{
+"name":"
+Famicef "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Cefuroxime Axetil"
+"unitPrice":"
+Unit Price : ৳ 45.29"
+},
+{
+"name":"
+Famicef "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"125 mg/5 ml"
+"ganare":"Cefuroxime Axetil"
+"unitPrice":"
+70 ml bottle : ৳ 199.34"
+},
+{
+"name":"
+Famicef "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"750 mg/vial"
+"ganare":"Cefuroxime Axetil"
+"unitPrice":"
+750 mg vial : ৳ 120.82"
+},
+{
+"name":"
+Famicef "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"1.5 gm/vial"
+"ganare":"Cefuroxime Axetil"
+"unitPrice":"
+1.5 gm vial : ৳ 201.35"
+},
+{
+"name":"
+Famicef DS "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"250 mg/5 ml"
+"ganare":"Cefuroxime Axetil"
+"unitPrice":"
+35 ml bottle : ৳ 185.61"
+},
+{
+"name":"
+Famiclav "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"250 mg+62.50 mg"
+"ganare":"Cefuroxime Axetil + Clavulanic Acid"
+"unitPrice":"
+Unit Price : ৳ 30.00"
+},
+{
+"name":"
+Famiclav "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"+125 mgCefuroxime Axetil + Clavulanic Acid"
+"unitPrice":"
+Unit Price : ৳ 50.00"
+},
+{
+"name":"
+Famiclav "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"(125 mg+31.25 mg)/5 ml"
+"ganare":"Cefuroxime Axetil + Clavulanic Acid"
+"unitPrice":"
+70 ml bottle : ৳ 252.01"
+},
+{
+"name":"
+Famodin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Famotidine"
+"unitPrice":"
+Unit Price : ৳ 2.00"
+},
+{
+"name":"
+Famodin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"40 mg"
+"ganare":"Famotidine"
+"unitPrice":"
+Unit Price : ৳ 4.00"
+},
+{
+"name":"Fast "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Paracetamol"
+"unitPrice":"
+Unit Price : ৳ 0.81"
+},
+{
+"name":"
+Fast "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"120 mg/5 ml"
+"ganare":"Paracetamol"
+"unitPrice":"
+60 ml bottle : ৳ 20.69"
+},
+{
+"name":"
+Fast "
+"company":"Acme Laboratories Limited"
+"type":"Pediatric Drop"
+"strange":"80 mg/ml"
+"ganare":"Paracetamol"
+"unitPrice":"
+15 ml bottle : ৳ 14.81"
+},
+{
+"name":"
+Fast "
+"company":"Acme Laboratories Limited"
+"type":"Suppository"
+"strange":"125 mg"
+"ganare":"Paracetamol"
+"unitPrice":"
+Unit Price : ৳ 4.03"
+},
+{
+"name":"
+Fast "
+"company":"Acme Laboratories Limited"
+"type":"Suppository"
+"strange":"250 mg"
+"ganare":"Paracetamol"
+"unitPrice":"
+Unit Price : ৳ 5.03"
+},
+{
+"name":"
+Fast "
+"company":"Acme Laboratories Limited"
+"type":"Suppository"
+"strange":"500 mg"
+"ganare":"Paracetamol"
+"unitPrice":"
+Unit Price : ৳ 8.07"
+},
+{
+"name":"
+Fast Plus "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg+65 mg"
+"ganare":"Paracetamol + Caffeine"
+"unitPrice":"
+Unit Price : ৳ 1.91"
+},
+{
+"name":"
+Fast XR "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"665 mg"
+"ganare":"Paracetamol"
+"unitPrice":"
+Unit Price : ৳ 1.51"
+},
+{
+"name":"
+Fastdol "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"325 mg+37.5 mg"
+"ganare":"Paracetamol + Tramadol Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 8.03"
+},
+{
+"name":"
+Ferocit "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"200 mg+200 mcg"
+"ganare":"Ferrous Fumerate + Folic acid"
+"unitPrice":"
+Unit Price : ৳ 0.17"
+},
+{
+"name":"
+Ferocit "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":" "
+"ganare":"Iron + Folic acid + Vitamin B complex + Vitamin C"
+"unitPrice":"
+Unit Price : ৳ 0.18"
+},
+{
+"name":"
+Ferocit TR "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"150 mg+0.5 mg"
+"ganare":"Ferrous Sulphate + Folic Acid"
+"unitPrice":"
+Unit Price : ৳ 2.40"
+},
+{
+"name":"
+Ferocit-Z "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"150 mg+0.5 mg+61.8 mg"
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate"
+"unitPrice":"
+Unit Price : ৳ 2.92"
+},
+{
+"name":"
+Ferroglobin "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":"200 mg/5 ml"
+"ganare":"Ferrous Sulfate"
+"unitPrice":"
+200 ml bottle : ৳ 40.25"
+},
+{
+"name":"
+Feziplex "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":" "
+"ganare":"Iron Polymaltose Complex + Vitamin B Complex + Zinc"
+"unitPrice":"
+100 ml bottle : ৳ 50.35"
+},
+{
+"name":"
+Fix-A "
+"company":"Acme Laboratories Limited"
+"type":"Pediatric Drop"
+"strange":"25 mg/ml"
+"ganare":"Cefixime Trihydrate"
+"unitPrice":"
+21 ml bottle : ৳ 100.30"
+},
+{
+"name":"
+Fix-A "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"200 mg"
+"ganare":"Cefixime Trihydrate"
+"unitPrice":"
+Unit Price : ৳ 35.00"
+},
+{
+"name":"
+Fix-A "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"100 mg/5 ml"
+"ganare":"Cefixime Trihydrate"
+"unitPrice":"
+37.5 ml bottle : ৳ 130.88"
+},
+{
+"name":"
+Fix-A DS "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"400 mg"
+"ganare":"Cefixime Trihydrate"
+"unitPrice":"
+Unit Price : ৳ 52.51"
+},
+{
+"name":"
+Fix-A DS "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"200 mg/5 ml"
+"ganare":"Cefixime Trihydrate"
+"unitPrice":"
+50 ml bottle : ৳ 280.83"
+},
+{
+"name":"
+Flatunil "
+"company":"Acme Laboratories Limited"
+"type":"Pediatric Drop"
+"strange":"67 mg/ml"
+"ganare":"Simethicone"
+"unitPrice":"
+15 ml drop : ৳ 34.66"
+},
+{
+"name":"
+Floxipar "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"200 mg"
+"ganare":"Sparfloxacin"
+"unitPrice":"
+Unit Price : ৳ 15.61"
+},
+{
+"name":"
+Fluconal "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Fluconazole"
+"unitPrice":"
+Unit Price : ৳ 8.07"
+},
+{
+"name":"
+Fluconal "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"150 mg"
+"ganare":"Fluconazole"
+"unitPrice":"
+Unit Price : ৳ 22.15"
+},
+{
+"name":"
+Fluconal "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"50 mg/5 ml"
+"ganare":"Fluconazole"
+"unitPrice":"
+35 ml bottle : ৳ 78.53"
+},
+{
+"name":"
+Fluticon "
+"company":"Acme Laboratories Limited"
+"type":"Nasal Spray"
+"strange":"50 mcg/spray"
+"ganare":"Fluticasone Propionate (Nasal Spray)"
+"unitPrice":"
+120 metered sprays : ৳ 250.77"
+},
+{
+"name":"
+Fluzin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Flunarizine"
+"unitPrice":"
+Unit Price : ৳ 3.01"
+},
+{
+"name":"
+Fluzin"
+"company":"Acme Laboratories Limited"
+"type":" Tablet"
+"strange":"10 mg"
+"ganare":"Flunarizine"
+"unitPrice":"
+Unit Price : ৳ 5.01"
+},
+{
+"name":"
+Fulspec "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"500 mg/vial"
+"ganare":"Meropenem Trihydrate"
+"unitPrice":"
+500 mg vial : ৳ 654.42"
+},
+{
+"name":"
+Fulspec "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"1 gm/vial"
+"ganare":"Meropenem Trihydrate"
+"unitPrice":"
+1 gm vial : ৳ 1,208.16"
+},
+{
+"name":"Fulspec "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"250 mg/vial"
+"ganare":"Meropenem Trihydrate"
+"unitPrice":"
+250 mg vial : ৳ 400.00"
+},
+{
+"name":"
+Gabon "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"300 mg"
+"ganare":"Gabapentin"
+"unitPrice":"
+Unit Price : ৳ 16.04"
+},
+{
+"name":"
+Gatinol "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"0.5%+0.3%"
+"ganare":"Loteprednol Etabonate + Gatifloxacin"
+"unitPrice":"
+5 ml drop : ৳ 250.00"
+},
+{
+"name":"
+Gatox "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"400 mg"
+"ganare":"Gatifloxacin (Tablet & Injection)"
+"unitPrice":"
+Unit Price : ৳ 10.04"
+},
+{
+"name":"
+Gentacin "
+"company":"Acme Laboratories Limited"
+"type":"E/E Drop"
+"strange":"0.3%"
+"ganare":"Gentamicin Sulphate (Eye/Ear Drops)"
+"unitPrice":"
+3.5 ml drop : ৳ 9.75"
+},
+{
+"name":"
+Gliclid "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"80 mg"
+"ganare":"Gliclazide"
+"unitPrice":"
+Unit Price : ৳ 7.02"
+},
+{
+"name":"
+Gliclid MR "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"30 mg"
+"ganare":"Gliclazide"
+"unitPrice":"
+Unit Price : ৳ 6.01"
+},
+{
+"name":"
+Glifo "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Empagliflozin"
+"unitPrice":"
+Unit Price : ৳ 25.00"
+},
+{
+"name":"
+Glifo "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"25 mg"
+"ganare":"Empagliflozin"
+"unitPrice":"
+Unit Price : ৳ 40.01"
+},
+{
+"name":"
+Gluco A "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Acarbose"
+"unitPrice":"
+Unit Price : ৳ 10.99"
+},
+{
+"name":"
+Gluconil "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Glibenclamide"
+"unitPrice":"
+Unit Price : ৳ 0.27"
+},
+{
+"name":"
+Glypeg "
+"company":"Acme Laboratories Limited"
+"type":"Eye Drop"
+"strange":"0.2%+0.36%+1%"
+"ganare":"Glycerol + Hypromellose + Polyethylene Glycol 400"
+"unitPrice":"
+10 ml drop : ৳ 250.01"
+},
+{
+"name":"
+Goustat "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"40 mg"
+"ganare":"Febuxostat"
+"unitPrice":"
+Unit Price : ৳ 12.03"
+},
+{
+"name":"
+Gynastin "
+"company":"Acme Laboratories Limited"
+"type":"Vaginal Suppository"
+"strange":" "
+"ganare":"Metronidazole + Neomycin Sulphate + Nystatin + Polymyxin B"
+"unitPrice":"
+Unit Price : ৳ 24.08"
+},
+{
+"name":"
+Happymix 5 "
+"company":"Acme Laboratories Limited"
+"type":"Granules"
+"strange":"1 gm/sachet"
+"ganare":"Multivitamin & Multimineral"
+"unitPrice":"
+1 gm sachet : ৳ 3.00"
+},
+{
+"name":"
+Happysol"
+"company":"Acme Laboratories Limited"
+"type":"Nasal Drop"
+"strange":"0.9%"
+"ganare":"Sodium Chloride (Nasal preparation)"
+"unitPrice":"
+10 ml drop : ৳ 20.08"
+},
+{
+"name":"
+Hepamilk "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"140 mg"
+"ganare":"Silymarin"
+"unitPrice":"
+Unit Price : ৳ 5.00"
+},
+{
+"name":"
+Histalex "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"4 mg"
+"ganare":"Chlorpheniramine Maleate"
+"unitPrice":"
+Unit Price : ৳ 0.30"
+},
+{
+"name":"
+Histalex "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":"2 mg/5 ml"
+"ganare":"Chlorpheniramine Maleate"
+"unitPrice":"
+100 ml bottle : ৳ 21.85"
+},
+{
+"name":"
+Ibsan "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"75 mg"
+"ganare":"Irbesartan"
+"unitPrice":"
+Unit Price : ৳ 5.00"
+},
+{
+"name":"
+Ibsan "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"150 mg"
+"ganare":"Irbesartan"
+"unitPrice":"
+Unit Price : ৳ 10.00"
+},
+{
+"name":"
+Indica "
+"company":"Acme Laboratories Limited"
+"type":"Inhalation Capsule"
+"strange":"75 mcg"
+"ganare":"Indacaterol Maleate"
+"unitPrice":"
+Price not available"
+},
+{
+"name":"
+Indica-G "
+"company":"Acme Laboratories Limited"
+"type":"Inhalation Capsule"
+"strange":"110 mcg+50 mcg"
+"ganare":"Indacaterol + Glycopyrronium"
+"unitPrice":"
+Unit Price : ৳ 35.00"
+},
+{
+"name":"
+Indo-A "
+"company":"Acme Laboratories Limited"
+"type":"Suppository"
+"strange":"100 mg"
+"ganare":"Indomethacin"
+"unitPrice":"
+Unit Price : ৳ 7.05"
+},
+{
+"name":"
+Irigate "
+"company":"Acme Laboratories Limited"
+"type":"Solution"
+"strange":"1.5%"
+"ganare":"Glycine"
+"unitPrice":"
+1000 ml bag : ৳ 80.24"
+},
+{
+"name":"
+Isorifam "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"150 mg+100 mg"
+"ganare":"Rifampicin + Isoniazid"
+"unitPrice":"
+Unit Price : ৳ 3.97"
+},
+{
+"name":"
+Isorifam "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"300 mg+150 mg"
+"ganare":"Rifampicin + Isoniazid"
+"unitPrice":"
+Unit Price : ৳ 6.65"
+},
+{
+"name":"
+Janmet "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg+500 mg"
+"ganare":"Sitagliptin + Metformin Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 16.03"
+},
+{
+"name":"
+Janmet "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg+1000 mg"
+"ganare":"Sitagliptin + Metformin Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 18.04"
+},
+{
+"name":"
+Janvia "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Sitagliptin"
+"unitPrice":"
+Unit Price : ৳ 15.03"
+},
+{
+"name":"Janvia "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"100 mg"
+"ganare":"Sitagliptin"
+"unitPrice":"
+Unit Price : ৳ 28.08"
+},
+{
+"name":"
+Ketifen "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"1 mg"
+"ganare":"Ketotifen Fumarate (Oral)"
+"unitPrice":"
+Unit Price : ৳ 2.00"
+},
+{
+"name":"
+Ketifen "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":"1 mg/5 ml"
+"ganare":"Ketotifen Fumarate (Oral)"
+"unitPrice":"
+100 ml bottle : ৳ 54.27"
+},
+{
+"name":"
+Keto-A "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Ketoprofen"
+"unitPrice":"
+Unit Price : ৳ 3.52"
+},
+{
+"name":"
+Keto-A "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"100 mg"
+"ganare":"Ketoprofen"
+"unitPrice":"
+Unit Price : ৳ 5.53"
+},
+{
+"name":"
+Keto-A "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"100 mg/2 ml"
+"ganare":"Ketoprofen"
+"unitPrice":"
+2 ml ampoule : ৳ 19.64"
+},
+{
+"name":"
+Keto-A "
+"company":"Acme Laboratories Limited"
+"type":"Suppository"
+"strange":"100 mg"
+"ganare":"Ketoprofen"
+"unitPrice":"
+Unit Price : ৳ 12.09"
+},
+{
+"name":"
+Keto-D "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"25 mg"
+"ganare":"Dexketoprofen"
+"unitPrice":"
+Unit Price : ৳ 4.03"
+},
+{
+"name":"
+Kidcal "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Calcium Carbonate"
+"unitPrice":"
+Unit Price : ৳ 1.51"
+},
+{
+"name":"
+Kidsol "
+"company":"Acme Laboratories Limited"
+"type":"Infusion"
+"strange":"0.225%+5%"
+"ganare":"Sodium Chloride + Dextrose"
+"unitPrice":"
+500 ml bottle : Price Unavailable"
+},
+{
+"name":"
+Kidsol DS "
+"company":"Acme Laboratories Limited"
+"type":"Infusion"
+"strange":"0.45%+5%"
+"ganare":"Sodium Chloride + Dextrose"
+"unitPrice":"
+500 ml bottle : ৳ 73.60"
+},
+{
+"name":"
+Lacitab "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"2 mg"
+"ganare":"Lacidipine"
+"unitPrice":"
+Unit Price : ৳ 15.00"
+},
+{
+"name":"
+Lactocal "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"300 mg"
+"ganare":"Calcium Lactate"
+"unitPrice":"
+Unit Price : ৳ 0.30"
+},
+{
+"name":"
+Lactos "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"300 mg"
+"ganare":"Lactase"
+"unitPrice":"
+Price not available"
+},
+{
+"name":"
+Lactos "
+"company":"Acme Laboratories Limited"
+"type":"Pediatric Drop"
+"strange":"300 mg/15 ml"
+"ganare":"Lactase"
+"unitPrice":"
+15 ml bottle : ৳ 70.00"
+},
+{
+"name":"
+Lansodin "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"15 mg"
+"ganare":"Lansoprazole"
+"unitPrice":"
+Unit Price : ৳ 3.52"
+},
+{
+"name":"
+Lansodin "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"30 mg"
+"ganare":"Lansoprazole"
+"unitPrice":"
+Unit Price : ৳ 6.04"
+},
+{
+"name":"
+Laxogol "
+"company":"Acme Laboratories Limited"
+"type":"Oral Solution"
+"strange":" "
+"ganare":"Macrogol + Electrolytes"
+"unitPrice":"
+100 ml bottle : ৳ 160.00"
+},
+{
+"name":"
+Leanxit "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"0.5 mg+10 mg"
+"ganare":"Flupentixol + Melitracen"
+"unitPrice":"
+Unit Price : ৳ 5.01"
+},
+{
+"name":"
+Leo Eye "
+"company":"Acme Laboratories Limited"
+"type":"Drop"
+"strange":"0.5%"
+"ganare":"Levofloxacin (Eye)"
+"unitPrice":"
+5 ml drop : ৳ 82.33"
+},
+{
+"name":"
+Leo "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Levofloxacin (Oral)"
+"unitPrice":"
+Unit Price : ৳ 8.07"
+},
+{
+"name":"
+Leo "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Levofloxacin (Oral)"
+"unitPrice":"
+Unit Price : ৳ 15.10"
+},
+{
+"name":"
+Leo "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"750 mg"
+"ganare":"Levofloxacin (Oral)"
+"unitPrice":"
+Unit Price : ৳ 20.14"
+},
+{
+"name":"
+Leo "
+"company":"Acme Laboratories Limited"
+"type":"Infusion"
+"strange":"500 mg/100 ml"
+"ganare":"Levofloxacin (Injection)"
+"unitPrice":"
+100 ml bottle : ৳ 100.00"
+},
+{
+"name":"
+Leptic "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"1 mg"
+"ganare":"Clonazepam"
+"unitPrice":"
+Unit Price : ৳ 8.00"
+},
+{
+"name":"
+Leptic "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"0.5 mg"
+"ganare":"Clonazepam"
+"unitPrice":"
+Unit Price : ৳ 5.29"
+},
+{
+"name":"
+Leptic "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"2 mg"
+"ganare":"Clonazepam"
+"unitPrice":"
+Unit Price : ৳ 8.18"
+},
+{
+"name":"
+Levopa "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"100 mg+10 mg"
+"ganare":"Levodopa + Carbidopa"
+"unitPrice":"
+Unit Price : ৳ 4.01"
+},
+{
+"name":"
+Levopa "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"250 mg+25 mg"
+"ganare":"Levodopa + Carbidopa"
+"unitPrice":"
+Unit Price : ৳ 7.52"
+},
+{
+"name":"
+Lifil-E "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"200 mg"
+"ganare":"Vitamin E (Alpha Tocopherol Acetate)"
+"unitPrice":"
+Unit Price : ৳ 4.01"
+},
+{
+"name":"Lifil-E "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"400 mg"
+"ganare":"Vitamin E (Alpha Tocopherol Acetate)"
+"unitPrice":"
+Unit Price : ৳ 6.01"
+},
+{
+"name":"
+Limbix"
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"12.5 mg+5 mg"
+"ganare":"Amitriptyline + Chlordiazepoxide"
+"unitPrice":"
+Unit Price : ৳ 7.00"
+},
+{
+"name":"
+Lincocin "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"150 mg"
+"ganare":"Clindamycin"
+"unitPrice":"
+Unit Price : ৳ 8.03"
+},
+{
+"name":"
+Lincocin "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"300 mg"
+"ganare":"Clindamycin"
+"unitPrice":"
+Unit Price : ৳ 15.03"
+},
+{
+"name":"
+Lino "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Linagliptin"
+"unitPrice":"
+Unit Price : ৳ 15.00"
+},
+{
+"name":"
+Lino-M "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"2.5 mg+500 mg"
+"ganare":"Linagliptin + Metformin Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 12.01"
+},
+{
+"name":"
+Lino-M "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"2.5 mg+850 mg"
+"ganare":"Linagliptin + Metformin Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 14.00"
+},
+{
+"name":"
+Lipidof "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"200 mg"
+"ganare":"Fenofibrate"
+"unitPrice":"
+Unit Price : ৳ 7.05"
+},
+{
+"name":"
+Lipril "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Lisinopril"
+"unitPrice":"
+Unit Price : ৳ 3.01"
+},
+{
+"name":"
+Lipril "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Lisinopril"
+"unitPrice":"
+Unit Price : ৳ 5.50"
+},
+{
+"name":"
+Liptor "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Atorvastatin Calcium"
+"unitPrice":"
+Unit Price : ৳ 10.07"
+},
+{
+"name":"
+Liptor "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Atorvastatin Calcium"
+"unitPrice":"
+Unit Price : ৳ 18.11"
+},
+{
+"name":"
+Liptor "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"40 mg"
+"ganare":"Atorvastatin Calcium"
+"unitPrice":"
+Unit Price : ৳ 24.16"
+},
+{
+"name":"
+Logibac "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"90 mg/5 ml"
+"ganare":"Ceftibuten Dihydrate"
+"unitPrice":"
+60 ml bottle : ৳ 480.00"
+},
+{
+"name":"
+Logibac "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"400 mg"
+"ganare":"Ceftibuten Dihydrate"
+"unitPrice":"
+Unit Price : ৳ 120.01"
+},
+{
+"name":"
+Lopamid "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"2 mg"
+"ganare":"Loperamide"
+"unitPrice":"
+Unit Price : ৳ 1.00"
+},
+{
+"name":"
+Losart "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"25 mg"
+"ganare":"Losartan Potassium"
+"unitPrice":"
+Unit Price : ৳ 4.51"
+},
+{
+"name":"
+Losart "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Losartan Potassium"
+"unitPrice":"
+Unit Price : ৳ 8.03"
+},
+{
+"name":"
+Losart "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"100 mg"
+"ganare":"Losartan Potassium"
+"unitPrice":"
+Unit Price : ৳ 12.03"
+},
+{
+"name":"
+Losart Plus"
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg+12.5 mg"
+"ganare":"Losartan Potassium + Hydrochlorothiazide"
+"unitPrice":"
+Unit Price : ৳ 8.03"
+},
+{
+"name":"
+Losart Plus "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"100 mg+12.5 mg"
+"ganare":"Losartan Potassium + Hydrochlorothiazide"
+"unitPrice":"
+Unit Price : ৳ 12.03"
+},
+{
+"name":"
+Losart Plus "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"100 mg+25 mg"
+"ganare":"Losartan Potassium + Hydrochlorothiazide"
+"unitPrice":"
+Unit Price : ৳ 12.03"
+},
+{
+"name":"
+Lotemycin "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"0.5%+0.3%"
+"ganare":"Loteprednol Etabonate + Tobramycin"
+"unitPrice":"
+5 ml drop : ৳ 200.00"
+},
+{
+"name":"
+Magvet Plus "
+"company":"Acme Laboratories Limited"
+"type":"Emulsion"
+"strange":"(300 mg+1.25 ml)/5 ml"
+"ganare":"Magnesium Hydroxide + Liquid Paraffin"
+"unitPrice":"
+100 ml bottle : ৳ 200.00"
+},
+{
+"name":"
+Mariprist "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"200 mg+200 mcg"
+"ganare":"Mifepristone + Misoprostol"
+"unitPrice":"
+5 tablet kit : ৳ 300.00"
+},
+{
+"name":"
+Maxima "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Esomeprazole"
+"unitPrice":"
+Unit Price : ৳ 5.00"
+},
+{
+"name":"
+Maxima "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"20 mg"
+"ganare":"Esomeprazole"
+"unitPrice":"
+Unit Price : ৳ 7.00"
+},
+{
+"name":"
+Maxima "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"40 mg"
+"ganare":"Esomeprazole"
+"unitPrice":"
+Unit Price : ৳ 9.77"
+},
+{
+"name":"
+Maxima "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"40 mg/vial"
+"ganare":"Esomeprazole"
+"unitPrice":"
+40 mg vial : ৳ 90.28"
+},
+{
+"name":"
+Maxima "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"40 mg"
+"ganare":"Esomeprazole"
+"unitPrice":"
+Unit Price: ৳ 8.00"
+},
+{
+"name":"MB 12  "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mcg"
+"ganare":"Mecobalamin"
+"unitPrice":"
+Unit Price : ৳ 4.03"
+},
+{
+"name":"
+MB 12 "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"500 mcg/ml"
+"ganare":"Mecobalamin"
+"unitPrice":"
+1 ml ampoule : ৳ 29.97"
+},
+{
+"name":"
+Mebolin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Mebhydrolin Napadisylate"
+"unitPrice":"
+Unit Price : ৳ 2.01"
+},
+{
+"name":"
+Mediprist "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"200 mg"
+"ganare":"Mifepristone"
+"unitPrice":"
+Unit Price : ৳ 280.84"
+},
+{
+"name":"
+Megafil "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Tadalafil"
+"unitPrice":"
+Unit Price : ৳ 35.11"
+},
+{
+"name":"
+Megafil "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Tadalafil"
+"unitPrice":"
+Unit Price : ৳ 60.18"
+},
+{
+"name":"
+Milast-A "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mcg"
+"ganare":"Roflumilast"
+"unitPrice":"
+Unit Price : ৳ 15.03"
+},
+{
+"name":"
+Misoclear "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"200 mcg"
+"ganare":"Misoprostol"
+"unitPrice":"
+Unit Price : ৳ 15.03"
+},
+{
+"name":"
+Misoclear "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"600 mcg"
+"ganare":"Misoprostol"
+"unitPrice":"
+Unit Price : ৳ 40.00"
+},
+{
+"name":"
+Misofenac "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg+200 mcg"
+"ganare":"Diclofenac Sodium + Misoprostol"
+"unitPrice":"
+Unit Price : ৳ 10.07"
+},
+{
+"name":"
+Misofenac "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"75 mg+200 mcg"
+"ganare":"Diclofenac Sodium + Misoprostol"
+"unitPrice":"
+Unit Price : ৳ 11.04"
+},
+{
+"name":"
+Mizolam "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"7.5 mg"
+"ganare":"Midazolam"
+"unitPrice":"
+Unit Price : ৳ 8.07"
+},
+{
+"name":"
+Momneed "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":" "
+"ganare":"Carbonyl Iron + FolicAcid + Vitamin-B Complex + Vitamin C + Zinc"
+"unitPrice":"
+Unit Price : ৳ 3.52"
+},
+{
+"name":"
+Monas"
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"4 mg"
+"ganare":"Montelukast Sodium"
+"unitPrice":"
+Unit Price : ৳ 7.00"
+},
+{
+"name":"
+Monas "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Montelukast Sodium"
+"unitPrice":"
+Unit Price : ৳ 8.00"
+},
+{
+"name":"
+Monas "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"4 mg"
+"ganare":"Montelukast Sodium"
+"unitPrice":"
+Unit Price : ৳ 6.05"
+},
+{
+"name":"
+Monas "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Montelukast Sodium"
+"unitPrice":"
+Unit Price : ৳ 8.07"
+},
+{
+"name":"
+Monas "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Montelukast Sodium"
+"unitPrice":"
+Unit Price : ৳ 15.30"
+},
+{
+"name":"
+Moxilin "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"250 mg"
+"ganare":"Amoxicillin Trihydrate"
+"unitPrice":"
+Unit Price : ৳ 3.61"
+},
+{
+"name":"
+Moxilin "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"500 mg"
+"ganare":"Amoxicillin Trihydrate"
+"unitPrice":"
+Unit Price : ৳ 6.76"
+},
+{
+"name":"
+Moxilin "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"125 mg/5 ml"
+"ganare":"Amoxicillin Trihydrate"
+"unitPrice":"
+100 ml bottle : ৳ 47.60"
+},
+{
+"name":"
+Moxilin "
+"company":"Acme Laboratories Limited"
+"type":"Pediatric Drop"
+"strange":"125 mg/1.25 ml"
+"ganare":"Amoxicillin Trihydrate"
+"unitPrice":"
+15 ml bottle : ৳ 30.28"
+},
+{
+"name":"
+Moxilin "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"250 mg/vial"
+"ganare":"Amoxicillin Trihydrate"
+"unitPrice":"
+250 mg vial : ৳ 17.45"
+},
+{
+"name":"
+Moxilin "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"500 mg/vial"
+"ganare":"Amoxicillin Trihydrate"
+"unitPrice":"
+500 mg vial : ৳ 24.45"
+},
+{
+"name":"
+Moxilin DS "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"250 mg/5 ml"
+"ganare":"Amoxicillin Trihydrate"
+"unitPrice":"
+100 ml bottle : ৳ 68.46"
+},
+{
+"name":"
+Muterol "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Bambuterol Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 1.50"
+},
+{
+"name":"
+Muterol "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Bambuterol Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 3.00"
+},
+{
+"name":"
+Muterol "
+"company":"Acme Laboratories Limited"
+"type":"Oral Solution"
+"strange":"5 mg/5 ml"
+"ganare":"Bambuterol Hydrochloride"
+"unitPrice":"
+60 ml bottle : ৳ 20.07"
+},
+{
+"name":"
+Naligram "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Nalidixic Acid"
+"unitPrice":"
+Unit Price : ৳ 4.90"
+},
+{
+"name":"
+Naligram "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"300 mg/5 ml"
+"ganare":"Nalidixic Acid"
+"unitPrice":"
+50 ml bottle : ৳ 43.13"
+},
+{
+"name":"Nalphin "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"20 mg/2 ml"
+"ganare":"Nalbuphine"
+"unitPrice":"
+2 ml ampoule : ৳ 100.30"
+},
+{
+"name":"
+Nalphin "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"10 mg/ml"
+"ganare":"Nalbuphine"
+"unitPrice":"
+1 ml ampoule : ৳ 60.00"
+},
+{
+"name":"
+Napro-A "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Naproxen Sodium"
+"unitPrice":"
+Unit Price : ৳ 4.03"
+},
+{
+"name":"
+Napro-A "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Naproxen Sodium"
+"unitPrice":"
+Unit Price : ৳ 7.05"
+},
+{
+"name":"
+Napro-A "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"125 mg/5 ml"
+"ganare":"Naproxen Sodium"
+"unitPrice":"
+50 ml bottle : ৳ 30.98"
+},
+{
+"name":"
+Napro-A Plus "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"375 mg+20 mg"
+"ganare":"Naproxen Sodium + Esomeprazole"
+"unitPrice":"
+Unit Price : ৳ 8.03"
+},
+{
+"name":"
+Napro-A Plus "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg+20 mg"
+"ganare":"Naproxen Sodium + Esomeprazole"
+"unitPrice":"
+Unit Price : ৳ 10.03"
+},
+{
+"name":"
+Neobet "
+"company":"Acme Laboratories Limited"
+"type":"Cream"
+"strange":"0.1%+0.5%"
+"ganare":"Betamethasone + Neomycin Sulphate (Topical)"
+"unitPrice":"
+5 gm tube : ৳ 15.33"
+},
+{
+"name":"
+Neobet-E "
+"company":"Acme Laboratories Limited"
+"type":"Eye Ointment"
+"strange":"0.1%+0.5%"
+"ganare":"Betamethasone + Neomycin Sulphate (E/E)"
+"unitPrice":"
+5 gm tube : ৳ 22.62"
+},
+{
+"name":"
+Neotracin "
+"company":"Acme Laboratories Limited"
+"type":"Ointment"
+"strange":"(5 mg+500 IU)/gm"
+"ganare":"Neomycin Sulfate + Bacitracin Zinc"
+"unitPrice":"
+10 gm tube : ৳ 17.48"
+},
+{
+"name":"
+Neotracin "
+"company":"Acme Laboratories Limited"
+"type":"Powder"
+"strange":"(5 mg+250 IU)/gm"
+"ganare":"Neomycin Sulfate + Bacitracin Zinc"
+"unitPrice":"
+10 gm pack : ৳ 20.13"
+},
+{
+"name":"
+Neotracin "
+"company":"Acme Laboratories Limited"
+"type":"Eye Ointment"
+"strange":"(5 mg+500 IU)/gm"
+"ganare":"Neomycin Sulfate + Bacitracin Zinc"
+"unitPrice":"
+5 gm tube : ৳ 17.42"
+},
+{
+"name":"
+Neotrax "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"40 mg"
+"ganare":"Levamisole"
+"unitPrice":"
+Unit Price : ৳ 0.43"
+},
+{
+"name":"
+Neotrax "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":"40 mg/5 ml"
+"ganare":"Levamisole"
+"unitPrice":"
+30 ml bottle : ৳ 24.00"
+},
+{
+"name":"
+Neugalin "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"50 mg"
+"ganare":"Pregabalin"
+"unitPrice":"
+Unit Price : ৳ 11.03"
+},
+{
+"name":"
+Neugalin "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"75 mg"
+"ganare":"Pregabalin"
+"unitPrice":"
+Unit Price : ৳ 16.03"
+},
+{
+"name":"
+Neugalin "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"150 mg"
+"ganare":"Pregabalin"
+"unitPrice":"
+Unit Price : ৳ 30.10"
+},
+{
+"name":"
+Neugalin "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"25 mg"
+"ganare":"Pregabalin"
+"unitPrice":"
+Unit Price : ৳ 8.00"
+},
+{
+"name":"
+Nidozox "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Nitazoxanide"
+"unitPrice":"
+Unit Price : ৳ 10.07"
+},
+{
+"name":"
+Nidozox "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"100 mg/5 ml"
+"ganare":"Nitazoxanide"
+"unitPrice":"
+30 ml bottle : ৳ 40.11"
+},
+{
+"name":"
+Nifin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Nifedipine"
+"unitPrice":"
+Unit Price : ৳ 0.34"
+},
+{
+"name":"
+Nil Pain "
+"company":"Acme Laboratories Limited"
+"type":"Cream"
+"strange":"30%+8%"
+"ganare":"Methyl Salicylate + Menthol"
+"unitPrice":"
+20 gm tube : ৳ 60.18"
+},
+{
+"name":"
+Norflu "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"0.5 mg+10 mg"
+"ganare":"Fluphenazine + Nortriptyline"
+"unitPrice":"
+Unit Price : ৳ 1.06"
+},
+{
+"name":"
+Nutramid "
+"company":"Acme Laboratories Limited"
+"type":"Pediatric Drop"
+"strange":"1 mg/ml"
+"ganare":"Metoclopramide Hydrochloride"
+"unitPrice":"
+15 ml bottle : ৳ 9.60"
+},
+{
+"name":"
+Nutramid "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Metoclopramide Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 0.34"
+},
+{
+"name":"
+Nutramid "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg/5 ml"
+"ganare":"Metoclopramide Hydrochloride"
+"unitPrice":"
+60 ml bottle : ৳ 10.61"
+},
+{
+"name":"
+Nutrum 50+ "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":" "
+"ganare":"Multivitamin & Multimineral (A-Z silver preparation)"
+"unitPrice":"
+15 tablet container : ৳ 90.68"
+},
+{
+"name":"
+Nutrum Bone "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":" "
+"ganare":"Calcium Carbonate + Vitamin D3 + Multimineral"
+"unitPrice":"
+30 tablet container : ৳ 121.00"
+},
+{
+"name":"
+Nutrum Eye"
+"company":"Acme Laboratories Limited"
+"type":" "
+"strange":" "
+"ganare":"Vitamin C, Vitamin E, Lutein, Copper & Zinc"
+"unitPrice":"
+30 tablet container : ৳ 288.57 "
+},
+{
+"name":"
+Nutrum Gold "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":" "
+"ganare":"Multivitamin & Multimineral (A-Z gold preparation)"
+"unitPrice":"
+15 tablet container : ৳ 90.68"
+},
+{
+"name":"Nutrum Junior "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":" "
+"ganare":"Multivitamin & Multimineral (A-Z syrup preparation)"
+"unitPrice":"
+100 ml bottle : ৳ 85.57"
+},
+{
+"name":"
+Nutrum PN "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":" "
+"ganare":"Multivitamins & Multiminerals (A-Z prenatal preparation)"
+"unitPrice":"
+30 tablet container : ৳ 151.00"
+},
+{
+"name":"
+Nutrum Super "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":" "
+"ganare":"Super Antioxidant Vitamins & Multimineral"
+"unitPrice":"
+30 tablet container : ৳ 121.00"
+},
+{
+"name":"
+NVP "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"25 mg+50 mg"
+"ganare":"Meclizine + Pyridoxine"
+"unitPrice":"
+Unit Price : ৳ 3.01"
+},
+{
+"name":"
+Nystat "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500000 unit"
+"ganare":"Nystatin (Oral)"
+"unitPrice":"
+Unit Price : ৳ 6.27"
+},
+{
+"name":"
+Nystat "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"100000 unit/ml"
+"ganare":"Nystatin (Oral)"
+"unitPrice":"
+12 ml bottle : ৳ 22.78"
+},
+{
+"name":"
+Nystat "
+"company":"Acme Laboratories Limited"
+"type":"Ointment"
+"strange":"1 Lac Unit/gm"
+"ganare":"Nystatin (Topical)"
+"unitPrice":"
+10 gm tube : ৳ 20.21"
+},
+{
+"name":"
+Nystat "
+"company":"Acme Laboratories Limited"
+"type":"Vaginal Tablet"
+"strange":"100000 unit"
+"ganare":"Nystatin (Topical)"
+"unitPrice":"
+Unit Price : ৳ 1.94"
+},
+{
+"name":"
+O-Cal "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"740 mg"
+"ganare":"Calcium Orotate Dihydrate"
+"unitPrice":"
+Unit Price : ৳ 10.01"
+},
+{
+"name":"
+O-Cal Kit "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"150 mg & 400 mg"
+"ganare":"Ibandronic Acid & Calcium Orotate"
+"unitPrice":"
+One kit : ৳ 990.00"
+},
+{
+"name":"
+Opcol "
+"company":"Acme Laboratories Limited"
+"type":"Eye Drop"
+"strange":"0.4%+0.3%"
+"ganare":"Polyethylene Glycol + Propylene Glycol"
+"unitPrice":"
+10 ml drop : ৳ 150.43"
+},
+{
+"name":"
+Oratics "
+"company":"Acme Laboratories Limited"
+"type":"Dental Gel"
+"strange":"20% w/w"
+"ganare":"Benzocaine"
+"unitPrice":"
+5 gm tube : ৳ 40.12"
+},
+{
+"name":"
+Orbapin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg+20 mg"
+"ganare":"Amlodipine + Olmesartan Medoxomil"
+"unitPrice":"
+Unit Price : ৳ 8.03"
+},
+{
+"name":"
+Orbapin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg+40 mg"
+"ganare":"Amlodipine + Olmesartan Medoxomil"
+"unitPrice":"
+Unit Price : ৳ 15.00"
+},
+{
+"name":"
+Orbas"
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Olmesartan Medoxomil"
+"unitPrice":"
+Unit Price : ৳ 6.75"
+},
+{
+"name":"
+Orbas "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"40 mg"
+"ganare":"Olmesartan Medoxomil"
+"unitPrice":"
+Unit Price : ৳ 15.03"
+},
+{
+"name":"
+Orbas Plus "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"20 mg+12.5 mg"
+"ganare":"Olmesartan Medoxomil + Hydrochlorothiazide"
+"unitPrice":"
+Unit Price : ৳ 8.03"
+},
+{
+"name":"
+Orin "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"5 mg/5 ml"
+"ganare":"Loratadine"
+"unitPrice":"
+60 ml bottle : ৳ 26.17"
+},
+{
+"name":"
+Orin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Loratadine"
+"unitPrice":"
+Unit Price : ৳ 3.01"
+},
+{
+"name":"
+Orinex "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Desloratadine"
+"unitPrice":"
+Unit Price : ৳ 2.52"
+},
+{
+"name":"
+Oxecone "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"(250 mg+400 mg)/5 ml"
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide"
+"unitPrice":"
+200 ml bottle : ৳ 57.50"
+},
+{
+"name":"
+Oxecone "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"250 mg+400 mg"
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide"
+"unitPrice":"
+Unit Price : ৳ 0.73"
+},
+{
+"name":"
+Oxecone-M "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"400 mg/5 ml"
+"ganare":"Magaldrate"
+"unitPrice":"
+200 ml bottle : ৳ 54.36"
+},
+{
+"name":"
+Oxecone-M "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"400 mg"
+"ganare":"Magaldrate"
+"unitPrice":"
+Unit Price : ৳ 1.00"
+},
+{
+"name":"
+Oxecone-MS "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"(480 mg+20 mg)/5 ml"
+"ganare":"Magaldrate + Simethicone"
+"unitPrice":"
+200 ml bottle : ৳ 100.30"
+},
+{
+"name":"
+Oxecone-MS "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"480 mg+20 mg"
+"ganare":"Magaldrate + Simethicone"
+"unitPrice":"
+Unit Price : ৳ 3.01"
+},
+{
+"name":"
+Oxecone-S "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"(400 mg+400 mg+30 mg)/5 ml"
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone"
+"unitPrice":"
+200 ml bottle : ৳ 75.22"
+},
+{
+"name":"
+Oxecone-S "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"400 mg+400 mg+30 mg"
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone"
+"unitPrice":"
+Unit Price : ৳ 2.00"
+},
+{
+"name":"
+Oxecylin "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"250 mg"
+"ganare":"Oxytetracycline"
+"unitPrice":"
+Unit Price : ৳ 2.00"
+},
+{
+"name":"
+Oxycort "
+"company":"Acme Laboratories Limited"
+"type":"Cozycap"
+"strange":"100 mcg+6 mcg"
+"ganare":"Budesonide + Formoterol Fumarate Dihydrate"
+"unitPrice":"
+Unit Price : ৳ 6.00"
+},
+{
+"name":"Oxycort "
+"company":"Acme Laboratories Limited"
+"type":"Cozycap"
+"strange":"400 mcg+12 mcg"
+"ganare":"Budesonide + Formoterol Fumarate Dihydrate"
+"unitPrice":"
+Unit Price : ৳ 12.00"
+},
+{
+"name":"
+Oxycort "
+"company":"Acme Laboratories Limited"
+"type":"Cozycap"
+"strange":"200 mcg+6 mcg"
+"ganare":"Budesonide + Formoterol Fumarate Dihydrate"
+"unitPrice":"
+Unit Price : ৳ 8.00"
+},
+{
+"name":"
+Patron "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"0.075 mg/1.5 ml"
+"ganare":"Palonosetron"
+"unitPrice":"
+1.5 ml ampoule : ৳ 75.00"
+},
+{
+"name":"
+Patron "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"0.25 mg/5 ml"
+"ganare":"Palonosetron"
+"unitPrice":"
+5 ml ampoule : ৳ 100.00"
+},
+{
+"name":"
+Patron "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"0.5 mg"
+"ganare":"Palonosetron"
+"unitPrice":"
+Unit Price : ৳ 20.00"
+},
+{
+"name":"
+Pavigard "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"2 mg"
+"ganare":"Pitavastatin Calcium"
+"unitPrice":"
+Unit Price : ৳ 10.00"
+},
+{
+"name":"
+Periset "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"8 mg/4 ml"
+"ganare":"Ondansetron"
+"unitPrice":"
+4 ml ampoule : ৳ 30.10"
+},
+{
+"name":"
+Periset "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"8 mg"
+"ganare":"Ondansetron"
+"unitPrice":"
+Unit Price : ৳ 10.03"
+},
+{
+"name":"
+Periset "
+"company":"Acme Laboratories Limited"
+"type":"Oral Solution"
+"strange":"4 mg/5 ml"
+"ganare":"Ondansetron"
+"unitPrice":"
+50 ml bottle : ৳ 43.90"
+},
+{
+"name":"
+Permin"
+"company":"Acme Laboratories Limited"
+"type":"Cream"
+"strange":"5% w/w"
+"ganare":"Permethrin"
+"unitPrice":"
+15 gm tube : ৳ 25.17"
+},
+{
+"name":"
+Phenadryl "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":"10 mg/5 ml"
+"ganare":"Diphenhydramine Hydrochloride"
+"unitPrice":"
+100 ml bottle : ৳ 38.11"
+},
+{
+"name":"
+Pidus "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"15 mg"
+"ganare":"Pioglitazone"
+"unitPrice":"
+Unit Price : ৳ 7.99"
+},
+{
+"name":"
+Pilestop "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"450 mg+50 mg"
+"ganare":"Micronised Diosmin + Hesperidin"
+"unitPrice":"
+Unit Price : ৳ 8.07"
+},
+{
+"name":"
+Pizo-A "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"0.5 mg"
+"ganare":"Pizotifen"
+"unitPrice":"
+Unit Price : ৳ 3.01"
+},
+{
+"name":"
+Pizo-A "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"1.5 mg"
+"ganare":"Pizotifen"
+"unitPrice":"
+Unit Price : ৳ 7.05"
+},
+{
+"name":"
+Politrim "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"400 mg+80 mg"
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)"
+"unitPrice":"
+Unit Price : ৳ 1.43"
+},
+{
+"name":"
+Politrim "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"(200 mg+40 mg)/5 ml"
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)"
+"unitPrice":"
+60 ml bottle : ৳ 21.65"
+},
+{
+"name":"
+Politrim DS "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"800 mg+160 mg"
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)"
+"unitPrice":"
+Unit Price : ৳ 2.64"
+},
+{
+"name":"
+Povid "
+"company":"Acme Laboratories Limited"
+"type":"Solution"
+"strange":"10% w/v"
+"ganare":"Povidone Iodine (Mouthwash & Topical)"
+"unitPrice":"
+100 ml bottle : ৳ 36.27"
+},
+{
+"name":"
+PPI "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"20 mg"
+"ganare":"Omeprazole"
+"unitPrice":"
+Unit Price : ৳ 5.01"
+},
+{
+"name":"
+PPI "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"40 mg"
+"ganare":"Omeprazole"
+"unitPrice":"
+Unit Price : ৳ 8.03"
+},
+{
+"name":"
+PPI "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"40 mg/vial"
+"ganare":"Omeprazole"
+"unitPrice":"
+40 mg vial : ৳ 90.00"
+},
+{
+"name":"
+Prasugen "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Prasugrel Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 12.03"
+},
+{
+"name":"
+Prasugen "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Prasugrel Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 20.07"
+},
+{
+"name":"
+Profen "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"400 mg"
+"ganare":"Ibuprofen"
+"unitPrice":"
+Unit Price : ৳ 1.43"
+},
+{
+"name":"
+Profen "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"100 mg/5 ml"
+"ganare":"Ibuprofen"
+"unitPrice":"
+100 ml bottle : ৳ 33.80"
+},
+{
+"name":"
+Pronil "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Secnidazole"
+"unitPrice":"
+Unit Price : ৳ 8.59"
+},
+{
+"name":"
+Pronil DS "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"1 gm"
+"ganare":"Secnidazole"
+"unitPrice":"
+Unit Price : ৳ 16.11"
+},
+{
+"name":"
+Protocid "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Pantoprazole"
+"unitPrice":"
+Unit Price : ৳ 5.00"
+},
+{
+"name":"
+Protocid "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"40 mg"
+"ganare":"Pantoprazole"
+"unitPrice":"
+Unit Price : ৳ 7.00"
+},
+{
+"name":"Protocid "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"40 mg/vial"
+"ganare":"Pantoprazole"
+"unitPrice":"
+40 mg vial : ৳ 90.00"
+},
+{
+"name":"
+Rabizol "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Rabeprazole Sodium"
+"unitPrice":"
+Unit Price : ৳ 5.01"
+},
+{
+"name":"
+Ranidin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"150 mg"
+"ganare":"Ranitidine"
+"unitPrice":"
+Unit Price : ৳ 2.56"
+},
+{
+"name":"
+Ranidin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"300 mg"
+"ganare":"Ranitidine"
+"unitPrice":"
+Unit Price : ৳ 4.03"
+},
+{
+"name":"
+Ranidin "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":"75 mg/5 ml"
+"ganare":"Ranitidine"
+"unitPrice":"
+100 ml bottle : ৳ 48.70"
+},
+{
+"name":"
+Ranidin "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"50 mg/2 ml"
+"ganare":"Ranitidine"
+"unitPrice":"
+2 ml ampoule : ৳ 10.03"
+},
+{
+"name":"
+Rhinozol "
+"company":"Acme Laboratories Limited"
+"type":"Nasal Drop"
+"strange":"0.05%"
+"ganare":"Xylometazoline"
+"unitPrice":"
+15 ml drop : ৳ 11.04"
+},
+{
+"name":"
+Rhinozol "
+"company":"Acme Laboratories Limited"
+"type":"Nasal Drop"
+"strange":"0.1%"
+"ganare":"Xylometazoline"
+"unitPrice":"
+15 ml drop : ৳ 11.54"
+},
+{
+"name":"
+Rhitin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Ebastine"
+"unitPrice":"
+Unit Price : ৳ 6.00"
+},
+{
+"name":"
+Rizat "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Rizatriptan Benzoate"
+"unitPrice":"
+Unit Price : ৳ 30.20"
+},
+{
+"name":"
+Rostab "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Rosuvastatin"
+"unitPrice":"
+Unit Price : ৳ 20.07"
+},
+{
+"name":"
+Rostab "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Rosuvastatin"
+"unitPrice":"
+Unit Price : ৳ 25.08"
+},
+{
+"name":"
+Rostab "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Rosuvastatin"
+"unitPrice":"
+Unit Price : ৳ 10.03"
+},
+{
+"name":"
+Rupastin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Rupatadine Fumarate"
+"unitPrice":"
+Unit Price : ৳ 10.03"
+},
+{
+"name":"
+Salflu "
+"company":"Acme Laboratories Limited"
+"type":"Inhaler"
+"strange":"(25 mcg+125 mcg)/puff"
+"ganare":"Salmeterol + Fluticasone Propionate"
+"unitPrice":"
+120 metered doses : ৳ 596.79"
+},
+{
+"name":"
+Salflu "
+"company":"Acme Laboratories Limited"
+"type":"Inhaler"
+"strange":"(25 mcg+250 mcg)/puff"
+"ganare":"Salmeterol + Fluticasone Propionate"
+"unitPrice":"
+120 metered doses : ৳ 797.39"
+},
+{
+"name":"
+Salflu "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"50 mcg+100 mcg"
+"ganare":"Salmeterol + Fluticasone Propionate"
+"unitPrice":"
+Unit Price : ৳ 6.50"
+},
+{
+"name":"
+Salflu "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"50 mcg+250 mcg"
+"ganare":"Salmeterol + Fluticasone Propionate"
+"unitPrice":"
+Unit Price : ৳ 10.87"
+},
+{
+"name":"
+Salflu"
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"50 mcg+500 mcg"
+"ganare":"Salmeterol + Fluticasone Propionate"
+"unitPrice":"
+Unit Price : ৳ 16.00"
+},
+{
+"name":"
+Salmolin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"2 mg"
+"ganare":"Salbutamol"
+"unitPrice":"
+Unit Price : ৳ 0.26"
+},
+{
+"name":"
+Salmolin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"4 mg"
+"ganare":"Salbutamol"
+"unitPrice":"
+Unit Price : ৳ 0.45"
+},
+{
+"name":"
+Salmolin "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":"2 mg/5 ml"
+"ganare":"Salbutamol"
+"unitPrice":"
+60 ml bottle : ৳ 14.51"
+},
+{
+"name":"
+Salmolin "
+"company":"Acme Laboratories Limited"
+"type":"Inhalation Powder"
+"strange":"200 mcg/rotacap"
+"ganare":"Salbutamol"
+"unitPrice":"
+Unit Price : ৳ 2.51"
+},
+{
+"name":"
+Salmolin "
+"company":"Acme Laboratories Limited"
+"type":"Inhaler"
+"strange":"100 mcg/puff"
+"ganare":"Salbutamol (Inhaler)"
+"unitPrice":"
+200 metered doses : ৳ 195.59"
+},
+{
+"name":"
+Salmolin "
+"company":"Acme Laboratories Limited"
+"type":"Nebuliser"
+"strange":"5 mg/ml"
+"ganare":"Salbutamol (Nebuliser Solution)"
+"unitPrice":"
+20 ml pack : ৳ 120.37"
+},
+{
+"name":"
+Salmolin-L "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"1 mg"
+"ganare":"Levosalbutamol (Oral)"
+"unitPrice":"
+Unit Price : ৳ 0.91"
+},
+{
+"name":"
+Salmolin-L "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"2 mg"
+"ganare":"Levosalbutamol (Oral)"
+"unitPrice":"
+Unit Price : ৳ 1.69"
+},
+{
+"name":"
+Salmolin-L "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":"1 mg/5 ml"
+"ganare":"Levosalbutamol (Oral)"
+"unitPrice":"
+60 ml bottle : ৳ 30.10"
+},
+{
+"name":"
+Salpium "
+"company":"Acme Laboratories Limited"
+"type":"Inhaler"
+"strange":"(100 mcg+20 mcg)/puff"
+"ganare":"Salbutamol + Ipratropium Bromide"
+"unitPrice":"
+200 metered doses : ৳ 250.77"
+},
+{
+"name":"
+Salpium "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"2.5 mg+0.5 mg"
+"ganare":"Salbutamol + Ipratropium Bromide"
+"unitPrice":"
+3 ml ampoule : ৳ 44.98"
+},
+{
+"name":"Salpium (refill) "
+"company":"Acme Laboratories Limited"
+"type":"Solution for Inhalation"
+"strange":"100 mcg+20 mcg"
+"ganare":"Salbutamol + Ipratropium Bromide"
+"unitPrice":"
+200 puffs inhalar : ৳ 230.69"
+},
+{
+"name":"
+Sefril "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"250 mg"
+"ganare":"Cephradine"
+"unitPrice":"
+Unit Price : ৳ 8.03"
+},
+{
+"name":"
+Sefril "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"500 mg"
+"ganare":"Cephradine"
+"unitPrice":"
+Unit Price : ৳ 15.03"
+},
+{
+"name":"
+Sefril "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"125 mg/5 ml"
+"ganare":"Cephradine"
+"unitPrice":"
+100 ml bottle : ৳ 90.28"
+},
+{
+"name":"
+Sefril "
+"company":"Acme Laboratories Limited"
+"type":"Pediatric Drop"
+"strange":"125 mg/1.25 ml"
+"ganare":"Cephradine"
+"unitPrice":"
+15 ml bottle : ৳ 62.19"
+},
+{
+"name":"
+Sefril "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"500 mg/vial"
+"ganare":"Cephradine"
+"unitPrice":"
+500 mg vial : ৳ 65.19"
+},
+{
+"name":"
+Sefril "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"1 gm/vial"
+"ganare":"Cephradine"
+"unitPrice":"
+1 gm vial : ৳ 90.28"
+},
+{
+"name":"
+Sefril DS "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"250 mg/5 ml"
+"ganare":"Cephradine"
+"unitPrice":"
+100 ml bottle : ৳ 120.82"
+},
+{
+"name":"
+Setorib "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"60 mg"
+"ganare":"Etoricoxib"
+"unitPrice":"
+Unit Price : ৳ 7.05"
+},
+{
+"name":"
+Setorib "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"90 mg"
+"ganare":"Etoricoxib"
+"unitPrice":"
+Unit Price : ৳ 12.09"
+},
+{
+"name":"
+Setorib "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"120 mg"
+"ganare":"Etoricoxib"
+"unitPrice":"
+Unit Price : ৳ 14.10"
+},
+{
+"name":"
+Sevel "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"400 mg"
+"ganare":"Sevelamer Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 45.13"
+},
+{
+"name":"
+Sevel "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"800 mg"
+"ganare":"Sevelamer Carbonate"
+"unitPrice":"
+Unit Price : ৳ 60.00"
+},
+{
+"name":"
+Simvatin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Simvastatin"
+"unitPrice":"
+Unit Price : ৳ 15.00"
+},
+{
+"name":"
+Simvatin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Simvastatin"
+"unitPrice":"
+Unit Price : ৳ 18.11"
+},
+{
+"name":"
+Sizopra "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Aripiprazole"
+"unitPrice":"
+Unit Price : ৳ 5.03"
+},
+{
+"name":"
+Sizopra "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"15 mg"
+"ganare":"Aripiprazole"
+"unitPrice":"
+Unit Price : ৳ 7.04"
+},
+{
+"name":"
+Skelofen "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Baclofen"
+"unitPrice":"
+Unit Price : ৳ 4.51"
+},
+{
+"name":"
+Skelofen "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Baclofen"
+"unitPrice":"
+Unit Price : ৳ 8.03"
+},
+{
+"name":"
+Solicare "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Solifenacin Succinate"
+"unitPrice":"
+Unit Price : ৳ 15.00"
+},
+{
+"name":"
+Solicare "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Solifenacin Succinate"
+"unitPrice":"
+Unit Price : ৳ 29.99"
+},
+{
+"name":"
+Sono "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"1 mg"
+"ganare":"Eszopiclone"
+"unitPrice":"
+Unit Price : ৳ 2.01"
+},
+{
+"name":"
+Sono "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"2 mg"
+"ganare":"Eszopiclone"
+"unitPrice":"
+Unit Price : ৳ 3.00"
+},
+{
+"name":"
+Steron "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"0.5 mg"
+"ganare":"Dexamethasone Sodium Phosphate"
+"unitPrice":"
+Unit Price : ৳ 0.91"
+},
+{
+"name":"
+Steron "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"5 mg/ml"
+"ganare":"Dexamethasone Sodium Phosphate"
+"unitPrice":"
+1 ml ampoule : ৳ 22.07"
+},
+{
+"name":"
+Steron "
+"company":"Acme Laboratories Limited"
+"type":"Eye Drop"
+"strange":"0.1%"
+"ganare":"Dexamethasone Sodium Phosphate (E/E)"
+"unitPrice":"
+5 ml drop : ৳ 59.71"
+},
+{
+"name":"
+Steron-T "
+"company":"Acme Laboratories Limited"
+"type":"Eye Drop"
+"strange":"0.1%+0.3%"
+"ganare":"Dexamethasone + Tobramycin"
+"unitPrice":"
+5 ml drop : ৳ 130.39"
+},
+{
+"name":"
+Sucrol "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"18 mg"
+"ganare":"Aspartame"
+"unitPrice":"
+Unit Price : ৳ 0.69"
+},
+{
+"name":"
+Superpime "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"1 gm/vial"
+"ganare":"Cefepime Hydrochloride"
+"unitPrice":"
+1 gm vial : ৳ 551.63"
+},
+{
+"name":"
+Superpime "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"2 gm/vial"
+"ganare":"Cefepime Hydrochloride"
+"unitPrice":"
+2 gm vial : ৳ 1,103.31"
+},
+{
+"name":"Superpime "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"500 mg/vial"
+"ganare":"Cefepime Hydrochloride"
+"unitPrice":"
+500 mg vial : ৳ 300.90"
+},
+{
+"name":"
+Tacrol "
+"company":"Acme Laboratories Limited"
+"type":"Ointment"
+"strange":"0.03%"
+"ganare":"Tacrolimus (Topical)"
+"unitPrice":"
+5 gm tube : ৳ 80.55"
+},
+{
+"name":"
+Tacrol "
+"company":"Acme Laboratories Limited"
+"type":"Ointment"
+"strange":"0.1%"
+"ganare":"Tacrolimus (Topical)"
+"unitPrice":"
+5 gm tube : ৳ 200.61"
+},
+{
+"name":"
+Taxim "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"250 mg/5 ml"
+"ganare":"Cefotaxime"
+"unitPrice":"
+250 mg vial : ৳ 75.22"
+},
+{
+"name":"
+Taxim "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"500 mg/10 ml"
+"ganare":"Cefotaxime"
+"unitPrice":"
+500 mg vial : ৳ 100.34"
+},
+{
+"name":"
+Taxim "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"1 gm/10 ml"
+"ganare":"Cefotaxime"
+"unitPrice":"
+1 gm vial : ৳ 150.44"
+},
+{
+"name":"
+Tenil "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"3 mg"
+"ganare":"Bromazepam"
+"unitPrice":"
+Unit Price : ৳ 5.01"
+},
+{
+"name":"
+Tenoloc "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Atenolol"
+"unitPrice":"
+Unit Price : ৳ 0.77"
+},
+{
+"name":"
+Tenoloc "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"100 mg"
+"ganare":"Atenolol"
+"unitPrice":"
+Unit Price : ৳ 1.37"
+},
+{
+"name":"
+Thenglate "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":"120 mg/5 ml"
+"ganare":"Theophylline"
+"unitPrice":"
+100 ml bottle : ৳ 31.04"
+},
+{
+"name":"
+Thenglate SR "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Theophylline"
+"unitPrice":"
+Unit Price : ৳ 1.76"
+},
+{
+"name":"
+Thenglate SR "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"400 mg"
+"ganare":"Theophylline"
+"unitPrice":"
+Unit Price : ৳ 2.69"
+},
+{
+"name":"
+Thenglate TR "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"300 mg"
+"ganare":"Theophylline"
+"unitPrice":"
+Unit Price : ৳ 2.92"
+},
+{
+"name":"
+Thyrolar "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"25 mcg"
+"ganare":"Levothyroxine Sodium"
+"unitPrice":"
+Unit Price : ৳ 0.70"
+},
+{
+"name":"
+Thyrolar "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mcg"
+"ganare":"Levothyroxine Sodium"
+"unitPrice":"
+Unit Price : ৳ 1.20"
+},
+{
+"name":"
+Thyrolar "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"100 mcg"
+"ganare":"Levothyroxine Sodium"
+"unitPrice":"
+Unit Price : ৳ 2.31"
+},
+{
+"name":"
+Tinium "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Tiemonium Methylsulphate"
+"unitPrice":"
+Unit Price : ৳ 6.00"
+},
+{
+"name":"
+Tinium "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"5 mg/2 ml"
+"ganare":"Tiemonium Methylsulphate"
+"unitPrice":"
+2 ml ampoule : ৳ 20.07"
+},
+{
+"name":"
+Tomide "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Torasemide"
+"unitPrice":"
+Unit Price : ৳ 3.50"
+},
+{
+"name":"
+Tomide "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"2.5 mg"
+"ganare":"Torasemide"
+"unitPrice":"
+Unit Price : ৳ 2.00"
+},
+{
+"name":"
+Topium"
+"company":"Acme Laboratories Limited"
+"type":"Inhalation Capsule"
+"strange":"18 mcg"
+"ganare":"Tiotropium (Dry Powder Inhaler)"
+"unitPrice":"
+Unit Price : ৳ 7.00"
+},
+{
+"name":"
+TPC "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"(100 mg+100 mg+1 mg)/3 ml"
+"ganare":"Vitamin B1, B6 & B12"
+"unitPrice":"
+3 ml ampoule : ৳ 25.17"
+},
+{
+"name":"
+TPC "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"100 mg+200 mg+200 mcg"
+"ganare":"Vitamin B1, B6 & B12"
+"unitPrice":"
+Unit Price : ৳ 7.54"
+},
+{
+"name":"
+Tracid "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Tranexamic Acid"
+"unitPrice":"
+Unit Price : ৳ 18.92"
+},
+{
+"name":"
+Tracid "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"500 mg/5 ml"
+"ganare":"Tranexamic Acid"
+"unitPrice":"
+5 ml ampoule : ৳ 59.76"
+},
+{
+"name":"
+Trizidim "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"250 mg/vial"
+"ganare":"Ceftazidime Pentahydrate"
+"unitPrice":"
+250 mg vial : ৳ 70.47"
+},
+{
+"name":"
+Trizidim "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"500 mg/vial"
+"ganare":"Ceftazidime Pentahydrate"
+"unitPrice":"
+500 mg vial : ৳ 115.78"
+},
+{
+"name":"
+Trizidim "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"1 gm/vial"
+"ganare":"Ceftazidime Pentahydrate"
+"unitPrice":"
+1 gm vial : ৳ 216.45"
+},
+{
+"name":"
+Trizon "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"250 mg/vial"
+"ganare":"Ceftriaxone"
+"unitPrice":"
+250 mg vial : ৳ 100.30"
+},
+{
+"name":"
+Trizon "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"500 mg/vial"
+"ganare":"Ceftriaxone"
+"unitPrice":"
+500 mg vial : ৳ 130.39"
+},
+{
+"name":"Trizon "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"1 gm/vial"
+"ganare":"Ceftriaxone"
+"unitPrice":"
+1 gm vial : ৳ 190.58"
+},
+{
+"name":"
+Trizon "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"250 mg/vial"
+"ganare":"Ceftriaxone"
+"unitPrice":"
+250 mg vial : ৳ 100.30"
+},
+{
+"name":"
+Trizon "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"500 mg/vial"
+"ganare":"Ceftriaxone"
+"unitPrice":"
+500 mg vial : ৳ 130.39"
+},
+{
+"name":"
+Trizon "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"1 gm/vial"
+"ganare":"Ceftriaxone"
+"unitPrice":"
+1 gm vial : ৳ 190.58"
+},
+{
+"name":"
+Trizon "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"2 gm/vial"
+"ganare":"Ceftriaxone"
+"unitPrice":"
+2 gm vial : ৳ 300.90"
+},
+{
+"name":"
+Tulos "
+"company":"Acme Laboratories Limited"
+"type":"Oral Solution"
+"strange":"3.35 gm/5 ml"
+"ganare":"Lactulose"
+"unitPrice":"
+100 ml bottle : ৳ 136.47"
+},
+{
+"name":"
+Twicef "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"500 mg"
+"ganare":"Cefadroxil Monohydrate"
+"unitPrice":"
+Unit Price : ৳ 12.09"
+},
+{
+"name":"
+Twicef "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"125 mg/5 ml"
+"ganare":"Cefadroxil Monohydrate"
+"unitPrice":"
+100 ml bottle : ৳ 70.47"
+},
+{
+"name":"
+Twicef "
+"company":"Acme Laboratories Limited"
+"type":"Pediatric Drop"
+"strange":"125 mg/1.25 ml"
+"ganare":"Cefadroxil Monohydrate"
+"unitPrice":"
+15 ml bottle : ৳ 50.20"
+},
+{
+"name":"
+Twicef DS "
+"company":"Acme Laboratories Limited"
+"type":"Suspension"
+"strange":"250 mg/5 ml"
+"ganare":"Cefadroxil Monohydrate"
+"unitPrice":"
+100 ml bottle : ৳ 119.89"
+},
+{
+"name":"
+Tycon "
+"company":"Acme Laboratories Limited"
+"type":"Cream"
+"strange":"1%"
+"ganare":"Tioconazole"
+"unitPrice":"
+10 gm tube : ৳ 47.86"
+},
+{
+"name":"
+Tycon "
+"company":"Acme Laboratories Limited"
+"type":"Suppository"
+"strange":"300 mg"
+"ganare":"Tioconazole"
+"unitPrice":"
+Unit Price : ৳ 60.40"
+},
+{
+"name":"
+Uliv "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"150 mg"
+"ganare":"Ursodeoxycholic Acid"
+"unitPrice":"
+Unit Price : ৳ 12.09"
+},
+{
+"name":"
+Uliv "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"300 mg"
+"ganare":"Ursodeoxycholic Acid"
+"unitPrice":"
+Unit Price : ৳ 20.14"
+},
+{
+"name":"
+Unipril "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"2.5 mg"
+"ganare":"Ramipril"
+"unitPrice":"
+Unit Price : ৳ 5.01"
+},
+{
+"name":"
+Unipril "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Ramipril"
+"unitPrice":"
+Unit Price : ৳ 8.07"
+},
+{
+"name":"
+Unipril "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"1.25 mg"
+"ganare":"Ramipril"
+"unitPrice":"
+Unit Price : ৳ 2.51"
+},
+{
+"name":"
+Uropass "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"0.4 mg"
+"ganare":"Tamsulosin Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 10.07"
+},
+{
+"name":"
+Uropass-D "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"0.4 mg+0.5 mg"
+"ganare":"Tamsulosin Hydrochloride + Dutasteride"
+"unitPrice":"
+Unit Price : ৳ 20.01"
+},
+{
+"name":"
+V-Plex "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":" "
+"ganare":"Vitamin B complex"
+"unitPrice":"
+Unit Price : ৳ 0.44"
+},
+{
+"name":"
+V-Plex "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":" "
+"ganare":"Vitamin B complex"
+"unitPrice":"
+Unit Price : ৳ 1.00"
+},
+{
+"name":"
+V-Plex "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":" "
+"ganare":"Vitamin B complex"
+"unitPrice":"
+100 ml bottle : ৳ 35.65"
+},
+{
+"name":"
+V-Plex "
+"company":"Acme Laboratories Limited"
+"type":"Pediatric Drop"
+"strange":" "
+"ganare":"Vitamin B complex"
+"unitPrice":"
+15 ml drop : ৳ 22.07"
+},
+{
+"name":"
+V-Plex "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":" "
+"ganare":"Vitamin B complex"
+"unitPrice":"
+2 ml ampoule : ৳ 10.03"
+},
+{
+"name":"
+V-Plex Plus "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":" "
+"ganare":"Multivitamin & Multimineral"
+"unitPrice":"
+Unit Price : ৳ 1.81"
+},
+{
+"name":"
+Valtin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"80 mg"
+"ganare":"Valsartan"
+"unitPrice":"
+Unit Price : ৳ 9.03"
+},
+{
+"name":"
+Valtin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"160 mg"
+"ganare":"Valsartan"
+"unitPrice":"
+Unit Price : ৳ 16.03"
+},
+{
+"name":"
+Venaxin SR "
+"company":"Acme Laboratories Limited"
+"type":"Capsule"
+"strange":"75 mg"
+"ganare":"Venlafaxine Hydrochloride"
+"unitPrice":"
+Price not available"
+},
+{
+"name":"
+Versil "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"4 mg"
+"ganare":"Perindopril Arginine"
+"unitPrice":"
+Unit Price : ৳ 12.09"
+},
+{
+"name":"
+Vildapin "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Vildagliptin"
+"unitPrice":"
+Unit Price : ৳ 15.03"
+},
+{
+"name":"Vildapin Plus "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg+500 mg"
+"ganare":"Vildagliptin + Metformin Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 18.00"
+},
+{
+"name":"
+Vildapin Plus "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"50 mg+850 mg"
+"ganare":"Vildagliptin + Metformin Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 20.00"
+},
+{
+"name":"
+Vinpoton "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Vinpocetine"
+"unitPrice":"
+Unit Price : ৳ 4.01"
+},
+{
+"name":"
+Vir "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"0.5 mg"
+"ganare":"Entecavir"
+"unitPrice":"
+Unit Price : ৳ 48.14"
+},
+{
+"name":"
+Winop "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Ketorolac Tromethamine"
+"unitPrice":"
+Unit Price : ৳ 10.07"
+},
+{
+"name":"
+Winop "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"30 mg/ml"
+"ganare":"Ketorolac Tromethamine"
+"unitPrice":"
+2 ml ampoule : ৳ 50.00"
+},
+{
+"name":"
+Winop "
+"company":"Acme Laboratories Limited"
+"type":"Eye Drop"
+"strange":"0.5%"
+"ganare":"Ketorolac Tromethamine (Eye Drops)"
+"unitPrice":"
+5 ml drop : ৳ 80.00"
+},
+{
+"name":"
+Winop "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"60 mg/2 ml"
+"ganare":"Ketorolac Tromethamine"
+"unitPrice":"
+2 ml ampoule : ৳ 95.65"
+},
+{
+"name":"
+Winop "
+"company":"Acme Laboratories Limited"
+"type":"Injection"
+"strange":"10 mg/ml"
+"ganare":"Ketorolac Tromethamine"
+"unitPrice":"
+1 ml ampoule : ৳ 29.97"
+},
+{
+"name":"
+X-Cold "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":"15 mg/5 ml"
+"ganare":"Ambroxol Hydrochloride"
+"unitPrice":"
+100 ml bottle : ৳ 40.11"
+},
+{
+"name":"
+X-Cold "
+"company":"Acme Laboratories Limited"
+"type":"Pediatric Drop"
+"strange":"6 mg/ml"
+"ganare":"Ambroxol Hydrochloride"
+"unitPrice":"
+15 ml bottle : ৳ 30.10"
+},
+{
+"name":"
+Z-Plex "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":" "
+"ganare":"Vitamin B Complex + Zinc"
+"unitPrice":"
+100 ml bottle : ৳ 52.68"
+},
+{
+"name":"
+Zero "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"8 mg"
+"ganare":"Sucralose"
+"unitPrice":"
+Unit Price : ৳ 1.00"
+},
+{
+"name":"
+Zilsart "
+"company":"Acme Laboratories Limited"
+"type":"Tablet"
+"strange":"40 mg"
+"ganare":"Azilsartan Medoxomil"
+"unitPrice":"
+Unit Price : ৳ 12.01"
+},
+{
+"name":"
+Zis DS "
+"company":"Acme Laboratories Limited"
+"type":"Syrup"
+"strange":"10 mg/5 ml"
+"ganare":"Zinc Sulphate Monohydrate"
+"unitPrice":"
+100 ml bottle : ৳ 38.11"
+},

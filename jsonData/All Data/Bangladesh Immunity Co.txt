@@ -1,0 +1,16 @@
+{
+"name":"Ephedrin ",
+"company":"Bangladesh Immunity Co",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ephedrine Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 30.00"
+},
+{
+"name":"Ephedrin ",
+"company":"Bangladesh Immunity Co",
+"type":"Injection",
+"strange":"25 mg/5 ml",
+"ganare":"Ephedrine Hydrochloride",
+"unitPrice":"5 ml ampoule : ৳ 12.05"
+},

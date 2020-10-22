@@ -1,0 +1,784 @@
+{
+"name":"Algicon ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Suspension",
+"strange":"(500 mg+100 mg)/5 ml",
+"ganare":"Sodium Alginate + Potassium Bicarbonate",
+"unitPrice":"200 ml bottle : ৳ 125.38"
+},
+{
+"name":"Algicon ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"500 mg+100 mg",
+"ganare":"Sodium Alginate + Potassium Bicarbonate",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Caface ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Cefoprox ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Suspension",
+"strange":"40 mg/5 ml",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"50 ml bottle : ৳ 97.96"
+},
+{
+"name":"Cefoprox DS ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Suspension",
+"strange":"80 mg/5 ml",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"50 ml bottle : ৳ 174.93"
+},
+{
+"name":"Cefuact ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 24.99"
+},
+{
+"name":"Cefuact ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 44.98"
+},
+{
+"name":"Cefuact ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"70 ml bottle : ৳ 198.92"
+},
+{
+"name":"Celozin ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"60 ml bottle : ৳ 30.00"
+},
+{
+"name":"Celozin ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Ceptin-R ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Clavuxet ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"250 mg+62.5 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 30.09"
+},
+{
+"name":"Climed ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Clindamycin",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Climed ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Capsule",
+"strange":"300 mg",
+"ganare":"Clindamycin",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Desgud ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Desloratadine",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Diobis ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Bisoprolol Fumarate",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Dipicard ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Dipicard ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Dipicard Plus ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"5 mg+50 mg",
+"ganare":"Amlodipine + Atenolol",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Elfexo ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Elfexo ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"180 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Elfexo ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Suspension",
+"strange":"30 mg/5 ml",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"50 ml bottle : ৳ 49.98"
+},
+{
+"name":"Exipro ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Exipro ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Exworm ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Exworm ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Albendazole",
+"unitPrice":"10 ml bottle : ৳ 15.00"
+},
+{
+"name":"Ezipas ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Capsule",
+"strange":"0.4 mg",
+"ganare":"Tamsulosin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Fluact ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Fluact ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 21.99"
+},
+{
+"name":"Fluact ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Suspension",
+"strange":"50 mg/5 ml",
+"ganare":"Fluconazole",
+"unitPrice":"35 ml bottle : ৳ 77.97"
+},
+{
+"name":"Flutam ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.70"
+},
+{
+"name":"Flutam ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 6.44"
+},
+{
+"name":"Flutam DS ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 109.96"
+},
+{
+"name":"Ketoact ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Ketosma ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Syrup",
+"strange":"1 mg/5 ml",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"100 ml bottle : ৳ 44.97"
+},
+{
+"name":"Ketosma ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Leocof ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Dextromethorphan Hydrobromide",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"Leofran ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"8 mg",
+"ganare":"Ondansetron",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Leofran ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Oral Solution",
+"strange":"4 mg/5 ml",
+"ganare":"Ondansetron",
+"unitPrice":"50 ml bottle : ৳ 44.97"
+},
+{
+"name":"Leogem ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"320 mg",
+"ganare":"Gemifloxacin",
+"unitPrice":"Unit Price : ৳ 64.97"
+},
+{
+"name":"Leolac ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Oral Solution",
+"strange":"3.35 gm/5 ml",
+"ganare":"Lactulose",
+"unitPrice":"50 ml bottle : ৳ 64.97"
+},
+{
+"name":"Leotram ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Leozinc ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Syrup",
+"strange":"4.05 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 32.00"
+},
+{
+"name":"Leozinc DS ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 35.00"
+},
+{
+"name":"Leozinc-B ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 44.98"
+},
+{
+"name":"Leucofil ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"Lidocef ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.50"
+},
+{
+"name":"Lidocef ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 79.97"
+},
+{
+"name":"Lipiva ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Lipiva ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 17.99"
+},
+{
+"name":"Lipiva Plus ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"5 mg+10 mg",
+"ganare":"Amlodipine + Atorvastatin",
+"unitPrice":"Unit Price : ৳ 11.00"
+},
+{
+"name":"Lotor ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 14.99"
+},
+{
+"name":"Medikast ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Medikast ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Medikast ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 14.99"
+},
+{
+"name":"Metron ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Nitaxen ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Nitazoxanide",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Nitaxen ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Nitazoxanide",
+"unitPrice":"30 ml bottle : ৳ 35.00"
+},
+{
+"name":"Novacal-D ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Novaflox ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Novaflox ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"60 ml bottle : ৳ 89.96"
+},
+{
+"name":"Novavit Gold ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral [A-Z gold preparation]",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Novavit Silver ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral [A-Z silver preparation]",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Novaxen ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Novaxen Plus ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"500 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Novaxen Plus ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"375 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Novazith ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 34.99"
+},
+{
+"name":"Novazith ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 79.97"
+},
+{
+"name":"Onmet ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Onmet ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Onzid ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Onzid ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Pepcon Plus ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"480 mg+20 mg",
+"ganare":"Magaldrate + Simethicone",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Pepcon Plus ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Suspension",
+"strange":"(480 mg+20 mg)/5 ml",
+"ganare":"Magaldrate + Simethicone",
+"unitPrice":"200 ml bottle : ৳ 110.34"
+},
+{
+"name":"Pepzol ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 6.99"
+},
+{
+"name":"Pepzol ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Perigut ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 28.00"
+},
+{
+"name":"Perigut ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Perizol ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Perizol ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Polynac ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Polyxim ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 34.99"
+},
+{
+"name":"Polyxim ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 49.98"
+},
+{
+"name":"Polyxim ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 194.92"
+},
+{
+"name":"Polyxim DS ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 319.87"
+},
+{
+"name":"Raboz ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Rabeprazole Sodium",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Renosart ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Renosart Plus ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"50 mg+12.5 mg",
+"ganare":"Losartan Potassium + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Rupastar ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rupatadine Fumarate",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Saltamol ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"100 ml bottle : ৳ 22.92"
+},
+{
+"name":"Serobion ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex + Vitamin C (Oral)",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Starbac ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Starbac ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Topomox ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Moxifloxacin Hydrochloride (Oral or Injection)",
+"unitPrice":"Unit Price : ৳ 39.98"
+},
+{
+"name":"Uniclor ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cefaclor Monohydrate",
+"unitPrice":"15 ml bottle : ৳ 124.95"
+},
+{
+"name":"Urotrate ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Oral Solution",
+"strange":"(1500 mg+250 mg)/5 ml",
+"ganare":"Potassium Citrate + Citric Acid",
+"unitPrice":"200 ml bottle : ৳ 199.92"
+},
+{
+"name":"Velofen TR ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Visalex ",
+"company":"Leon Pharmaceuticals Limited ",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"Unit Price : ৳ 5.00"
+}

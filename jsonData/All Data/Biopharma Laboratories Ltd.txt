@@ -1,0 +1,1752 @@
+{
+"name":"Aceta ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Aceta ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 20.62"
+},
+{
+"name":"Aceta ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Pediatric Drop",
+"strange":"80 mg/ml",
+"ganare":"Paracetamol",
+"unitPrice":"15 ml bottle : ৳ 10.85"
+},
+{
+"name":"Aceta Extend ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"665 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Aceta-T ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"325 mg+37.5 mg",
+"ganare":"Paracetamol + Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.98"
+},
+{
+"name":"Aceta-X ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.91"
+},
+{
+"name":"Acin ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.01"
+},
+{
+"name":"Acin ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 3.49"
+},
+{
+"name":"Acin ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Syrup",
+"strange":"75 mg/5 ml",
+"ganare":"Ranitidine",
+"unitPrice":"100 ml bottle : ৳ 44.95"
+},
+{
+"name":"Alerfast ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Ambroxol ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"Ambroxol SR ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"75 mg",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Amilac ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Infusion",
+"strange":"5%",
+"ganare":"Amino acid",
+"unitPrice":"500 ml bottle : ৳ 349.86"
+},
+{
+"name":"Amotid ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.61"
+},
+{
+"name":"Amotid ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Amotid ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 44.62"
+},
+{
+"name":"Amotid ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"15 ml bottle : ৳ 27.93"
+},
+{
+"name":"Amotid-F ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 65.40"
+},
+{
+"name":"Aquateat ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Eye Drop",
+"strange":"5%",
+"ganare":"Povidone Iodine (Eye Drop)",
+"unitPrice":"10 ml drop : ৳ 89.57"
+},
+{
+"name":"Asclop ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"75 mg+75 mg",
+"ganare":"Clopidogrel + Aspirin",
+"unitPrice":"Unit Price : ৳ 12.50"
+},
+{
+"name":"Atinid ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Nitazoxanide",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Atinid ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Nitazoxanide",
+"unitPrice":"30 ml bottle : ৳ 34.88"
+},
+{
+"name":"Avert ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Meclizine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Avert Plus ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"25 mg+50 mg",
+"ganare":"Meclizine + Pyridoxine",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Azole ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Albendazole",
+"unitPrice":"10 ml bottle : ৳ 18.00"
+},
+{
+"name":"Azole ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 4.02"
+},
+{
+"name":"Bacifen ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Bacron ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Ointment",
+"strange":"2%w/w",
+"ganare":"Mupirocin",
+"unitPrice":"10 gm tube : ৳ 124.89"
+},
+{
+"name":"Benquil ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"7.5 mg",
+"ganare":"Midazolam",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Benzit ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Flupentixol + Melitracen",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Bestcef ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 34.99"
+},
+{
+"name":"Bestcef ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 50.17"
+},
+{
+"name":"Bestcef ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"37.5 ml bottle : ৳ 129.57"
+},
+{
+"name":"Bestcol ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Bestcol ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price : ৳ 25.08"
+},
+{
+"name":"Biocid ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"250 mg+400 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"Unit Price : ৳ 0.50"
+},
+{
+"name":"Biocid MH ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"(175 mg+225 mg)/5 ml",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"200 ml bottle : ৳ 32.02"
+},
+{
+"name":"Biocid Plus ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"(200 mg+400 mg+30 mg)/5 ml",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+"unitPrice":"200 ml bottle : ৳ 74.97"
+},
+{
+"name":"Biocid Plus ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"200 mg+200 mg+30 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Biocin ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"Unit Price : ৳ 0.20"
+},
+{
+"name":"Biocin ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"100 ml bottle : ৳ 21.77"
+},
+{
+"name":"Biocox ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 12.04"
+},
+{
+"name":"Bionex ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Tranexamic Acid",
+"unitPrice":"Unit Price : ৳ 15.99"
+},
+{
+"name":"Biopen VK ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Phenoxymethyl Penicillin (Penicillin V)",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Biopen VK ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Phenoxymethyl Penicillin (Penicillin V)",
+"unitPrice":"100 ml bottle : ৳ 28.78"
+},
+{
+"name":"Biovit ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Biovit ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 20.78"
+},
+{
+"name":"Biovit ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Pediatric Drop",
+"strange":" ",
+"ganare":"Multivitamin (Pediatric preparation)",
+"unitPrice":"15 ml drop : ৳ 14.83"
+},
+{
+"name":"Biovit Gold ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z gold preparation)",
+"unitPrice":"Unit Price : ৳ 5.99"
+},
+{
+"name":"Biovit Plus ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 49.88"
+},
+{
+"name":"Biovit PN ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamins & Multiminerals (A-Z prenatal preparation)",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Biovit Silver ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z silver preparation)",
+"unitPrice":"Unit Price : ৳ 5.99"
+},
+{
+"name":"Biovit-E ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Vitamin E (Alpha Tocopherol Acetate)",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Biovit-I",
+"company":"Biopharma Laboratories Ltd",
+"type":" ",
+"strange":" ",
+"ganare":"Vitamin C Vitamin E Lutein Copper & Zinc",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Biovit-M ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 1.80"
+},
+{
+"name":"Biozyl ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Biozyl ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 25.26"
+},
+{
+"name":"Biron Plus ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 2.90"
+},
+{
+"name":"Broze ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"3 mg",
+"ganare":"Bromazepam",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Calm ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Clobazam",
+"unitPrice":"Unit Price : ৳ 2.76"
+},
+{
+"name":"Carved ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"6.25 mg",
+"ganare":"Carvedilol",
+"unitPrice":"Unit Price : ৳ 4.51"
+},
+{
+"name":"Carved ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"12.5 mg",
+"ganare":"Carvedilol",
+"unitPrice":"Unit Price : ৳ 6.50"
+},
+{
+"name":"Cevalin ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Vitamin C (Ascorbic acid)",
+"unitPrice":"Unit Price : ৳ 1.31"
+},
+{
+"name":"Chlorovis ",
+"company":"Biopharma Laboratories Ltd",
+"type":"E/E Drop",
+"strange":"0.5%",
+"ganare":"Chloramphenicol",
+"unitPrice":"10 ml drop : ৳ 34.98"
+},
+{
+"name":"Cipcin ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Eye Drop",
+"strange":"0.3%",
+"ganare":"Ciprofloxacin (Eye/Ear)",
+"unitPrice":"5 ml drop : ৳ 39.82"
+},
+{
+"name":"Cipcin ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 8.52"
+},
+{
+"name":"Cipcin ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 14.05"
+},
+{
+"name":"Cipcin ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"750 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 18.09"
+},
+{
+"name":"Cipcin ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"60 ml bottle : ৳ 89.77"
+},
+{
+"name":"Cipcin-DX ",
+"company":"Biopharma Laboratories Ltd",
+"type":"E/E Drop",
+"strange":"0.3%+0.1%",
+"ganare":"Ciprofloxacin + Dexamethasone",
+"unitPrice":"5 ml drop : ৳ 74.64"
+},
+{
+"name":"Clof ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Cloma ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Cloma ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Clotison ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Cream",
+"strange":"1%+1%",
+"ganare":"Clotrimazole + Hydrocortisone",
+"unitPrice":"10 gm tube : ৳ 29.98"
+},
+{
+"name":"Dialina ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Linagliptin",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Dolorex ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.49"
+},
+{
+"name":"Doxiflo ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 6.11"
+},
+{
+"name":"Doxiflo ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Emlon ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Emlon ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 7.01"
+},
+{
+"name":"Emlon Plus ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"5 mg+50 mg",
+"ganare":"Amlodipine + Atenolol",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Enazol Plus ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Cream",
+"strange":"1%+0.1%",
+"ganare":"Econazole Nitrate + Triamcinolone Acetonide",
+"unitPrice":"10 gm tube : ৳ 33.96"
+},
+{
+"name":"Erosa ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"Unit Price : ৳ 4.52"
+},
+{
+"name":"Erosa ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Erosa ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 54.95"
+},
+{
+"name":"Esocon ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Esocon ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Esocon ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Injection",
+"strange":"40 mg/vial",
+"ganare":"Esomeprazole",
+"unitPrice":"40 mg vial : ৳ 64.97"
+},
+{
+"name":"Esogut ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Esogut ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 27.98"
+},
+{
+"name":"Esogut ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Pediatric Drop",
+"strange":"5 mg/ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"15 ml drop : ৳ 19.98"
+},
+{
+"name":"Etnol ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Atenolol",
+"unitPrice":"Unit Price : ৳ 0.77"
+},
+{
+"name":"Euphor ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Fluphenazine + Nortriptyline",
+"unitPrice":"Unit Price : ৳ 0.79"
+},
+{
+"name":"Eziflo MR ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"0.4 mg",
+"ganare":"Tamsulosin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Eziflo-D ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"0.4 mg+0.5 mg",
+"ganare":"Tamsulosin Hydrochloride + Dutasteride",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Fivita ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron Polymaltose Complex + Folic Acid + Zinc + Vitamin B-Complex",
+"unitPrice":"Unit Price : ৳ 3.51"
+},
+{
+"name":"Flurone ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"0.1%",
+"ganare":"Fluorometholone Acetate",
+"unitPrice":"5 ml drop : ৳ 99.53"
+},
+{
+"name":"Formet ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Formet ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Formet XR ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Freegest ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 14.99"
+},
+{
+"name":"Freegest ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Freegest ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Fungata ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.03"
+},
+{
+"name":"Fungata ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 22.04"
+},
+{
+"name":"Fungata ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"50 mg/5 ml",
+"ganare":"Fluconazole",
+"unitPrice":"35 ml bottle : ৳ 78.40"
+},
+{
+"name":"Gefcin ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"320 mg",
+"ganare":"Gemifloxacin",
+"unitPrice":"Unit Price : ৳ 64.98"
+},
+{
+"name":"Glucium ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"250 mg+200 mg",
+"ganare":"Glucosamine Sulphate + Chondroitin",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Glucorid ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Glimepiride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Glucorid ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Glimepiride",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Glucostat ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Goutex ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Allopurinol",
+"unitPrice":"Unit Price : ৳ 4.02"
+},
+{
+"name":"Immense ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 24.99"
+},
+{
+"name":"Infladex ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Eye Drop",
+"strange":"0.1%",
+"ganare":"Dexamethasone Sodium Phosphate (E/E)",
+"unitPrice":"5 ml drop : ৳ 69.67"
+},
+{
+"name":"Infladex-TN ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Eye Drop",
+"strange":"0.1%+0.3%",
+"ganare":"Dexamethasone + Tobramycin",
+"unitPrice":"5 ml drop : ৳ 149.29"
+},
+{
+"name":"Inpro ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.99"
+},
+{
+"name":"Inpro ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 7.05"
+},
+{
+"name":"Inpro ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Injection",
+"strange":"40 mg/vial",
+"ganare":"Omeprazole",
+"unitPrice":"40 mg vial : ৳ 69.94"
+},
+{
+"name":"Ketorif ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Eye Drop",
+"strange":"0.025%",
+"ganare":"Ketotifen Fumarate (Eye drops)",
+"unitPrice":"5 ml drop : ৳ 99.64"
+},
+{
+"name":"Ketorif ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"Unit Price : ৳ 1.49"
+},
+{
+"name":"Ketorif ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Syrup",
+"strange":"1 mg/5 ml",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"100 ml bottle : ৳ 39.96"
+},
+{
+"name":"Kidsgro ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Cod Liver Oil",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Kofed ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Syrup",
+"strange":"(30 mg+100 mg+1.25 mg)/5 ml",
+"ganare":"Pseudoephedrine + Guaiphenasine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 54.97"
+},
+{
+"name":"Lactu ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Oral Solution",
+"strange":"3.35 gm/5 ml",
+"ganare":"Lactulose",
+"unitPrice":"100 ml bottle : ৳ 120.45"
+},
+{
+"name":"Lasocon ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"30 mg",
+"ganare":"Lansoprazole",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Lifcin ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 15.06"
+},
+{
+"name":"Lifcin ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Syrup",
+"strange":"125 mg/5 ml",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 75.00"
+},
+{
+"name":"Lifcin ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Eye Drop",
+"strange":"1.5%",
+"ganare":"Levofloxacin (Eye)",
+"unitPrice":"5 ml drop : ৳ 149.85"
+},
+{
+"name":"Lirica ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 13.04"
+},
+{
+"name":"Lirica ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"75 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 15.99"
+},
+{
+"name":"Lopo ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 4.51"
+},
+{
+"name":"Lopo ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 7.99"
+},
+{
+"name":"Lopo Plus ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"50 mg+12.5 mg",
+"ganare":"Losartan Potassium + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 7.99"
+},
+{
+"name":"Lorfast ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Loratadine",
+"unitPrice":"Unit Price : ৳ 2.99"
+},
+{
+"name":"Lorfast ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Loratadine",
+"unitPrice":"60 ml bottle : ৳ 25.98"
+},
+{
+"name":"Maczith ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 24.99"
+},
+{
+"name":"Maczith ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 34.94"
+},
+{
+"name":"Maczith ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 94.96"
+},
+{
+"name":"Mexclav ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"250 mg+62.50 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Mexclav ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg+125 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Mexiderm ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Cream",
+"strange":"0.1%",
+"ganare":"Betamethasone",
+"unitPrice":"15 gm tube : ৳ 24.98"
+},
+{
+"name":"Mexiderm ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Ointment",
+"strange":"0.1%",
+"ganare":"Betamethasone",
+"unitPrice":"15 gm tube : ৳ 30.61"
+},
+{
+"name":"Mexiderm-F ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Cream",
+"strange":"2%+0.1%",
+"ganare":"Fucidic Acid + Betamethasone",
+"unitPrice":"10 gm tube : ৳ 150.00"
+},
+{
+"name":"Mexiderm-N ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Cream",
+"strange":"0.1%+0.5%",
+"ganare":"Betamethasone + Neomycin Sulphate (Topical)",
+"unitPrice":"5 gm tube : ৳ 15.00"
+},
+{
+"name":"Mexiderm-N ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Ointment",
+"strange":"0.1%+0.5%",
+"ganare":"Betamethasone + Neomycin Sulphate (Topical)",
+"unitPrice":"5 gm tube : ৳ 14.78"
+},
+{
+"name":"Mextil ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 25.08"
+},
+{
+"name":"Mextil ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 44.95"
+},
+{
+"name":"Mextil ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"70 ml bottle : ৳ 199.82"
+},
+{
+"name":"Mextil ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Injection",
+"strange":"750 mg/vial",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"750 mg vial : ৳ 124.88"
+},
+{
+"name":"Mextil DS ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"50 ml bottle : ৳ 249.77"
+},
+{
+"name":"Moxif ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Moxifloxacin Hydrochloride",
+"unitPrice":"5 ml drop : ৳ 99.53"
+},
+{
+"name":"Mucut ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Syrup",
+"strange":"4 mg/5 ml",
+"ganare":"Bromhexine Hyrdochloride",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"Myocor ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Bisoprolol Fumarate",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Neurep ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Nuba ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Ointment",
+"strange":"(5 mg+10 mg)/gm",
+"ganare":"Neomycin Sulfate + Bacitracin Zinc",
+"unitPrice":"20 gm tube : ৳ 39.77"
+},
+{
+"name":"Nuba Plus ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Ointment",
+"strange":"(400 IU+3.5 mg+5000 IU)/gm",
+"ganare":"Neomycin Sulfate + Bacitracin Zinc + Polymyxin B Sulfate",
+"unitPrice":"10 gm tube : ৳ 29.98"
+},
+{
+"name":"Ocuflox ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Eye Drop",
+"strange":"0.3%",
+"ganare":"Lomefloxacin (Eye Drop)",
+"unitPrice":"5 ml drop : ৳ 69.67"
+},
+{
+"name":"Olarif ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Eye Drop",
+"strange":"0.1%",
+"ganare":"Olopatadine Hydrochloride (Eye Drops)",
+"unitPrice":"5 ml drop : ৳ 109.96"
+},
+{
+"name":"Onstar ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Oral Solution",
+"strange":"4 mg/5 ml",
+"ganare":"Ondansetron",
+"unitPrice":"50 ml bottle : ৳ 45.13"
+},
+{
+"name":"Onstar ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"8 mg",
+"ganare":"Ondansetron",
+"unitPrice":"Unit Price : ৳ 10.03"
+},
+{
+"name":"Orthocal ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Orthocal ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 1.80"
+},
+{
+"name":"Orthocal-D ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Orthorate ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Calcium Orotate Dihydrate",
+"unitPrice":"Unit Price : ৳ 7.99"
+},
+{
+"name":"Panpro ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Panpro ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Panpro ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Injection",
+"strange":"40 mg/vial",
+"ganare":"Pantoprazole",
+"unitPrice":"40 mg vial : ৳ 69.67"
+},
+{
+"name":"Penfil ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Tadalafil",
+"unitPrice":"Unit Price : ৳ 29.99"
+},
+{
+"name":"Perilac ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 11.00"
+},
+{
+"name":"Perilac ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Injection",
+"strange":"30 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 55.22"
+},
+{
+"name":"R-Pil ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"1.25",
+"ganare":"Ramipril",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"R-Pil ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Ramipril",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"R-Pil ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Ramipril",
+"unitPrice":"Unit Price : ৳ 7.99"
+},
+{
+"name":"Rabecon ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Rabeprazole Sodium",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Relvis ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Relvis ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Injection",
+"strange":"5 mg/2 ml",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"2 ml ampoule : ৳ 14.99"
+},
+{
+"name":"Relye ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Eye Drop",
+"strange":"0.09%",
+"ganare":"Bromfenac Sodium",
+"unitPrice":"5 ml drop : ৳ 99.53"
+},
+{
+"name":"Revistar ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.49"
+},
+{
+"name":"Revistar ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 9.99"
+},
+{
+"name":"Revistar ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 59.94"
+},
+{
+"name":"Riboclin ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"300 mg",
+"ganare":"Clindamycin",
+"unitPrice":"Unit Price : ৳ 15.05"
+},
+{
+"name":"Rinotin ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Levocetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Rufecta ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rupatadine Fumarate",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Salbu ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.26"
+},
+{
+"name":"Salbu ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.34"
+},
+{
+"name":"Salbu ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"60 ml bottle : ৳ 11.00"
+},
+{
+"name":"Scaper ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Cream",
+"strange":"5%w/w",
+"ganare":"Permethrin",
+"unitPrice":"15 gm tube : ৳ 24.98"
+},
+{
+"name":"Supracef ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 6.70"
+},
+{
+"name":"Supracef ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.55"
+},
+{
+"name":"Supracef ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 79.80"
+},
+{
+"name":"Supracef ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cephradine",
+"unitPrice":"15 ml bottle : ৳ 49.88"
+},
+{
+"name":"Supracef ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Cephradine",
+"unitPrice":"1 gm vial : ৳ 73.96"
+},
+{
+"name":"Supracef DS ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 119.89"
+},
+{
+"name":"Supralex ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephalexin",
+"unitPrice":"100 ml bottle : ৳ 76.81"
+},
+{
+"name":"Termider ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Terbinafine Hydrochloride",
+"unitPrice":"5 gm tube : ৳ 29.97"
+},
+{
+"name":"Tolpa ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tolperisone Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Top ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Ketoprofen",
+"unitPrice":"Unit Price : ৳ 3.49"
+},
+{
+"name":"Top ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Ketoprofen",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Trangina MR ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"35 mg",
+"ganare":"Trimetazidine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Trova ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Trova ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 17.95"
+},
+{
+"name":"UDCA ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Ursodeoxycholic Acid",
+"unitPrice":"Unit Price : ৳ 19.99"
+},
+{
+"name":"Urospin ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"20 mg+50 mg",
+"ganare":"Furosemide + Spironolactone",
+"unitPrice":"Unit Price : ৳ 5.99"
+},
+{
+"name":"Vitaforce ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"6 mg+200 mg+50 mg",
+"ganare":"Betacarotene + Vitamin C + Vitamin E",
+"unitPrice":"Unit Price : ৳ 2.49"
+},
+{
+"name":"Vitaforce-S ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Super Antioxidant Vitamins & Multimineral",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Volcan ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 0.78"
+},
+{
+"name":"Volcan SR ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 3.02"
+},
+{
+"name":"Winner ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 119.89"
+},
+{
+"name":"Winner ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 179.84"
+},
+{
+"name":"Winner ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 119.89"
+},
+{
+"name":"Winner ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 179.84"
+},
+{
+"name":"Winner ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Injection",
+"strange":"2 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"2 gm vial : ৳ 299.81"
+},
+{
+"name":"Xderm ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Cream",
+"strange":"0.05%",
+"ganare":"Clobetasol Propionate",
+"unitPrice":"10 gm tube : ৳ 44.95"
+},
+{
+"name":"Xderm ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Ointment",
+"strange":"0.05%",
+"ganare":"Clobetasol Propionate",
+"unitPrice":"10 gm tube : ৳ 49.96"
+},
+{
+"name":"Xilol ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Timolol Maleate",
+"unitPrice":"5 ml drop : ৳ 75.00"
+},
+{
+"name":"Zidimax ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Injection",
+"strange":"250 mg/5 ml",
+"ganare":"Ceftazidime Pentahydrate",
+"unitPrice":"250 mg vial : ৳ 69.94"
+},
+{
+"name":"Zidimax ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Injection",
+"strange":"500 mg/5 ml",
+"ganare":"Ceftazidime Pentahydrate",
+"unitPrice":"500 mg vial : ৳ 114.89"
+},
+{
+"name":"Zidimax ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Injection",
+"strange":"1 gm/10 ml",
+"ganare":"Ceftazidime Pentahydrate",
+"unitPrice":"1 gm vial : ৳ 199.83"
+},
+{
+"name":"Zinga ",
+"company":"Biopharma Laboratories Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 26.11"
+},

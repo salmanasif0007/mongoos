@@ -1,0 +1,20 @@
+{
+  "name": "stock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.9.4",
+    "stock-info": "^1.1.0",
+    "weather-js": "^2.0.0"
+  }
+}

@@ -1,0 +1,299 @@
+{
+"name":"Serontin "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"250 mg/5 ml"
+"ganare":"Ethosuximide"
+"unitPrice":"
+70 ml bottle : ৳ 130.39"
+},
+{
+"name":"
+Seroxyn "
+"company":"ACI Limited"
+"type":"Inhaler"
+"strange":"(25 mcg+125 mcg)/puff"
+"ganare":"Salmeterol + Fluticasone Propionate"
+"unitPrice":"
+120 metered doses : ৳ 596.79"
+},
+{
+"name":"
+Seroxyn "
+"company":"ACI Limited"
+"type":"Inhaler"
+"strange":"(25 mcg+250 mcg)/puff"
+"ganare":"Salmeterol + Fluticasone Propionate"
+"unitPrice":"
+120 metered doses : ৳ 797.39"
+},
+{
+"name":"
+Seroxyn "
+"company":"ACI Limited"
+"type":"Inhaler"
+"strange":"(25 mcg+250 mcg)/puff"
+"ganare":"Salmeterol + Fluticasone Propionate"
+"unitPrice":"
+120 metered doses (refill) : ৳ 700.00"
+},
+{
+"name":"
+Seroxyn"
+"company":"ACI Limited"
+"type":" Inhaler"
+"strange":"(25 mcg+125 mcg)/puff"
+"ganare":"Salmeterol + Fluticasone Propionate"
+"unitPrice":"
+120 metered doses (refill) : ৳ 500.00"
+},
+{
+"name":"
+Seroxyn (DPI) "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"50 mcg+100 mcg"
+"ganare":"Salmeterol + Fluticasone Propionate"
+"unitPrice":"
+Unit Price : ৳ 4.86"
+},
+{
+"name":"
+Seroxyn (DPI) "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"50 mcg+250 mcg"
+"ganare":"Salmeterol + Fluticasone Propionate"
+"unitPrice":"
+Unit Price : ৳ 9.23"
+},
+{
+"name":"
+Seroxyn (DPI) "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"50 mcg+500 mcg"
+"ganare":"Salmeterol + Fluticasone Propionate"
+"unitPrice":"
+Unit Price : ৳ 15.05"
+},
+{
+"name":"
+Seroxyn HFA "
+"company":"ACI Limited"
+"type":"Inhaler"
+"strange":"(25 mcg+50 mcg)/puff"
+"ganare":"Salmeterol + Fluticasone Propionate"
+"unitPrice":"
+120 metered doses : ৳ 520.00"
+},
+{
+"name":"
+Seroxyn HFA "
+"company":"ACI Limited"
+"type":"Inhaler"
+"strange":"(25 mcg+250 mcg)/puff"
+"ganare":"Salmeterol + Fluticasone Propionate"
+"unitPrice":"
+120 metered doses : ৳ 797.39"
+},
+{
+"name":"
+Sezol DS "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"1 gm"
+"ganare":"Secnidazole"
+"unitPrice":"
+Unit Price : ৳ 17.05"
+},
+{
+"name":"
+Sibalyn "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"1%"
+"ganare":"Silver Sulfadiazine"
+"unitPrice":"
+25 gm tube : ৳ 40.12"
+},
+{
+"name":"
+Simet "
+"company":"ACI Limited"
+"type":"Pediatric Drop"
+"strange":"67 mg/ml"
+"ganare":"Simethicone"
+"unitPrice":"
+15 ml drop : ৳ 30.20"
+},
+{
+"name":"
+Sintel "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"200 mg/5 ml"
+"ganare":"Albendazole"
+"unitPrice":"
+10 ml bottle : ৳ 20.06"
+},
+{
+"name":"
+Sintel "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"400 mg"
+"ganare":"Albendazole"
+"unitPrice":"
+Unit Price : ৳ 5.02"
+},
+{
+"name":"
+Sitap "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Sitagliptin"
+"unitPrice":"
+Unit Price : ৳ 15.05"
+},
+{
+"name":"
+Sitap "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"100 mg"
+"ganare":"Sitagliptin"
+"unitPrice":"
+Unit Price : ৳ 28.08"
+},
+{
+"name":"
+Sitomet "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"50 mg+1000 mg"
+"ganare":"Sitagliptin + Metformin Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 18.05"
+},
+{
+"name":"
+Sitomet "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"50 mg+500 mg"
+"ganare":"Sitagliptin + Metformin Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 16.05"
+},
+{
+"name":"
+Skinabin "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Terbinafine Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 40.00"
+},
+{
+"name":"
+Skinabin "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"1%"
+"ganare":"Terbinafine Hydrochloride"
+"unitPrice":"
+5 gm tube : ৳ 35.00"
+},
+{
+"name":"
+Skinalar "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"0.025%"
+"ganare":"Fluocinolone Acetonide"
+"unitPrice":"
+5 gm tube : ৳ 38.12"
+},
+{
+"name":"
+Skinalar "
+"company":"ACI Limited"
+"type":"Ointment"
+"strange":"0.025%"
+"ganare":"Fluocinolone Acetonide"
+"unitPrice":"
+5 gm tube : ৳ 38.12"
+},
+{
+"name":"
+Skinalar-N "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"0.025%+0.5%"
+"ganare":"Fluocinolone Acetonide + Neomycin Sulfate"
+"unitPrice":"
+5 gm tube : ৳ 40.12"
+},
+{
+"name":"
+Skinalar-N "
+"company":"ACI Limited"
+"type":"Ointment"
+"strange":"0.025%+0.5%"
+"ganare":"Fluocinolone Acetonide + Neomycin Sulfate"
+"unitPrice":"
+5 gm tube : ৳ 40.12"
+},
+{
+"name":"
+Sodival CR "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"133.2 mg+58 mg"
+"ganare":"Sodium Valproate + Valproic Acid"
+"unitPrice":"
+Unit Price : ৳ 4.00"
+},
+{
+"name":"
+Sodival CR "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"199.8 mg+87 mg"
+"ganare":"Sodium Valproate + Valproic Acid"
+"unitPrice":"
+Unit Price : ৳ 6.00"
+},
+{
+"name":"
+Sodival CR "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"333 mg+500 mg"
+"ganare":"Sodium Valproate + Valproic Acid"
+"unitPrice":"
+Unit Price : ৳ 10.00"
+},
+{
+"name":"
+Sofomax "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"400 mg"
+"ganare":"Sofosbuvir"
+"unitPrice":"
+Unit Price : ৳ 700.00"
+},
+{
+"name":"
+Sofomax Duo "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"90 mg+400 mg"
+"ganare":"Ledipasvir + Sofosbuvir"
+"unitPrice":"
+Unit Price : ৳ 1,000.00"
+},

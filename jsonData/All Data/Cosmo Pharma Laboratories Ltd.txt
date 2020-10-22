@@ -1,0 +1,288 @@
+{
+"name":"Amoxic ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.23"
+},
+{
+"name":"Amoxic ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Amoxic ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"Analgen ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Cetra ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.02"
+},
+{
+"name":"Cosben ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Coscef ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Coscef ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Cosclox ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cloxacillin",
+"unitPrice":"Unit Price : ৳ 5.46"
+},
+{
+"name":"Cosdox ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Doxycycline",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Cosfenac SR ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Cosfez TR ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 2.90"
+},
+{
+"name":"Cosflu ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Coslev ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Cosnap ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Cospra ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Cosvit TR ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron + Folic acid + Vitamin B complex + Vitamin C",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Cpcal ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Cpdom ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Cpefro TR ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg",
+"ganare":"Ferrous Sulphate + Folic Acid",
+"unitPrice":"Unit Price : ৳ 2.32"
+},
+{
+"name":"Cpfen ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Ibuprofen",
+"unitPrice":"Unit Price : ৳ 1.31"
+},
+{
+"name":"Cpflox ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 10.11"
+},
+{
+"name":"Cpmol ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Cpmycin ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Cpvit B ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.42"
+},
+{
+"name":"Cpvit E ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Vitamin E (Alpha Tocopherol Acetate)",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Cpzith ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Cpzith ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"50 ml bottle : ৳ 180.00"
+},
+{
+"name":"Dolonac ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Flucil ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.46"
+},
+{
+"name":"Flucil ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Flucil ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Metrizol ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.01"
+},
+{
+"name":"Opra ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.03"
+},
+{
+"name":"Rani ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Resdil ",
+"company":"Cosmo Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.33"
+},

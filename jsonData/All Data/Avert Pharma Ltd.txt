@@ -1,0 +1,8 @@
+{
+"name":"Fcon ",
+"company":"Avert Pharma Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Price not available"
+},

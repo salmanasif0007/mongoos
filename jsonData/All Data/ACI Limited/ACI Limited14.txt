@@ -1,0 +1,329 @@
+{
+"name":"Nalbutin "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"10 mg/ml"
+"ganare":"Nalbuphine"
+"unitPrice":"
+2 ml ampoule : ৳ 100.30"
+"price":100.30
+
+},
+{
+"name":"Namitol "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"200 mg"
+"ganare":"Tolfenamic acid"
+"unitPrice":"
+Unit Price : ৳ 10.00"
+"price":10.00
+
+},
+{
+"name":"Napcon "
+"company":"ACI Limited"
+"type":"Eye Drop"
+"strange":"0.025%+0.3%"
+"ganare":"Naphazoline + Pheniramine"
+"unitPrice":"
+10 ml drop : ৳ 70.00"
+"price":70.00
+
+},
+{
+"name":"Neocitrin "
+"company":"ACI Limited"
+"type":"Powder"
+"strange":"(5 mg+500 IU)/gm"
+"ganare":"Neomycin Sulfate + Bacitracin Zinc"
+"unitPrice":"
+10 gm pack : ৳ 20.14"
+"price":20.14
+
+},
+{
+"name":"Nitrofur"
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"25 mg/5 ml"
+"ganare":"Nitrofurantoin"
+"unitPrice":"
+100 ml bottle : ৳ 80.00"
+"price":80.00
+
+},
+{
+"name":"Nitrofur SR "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"100 mg"
+"ganare":"Nitrofurantoin"
+"unitPrice":"
+Unit Price : ৳ 20.00"
+"price":20.00
+
+},
+{
+"name":"Nitrofur SR "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"50 mg"
+"ganare":"Nitrofurantoin"
+"unitPrice":"
+Unit Price : ৳ 4.00"
+"price":4.00
+
+},
+{
+"name":"Nutrivit-B "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":" "
+"ganare":"Vitamin B complex"
+"unitPrice":"
+Unit Price : ৳ 0.62"
+"price":0.62
+
+},
+{
+"name":"Nutrivit-B "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":" "
+"ganare":"Vitamin B complex"
+"unitPrice":"
+200 ml bottle : ৳ 62.19"
+"price":62.19
+
+},
+{
+"name":"Nutrivit-C "
+"company":"ACI Limited"
+"type":"Pediatric Drop"
+"strange":"125 mg/1.25 ml"
+"ganare":"Vitamin C (Ascorbic acid)"
+"unitPrice":"
+15 ml drop : ৳ 30.21"
+"price":30.21
+
+},
+{
+"name":"Nutrivit-C "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Vitamin C (Ascorbic acid)"
+"unitPrice":"
+Unit Price : ৳ 1.90"
+"price":1.90
+
+},
+{
+"name":"Nutrivit-C "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"1000 mg"
+"ganare":"Vitamin C (Ascorbic acid)"
+"unitPrice":"
+Unit Price : ৳ 12.04"
+"price":12.04
+
+},
+{
+"name":"Nutrivit-C "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"100 mg/5 ml"
+"ganare":"Vitamin C (Ascorbic acid)"
+"unitPrice":"
+100 ml bottle : ৳ 33.45"
+"price":33.45
+
+},
+{
+"name":"Nutrivit-MV "
+"company":"ACI Limited"
+"type":"Pediatric Drop"
+"strange":" "
+"ganare":"Multivitamin (Pediatric preparation)"
+"unitPrice":"
+15 ml bottle : ৳ 16.06"
+"price":16.06
+
+},
+{
+"name":"Oclube "
+"company":"ACI Limited"
+"type":"Eye Drop"
+"strange":"0.4%+0.3%"
+"ganare":"Polyethylene Glycol + Propylene Glycol"
+"unitPrice":"
+10 ml drop : ৳ 150.00"
+"price":150.00
+
+},
+{
+"name":"Oculax "
+"company":"ACI Limited"
+"type":"Eye Drop"
+"strange":"0.2%+0.36%+1%"
+"ganare":"Glycerol + Hypromellose + Polyethylene Glycol 400"
+"unitPrice":"
+10 ml drop : ৳ 250.00"
+"price":250.00
+
+},
+{
+"name":"Odazyth "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Azithromycin"
+"unitPrice":"
+Unit Price : ৳ 35.11"
+"price":35.11
+
+},
+{
+"name":"Odazyth "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"200 mg/5 ml"
+"ganare":"Azithromycin"
+"unitPrice":"
+15 ml bottle : ৳ 85.58"
+"price":85.58
+
+},
+{
+"name":"Odazyth "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"250 mg"
+"ganare":"Azithromycin"
+"unitPrice":"
+Unit Price : ৳ 25.08"
+"price":25.08
+
+},
+{
+"name":"Oral ZB "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":" "
+"ganare":"Vitamin B Complex + Zinc"
+"unitPrice":"
+100 ml bottle : ৳ 55.00"
+"price":55.00
+
+},
+{
+"name":"Oral-Z "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"10 mg/5 ml"
+"ganare":"Zinc Sulphate Monohydrate"
+"unitPrice":"
+100 ml bottle : ৳ 26.18"
+"price":26.18
+
+},
+{
+"name":"Oral-Z "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Zinc Sulphate Monohydrate"
+"unitPrice":"
+Unit Price : ৳ 1.51"
+"price":1.51
+
+},
+{
+"name":"Oralon "
+"company":"ACI Limited"
+"type":"Mouthwash"
+"strange":"0.2%"
+"ganare":"Chlorhexidine Gluconate (0.2%)"
+"unitPrice":"
+100 ml bottle : ৳ 60.00"
+"price":60.00
+
+},
+{
+"name":"Oralon "
+"company":"ACI Limited"
+"type":"Oral Gel"
+"strange":"1%"
+"ganare":"Chlorhexidine Gluconate (1%)"
+"unitPrice":"
+30 gm tube : ৳ 55.17"
+"price":55.17
+
+},
+{
+"name":"Ornical "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"120 mg"
+"ganare":"Orlistat"
+"unitPrice":"
+Unit Price : ৳ 55.00"
+"price":55.00
+
+},
+{
+"name":"Osetron"
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"8 mg"
+"ganare":"Ondansetron"
+"unitPrice":"
+Unit Price : ৳ 10.07"
+"price":10.07
+
+},
+{
+"name":"Osetron "
+"company":"ACI Limited"
+"type":"Oral Solution"
+"strange":"4 mg/5 ml"
+"ganare":"Ondansetron"
+"unitPrice":"
+50 ml bottle : ৳ 30.20"
+"price":30.20
+
+},
+{
+"name":"Osetron "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"8 mg/4 ml"
+"ganare":"Ondansetron"
+"unitPrice":"
+4 ml ampoule : ৳ 25.17"
+"price":25.17
+
+},
+{
+"name":"Ovazol "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"2.5 mg"
+"ganare":"Letrozole"
+"unitPrice":"
+Unit Price : ৳ 40.00"
+"price": 40.00
+
+},
+{
+"name":"Oxicam "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Tenoxicam"
+"unitPrice":"
+Unit Price : ৳ 8.05"
+"price":8.05
+},

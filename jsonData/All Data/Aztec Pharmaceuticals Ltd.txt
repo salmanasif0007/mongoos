@@ -1,0 +1,200 @@
+{
+"name":"Ale DS ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Atrex ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"40 mg/5 ml",
+"ganare":"Levamisole",
+"unitPrice":"Price not available"
+},
+{
+"name":"Benzabiol ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Emulsion",
+"strange":"1.25 gm/5 ml",
+"ganare":"Benzyl Benzoate",
+"unitPrice":"100 ml bottle : ৳ 31.00"
+},
+{
+"name":"Brofen ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Ibuprofen",
+"unitPrice":"Unit Price : ৳ 1.40"
+},
+{
+"name":"Cetol ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 16.00"
+},
+{
+"name":"Cetol ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Cetol Plus ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Price not available"
+},
+{
+"name":"Feroblood ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"200 mg/5 ml",
+"ganare":"Ferrous Sulfate",
+"unitPrice":"200 ml bottle : ৳ 24.00"
+},
+{
+"name":"Feroz ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 2.90"
+},
+{
+"name":"FFD ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Price not available"
+},
+{
+"name":"Histasip ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"60 ml bottle : ৳ 11.00"
+},
+{
+"name":"IPP 20 ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Price not available"
+},
+{
+"name":"Juberi ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Price not available"
+},
+{
+"name":"KTL ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Price not available"
+},
+{
+"name":"Metrona ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 24.00"
+},
+{
+"name":"Metrona ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Midrin ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Price not available"
+},
+{
+"name":"Milucast ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Price not available"
+},
+{
+"name":"Phensilex ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Promethazine Hydrochloride",
+"unitPrice":"60 ml bottle : ৳ 18.70"
+},
+{
+"name":"Rantid ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Tabrex ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"TC ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Tetracycline Hydrochloride (Oral)",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Trisul ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(200 mg+40 mg)/5 ml",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"60 ml bottle : ৳ 22.00"
+},
+{
+"name":"Trisul ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"800 mg+160 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Price not available"
+},
+{
+"name":"Tuknil ",
+"company":"Aztec Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Price not available"
+},

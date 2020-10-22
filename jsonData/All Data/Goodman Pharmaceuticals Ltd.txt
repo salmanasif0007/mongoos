@@ -1,0 +1,16 @@
+{
+"name":"G-Cefixime ",
+"company":"Goodman Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 130.50"
+},
+{
+"name":"G-Cefixime ",
+"company":"Goodman Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 20.00"
+},

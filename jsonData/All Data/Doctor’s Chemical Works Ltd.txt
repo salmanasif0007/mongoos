@@ -1,0 +1,840 @@
+{
+"name":"Aldew ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Algex ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"250 mg+400 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"Unit Price : ৳ 0.50"
+},
+{
+"name":"Algex ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Suspension",
+"strange":"(175 mg+225 mg)/5 ml",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"200 ml bottle : ৳ 33.00"
+},
+{
+"name":"Amlosin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 3.41"
+},
+{
+"name":"Amlosin Plus ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"5 mg+25 mg",
+"ganare":"Amlodipine + Atenolol",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Amobin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.14"
+},
+{
+"name":"Amobin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 24.00"
+},
+{
+"name":"Amobin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 0.53"
+},
+{
+"name":"Amox ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Amox ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Amox ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 46.00"
+},
+{
+"name":"Amox ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"15 ml bottle : ৳ 28.00"
+},
+{
+"name":"Anotic ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Flupentixol + Melitracen",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Anpar ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Terbinafine Hydrochloride",
+"unitPrice":"5 gm tube : ৳ 35.00"
+},
+{
+"name":"Auxil ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Auxil ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 9.44"
+},
+{
+"name":"Auxil ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 55.72"
+},
+{
+"name":"Beforte ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.43"
+},
+{
+"name":"Beforte ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 20.00"
+},
+{
+"name":"Beforte ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.57"
+},
+{
+"name":"Beforte-M ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 1.10"
+},
+{
+"name":"Beforte-Z ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Bentol ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Silver Sulfadiazine",
+"unitPrice":"10 gm tube : ৳ 11.38"
+},
+{
+"name":"Bilco ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 30.00"
+},
+{
+"name":"Bilco ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Pediatric Drop",
+"strange":"6 mg/ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"15 ml bottle : ৳ 20.00"
+},
+{
+"name":"Bronium ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"3 mg",
+"ganare":"Bromazepam",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Cefex ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephalexin",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Cefex ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephalexin",
+"unitPrice":"Unit Price : ৳ 6.50"
+},
+{
+"name":"Cefex ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephalexin",
+"unitPrice":"100 ml bottle : ৳ 75.00"
+},
+{
+"name":"Cetadol ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.60"
+},
+{
+"name":"Cetadol ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 16.00"
+},
+{
+"name":"Cetadol Plus ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Cloles ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Cloxil ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cloxacillin",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Cloxil ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cloxacillin",
+"unitPrice":"100 ml bottle : ৳ 42.65"
+},
+{
+"name":"Coprin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Syrup",
+"strange":"(10 mg+30 mg+1.25 mg)/5 ml",
+"ganare":"Dextromethorphan + Pseudoephedrine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 55.00"
+},
+{
+"name":"D-Butamol ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.33"
+},
+{
+"name":"D-Butamol ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.26"
+},
+{
+"name":"D-Butamol ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"100 ml bottle : ৳ 14.00"
+},
+{
+"name":"D-Fenac ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Gel",
+"strange":"1%w/w",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"10 gm tube : ৳ 12.68"
+},
+{
+"name":"D-Floxin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 4.55"
+},
+{
+"name":"D-Floxin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"D-Floxin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"60 ml bottle : ৳ 65.00"
+},
+{
+"name":"D-Lactate ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Calcium Lactate",
+"unitPrice":"Unit Price : ৳ 0.29"
+},
+{
+"name":"D-Vital ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Danium ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Clobazam",
+"unitPrice":"Unit Price : ৳ 2.90"
+},
+{
+"name":"Degram ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Suspension",
+"strange":"300 mg/5 ml",
+"ganare":"Nalidixic Acid",
+"unitPrice":"50 ml bottle : ৳ 30.00"
+},
+{
+"name":"Degram ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Nalidixic Acid",
+"unitPrice":"Unit Price : ৳ 3.87"
+},
+{
+"name":"Delazide ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Denitine ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Deprofen ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"400 mgI",
+"ganare":"buprofen",
+"unitPrice":"Unit Price : ৳ 0.91"
+},
+{
+"name":"Dexatil ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Dexatil ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"70 ml bottle : ৳ 198.00"
+},
+{
+"name":"Distamin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"200 ml bottle : ৳ 38.00"
+},
+{
+"name":"Distamin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"Unit Price : ৳ 0.20"
+},
+{
+"name":"Doctrim ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Suspension",
+"strange":"(200 mg+40 mg)/5 ml",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"60 ml bottle : ৳ 22.00"
+},
+{
+"name":"Doctrim ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"800 mg+160 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Unit Price : ৳ 1.74"
+},
+{
+"name":"Doctrim ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"400 mg+80 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Unit Price : ৳ 1.02"
+},
+{
+"name":"Dyaferon ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Syrup",
+"strange":"200 mg/5 ml",
+"ganare":"Ferrous Sulfate",
+"unitPrice":"200 ml bottle : ৳ 25.00"
+},
+{
+"name":"Energin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"6 mg+200 mg+50 mg",
+"ganare":"Betacarotene + Vitamin C + Vitamin E",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Eradex ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Loratadine",
+"unitPrice":"Unit Price : ৳ 3.73"
+},
+{
+"name":"Eridon ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Eridon ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 25.00"
+},
+{
+"name":"Esru ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Evidon ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Vitamin E (Alpha Tocopherol Acetate)",
+"unitPrice":"Unit Price : ৳ 2.90"
+},
+{
+"name":"Famotin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Famotidine",
+"unitPrice":"Unit Price : ৳ 1.42"
+},
+{
+"name":"Famotin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Famotidine",
+"unitPrice":"Unit Price : ৳ 3.80"
+},
+{
+"name":"Fezovit ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"Funga ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 6.50"
+},
+{
+"name":"Funga",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Haemozin TR ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 2.70"
+},
+{
+"name":"Heptavit ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Pediatric ",
+"strange":" ",
+"ganare":"DropMultivitamin (Pediatric preparation)",
+"unitPrice":"15 ml bottle : ৳ 15.00"
+},
+{
+"name":"Ilocin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Ilocin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Ilozin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Ilozin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.00"
+},
+{
+"name":"Isocal",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 1.86"
+},
+{
+"name":"Isocal-D ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Lanzol ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Capsule",
+"strange":"30 mg",
+"ganare":"Lansoprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Lefex ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Losap ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 5.97"
+},
+{
+"name":"Mebendol ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Mebendazole",
+"unitPrice":"Unit Price : ৳ 0.70"
+},
+{
+"name":"Mebendol ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Mebendazole",
+"unitPrice":"30 ml bottle : ৳ 13.65"
+},
+{
+"name":"Metfen ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Milk Of Magnesia ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Suspension",
+"strange":"400 mg/5 ml",
+"ganare":"Magnesium Hydroxide",
+"unitPrice":"114 ml bottle : ৳ 40.00"
+},
+{
+"name":"Neofexim ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Neofexim ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 175.00"
+},
+{
+"name":"Omaprin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 3.98"
+},
+{
+"name":"Orinil ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Diazepam",
+"unitPrice":"Unit Price : ৳ 0.21"
+},
+{
+"name":"Oxacin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Oxytetracycline",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Panprin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Panprin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Precinol ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Atenolol",
+"unitPrice":"Unit Price : ৳ 0.73"
+},
+{
+"name":"Repro ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Septa ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.36"
+},
+{
+"name":"Septa ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 49.00"
+},
+{
+"name":"Septa ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cephradine",
+"unitPrice":"15 ml bottle : ৳ 48.90"
+},
+{
+"name":"Spasmin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Hyoscine Butylbromide",
+"unitPrice":"Unit Price : ৳ 1.54"
+},
+{
+"name":"Theonate ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Theophylline",
+"unitPrice":"Unit Price : ৳ 1.31"
+},
+{
+"name":"Theonate ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Syrup",
+"strange":"120 mg/5 ml",
+"ganare":"Theophylline",
+"unitPrice":"50 ml bottle : ৳ 15.20"
+},
+{
+"name":"Theonate SR ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Theophylline",
+"unitPrice":"Unit Price : ৳ 2.90"
+},
+{
+"name":"Triphen ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Syrup",
+"strange":"(30 mg+100 mg+1.25 mg)/5 ml",
+"ganare":"Pseudoephedrine + Guaiphenasine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"Uteric ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Furosemide",
+"unitPrice":"Unit Price : ৳ 0.52"
+},
+{
+"name":"Velacin ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Doxycycline",
+"unitPrice":"Unit Price : ৳ 1.02"
+},
+{
+"name":"Zinsul ",
+"company":"Doctor’s Chemical Works Ltd",
+"type":"Syrup",
+"strange":"4.05 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 28.00"
+},

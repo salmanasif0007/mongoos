@@ -1,0 +1,184 @@
+{
+"name":"Actrapid ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"100 IU/10 ml",
+"ganare":"Insulin Human (rDNA)",
+"unitPrice":"10 ml vial : ৳ 406.48"
+},
+{
+"name":"Actrapid ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"40 IU/10 ml",
+"ganare":"Insulin Human (rDNA)",
+"unitPrice":"10 ml vial : ৳ 280.66"
+},
+{
+"name":"Actrapid Penfill ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Human (rDNA)",
+"unitPrice":"3 ml cartridge : ৳ 439.74"
+},
+{
+"name":"Actrapid Prefill Pen ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Human (rDNA)",
+"unitPrice":"3 ml cartridge : ৳ 444.29"
+},
+{
+"name":"Insulatard Flexpen ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Human (rDNA)",
+"unitPrice":"3 ml cartridge : ৳ 444.29"
+},
+{
+"name":"Insulatard Penfill ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Human (rDNA)",
+"unitPrice":"3 ml pen : ৳ 439.74"
+},
+{
+"name":"Insulatard-HM ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"40 IU/ml",
+"ganare":"Insulin Human (rDNA)",
+"unitPrice":"10 ml vial : ৳ 274.98"
+},
+{
+"name":"Insulatard-HM ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Human (rDNA)",
+"unitPrice":"10 ml vial : ৳ 406.48"
+},
+{
+"name":"Levemir Flexpen ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Detemir",
+"unitPrice":"3 ml pen : ৳ 1362.41"
+},
+{
+"name":"Mixtard 30 ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"40 IU/ml",
+"ganare":"Insulin Human (rDNA) + Isophane Insulin Human",
+"unitPrice":"10 ml vial : ৳ 280.66"
+},
+{
+"name":"Mixtard 30 ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Human (rDNA) + Isophane Insulin Human",
+"unitPrice":"10 ml vial : ৳ 406.48"
+},
+{
+"name":"Mixtard 30 ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Human (rDNA) + Isophane Insulin Human",
+"unitPrice":"3 ml cartridge : ৳ 439.74"
+},
+{
+"name":"Mixtard 30 FlexPen ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Human (rDNA) + Isophane Insulin Human",
+"unitPrice":"3 ml pen : ৳ 444.29"
+},
+{
+"name":"Mixtard 50 ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Human (rDNA) + Isophane Insulin Human",
+"unitPrice":"3 ml cartridge : ৳ 439.74"
+},
+{
+"name":"Novomix FlexPen ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"30%+70%",
+"ganare":"Biphasic Insulin Aspart (rDNA)",
+"unitPrice":"3 ml flexpen : ৳ 903.35"
+},
+{
+"name":"Novomix Penfill ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"30%+70%",
+"ganare":"Biphasic Insulin Aspart (rDNA)",
+"unitPrice":"3 ml pen : ৳ 755.63"
+},
+{
+"name":"Novorapid FlexPen ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Protamine Crystallised Insulin Aspart",
+"unitPrice":"3 ml flexpen : ৳ 903.35"
+},
+{
+"name":"Novorapid Penfill ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Protamine Crystallised Insulin Aspart",
+"unitPrice":"3 ml pen : ৳ 766.99"
+},
+{
+"name":"NovoSeven ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"1.2 mg/vial",
+"ganare":"Coagulation Factor VIIa (Eptacog Alfa)",
+"unitPrice":"1.2 mg vial : ৳ 76087.00"
+},
+{
+"name":"Ryzodeg FlexTouch ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Degludec + Insulin Aspart Premixed",
+"unitPrice":"3 ml pen : ৳ 1971.46"
+},
+{
+"name":"Ryzodeg Prefill ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Degludec + Insulin Aspart Premixed",
+"unitPrice":"3 ml pen : ৳ 1669.20"
+},
+{
+"name":"Tresiba FlexTouch ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Degludec",
+"unitPrice":"3 ml cartridge : ৳ 2602.10"
+},
+{
+"name":"Victoza ",
+"company":"Novo Nordisk",
+"type":"Injection",
+"strange":"6 mg/ml",
+"ganare":"Liraglutide",
+"unitPrice":"3 ml per-filled pen : ৳ 6079.13"
+},

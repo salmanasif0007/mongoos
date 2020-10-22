@@ -1,0 +1,56 @@
+{
+"name":"Amika ",
+"company":"Doctor TIMS Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/2 ml",
+"ganare":"Amikacin",
+"unitPrice":"2 ml ampoule : ৳ 48.32"
+},
+{
+"name":"Amika ",
+"company":"Doctor TIMS Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"100 mg/2 ml",
+"ganare":"Amikacin",
+"unitPrice":"2 ml ampoule : ৳ 16.11"
+},
+{
+"name":"Autoben ",
+"company":"Doctor TIMS Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Cetrol ",
+"company":"Doctor TIMS Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Hifenac ",
+"company":"Doctor TIMS Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Ketofenac ",
+"company":"Doctor TIMS Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"30 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 55.20"
+},
+{
+"name":"My-Azi ",
+"company":"Doctor TIMS Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 45.00"
+},

@@ -1,0 +1,32 @@
+{
+"name":"Cetrorelix ",
+"company":"Janata Traders",
+"type":"Injection",
+"strange":"250 mcg/vial",
+"ganare":"Cetrorelix Acetate",
+"unitPrice":"Unit Price : ৳ 3590.00"
+},
+{
+"name":"Eldopaque Forte ",
+"company":"Janata Traders",
+"type":"Cream",
+"strange":"4%",
+"ganare":"Hydroquinone",
+"unitPrice":"20 gm tube : ৳ 402.05"
+},
+{
+"name":"Ovidrel ",
+"company":"Janata Traders",
+"type":"Injection",
+"strange":"250 mcg",
+"ganare":"Choriogonadotropin Alpha",
+"unitPrice":"Unit Price : ৳ 4695.65"
+},
+{
+"name":"Peg-Intron ",
+"company":"Janata Traders",
+"type":"Injection",
+"strange":"80 mcg",
+"ganare":"Peginterferon alfa-2b (Pegylated Interferon alfa-2b)",
+"unitPrice":"Unit Price : ৳ 17728.90"
+},

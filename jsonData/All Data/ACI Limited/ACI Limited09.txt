@@ -1,0 +1,299 @@
+{
+"name":"Diasulin"
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"30%+70% in 100 IU/ml"
+"ganare":"Insulin Human (rDNA) + Isophane Insulin Human"
+"unitPrice":"10 ml vial : ৳ 415.00"
+"price":415.00
+
+},
+{
+"name":"Diasulin "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"50%+50% in 40 IU/ml"
+"ganare":"Insulin Human (rDNA) + Isophane Insulin Human"
+"unitPrice":"10 ml vial : ৳ 195.00"
+"price":195.00
+
+},
+{
+"name":"Diasulin "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"50%+50% in 100 IU/ml"
+"ganare":"Insulin Human (rDNA) + Isophane Insulin Human"
+"unitPrice":"10 ml vial : ৳ 415.00"
+"price":415.00
+
+},
+{
+"name":"Diasulin N "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"40 IU/ml"
+"ganare":"Insulin Human (rDNA)"
+"unitPrice":"10 ml vial : ৳ 195.00"
+"price":195.00
+
+},
+{
+"name":"Diasulin N "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"100 IU/ml"
+"ganare":"Insulin Human (rDNA)"
+"unitPrice":"10 ml vial : ৳ 415.00"
+"price":415.00
+
+},
+{
+"name":"Diasulin R "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"40 IU/ml"
+"ganare":"Insulin Human (rDNA)"
+"unitPrice":"10 ml vial : ৳ 195.00"
+"price":195.00
+
+},
+{
+"name":"Diasulin R "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"100 IU/ml"
+"ganare":"Insulin Human (rDNA)"
+"unitPrice":"10 ml vial : ৳ 415.00"
+"price":415.00
+
+},
+{
+"name":"Dilup "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"40 mg+50 mg"
+"ganare":"Furosemide + Spironolactone"
+"unitPrice":"Unit Price : ৳ 6.00"
+"price":6.00
+
+},
+{
+"name":"Diverin "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Dicycloverine Hydrochloride"
+"unitPrice":"Unit Price : ৳ 2.02"
+"price":2.02
+
+},
+{
+"name":"Diverin "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Dicycloverine Hydrochloride"
+"unitPrice":"Unit Price : ৳ 3.52"
+"price":3.52
+
+},
+{
+"name":"Diverin "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"10 mg/5 ml"
+"ganare":"Dicycloverine Hydrochloride"
+"unitPrice":"50 ml bottle : ৳ 30.20"
+"price":30.20
+
+},
+{
+"name":"Dixar "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"10 mg/5 ml"
+"ganare":"Dextromethorphan Hydrobromide"
+"unitPrice":"100 ml bottle : ৳ 40.00"
+"price":40.00
+
+},
+{
+"name":"Dixar Plus "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"(20 mg+10 mg+2.5 mg)/5 ml"
+"ganare":"Dextromethorphan + Phenylephrine + Triprolidine"
+"unitPrice":"100 ml bottle : ৳ 100.00"
+"price":100.00
+
+},
+{
+"name":"Dobumin "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"12.5 mg/ml"
+"ganare":"Dobutamine"
+"unitPrice":"20 ml vial : ৳ 251.69"
+"price":251.69
+
+},
+{
+"name":"Dorinem "
+"company":"ACI Limited"
+"type":"Infusion"
+"strange":"500 mg/vial"
+"ganare":"Doripenem"
+"unitPrice":"500 mg vial : ৳ 2,006.02"
+"price":2,006.02
+
+},
+{
+"name":"Doximar "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"400 mg"
+"ganare":"Doxophylline"
+"unitPrice":"Unit Price : ৳ 8.00"
+"price":8.00
+
+},
+{
+"name":"Doximar "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"200 mg"
+"ganare":"Doxophylline"
+"unitPrice":"Unit Price : ৳ 6.00"
+"price":6.00
+
+},
+{
+"name":"Doximar "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"100 mg/5 ml"
+"ganare":"Doxophylline"
+"unitPrice":"100 ml bottle : ৳ 100.00"
+"price":100.00
+
+},
+{
+"name":"Ebasten "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Ebastine"
+"unitPrice":"Unit Price : ৳ 8.00"
+"price":8.00
+
+},
+{
+"name":"Ebasten "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"5 mg/5 ml"
+"ganare":"Ebastine"
+"unitPrice":"50 ml bottle : ৳ 80.00"
+"price":80.00
+
+},
+{
+"name":"Ebasten FT "
+"company":"ACI Limited"
+"type":"Fast Dissolving Tablet"
+"strange":"10 mg"
+"ganare":"Ebastine"
+"unitPrice":"Unit Price : ৳ 10.00"
+"price":10.00
+
+},
+{
+"name":"Ecoren "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"1%"
+"ganare":"Econazole Nitrate"
+"unitPrice":"10 gm tube : ৳ 30.20"
+"price":30.20
+
+},
+{
+"name":"Ecoren T "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"1%+0.1%"
+"ganare":"Econazole Nitrate + Triamcinolone Acetonide"
+"unitPrice":"10 gm tube : ৳ 41.27"
+"price":41.27
+
+},
+{
+"name":"Erythin "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"125 mg/5 ml"
+"ganare":"Erythromycin (Oral)"
+"unitPrice":"100 ml bottle : ৳ 61.47"
+"price":61.47
+
+},
+{
+"name":"Esomep "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Esomeprazole"
+"unitPrice":"Unit Price : ৳ 5.02"
+"price":5.02
+
+},
+{
+"name":"Esomep "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"40 mg"
+"ganare":"Esomeprazole"
+"unitPrice":"Unit Price : ৳ 8.02"
+"price":8.02
+
+},
+{
+"name":"Esomep "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"20 mg"
+"ganare":"Esomeprazole"
+"unitPrice":"Unit Price : ৳ 7.02"
+"price":7.02
+
+},
+{
+"name":"Esomep "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"40 mg"
+"ganare":"Esomeprazole"
+"unitPrice":"Unit Price : ৳ 9.03"
+"price":9.03
+
+},
+{
+"name":"Esomep "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"40 mg/vial"
+"ganare":"Esomeprazole"
+"unitPrice":"40 mg vial : ৳ 90.27"
+"price":90.27
+
+},
+{
+"name":"Etrax "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"40 mg"
+"ganare":"Levamisole"
+"unitPrice":"Unit Price : ৳ 1.00"
+"price":1.00
+},

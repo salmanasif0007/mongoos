@@ -1,0 +1,1280 @@
+{
+"name":"Adrin ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 mg/ml",
+"ganare":"Adrenaline",
+"unitPrice":"1 ml ampoule : ৳ 25.08"
+},
+{
+"name":"Aldex ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Albendazole",
+"unitPrice":"10 ml bottle : ৳ 15.04"
+},
+{
+"name":"Aldex-DS ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 4.02"
+},
+{
+"name":"Alor ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.025%",
+"ganare":"Fluocinolone Acetonide",
+"unitPrice":"5 gm tube : ৳ 30.00"
+},
+{
+"name":"Antuss ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"(30 mg+100 mg+1.25 mg)/5 ml",
+"ganare":"Pseudoephedrine + Guaiphenasine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 60.18"
+},
+{
+"name":"B-Mycin ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"(5 mg+500 IU)/gm",
+"ganare":"Neomycin Sulfate + Bacitracin Zinc",
+"unitPrice":"10 gm tube : ৳ 17.36"
+},
+{
+"name":"B-Mycin ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Powder",
+"strange":"(5 mg+250 IU)/gm",
+"ganare":"Neomycin Sulfate + Bacitracin Zinc",
+"unitPrice":"5 gm pack : ৳ 10.03"
+},
+{
+"name":"Bendex ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Mebendazole",
+"unitPrice":"Unit Price : ৳ 0.75"
+},
+{
+"name":"Bendex ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Mebendazole",
+"unitPrice":"Unit Price : ৳ 2.76"
+},
+{
+"name":"Bendex ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Mebendazole",
+"unitPrice":"30 ml bottle : ৳ 14.89"
+},
+{
+"name":"Bensal ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"6%+3%",
+"ganare":"Benzoic Acid + Salicylic Acid",
+"unitPrice":"10 gm tube : ৳ 5.56"
+},
+{
+"name":"Berdinal ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Phenobarbital",
+"unitPrice":"Unit Price : ৳ 0.78"
+},
+{
+"name":"Berdinal ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"200 mg/ml",
+"ganare":"Phenobarbital",
+"unitPrice":"1 ml ampoule : ৳ 16.04"
+},
+{
+"name":"Boxitrol ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Ointment",
+"strange":"(400 IU+3.5 mg+5000 IU)/gm",
+"ganare":"Neomycin Sulfate + Bacitracin Zinc + Polymyxin B Sulfate (Eye)",
+"unitPrice":"5 gm tube : ৳ 20.68"
+},
+{
+"name":"Boxitrol ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"(400 IU+3.5 mg+5000 IU)/ml",
+"ganare":"Neomycin Sulfate + Bacitracin Zinc + Polymyxin B Sulfate (Eye)",
+"unitPrice":"5 ml drop : ৳ 30.09"
+},
+{
+"name":"Brocef ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 24.00"
+},
+{
+"name":"Brocef ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 43.00"
+},
+{
+"name":"Brospan ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Hyoscine Butylbromide",
+"unitPrice":"Unit Price : ৳ 1.83"
+},
+{
+"name":"Brospan ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"20 mg/ml",
+"ganare":"Hyoscine Butylbromide",
+"unitPrice":"1 ml ampoule : ৳ 7.87"
+},
+{
+"name":"Calcifil ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 3.27"
+},
+{
+"name":"Calcifil D ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 4.02"
+},
+{
+"name":"Calcinate ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"100 mg/2 ml",
+"ganare":"Calcium Pantothenate",
+"unitPrice":"100 mg ampoule : ৳ 3.52"
+},
+{
+"name":"Caltate ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Calcium Lactate",
+"unitPrice":"Unit Price : ৳ 0.71"
+},
+{
+"name":"Cero ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.3%",
+"ganare":"Ciprofloxacin (Eye/Ear)",
+"unitPrice":"5 ml drop : ৳ 40.12"
+},
+{
+"name":"Cero ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Ointment",
+"strange":"0.3%",
+"ganare":"Ciprofloxacin (Eye/Ear)",
+"unitPrice":"5 gm tube : ৳ 32.10"
+},
+{
+"name":"Cero ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 14.05"
+},
+{
+"name":"Cero-HC ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Ear Drop",
+"strange":"0.3%+1%",
+"ganare":"Ciprofloxacin + Hydrocortisone Acetate",
+"unitPrice":"10 ml drop : ৳ 55.17"
+},
+{
+"name":"Cerodex ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.3%+0.1%",
+"ganare":"Ciprofloxacin + Dexamethasone",
+"unitPrice":"5 ml drop : ৳ 75.23"
+},
+{
+"name":"Crodex ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"10%",
+"ganare":"Crotamiton",
+"unitPrice":"20 gm tube : ৳ 60.18"
+},
+{
+"name":"Dexchlor ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.1%+0.5%",
+"ganare":"Dexamethasone + Chloramphenicol",
+"unitPrice":"5 ml drop : ৳ 70.22"
+},
+{
+"name":"Dexsol ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Dextromethorphan Hydrobromide",
+"unitPrice":"100 ml bottle : ৳ 35.11"
+},
+{
+"name":"Didryl ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Diphenhydramine Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 45.32"
+},
+{
+"name":"ECA ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"6 mg+200 mg+50 mg",
+"ganare":"Betacarotene + Vitamin C + Vitamin E",
+"unitPrice":"Unit Price : ৳ 2.54"
+},
+{
+"name":"Ecin ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Eracillin-K ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Phenoxymethyl Penicillin (Penicillin V)",
+"unitPrice":"Unit Price : ৳ 1.48"
+},
+{
+"name":"Eracillin-K ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Phenoxymethyl Penicillin (Penicillin V)",
+"unitPrice":"50 ml bottle : ৳ 18.21"
+},
+{
+"name":"Esmotac ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 4.02"
+},
+{
+"name":"Esmotac ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 7.03"
+},
+{
+"name":"Expilin ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"60 ml bottle : ৳ 11.03"
+},
+{
+"name":"Farevan ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Warfarin",
+"unitPrice":"Unit Price : ৳ 3.05"
+},
+{
+"name":"Fcx ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Fcx ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Fcx ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Fermid ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Clomiphene Citrate",
+"unitPrice":"Unit Price : ৳ 10.03"
+},
+{
+"name":"Flamitrol ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.1%",
+"ganare":"Dexamethasone Sodium Phosphate (E/E)",
+"unitPrice":"5 ml drop : ৳ 100.30"
+},
+{
+"name":"Flucort ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.1%",
+"ganare":"Fluorometholone Acetate",
+"unitPrice":"5 ml drop : ৳ 90.27"
+},
+{
+"name":"Furamane ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"15 mg",
+"ganare":"Flurazepam",
+"unitPrice":"Unit Price : ৳ 2.99"
+},
+{
+"name":"G-Fix ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 35.11"
+},
+{
+"name":"G-Fix ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 195.59"
+},
+{
+"name":"Gaco Water For Inj.",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":" ",
+"strange":"5 ml/ampoule",
+"ganare":"Water for injection",
+"unitPrice":"5 ml ampoule : ৳ 5.02"
+},
+{
+"name":"Gacozema ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Ointmen",
+"strange":"t0.1%+1%+2%",
+"ganare":"Dithranol + Salicylic Acid + Boric Acid",
+"unitPrice":"6 gm tube : ৳ 25.08"
+},
+{
+"name":"Ganacomb ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":" ",
+"ganare":"Triamcinolone + Neomycin + Nystatin + Gramicidin",
+"unitPrice":"5 gm tube : ৳ 18.86"
+},
+{
+"name":"Gento ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Ointment",
+"strange":"0.3%",
+"ganare":"Gentamicin Sulphate (Eye/Ear Drops)",
+"unitPrice":"5 gm tube : ৳ 10.10"
+},
+{
+"name":"Gento ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"0.3%",
+"ganare":"Gentamicin Sulphate (Topical Preparation)",
+"unitPrice":"5 gm tube : ৳ 9.12"
+},
+{
+"name":"Gento ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.3%",
+"ganare":"Gentamicin Sulphate (Eye/Ear Drops)",
+"unitPrice":"10 ml drop : ৳ 31.60"
+},
+{
+"name":"Gento-HC ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.3%+1%",
+"ganare":"Gentamicin + Hydrocortisone Acetate",
+"unitPrice":"10 gm tube : ৳ 60.18"
+},
+{
+"name":"Gento-HC ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Ear Drop",
+"strange":"0.3%+1%",
+"ganare":"Gentamicin + Hydrocortisone Acetate",
+"unitPrice":"10 ml drop : ৳ 60.18"
+},
+{
+"name":"Grifulvin ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Griseofulvin (Microsize)",
+"unitPrice":"Unit Price : ৳ 4.80"
+},
+{
+"name":"Helmisole ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Levamisole",
+"unitPrice":"Unit Price : ৳ 0.41"
+},
+{
+"name":"Helmisole ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"40 mg/5 ml",
+"ganare":"Levamisole",
+"unitPrice":"30 ml bottle : ৳ 15.04"
+},
+{
+"name":"Hiposul ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.43"
+},
+{
+"name":"Hiposul ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 1.01"
+},
+{
+"name":"Hiposul ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 20.92"
+},
+{
+"name":"Hiposul ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"2 ml ampoule : ৳ 10.03"
+},
+{
+"name":"Itchin ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Drops",
+"strange":"2%",
+"ganare":"Sodium Cromoglicate (2%)",
+"unitPrice":"10 ml drop : ৳ 60.18"
+},
+{
+"name":"Itchin DS ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Drops",
+"strange":"4%",
+"ganare":"Sodium Cromoglicate (4%)",
+"unitPrice":"10 ml drop : ৳ 75.23"
+},
+{
+"name":"Kanis ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Ear Drop",
+"strange":"1%",
+"ganare":"Clotrimazole (Ear)",
+"unitPrice":"10 ml drop : ৳ 80.24"
+},
+{
+"name":"Kanis ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Clotrimazole (Topical)",
+"unitPrice":"10 gm tube : ৳ 30.09"
+},
+{
+"name":"Kerolac ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Ketorolac Tromethamine (Eye Drops)",
+"unitPrice":"5 ml drop : ৳ 60.18"
+},
+{
+"name":"Kerolac ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.03"
+},
+{
+"name":"Kids-B ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 35.11"
+},
+{
+"name":"Kilgen ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Moxifloxacin Hydrochloride",
+"unitPrice":"5 ml drop : ৳ 100.30"
+},
+{
+"name":"Lepsone ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Dapsone",
+"unitPrice":"Unit Price : ৳ 0.38"
+},
+{
+"name":"Livacin ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 15.05"
+},
+{
+"name":"Livacin ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Levofloxacin (Eye)",
+"unitPrice":"5 ml drop : ৳ 90.27"
+},
+{
+"name":"Lumex ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.3%",
+"ganare":"Lomefloxacin (Eye Drop)",
+"unitPrice":"5 ml drop : ৳ 60.50"
+},
+{
+"name":"Magadrox Plus ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(400 mg+400 mg+30 mg)/5 ml",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+"unitPrice":"200 ml bottle : ৳ 75.23"
+},
+{
+"name":"Magadrox Plus ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg+200 mg+30 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+"unitPrice":"Unit Price : ৳ 0.90"
+},
+{
+"name":"Melatil ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Prochlorperazine",
+"unitPrice":"Unit Price : ৳ 0.45"
+},
+{
+"name":"Melatil ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"12.5 mg/ml",
+"ganare":"Prochlorperazine",
+"unitPrice":"1 ml ampoule : ৳ 3.55"
+},
+{
+"name":"Meradexon ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"5 mg/ml",
+"ganare":"Dexamethasone Sodium Phosphate",
+"unitPrice":"1 ml ampoule : ৳ 9.84"
+},
+{
+"name":"Meradexon ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.1%",
+"ganare":"Dexamethasone Sodium Phosphate (E/E)",
+"unitPrice":"5 ml drop : ৳ 50.16"
+},
+{
+"name":"Methasol ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Drops",
+"strange":"0.1%",
+"ganare":"Betamethasone",
+"unitPrice":"5 ml drop : ৳ 31.80"
+},
+{
+"name":"Methasol-N ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Ointment",
+"strange":"0.1%+0.5%",
+"ganare":"Betamethasone + Neomycin Sulphate (E/E)",
+"unitPrice":"5 gm tube : ৳ 12.70"
+},
+{
+"name":"Methasol-N ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Drops",
+"strange":"0.1%+0.5%",
+"ganare":"Betamethasone + Neomycin Sulphate (E/E)",
+"unitPrice":"5 ml drop : ৳ 35.11"
+},
+{
+"name":"Methocid ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"25 mg",
+"ganare":"Indomethacin",
+"unitPrice":"Unit Price : ৳ 0.56"
+},
+{
+"name":"Methovate-N ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.1%+0.5%",
+"ganare":"Betamethasone + Neomycin Sulphate (Topical)",
+"unitPrice":"5 gm tube : ৳ 15.39"
+},
+{
+"name":"Methovate-N ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"0.1%+0.5%",
+"ganare":"Betamethasone + Neomycin Sulphate (Topical)",
+"unitPrice":"5 gm tube : ৳ 18.57"
+},
+{
+"name":"Methovate-R ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Rectal Ointment",
+"strange":"0.05%+0.1%+2.5%",
+"ganare":"Betamethasone + Phenylephrine + Lignocaine",
+"unitPrice":"15 mg tube : ৳ 30.09"
+},
+{
+"name":"Micozol-HC ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"2%+1%",
+"ganare":"Miconazole Nitrate + Hydrocortisone",
+"unitPrice":"10 gm tube : ৳ 40.12"
+},
+{
+"name":"Monosol ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Solution",
+"strange":"25%",
+"ganare":"Monosulfiram",
+"unitPrice":"30 ml bottle : ৳ 50.58"
+},
+{
+"name":"Mulyt ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"4 mg/5 ml",
+"ganare":"Bromhexine Hyrdochloride",
+"unitPrice":"100 ml bottle : ৳ 40.12"
+},
+{
+"name":"Mydripine ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"1%",
+"ganare":"Atropine Sulfate",
+"unitPrice":"10 ml drop : ৳ 25.89"
+},
+{
+"name":"Mydripine ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Ointment",
+"strange":"1%",
+"ganare":"Atropine Sulfate",
+"unitPrice":"5 gm tube : ৳ 14.31"
+},
+{
+"name":"Naprocid ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Naprocid ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 7.02"
+},
+{
+"name":"Natacin ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"5%",
+"ganare":"Natamycin",
+"unitPrice":"5 ml drop : ৳ 80.24"
+},
+{
+"name":"Negaron ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Cinnarizine",
+"unitPrice":"Unit Price : ৳ 0.50"
+},
+{
+"name":"Novin ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Nasal Drop",
+"strange":"0.05%",
+"ganare":"Xylometazoline",
+"unitPrice":"10 ml drop : ৳ 6.91"
+},
+{
+"name":"Novin ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Nasal Drop",
+"strange":"0.1%",
+"ganare":"Xylometazoline",
+"unitPrice":"10 ml drop : ৳ 7.53"
+},
+{
+"name":"Octon ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Nitrazepam",
+"unitPrice":"Unit Price : ৳ 1.01"
+},
+{
+"name":"Olopta ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.1%",
+"ganare":"Olopatadine Hydrochloride (Eye Drops)",
+"unitPrice":"5 ml drop : ৳ 100.30"
+},
+{
+"name":"Olopta DS ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.2%",
+"ganare":"Olopatadine Hydrochloride (Eye Drops)",
+"unitPrice":"5 ml drop : ৳ 150.00"
+},
+{
+"name":"Omitac ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Pantozol ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Pantozol ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Permet ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"5%w/w",
+"ganare":"Permethrin",
+"unitPrice":"15 gm tube : ৳ 25.08"
+},
+{
+"name":"Polycort ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"(10 mg+3400 Units+10000 Units)/ml",
+"ganare":"Hydrocortisone + Neomycin Sulphate + Polymixin B",
+"unitPrice":"5 ml drop : ৳ 45.14"
+},
+{
+"name":"Promergan ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Promethazine Hydrochloride",
+"unitPrice":"60 ml bottle : ৳ 12.04"
+},
+{
+"name":"Propanthene ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Propantheline Bromide",
+"unitPrice":"Unit Price : ৳ 1.31"
+},
+{
+"name":"Reufen ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Ibuprofen",
+"unitPrice":"Unit Price : ৳ 0.40"
+},
+{
+"name":"Reufen ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Ibuprofen",
+"unitPrice":"Unit Price : ৳ 1.31"
+},
+{
+"name":"Reufen ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Ibuprofen",
+"unitPrice":"60 ml bottle : ৳ 12.49"
+},
+{
+"name":"Reutren ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"25 mg/ml",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"3 ml ampoule : ৳ 7.74"
+},
+{
+"name":"Reutren ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Gel",
+"strange":"1%w/w",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"10 gm tube : ৳ 12.18"
+},
+{
+"name":"Reutren ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.1%",
+"ganare":"Diclofenac Sodium (Eye Drops)",
+"unitPrice":"5 ml drop : ৳ 70.21"
+},
+{
+"name":"Reutren SR ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Rheudene ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"10 mg",
+"ganare":"Piroxicam",
+"unitPrice":"Unit Price : ৳ 1.76"
+},
+{
+"name":"Rifatan ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"100 mg/5 ml",
+"ganare":"Rifampicin",
+"unitPrice":"60 ml bottle : ৳ 29.39"
+},
+{
+"name":"Rizin ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.51"
+},
+{
+"name":"Rizin ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"60 ml bottle : ৳ 16.04"
+},
+{
+"name":"Rocular ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.2%",
+"ganare":"Brimonidine Tartrate",
+"unitPrice":"5 ml drop : ৳ 80.24"
+},
+{
+"name":"Rocular Plus ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.2%+0.5%",
+"ganare":"Brimonidine Tartrate + Timolol Maleate",
+"unitPrice":"5 ml drop : ৳ 110.00"
+},
+{
+"name":"Savedin ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Mouthwash",
+"strange":"1%w/v",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"100 ml bottle : ৳ 25.00"
+},
+{
+"name":"Sevirax ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Ointment",
+"strange":"3%",
+"ganare":"Acyclovir (Ophthalmic)",
+"unitPrice":"5 gm tube : ৳ 70.21"
+},
+{
+"name":"Silverzine ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Silver Sulfadiazine",
+"unitPrice":"25 gm tube : ৳ 40.12"
+},
+{
+"name":"Skinovate ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.05%",
+"ganare":"Clobetasol Propionate",
+"unitPrice":"10 gm tube : ৳ 35.11"
+},
+{
+"name":"Supraphen ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Chloramphenicol",
+"unitPrice":"10 ml drop : ৳ 34.50"
+},
+{
+"name":"Supraphen ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Ointment",
+"strange":"1%",
+"ganare":"Chloramphenicol",
+"unitPrice":"5 gm tube : ৳ 12.53"
+},
+{
+"name":"Supraphen ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Ear Drop",
+"strange":"10%",
+"ganare":"Chloramphenicol",
+"unitPrice":"10 ml drop : ৳ 25.57"
+},
+{
+"name":"Supraphen ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Ear Drop",
+"strange":"5%",
+"ganare":"Chloramphenicol",
+"unitPrice":"10 ml drop : ৳ 16.10"
+},
+{
+"name":"Supraphen plus ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Ear Drop",
+"strange":"5%+1%",
+"ganare":"Chloramphenicol + Lidocaine Hydrochloride",
+"unitPrice":"10 ml drop : ৳ 20.06"
+},
+{
+"name":"Tear ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Hypromellose (Eye drop)",
+"unitPrice":"10 ml drop : ৳ 90.27"
+},
+{
+"name":"Terovit ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Folic acid",
+"unitPrice":"Unit Price : ৳ 0.31"
+},
+{
+"name":"Timidal ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Timidal ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 20.06"
+},
+{
+"name":"Timidal Plus ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 2.01"
+},
+{
+"name":"Tobidex ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.1%+0.3%",
+"ganare":"Dexamethasone + Tobramycin",
+"unitPrice":"5 ml drop : ৳ 130.39"
+},
+{
+"name":"Tobidex ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Ointment",
+"strange":"0.1%+0.3%",
+"ganare":"Dexamethasone + Tobramycin",
+"unitPrice":"3.5 gm tube : ৳ 90.27"
+},
+{
+"name":"Tobirax ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.3%",
+"ganare":"Tobramycin (Eye)",
+"unitPrice":"5 ml drop : ৳ 90.27"
+},
+{
+"name":"Tobirax ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Ointment",
+"strange":"0.3%",
+"ganare":"Tobramycin (Eye)",
+"unitPrice":"3.5 gm tube : ৳ 50.16"
+},
+{
+"name":"Trusil ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Tropicamide",
+"unitPrice":"5 ml drop : ৳ 55.80"
+},
+{
+"name":"Trusil ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"1%",
+"ganare":"Tropicamide",
+"unitPrice":"5 ml drop : ৳ 76.09"
+},
+{
+"name":"Trusil Plus ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.8%+5%",
+"ganare":"Tropicamide + Phenylephrine Hydrochloride",
+"unitPrice":"5 ml drop : ৳ 80.24"
+},
+{
+"name":"Unicort ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Hydrocortisone Acetate (Topical)",
+"unitPrice":"5 gm tube : ৳ 16.04"
+},
+{
+"name":"Unicort N ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"0.5%+0.5%",
+"ganare":"Hydrocortisone Acetate + Neomycin Sulphate",
+"unitPrice":"15 gm tube : ৳ 16.05"
+},
+{
+"name":"Unimox ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.60"
+},
+{
+"name":"Unimox ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.73"
+},
+{
+"name":"Unimox ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 47.29"
+},
+{
+"name":"Unimox ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"15 ml bottle : ৳ 28.32"
+},
+{
+"name":"Unitac ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 1.81"
+},
+{
+"name":"Venol ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"60 ml bottle : ৳ 10.78"
+},
+{
+"name":"Vimin Plus ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Xpain ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Zecef ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.54"
+},
+{
+"name":"Zecef ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.24"
+},
+{
+"name":"Zecef ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cephradine",
+"unitPrice":"15 ml bottle : ৳ 50.16"
+},
+{
+"name":"Zemalog ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.1%",
+"ganare":"Halcinonide",
+"unitPrice":"5 gm tube : ৳ 18.06"
+},
+{
+"name":"Zemycin ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 30.09"
+},
+{
+"name":"Zemycin ",
+"company":"Gaco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.26"
+},

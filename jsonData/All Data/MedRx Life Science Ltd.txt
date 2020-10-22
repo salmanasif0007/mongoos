@@ -1,0 +1,160 @@
+{
+"name":"Carlomed ",
+"company":"MedRx Life Science Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Calcium Orotate Dihydrate",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Crotamed ",
+"company":"MedRx Life Science Ltd",
+"type":"Lotion",
+"strange":"5%+10%",
+"ganare":"Permethrin + Crotamiton",
+"unitPrice":"100 ml bottle : ৳ 100.00"
+},
+{
+"name":"Erectomed ",
+"company":"MedRx Life Science Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Tadalafil",
+"unitPrice":"Unit Price : ৳ 75.00"
+},
+{
+"name":"Erectomed ",
+"company":"MedRx Life Science Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Tadalafil",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Ketofimed ",
+"company":"MedRx Life Science Ltd",
+"type":"Syrup",
+"strange":"1 mg/5 ml",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"100 ml bottle : ৳ 55.00"
+},
+{
+"name":"Kidomed BZ ",
+"company":"MedRx Life Science Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Medigra ",
+"company":"MedRx Life Science Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 40.00"
+},
+{
+"name":"Medigra ",
+"company":"MedRx Life Science Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 70.00"
+},
+{
+"name":"Medricox ",
+"company":"MedRx Life Science Ltd",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Medricox ",
+"company":"MedRx Life Science Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Medzith ",
+"company":"MedRx Life Science Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"30 ml bottle : ৳ 140.00"
+},
+{
+"name":"Nitamed ",
+"company":"MedRx Life Science Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Nitazoxanide",
+"unitPrice":"30 ml bottle : ৳ 35.00"
+},
+{
+"name":"Nitamed ",
+"company":"MedRx Life Science Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Nitazoxanide",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Omemed ",
+"company":"MedRx Life Science Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Omemed ",
+"company":"MedRx Life Science Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Palanomed ",
+"company":"MedRx Life Science Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Palonosetron",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Povimed ",
+"company":"MedRx Life Science Ltd",
+"type":"Solution",
+"strange":"10%w/v",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"100 ml bottle : ৳ 35.00"
+},
+{
+"name":"Povimed ",
+"company":"MedRx Life Science Ltd",
+"type":"Cream",
+"strange":"6%w/w",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"25 gm tube : ৳ 50.00"
+},
+{
+"name":"Rabimed ",
+"company":"MedRx Life Science Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Rabeprazole Sodium",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Timomed ",
+"company":"MedRx Life Science Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"Unit Price : ৳ 5.00"
+},

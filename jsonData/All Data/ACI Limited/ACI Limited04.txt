@@ -1,0 +1,270 @@
+{
+"name":"Avloclav"
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"250 mg+125 mg"
+"ganare":"Amoxicillin + Clavulanic Acid"
+"unitPrice":"Unit Price : ৳ 25.00"
+"price":25.00
+},
+{
+"name":"Avloclav"
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"500 mg+125 mg"
+"ganare":"Amoxicillin + Clavulanic Acid"
+"unitPrice":"Unit Price : ৳ 32.00"
+"price":32.00
+},
+{
+"name":"Avloclav "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"875 mg+125 mg"
+"ganare":"Amoxicillin + Clavulanic Acid"
+"unitPrice":"Unit Price : ৳ 45.00"
+"price":45.00
+},
+{
+"name":"Avloclav"
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"(125 mg+31.25 mg)/5 ml"
+"ganare":"Amoxicillin + Clavulanic Acid"
+"unitPrice":"100 ml bottle : ৳ 220.00"
+"price":220.00
+},
+{
+"name":"Avloclav BID "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"(400 mg+57.50 mg)/5 ml"
+"ganare":"Amoxicillin + Clavulanic Acid"
+"unitPrice":"50 ml bottle : ৳ 195.00"
+"price":195.00
+},
+{
+"name":"Avlomox"
+"company":"ACI Limited"
+"type":"Pediatric Drop"
+"strange":"125 mg/1.25 ml"
+"ganare":"Amoxicillin Trihydrate"
+"unitPrice":"15 ml bottle : ৳ 30.29"
+"price":30.29
+},
+{
+"name":"Avlomox "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"500 mg"
+"ganare":"Amoxicillin Trihydrate"
+"unitPrice":"Unit Price : ৳ 6.12"
+"price":6.12
+},
+{
+"name":"Avlomox "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"250 mg"
+"ganare":"Amoxicillin Trihydrate"
+"unitPrice":"Unit Price : ৳ 3.45"
+"price":3.45
+},
+{
+"name":"Avlomox"
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"500 mg/vial"
+"ganare":"Amoxicillin Trihydrate"
+"unitPrice":"500 mg vial : ৳ 32.10"
+"price":32.10
+},
+{
+"name":"Avlomox "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"125 mg/5 ml"
+"ganare":"Amoxicillin Trihydrate"
+"unitPrice":"100 ml bottle : ৳ 46.32"
+"price":46.32
+},
+{
+"name":"Avlomox DS "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"250 mg/5 ml"
+"ganare":"Amoxicillin Trihydrate"
+"unitPrice":"100 ml bottle : ৳ 65.45"
+"price":65.45
+},
+{
+"name":"Avloquin "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Chloroquine Phosphate"
+"unitPrice":"Unit Price : ৳ 1.22"
+"price":1.22
+},
+{
+"name":"Avloquin "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"80 mg/5 ml"
+"ganare":"Chloroquine Phosphate"
+"unitPrice":"60 ml bottle : ৳ 14.91"
+"price":14.91
+},
+{
+"name":"Avlosef "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"250 mg"
+"ganare":"Cephradine"
+"unitPrice":"Unit Price : ৳ 8.02"
+"price":8.02
+},
+{
+"name":"Avlosef "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"500 mg"
+"ganare":"Cephradine"
+"unitPrice":"Unit Price : ৳ 15.05"
+"price":15.05
+},
+{
+"name":"Avlosef "
+"company":"ACI Limited"
+"type":"Pediatric Drop"
+"strange":"125 mg/1.25 ml"
+"ganare":"Cephradine"
+"unitPrice":"15 ml bottle : ৳ 65.20"
+"price": 65.20
+},
+{
+"name":"Avlosef "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"500 mg/vial"
+"ganare":"Cephradine"
+"unitPrice":"500 mg vial : ৳ 65.20"
+"price": 65.20
+},
+{
+"name":"Avlosef "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"1 gm/vial"
+"ganare":"Cephradine"
+"unitPrice":"1 gm vial : ৳ 95.29"
+"price": 95.29
+},
+{
+"name":"Avlosef "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"125 mg/5 ml"
+"ganare":"Cephradine"
+"unitPrice":"100 ml bottle : ৳ 90.27"
+"price":90.27
+},
+{
+"name":"Avlosef DS"
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"250 mg/5 ml"
+"ganare":"Cephradine"
+"unitPrice":"100 ml bottle : ৳ 135.41"
+"price":135.41
+},
+{
+"name":"Avlotrin "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"(200 mg+40 mg)/5 ml"
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)"
+"unitPrice":"60 ml bottle : ৳ 22.21"
+"price": 22.21
+},
+{
+"name":"Avlotrin DS "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"800 mg+160 mg"
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)"
+"unitPrice":"Unit Price : ৳ 2.01"
+"price":2.01
+},
+{
+"name":"Bepost"
+"company":"ACI Limited"
+"type":"Eye Drop"
+"strange":"1.5%"
+"ganare":"Bepotastine Besilate"
+"unitPrice":"5 ml drop : ৳ 300.00"
+"price":300.00
+},
+{
+"name":"Bilicir"
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"150 mg"
+"ganare":"Ursodeoxycholic Acid"
+"unitPrice":"Unit Price : ৳ 11.00"
+"price":11.00
+},
+{
+"name":"Bilicir "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"300 mg"
+"ganare":"Ursodeoxycholic Acid"
+"unitPrice":"Unit Price : ৳ 20.00"
+"price":20.00
+},
+{
+"name":"Bipinor"
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"2.5 mg"
+"ganare":"Nebivolol"
+"unitPrice":"Unit Price : ৳ 5.04"
+"price":5.04
+},
+{
+"name":"Bipinor "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Nebivolol"
+"unitPrice":"Unit Price : ৳ 8.05"
+"price":8.05
+},
+{
+"name":"Blocid "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"(500 mg+100 mg)/5 ml"
+"ganare":"Sodium Alginate + Potassium Bicarbonate"
+"unitPrice":"200 ml bottle : ৳ 125.00"
+"price":125.00
+},
+{
+"name":"Brodil "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"2 mg"
+"ganare":"Salbutamol"
+"unitPrice":"Unit Price : ৳ 0.26"
+"price":0.26
+},
+{
+"name":"Brodil"
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"4 mg"
+"ganare":"Salbutamol"
+"unitPrice":"Unit Price : ৳ 0.46"
+"price":0.46
+},

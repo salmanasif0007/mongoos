@@ -1,0 +1,344 @@
+{
+"name":"Aclovix ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Albaplex ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 20.60"
+},
+{
+"name":"Albatab ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.44"
+},
+{
+"name":"Albenda DS ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 3.40"
+},
+{
+"name":"Alcofen ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 0.70"
+},
+{
+"name":"Alcofen SR ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Almoxil ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.60"
+},
+{
+"name":"Almoxil ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Almoxil ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.30"
+},
+{
+"name":"Amicard Plus ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg+50 mg",
+"ganare":"Amlodipine + Atenolol",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Archi Extra ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Artem ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg+120 mg",
+"ganare":"Artemether + Lumefantrine",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Artem ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"(15 mg+90 mg)/5 ml",
+"ganare":"Artemether + Lumefantrine",
+"unitPrice":"60 ml bottle : ৳ 220.00"
+},
+{
+"name":"Artesunet ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Artesunate",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Ceferon ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Ceferon ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"37.5 ml bottle : ৳ 130.00"
+},
+{
+"name":"Delacin ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Doxycycline",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Diflucon ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Dolocid ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg+400 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"Unit Price : ৳ 0.60"
+},
+{
+"name":"Dolocid ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(200 mg+250 mg)/5 ml",
+"ganare":"Aluminium Oxide + Magnesium Trisilicate",
+"unitPrice":"200 ml bottle : ৳ 32.00"
+},
+{
+"name":"Eromed ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 55.00"
+},
+{
+"name":"Ferofe Z TR ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg+200 mcg",
+"ganare":"Ferrous Fumerate + Folic acid",
+"unitPrice":"Unit Price : ৳ 2.90"
+},
+{
+"name":"Flumark ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Flumark ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Histosin ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"Unit Price : ৳ 0.16"
+},
+{
+"name":"Histosin ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"100 ml bottle : ৳ 12.00"
+},
+{
+"name":"Levostin ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 13.00"
+},
+{
+"name":"Lomesec ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Magadrate Plus ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"400 mg/5 ml",
+"ganare":"Magaldrate",
+"unitPrice":"200 ml bottle : ৳ 50.00"
+},
+{
+"name":"Multivita Forte ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Neoflam ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Ibuprofen",
+"unitPrice":"Unit Price : ৳ 1.40"
+},
+{
+"name":"No-Trol ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Novadin ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Novadin ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Ostocurb ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 1.60"
+},
+{
+"name":"Pantaloc ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Perictol ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Cyproheptadine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Ribovit ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Riboflavin",
+"unitPrice":"Unit Price : ৳ 0.20"
+},
+{
+"name":"Scabicid ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Emulsion",
+"strange":"1.25 gm/5 ml",
+"ganare":"Benzyl Benzoate",
+"unitPrice":"60 ml bottle : ৳ 12.13"
+},
+{
+"name":"Tetramin ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Tetracycline Hydrochloride (Oral)",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Ultac ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Uniflox ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Uniquin ",
+"company":"Aexim Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Chloroquine Phosphate",
+"unitPrice":"Unit Price : ৳ 1.00"
+},

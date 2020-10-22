@@ -1,0 +1,56 @@
+{
+"name":"Docetaxel AqVida ",
+"company":"BioRx",
+"type":"Infusion",
+"strange":"80 mg/vial",
+"ganare":"Docetaxel Trihydrate",
+"unitPrice":"80 mg vial : ৳ 10545.00"
+},
+{
+"name":"Docetaxel AqVida ",
+"company":"BioRx",
+"type":"Infusion",
+"strange":"20 mg/vial",
+"ganare":"Docetaxel Trihydrate",
+"unitPrice":"20 mg vial : ৳ 3515.00"
+},
+{
+"name":"Gemcitabine AqVida ",
+"company":"BioRx",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Gemcitabine",
+"unitPrice":"1 gm vial : ৳ 6175.00"
+},
+{
+"name":"Gemcitabine AqVida ",
+"company":"BioRx",
+"type":"Injection",
+"strange":"200 mg/vial",
+"ganare":"Gemcitabine",
+"unitPrice":"200 mg vial : ৳ 1900.00"
+},
+{
+"name":"Leucita ",
+"company":"BioRx",
+"type":"Injection",
+"strange":"30 MU/0.5 ml",
+"ganare":"Filgrastim",
+"unitPrice":"300 MU prefilled syringe : ৳ 2755.00"
+},
+{
+"name":"Oxaliplatin AqVida ",
+"company":"BioRx",
+"type":"Infusion",
+"strange":"5 mg/ml",
+"ganare":"Oxaliplatin",
+"unitPrice":"50 mg vial : ৳ 3325.00"
+},
+{
+"name":"Paclitaxel AqVida ",
+"company":"BioRx",
+"type":"Infusion",
+"strange":"6 mg/ml",
+"ganare":"Paclitaxel",
+"unitPrice":"30 mg vial : ৳ 1900.00"
+},

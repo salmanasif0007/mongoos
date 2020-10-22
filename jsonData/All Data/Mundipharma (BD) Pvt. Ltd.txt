@@ -1,0 +1,200 @@
+{
+"name":"Betadine ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Solution",
+"strange":"5%w/v",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"100 ml bottle : ৳ 100.00"
+},
+{
+"name":"Betadine ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Solution",
+"strange":"10%w/v",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"100 ml bottle : ৳ 110.00"
+},
+{
+"name":"Betadine ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Ointment",
+"strange":"5%w/w",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"15 gm tube : ৳ 50.00"
+},
+{
+"name":"Betadine ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Surgical Scrub",
+"strange":"7.5%w/v",
+"ganare":"Povidone Iodine (Surgical Scrub)",
+"unitPrice":"100 ml bottle : ৳ 110.00"
+},
+{
+"name":"Betadine ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Cream",
+"strange":"5%w/w",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"50 gm tube : ৳ 250.01"
+},
+{
+"name":"Betadine ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Powder",
+"strange":"5%",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"10 gm powder : ৳ 30.00"
+},
+{
+"name":"Betadine ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Mouthwash",
+"strange":"1%w/v",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"Betaseptic ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Hand Rub",
+"strange":"0.5%+70%",
+"ganare":"Chlorhexidine Gluconate + Isopropyl alcohol",
+"unitPrice":"250 ml bottle : ৳ 130.00"
+},
+{
+"name":"Dilcontin CR ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Diltiazem Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.28"
+},
+{
+"name":"Dilcontin CR ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Diltiazem Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.48"
+},
+{
+"name":"Dilcontin XL ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Diltiazem Hydrochloride",
+"unitPrice":"Unit Price : ৳ 16.00"
+},
+{
+"name":"Doxocontin ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"HepaMerz ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Tablet",
+"strange":"150 mg+100 mg",
+"ganare":"L-Ornithine L-Aspartate + Pancreatin",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Mederma ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Gel",
+"strange":"20 gm",
+"ganare":"Emollient (Cepalin+Allantoin)",
+"unitPrice":"20 gm tube : ৳ 910.00"
+},
+{
+"name":"Movicol ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Powder for Solution",
+"strange":"13.7 gm/sachet",
+"ganare":"Macrogol + Electrolytes",
+"unitPrice":"13.7 gm sachet : ৳ 25.00"
+},
+{
+"name":"Nitrocontin ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Tablet",
+"strange":"2.6 mg",
+"ganare":"Glyceryl Trinitrate (Nitroglycerin)",
+"unitPrice":"Unit Price : ৳ 5.38"
+},
+{
+"name":"Nitrocontin ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Tablet",
+"strange":"6.4 mg",
+"ganare":"Glyceryl Trinitrate (Nitroglycerin)",
+"unitPrice":"Unit Price : ৳ 8.03"
+},
+{
+"name":"Nitrocontin CR ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Tablet",
+"strange":"2.6 mg",
+"ganare":"Glyceryl Trinitrate (Nitroglycerin)",
+"unitPrice":"Unit Price : ৳ 3.41"
+},
+{
+"name":"Tamcontin ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Tablet",
+"strange":"0.4 mg",
+"ganare":"Tamsulosin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 11.01"
+},
+{
+"name":"TRD-Contin ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 30.10"
+},
+{
+"name":"TRD-P ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Tablet",
+"strange":"325 mg+37.5 mg",
+"ganare":"Paracetamol + Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Trimacontin ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Tablet",
+"strange":"35 mg",
+"ganare":"Trimetazidine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Trimacontin ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Trimetazidine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 14.98"
+},
+{
+"name":"Unicontin ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Theophylline",
+"unitPrice":"Unit Price : ৳ 3.31"
+},
+{
+"name":"Unicontin ",
+"company":"Mundipharma (BD) Pvt. Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Theophylline",
+"unitPrice":"Unit Price : ৳ 6.30"
+},

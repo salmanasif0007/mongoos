@@ -1,0 +1,104 @@
+{
+"name":"Aziget ",
+"company":"Get Well Limited",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.00"
+},
+{
+"name":"Aziget ",
+"company":"Get Well Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 34.00"
+},
+{
+"name":"Cefiget ",
+"company":"Get Well Limited",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 34.00"
+},
+{
+"name":"Cefiget ",
+"company":"Get Well Limited",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 49.00"
+},
+{
+"name":"Cefiget ",
+"company":"Get Well Limited",
+"type":"Pediatric Drop",
+"strange":"25 mg/ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"21 ml bottle : ৳ 90.00"
+},
+{
+"name":"Cefiget ",
+"company":"Get Well Limited",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 205.00"
+},
+{
+"name":"Furoget ",
+"company":"Get Well Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 24.00"
+},
+{
+"name":"Furoget ",
+"company":"Get Well Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 44.00"
+},
+{
+"name":"Furoget ",
+"company":"Get Well Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"70 ml bottle : ৳ 195.00"
+},
+{
+"name":"Furoget CV ",
+"company":"Get Well Limited",
+"type":"Tablet",
+"strange":"500 mg+125 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 48.00"
+},
+{
+"name":"Furoget CV ",
+"company":"Get Well Limited",
+"type":"Tablet",
+"strange":"250 mg+62.5 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 28.00"
+},
+{
+"name":"Furoget CV ",
+"company":"Get Well Limited",
+"type":"Suspension",
+"strange":"(125 mg+31.25 mg)/5 ml",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"70 ml bottle : ৳ 250.00"
+},
+{
+"name":"Getbion ",
+"company":"Get Well Limited",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 8.00"
+},

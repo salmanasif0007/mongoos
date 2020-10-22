@@ -1,0 +1,216 @@
+{
+"name":"Azee ",
+"company":"Guardian Healthcare Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.00"
+},
+{
+"name":"Azee ",
+"company":"Guardian Healthcare Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 30.10"
+},
+{
+"name":"Cefoxguard ",
+"company":"Guardian Healthcare Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 120.00"
+},
+{
+"name":"Cefoxguard ",
+"company":"Guardian Healthcare Ltd",
+"type":"Injection",
+"strange":"2 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"2 gm vial : ৳ 300.00"
+},
+{
+"name":"Cemaxi ",
+"company":"Guardian Healthcare Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Cemaxi ",
+"company":"Guardian Healthcare Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"30 ml bottle : ৳ 120.00"
+},
+{
+"name":"Ciproguard ",
+"company":"Guardian Healthcare Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 14.05"
+},
+{
+"name":"Deslex ",
+"company":"Guardian Healthcare Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Desloratadine",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Ferina ",
+"company":"Guardian Healthcare Ltd",
+"type":"Capsule",
+"strange":"200 mg+200 mcg",
+"ganare":"Ferrous Fumerate + Folic acid",
+"unitPrice":"Unit Price : ৳ 1.45"
+},
+{
+"name":"Fightex ",
+"company":"Guardian Healthcare Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Fightex ",
+"company":"Guardian Healthcare Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 45.00"
+},
+{
+"name":"Flubion ",
+"company":"Guardian Healthcare Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.50"
+},
+{
+"name":"Itchnil ",
+"company":"Guardian Healthcare Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 22.00"
+},
+{
+"name":"Ketoxguard ",
+"company":"Guardian Healthcare Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Ketoxguard ",
+"company":"Guardian Healthcare Ltd",
+"type":"Injection",
+"strange":"30 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 55.00"
+},
+{
+"name":"Kickof ",
+"company":"Guardian Healthcare Ltd",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"Maxpain ",
+"company":"Guardian Healthcare Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Metguard ",
+"company":"Guardian Healthcare Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Metrogard ",
+"company":"Guardian Healthcare Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.26"
+},
+{
+"name":"Naproxen ",
+"company":"Guardian Healthcare Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Nurela ",
+"company":"Guardian Healthcare Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Nuroguard ",
+"company":"Guardian Healthcare Ltd",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Omilant ",
+"company":"Guardian Healthcare Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Ranigut ",
+"company":"Guardian Healthcare Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Tramamax ",
+"company":"Guardian Healthcare Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Velodin ",
+"company":"Guardian Healthcare Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 13.00"
+},
+{
+"name":"Velodin ",
+"company":"Guardian Healthcare Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 90.00"
+},

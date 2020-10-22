@@ -1,0 +1,299 @@
+{
+"name":"Glarine "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"100 IU/ml"
+"ganare":"Insulin Glargine (rDNA)"
+"unitPrice":"3 ml biopen : ৳ 950.00"
+"price":950.00
+
+},
+{
+"name":"Glarine "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"100 IU/ml"
+"ganare":"Insulin Glargine (rDNA)"
+"unitPrice":"3 ml vial : ৳ 600.00"
+"price":600.00
+
+},
+{
+"name":"Glimirid "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"1 mg"
+"ganare":"Glimepiride"
+"unitPrice":"Unit Price : ৳ 6.00"
+"price":6.00
+
+},
+{
+"name":"Glimirid "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"2 mg"
+"ganare":"Glimepiride"
+"unitPrice":"Unit Price : ৳ 9.00"
+"price":9.00
+
+},
+{
+"name":"Glimirid "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"3 mg"
+"ganare":"Glimepiride"
+"unitPrice":"Unit Price : ৳ 12.00"
+"price":12.00
+
+},
+{
+"name":"Glimirid "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"4 mg"
+"ganare":"Glimepiride"
+"unitPrice":"Unit Price : ৳ 15.00"
+"price":15.00
+
+},
+{
+"name":"Glitin "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Linagliptin"
+"unitPrice":"Unit Price : ৳ 18.00"
+"price":18.00
+
+},
+{
+"name":"Glitin M "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"2.5 mg+1000 mg"
+"ganare":"Linagliptin + Metformin Hydrochloride"
+"unitPrice":"Unit Price : ৳ 16.00"
+"price":16.00
+
+},
+{
+"name":"Glitin M "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"2.5 mg+500 mg"
+"ganare":"Linagliptin + Metformin Hydrochloride"
+"unitPrice":"Unit Price : ৳ 12.00"
+"price":12.00
+
+},
+{
+"name":"Glitin M "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"2.5 mg+850 mg"
+"ganare":"Linagliptin + Metformin Hydrochloride"
+"unitPrice":"Unit Price : ৳ 14.00"
+"price":14.00
+
+},
+{
+"name":"Glycema "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Dapagliflozin Propanediol"
+"unitPrice":"Unit Price : ৳ 16.00"
+"price":16.00
+
+},
+{
+"name":"Glycema "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Dapagliflozin Propanediol"
+"unitPrice":"Unit Price : ৳ 30.00"
+"price":30.00
+
+},
+{
+"name":"Glycolate "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"0.2 mg/ml"
+"ganare":"Glycopyrrolate"
+"unitPrice":"1 ml ampoule : ৳ 100.00"
+"price":100.00
+
+},
+{
+"name":"Halocort "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"0.05%"
+"ganare":"Halobetasol Propionate"
+"unitPrice":"10 gm tube : ৳ 90.27"
+"price":90.27
+
+},
+{
+"name":"Halocort "
+"company":"ACI Limited"
+"type":"Ointment"
+"strange":"0.05%"
+"ganare":"Halobetasol Propionate"
+"unitPrice":"10 gm tube : ৳ 90.27"
+"price":90.27
+
+},
+{
+"name":"Halosin "
+"company":"ACI Limited"
+"type":"Solution for Inhalation"
+"strange":"1.87 gm/ml"
+"ganare":"Halothane"
+"unitPrice":"200 ml bottle : ৳ 1,504.00"
+"price":1,504.00
+
+},
+{
+"name":"Henlix "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"200 mg"
+"ganare":"Rifaximin"
+"unitPrice":"Unit Price : ৳ 25.00"
+"price":25.00
+
+},
+{
+"name":"Henlix "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"550 mg"
+"ganare":"Rifaximin"
+"unitPrice":"Unit Price : ৳ 45.00"
+"price":45.00
+
+},
+{
+"name":"Hepta Seas "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":" "
+"ganare":"Multivitamin & Cod Liver Oil"
+"unitPrice":"100 ml bottle : ৳ 85.00"
+"price":85.00
+
+},
+{
+"name":"Hexiscrub "
+"company":"ACI Limited"
+"type":"Hand Rub"
+"strange":"4%"
+"ganare":"Chlorhexidine Gluconate (4%)"
+"unitPrice":"250 ml bottle : ৳ 300.00"
+"price":300.00
+
+},
+{
+"name":"Hexisol "
+"company":"ACI Limited"
+"type":"Hand Rub"
+"strange":"0.5%+70%"
+"ganare":"Chlorhexidine Gluconate + Isopropyl alcohol"
+"unitPrice":"50 ml bottle : ৳ 40.12"
+"price":40.12
+
+},
+{
+"name":"Hexitane "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"1%"
+"ganare":"Chlorhexidine Gluconate (1%)"
+"unitPrice":"60 ml bottle : ৳ 90.00"
+"price":90.00
+
+},
+{
+"name":"Hison "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"100 mg/2 ml"
+"ganare":"Hydrocortisone (Oral & Injection)"
+"unitPrice":"100 mg vial : ৳ 50.34"
+"price":50.34
+
+},
+{
+"name":"Hypnoclone "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"7.5 mg"
+"ganare":"Zopiclone"
+"unitPrice":"Unit Price : ৳ 4.01"
+"price":4.01
+
+},
+{
+"name":"Icol "
+"company":"ACI Limited"
+"type":"E/E Drop"
+"strange":"0.5%"
+"ganare":"Chloramphenicol"
+"unitPrice":"10 ml drop : ৳ 34.50"
+"price":34.50
+
+},
+{
+"name":"Iminem "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"(500 mg+500 mg)/vial"
+"ganare":"Imipenem + Cilastatin"
+"unitPrice":"1 gm vial : ৳ 1,203.12"
+"price":1,203.12
+
+},
+{
+"name":"Iminem "
+"company":"ACI Limited"
+"type":"Injection("
+"strange":"250 mg+250 mg)/vial"
+"ganare":"Imipenem + Cilastatin"
+"unitPrice":"500 mg vial : ৳ 650.00"
+"price":650.00
+
+},
+{
+"name":"Impedox "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"100 mg"
+"ganare":"Doxycycline"
+"unitPrice":"Unit Price : ৳ 2.17"
+"price":2.17
+
+},
+{
+"name":"Inclaud "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"100 mg"
+"ganare":"Cilostazol"
+"unitPrice":"Unit Price : ৳ 10.00"
+"price":10.00
+
+},
+{
+"name":"Indever "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Propranolol Hydrochloride"
+"unitPrice":"Unit Price : ৳ 0.51"
+"price":0.51
+},

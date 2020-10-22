@@ -1,0 +1,336 @@
+{
+"name":"Aldonist ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Eplerenone",
+"unitPrice":"Unit Price : ৳ 45.00"
+},
+{
+"name":"Aldonist ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Eplerenone",
+"unitPrice":"Unit Price : ৳ 85.00"
+},
+{
+"name":"Appras ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Prasugrel Hydrochloride",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Appras ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Prasugrel Hydrochloride",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Cilnical ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cilnidipine",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Corabid ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Ivabradine",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Corabid ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"7.5 mg",
+"ganare":"Ivabradine",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Corestin ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Corestin ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price : ৳ 12.50"
+},
+{
+"name":"Corestin ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Dabixta ",
+"company":"D16 Pharma & Biotec",
+"type":"Capsule",
+"strange":"75 mg",
+"ganare":"Dabigatran Etexilate Mesylate",
+"unitPrice":"Unit Price : ৳ 75.00"
+},
+{
+"name":"Dabixta ",
+"company":"D16 Pharma & Biotec",
+"type":"Capsule",
+"strange":"110 mg",
+"ganare":"Dabigatran Etexilate Mesylate",
+"unitPrice":"Unit Price : ৳ 95.00"
+},
+{
+"name":"Dilarof ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"500 mcg",
+"ganare":"Roflumilast",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Dostimid ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Pyridostigmine Bromide",
+"unitPrice":"Unit Price : ৳ 22.00"
+},
+{
+"name":"Dydroton ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Chlorthalidone",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Dytor ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Torasemide",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Dytor ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Torasemide",
+"unitPrice":"Unit Price : ৳ 11.00"
+},
+{
+"name":"Ferasirrox ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Deferasirox",
+"unitPrice":"Unit Price : ৳ 85.00"
+},
+{
+"name":"Gastrocon ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"500 mg+100 mg",
+"ganare":"Sodium Alginate + Potassium Bicarbonate",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Gastrocon ",
+"company":"D16 Pharma & Biotec",
+"type":"Suspension",
+"strange":"(500 mg+100 mg)/5 ml",
+"ganare":"Sodium Alginate + Potassium Bicarbonate",
+"unitPrice":"200 ml bottle : ৳ 155.00"
+},
+{
+"name":"Merozolyn ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Metolazone",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Merozolyn ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Metolazone",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Nebicard ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Nebivolol",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Nebicard ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Nebivolol",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Oxycol ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ursodeoxycholic Acid",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Oxycol ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Ursodeoxycholic Acid",
+"unitPrice":"Unit Price : ৳ 36.00"
+},
+{
+"name":"Pepto-Care ",
+"company":"D16 Pharma & Biotec",
+"type":"Suspension",
+"strange":"87.5 mg/5 ml",
+"ganare":"Bismuth Subsalicylate",
+"unitPrice":"200 ml bottle : ৳ 150.00"
+},
+{
+"name":"Phosphoprep ",
+"company":"D16 Pharma & Biotec",
+"type":"Oral Solution",
+"strange":"(2.711 gm+1.2 gm)/5 ml",
+"ganare":"Sodium Dihydrogen Phosphate + Disodium Hydrogen Phosphate",
+"unitPrice":"45 ml bottle : ৳ 230.00"
+},
+{
+"name":"Protium ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Protium ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Pulmoten ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"62.50 mg",
+"ganare":"Bosentan Monohydrate",
+"unitPrice":"Unit Price : ৳ 150.00"
+},
+{
+"name":"Rythmosin ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Propafenone Hydrochloride",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"TelAmlo ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"5 mg+40 mg",
+"ganare":"Amlodipine + Telmisartan",
+"unitPrice":"Unit Price : ৳ 12.50"
+},
+{
+"name":"Telcardis ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Telmisartan",
+"unitPrice":"Unit Price : ৳ 12.50"
+},
+{
+"name":"Telcardis ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Telmisartan",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Telcardis Plus ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"40 mg+12.5 mg",
+"ganare":"Telmisartan + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 12.50"
+},
+{
+"name":"Telcardis Plus ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"80 mg+12.5 mg",
+"ganare":"Telmisartan + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Unifarin ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Warfarin",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Unifarin ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Warfarin",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Unifarin ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Warfarin",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Unifarin ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Warfarin",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Vironil ",
+"company":"D16 Pharma & Biotec",
+"type":"Tablet",
+"strange":"245 mg",
+"ganare":"Tenofovir Disoproxil Fumarate",
+"unitPrice":"Unit Price : ৳ 95.00"
+},

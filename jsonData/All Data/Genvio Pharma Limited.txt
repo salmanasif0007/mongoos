@@ -1,0 +1,104 @@
+{
+"name":"Ibakin ",
+"company":"Genvio Pharma Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Imatinib Mesylate",
+"unitPrice":"Unit Price : ৳ 100.00"
+},
+{
+"name":"Ibakin ",
+"company":"Genvio Pharma Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Imatinib Mesylate",
+"unitPrice":"Unit Price : ৳ 350.00"
+},
+{
+"name":"Intez ",
+"company":"Genvio Pharma Limited",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Letrozole",
+"unitPrice":"Unit Price : ৳ 40.00"
+},
+{
+"name":"Iretavir ",
+"company":"Genvio Pharma Limited",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Entecavir",
+"unitPrice":"Unit Price : ৳ 48.00"
+},
+{
+"name":"Iretavir ",
+"company":"Genvio Pharma Limited",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Entecavir",
+"unitPrice":"Unit Price : ৳ 90.00"
+},
+{
+"name":"Mabic ",
+"company":"Genvio Pharma Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Dasatinib",
+"unitPrice":"Unit Price : ৳ 80.00"
+},
+{
+"name":"Mabic ",
+"company":"Genvio Pharma Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Dasatinib",
+"unitPrice":"Unit Price : ৳ 400.00"
+},
+{
+"name":"Nobokin ",
+"company":"Genvio Pharma Limited",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Sorafenib",
+"unitPrice":"Unit Price : ৳ 300.00"
+},
+{
+"name":"Seberb ",
+"company":"Genvio Pharma Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Gefitinib",
+"unitPrice":"Unit Price : ৳ 250.00"
+},
+{
+"name":"Treptora ",
+"company":"Genvio Pharma Limited",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Eltrombopag Olamine",
+"unitPrice":"Unit Price : ৳ 500.00"
+},
+{
+"name":"Treptora ",
+"company":"Genvio Pharma Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Eltrombopag Olamine",
+"unitPrice":"Unit Price : ৳ 900.00"
+},
+{
+"name":"Tysinor ",
+"company":"Genvio Pharma Limited",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Capecitabine",
+"unitPrice":"Unit Price : ৳ 60.00"
+},
+{
+"name":"Tysinor ",
+"company":"Genvio Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Capecitabine",
+"unitPrice":"Unit Price : ৳ 120.00"
+},

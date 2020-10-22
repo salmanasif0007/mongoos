@@ -1,0 +1,896 @@
+{
+"name":"A-Rox ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Roxithromycin",
+"unitPrice":"Unit Price : ৳ 6.53"
+},
+{
+"name":"A-Rox ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Roxithromycin",
+"unitPrice":"Unit Price : ৳ 11.04"
+},
+{
+"name":"A-Rox ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"50 mg/5 ml",
+"ganare":"Roxithromycin",
+"unitPrice":"50 ml bottle : ৳ 45.14"
+},
+{
+"name":"Act ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 20.56"
+},
+{
+"name":"Act ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"80 mg/ml",
+"ganare":"Paracetamol",
+"unitPrice":"15 ml bottle : ৳ 12.31"
+},
+{
+"name":"Act ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Act Plus ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Actizen ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.03"
+},
+{
+"name":"Actizen ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"60 ml bottle : ৳ 16.06"
+},
+{
+"name":"Adorex ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"5 mg/ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"15 ml drop : ৳ 20.07"
+},
+{
+"name":"Adorex ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 28.09"
+},
+{
+"name":"Adorex ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Afluzol ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"50 mg/5 ml",
+"ganare":"Fluconazole",
+"unitPrice":"35 ml bottle : ৳ 78.27"
+},
+{
+"name":"Afluzol ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 22.07"
+},
+{
+"name":"Afluzol ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.03"
+},
+{
+"name":"Afuvin ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Griseofulvin (Microsize)",
+"unitPrice":"Unit Price : ৳ 5.32"
+},
+{
+"name":"Aluctin ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"30 mg",
+"ganare":"Flurazepam",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Amason ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Dexamethasone Sodium Phosphate",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Ambeecal ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 2.01"
+},
+{
+"name":"Ambeecal-D ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 3.31"
+},
+{
+"name":"Ambeeclox ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cloxacillin",
+"unitPrice":"Unit Price : ৳ 5.96"
+},
+{
+"name":"Ambeexin ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 46.53"
+},
+{
+"name":"Ambeexin ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.55"
+},
+{
+"name":"Ambeexin ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"15 ml bottle : ৳ 28.41"
+},
+{
+"name":"Ametrol-VT Vaginal",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg+100 mg",
+"ganare":"Metronidazole + Miconazole Nitrate",
+"unitPrice":"Unit Price : ৳ 11.04"
+},
+{
+"name":"Aminophylline ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aminophylline",
+"unitPrice":"Unit Price : ৳ 0.39"
+},
+{
+"name":"Aminophylline ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"125 mg/5 ml",
+"ganare":"Aminophylline",
+"unitPrice":"5 ml ampoule : ৳ 5.47"
+},
+{
+"name":"Antac ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 1.81"
+},
+{
+"name":"Antac ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"75 mg/5 ml",
+"ganare":"Ranitidine",
+"unitPrice":"100 ml bottle : ৳ 40.13"
+},
+{
+"name":"Antac ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"50 mg/2 ml",
+"ganare":"Ranitidine",
+"unitPrice":"2 ml ampoule : ৳ 5.32"
+},
+{
+"name":"Arolak ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"10 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 30.11"
+},
+{
+"name":"Arolak ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.04"
+},
+{
+"name":"Arolak ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"30 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 55.18"
+},
+{
+"name":"C-Bon ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Vitamin C (Ascorbic acid)",
+"unitPrice":"Unit Price : ৳ 1.30"
+},
+{
+"name":"Calcitate ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Calcium Lactate",
+"unitPrice":"Unit Price : ৳ 0.29"
+},
+{
+"name":"Calcium Ambee ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/5 ml",
+"ganare":"Calcium Gluconate",
+"unitPrice":"5 ml ampoule : ৳ 6.22"
+},
+{
+"name":"Cerenin ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Vinpocetine",
+"unitPrice":"Unit Price : ৳ 3.55"
+},
+{
+"name":"Cinon ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.1%",
+"ganare":"Halcinonide",
+"unitPrice":"5 gm tube : ৳ 16.06"
+},
+{
+"name":"Codex ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"(30 mg+100 mg+1.25 mg) / 5 ml",
+"ganare":"Pseudoephedrine + Guaiphenasine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 49.97"
+},
+{
+"name":"Dextromethorphan ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Dextromethorphan Hydrobromide",
+"unitPrice":"100 ml bottle : ৳ 24.35"
+},
+{
+"name":"Diphedan ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Phenytoin Sodium",
+"unitPrice":"Unit Price : ৳ 2.01"
+},
+{
+"name":"Diphedan ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"30 mg/5 ml",
+"ganare":"Phenytoin Sodium",
+"unitPrice":"100 ml bottle : ৳ 30.44"
+},
+{
+"name":"Dopegyt ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Methyldopa",
+"unitPrice":"Unit Price : ৳ 3.08"
+},
+{
+"name":"Doxilin ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Doxycycline",
+"unitPrice":"Unit Price : ৳ 2.13"
+},
+{
+"name":"Ferritin-TR ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg",
+"ganare":"Ferrous Sulphate + Folic Acid",
+"unitPrice":"Unit Price : ৳ 2.23"
+},
+{
+"name":"Fluxin ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.04"
+},
+{
+"name":"Fluxin ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.58"
+},
+{
+"name":"Fluxin ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 58.86"
+},
+{
+"name":"Folac ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Folic acid",
+"unitPrice":"Unit Price : ৳ 0.24"
+},
+{
+"name":"Fungakil ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.025%",
+"ganare":"Fluocinolone Acetonide",
+"unitPrice":"5 gm tube : ৳ 28.09"
+},
+{
+"name":"Fungakil ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"0.025%",
+"ganare":"Fluocinolone Acetonide",
+"unitPrice":"5 gm tube : ৳ 28.09"
+},
+{
+"name":"Hiflox ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 8.70"
+},
+{
+"name":"Hiflox ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"750 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 12.05"
+},
+{
+"name":"Hiflox ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"60 ml bottle : ৳ 70.23"
+},
+{
+"name":"Hiflox-XR ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1000 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 19.99"
+},
+{
+"name":"Hitflam ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 0.84"
+},
+{
+"name":"Hitflam ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"75 mg/3 ml",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"3 ml ampoule : ৳ 7.62"
+},
+{
+"name":"Hitflam-SR ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 3.05"
+},
+{
+"name":"Klion ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 0.67"
+},
+{
+"name":"Klion ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.09"
+},
+{
+"name":"Klion ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 25.74"
+},
+{
+"name":"Lap ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"30 mg",
+"ganare":"Lansoprazole",
+"unitPrice":"Unit Price : ৳ 5.01"
+},
+{
+"name":"Lexlo ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 13.04"
+},
+{
+"name":"Lexlo ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 8.03"
+},
+{
+"name":"Lotas ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 5.69"
+},
+{
+"name":"Mycef ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.54"
+},
+{
+"name":"Mycef ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.27"
+},
+{
+"name":"Mycef ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cephradine",
+"unitPrice":"15 ml bottle : ৳ 50.18"
+},
+{
+"name":"Mycef DS ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 119.96"
+},
+{
+"name":"Mycin ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"Unit Price : ৳ 8.03"
+},
+{
+"name":"Mycin ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 60.20"
+},
+{
+"name":"Myzid ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 19.99"
+},
+{
+"name":"Myzid ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 m",
+"ganare":"gAzithromycin",
+"unitPrice":"Unit Price : ৳ 29.99"
+},
+{
+"name":"Nalidex ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Nalidixic Acid",
+"unitPrice":"Unit Price : ৳ 4.07"
+},
+{
+"name":"Nalidex ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Nalidixic Acid",
+"unitPrice":"50 ml bottle : ৳ 30.44"
+},
+{
+"name":"Naproxin ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 4.26"
+},
+{
+"name":"Naproxin ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Nilkof ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"(10 mg+30 mg+1.25 mg)/5 ml",
+"ganare":"Dextromethorphan + Pseudoephedrine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 50.18"
+},
+{
+"name":"No-Spa ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Drotaverine",
+"unitPrice":"Unit Price : ৳ 1.82"
+},
+{
+"name":"No-Spa ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"40 mg/2 ml",
+"ganare":"Drotaverine",
+"unitPrice":"2 ml ampoule : ৳ 7.98"
+},
+{
+"name":"Noctin ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Nitrazepam",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Nop ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Lisinopril",
+"unitPrice":"Unit Price : ৳ 3.55"
+},
+{
+"name":"Nostis ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg+200 mg",
+"ganare":"Glucosamine Sulphate + Chondroitin",
+"unitPrice":"Unit Price : ৳ 8.03"
+},
+{
+"name":"OM ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 3.02"
+},
+{
+"name":"OM ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Perol ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Haloperidol",
+"unitPrice":"Unit Price : ৳ 0.51"
+},
+{
+"name":"Perol ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"5 mg/ml",
+"ganare":"Haloperidol",
+"unitPrice":"1 ml ampoule : ৳ 10.03"
+},
+{
+"name":"Prednisolone ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Methyl Prednisolone",
+"unitPrice":"Unit Price : ৳ 1.20"
+},
+{
+"name":"Progan ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Elixir",
+"strange":"5 mg/5 ml",
+"ganare":"Promethazine Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 23.94"
+},
+{
+"name":"Rem ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"3 mg",
+"ganare":"Bromazepam",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Seduxen ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Diazepam",
+"unitPrice":"Unit Price : ৳ 0.65"
+},
+{
+"name":"Seduxen ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"10 mg/2 ml",
+"ganare":"Diazepam",
+"unitPrice":"2 ml ampoule : ৳ 3.60"
+},
+{
+"name":"Sera ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Sertraline",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Soma DS ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"800 mg+160 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Unit Price : ৳ 2.03"
+},
+{
+"name":"Stomacid ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg+400 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"Unit Price : ৳ 0.53"
+},
+{
+"name":"Stomacid ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(175 mg+225 mg)/5 ml",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"200 ml bottle : ৳ 33.00"
+},
+{
+"name":"Sural ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Ethambutol",
+"unitPrice":"Unit Price : ৳ 1.66"
+},
+{
+"name":"Tetram ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Tetracycline Hydrochloride (Oral)",
+"unitPrice":"Unit Price : ৳ 1.33"
+},
+{
+"name":"Triben ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Albendazole",
+"unitPrice":"10 ml bottle : ৳ 13.96"
+},
+{
+"name":"Triben DS ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 3.35"
+},
+{
+"name":"Tricef ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 25.09"
+},
+{
+"name":"Tricef ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 160.55"
+},
+{
+"name":"Trofurit ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Furosemide",
+"unitPrice":"Unit Price : ৳ 0.53"
+},
+{
+"name":"Trofurit ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"20 mg/2 ml",
+"ganare":"Furosemide",
+"unitPrice":"2 ml ampoule : ৳ 3.53"
+},
+{
+"name":"Verospiron ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Spironolactone",
+"unitPrice":"Unit Price : ৳ 5.01"
+},
+{
+"name":"Verospiron Plus ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg+50 mg",
+"ganare":"Furosemide + Spironolactone",
+"unitPrice":"Unit Price : ৳ 5.01"
+},
+{
+"name":"Vitex ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.53"
+},
+{
+"name":"Vitex ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 20.91"
+},
+{
+"name":"Vitex ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"2 ml ampoule : ৳ 4.39"
+},
+{
+"name":"Vitex Gold ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z gold preparation)",
+"unitPrice":"Unit Price : ৳ 5.52"
+},
+{
+"name":"Vitex-M ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 1.49"
+},
+{
+"name":"Zinc-S ",
+"company":"Ambee Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 25.09"
+},

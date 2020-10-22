@@ -1,0 +1,299 @@
+{
+"name":"Oxima "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"150 mcg"
+"ganare":"Indacaterol Maleate"
+"unitPrice":"Unit Price : ৳ 35.00"
+"price":35.00
+
+},
+{
+"name":"Oxima "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"300 mcg"
+"ganare":"Indacaterol Maleate"
+"unitPrice":"Unit Price : ৳ 65.00"
+"price":65.00
+
+},
+{
+"name":"Oxima "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"75 mg"
+"ganare":"Indacaterol Maleate"
+"unitPrice":"Unit Price : ৳ 18.00"
+"price":18.00
+
+},
+{
+"name":"Oxycort "
+"company":"ACI Limited"
+"type":"Cozycap"
+"strange":"100 mcg+6 mcg"
+"ganare":"Budesonide + Formoterol Fumarate Dihydrate"
+"unitPrice":"Unit Price : ৳ 7.02"
+"price":7.02
+
+},
+{
+"name":"Oxycort "
+"company":"ACI Limited"
+"type":"Cozycap"
+"strange":"200 mcg+6 mcg"
+"ganare":"Budesonide + Formoterol Fumarate Dihydrate"
+"unitPrice":"Unit Price : ৳ 9.03"
+"price":9.03
+
+},
+{
+"name":"Oxycort "
+"company":"ACI Limited"
+"type":"Cozycap"
+"strange":"400 mcg+12 mcg"
+"ganare":"Budesonide + Formoterol Fumarate Dihydrate"
+"unitPrice":"Unit Price : ৳ 13.85"
+"price":13.85
+
+},
+{
+"name":"Pactorin "
+"company":"ACI Limited"
+"type":"Spray"
+"strange":"400 mcg/spray"
+"ganare":"Glyceryl Trinitrate (Nitroglycerin)"
+"unitPrice":"200 metered spray : ৳ 250.00"
+"price":250.00
+
+},
+{
+"name":"Pactorin Retard "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"2.6 mg"
+"ganare":"Glyceryl Trinitrate (Nitroglycerin)"
+"unitPrice":"Unit Price : ৳ 5.00"
+"price":5.00
+
+},
+{
+"name":"Palimax ER "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"6 mg"
+"ganare":"Paliperidone"
+"unitPrice":"Unit Price : ৳ 10.00"
+"price":10.00
+
+},
+{
+"name":"Palimax ER "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"1.5 mg"
+"ganare":"Paliperidone"
+"unitPrice":"Unit Price : ৳ 4.00"
+"price":4.00
+
+},
+{
+"name":"Palimax ER "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"3 mg"
+"ganare":"Paliperidone"
+"unitPrice":"Unit Price : ৳ 7.00"
+"price":7.00
+
+},
+{
+"name":"Pantex "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Pantoprazole"
+"unitPrice":"Unit Price : ৳ 5.02"
+"price":5.02
+
+},
+{
+"name":"Pantex "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"40 mg/vial"
+"ganare":"Pantoprazole"
+"unitPrice":"40 mg vial : ৳ 70.47"
+"price":70.47
+
+},
+{
+"name":"Pantex "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"40 mg"
+"ganare":"Pantoprazole"
+"unitPrice":"Unit Price : ৳ 7.02"
+"price":7.02
+
+},
+{
+"name":"Paricel "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Rabeprazole Sodium"
+"unitPrice":"Unit Price : ৳ 6.00"
+"price":6.00
+
+},
+{
+"name":"Paricel "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Rabeprazole Sodium"
+"unitPrice":"Unit Price : ৳ 3.51"
+"price":
+
+},
+{
+"name":"Paricel "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"20 mg"
+"ganare":"Rabeprazole Sodium"
+"unitPrice":"Unit Price : ৳ 8.00"
+"price":8.00
+
+},
+{
+"name":"Parixol "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"88 mcg"
+"ganare":"Pramipexole"
+"unitPrice":"Unit Price : ৳ 3.01"
+"price":3.01
+
+},
+{
+"name":"Parixol "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"180 mcg"
+"ganare":"Pramipexole"
+"unitPrice":"Unit Price : ৳ 6.04"
+"price":6.04
+
+},
+{
+"name":"Parotin "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Paroxetine Hydrochloride"
+"unitPrice":"Unit Price : ৳ 6.04"
+"price":6.04
+
+},
+{
+"name":"Parotin "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Paroxetine Hydrochloride"
+"unitPrice":"Unit Price : ৳ 10.07"
+"price":10.07
+
+},
+{
+"name":"Permisol "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"5% w/w"
+"ganare":"Permethrin"
+"unitPrice":"15 gm tube : ৳ 30.09"
+"price":30.09
+
+},
+{
+"name":"Permisol Max "
+"company":"ACI Limited"
+"type":"Lotion"
+"strange":"5%+10%"
+"ganare":"Permethrin + Crotamiton"
+"unitPrice":"60 ml bottle : ৳ 100.00"
+"price":100.00
+
+},
+{
+"name":"Pime-4 "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"500 mg/vial"
+"ganare":"Cefepime Hydrochloride"
+"unitPrice":"500 mg vial : ৳ 302.04"
+"price":302.04
+
+},
+{
+"name":"Pime-4 "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"1 gm/vial"
+"ganare":"Cefepime Hydrochloride"
+"unitPrice":"1 gm vial : ৳ 553.73"
+"price":553.73
+
+},
+{
+"name":"Polyron "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"200 mg/5 ml"
+"ganare":"Iron Polymaltose Complex"
+"unitPrice":"100 ml bottle : ৳ 40.12"
+"price":40.12
+
+},
+{
+"name":"Povital "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"100 mg+200 mg+200 mcg"
+"ganare":"Vitamin B1, B6 & B12"
+"unitPrice":"Unit Price : ৳ 8.00"
+"price":8.00
+
+},
+{
+"name":"Povital "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"(100 mg+100 mg+1 mg)/3 ml"
+"ganare":"Vitamin B1, B6 & B12"
+"unitPrice":"3 ml ampoule : ৳ 25.17"
+"price":25.17
+
+},
+{
+"name":"Preg-CI "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"50 mg+0.50 mg+61.80 mg"
+"ganare":"Carbonyl Iron + Folic Acid + Zinc Sulfate Monohydrate"
+"unitPrice":"Unit Price : ৳ 4.00"
+"price":4.00
+
+},
+{
+"name":"Prelab "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Allystrenol"
+"unitPrice":"Unit Price : ৳ 8.02"
+"price": 8.02
+},

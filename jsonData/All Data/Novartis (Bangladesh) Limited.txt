@@ -1,0 +1,664 @@
+{
+"name":"Afinitor ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Everolimus",
+"unitPrice":"Unit Price : ৳ 8976.66"
+},
+{
+"name":"Afinitor ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Everolimus",
+"unitPrice":"Unit Price : ৳ 5834.98"
+},
+{
+"name":"Agrippal S1 ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Injection",
+"strange":"0.5 ml/prefilled syringe",
+"ganare":"Inactivated Influenza Vaccine",
+"unitPrice":"0.5 ml prefilled syringe : ৳ 650.00"
+},
+{
+"name":"Anuva ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Diclofenac Potassium",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Asunra ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Deferasirox",
+"unitPrice":"Unit Price : ৳ 50.19"
+},
+{
+"name":"Asunra ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Deferasirox",
+"unitPrice":"Unit Price : ৳ 187.68"
+},
+{
+"name":"Certican ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"0.25 mg",
+"ganare":"Everolimus",
+"unitPrice":"Unit Price : ৳ 125.47"
+},
+{
+"name":"Certican ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"0.50 mg",
+"ganare":"Everolimus",
+"unitPrice":"Unit Price : ৳ 250.95"
+},
+{
+"name":"Certican ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"0.75 mg",
+"ganare":"Everolimus",
+"unitPrice":"Unit Price : ৳ 376.42"
+},
+{
+"name":"Co-Diovan ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"160 mg+25 mg",
+"ganare":"Valsartan + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 66.20"
+},
+{
+"name":"Co-Diovan ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"80 mg+12.5 mg",
+"ganare":"Valsartan + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 48.14"
+},
+{
+"name":"Co-Diovan ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"160 mg+12.5 mg",
+"ganare":"Valsartan + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 66.20"
+},
+{
+"name":"Cosentyx ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Injection",
+"strange":"150 mg/ml",
+"ganare":"Secukinumab",
+"unitPrice":"150 mg pre-filled pen : ৳ 63001.64"
+},
+{
+"name":"Desferal ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Deferoxamine Mesylate",
+"unitPrice":"500 mg vial : ৳ 259.09"
+},
+{
+"name":"Diovan ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Capsule",
+"strange":"80 mg",
+"ganare":"Valsartan",
+"unitPrice":"Unit Price : ৳ 40.00"
+},
+{
+"name":"Diovan ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"320 mg",
+"ganare":"Valsartan",
+"unitPrice":"Unit Price : ৳ 70.27"
+},
+{
+"name":"Diovan ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Valsartan",
+"unitPrice":"Unit Price : ৳ 36.14"
+},
+{
+"name":"Diovan ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"160 mg",
+"ganare":"Valsartan",
+"unitPrice":"Unit Price : ৳ 57.00"
+},
+{
+"name":"Entresto ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"49 mg+51 mg",
+"ganare":"Sacubitril + Valsartan",
+"unitPrice":"Unit Price : ৳ 134.00"
+},
+{
+"name":"Entresto ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"97 mg+103 mg",
+"ganare":"Sacubitril + Valsartan",
+"unitPrice":"Unit Price : ৳ 134.00"
+},
+{
+"name":"Entresto ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"24 mg+26 mg",
+"ganare":"Sacubitril + Valsartan",
+"unitPrice":"Unit Price : ৳ 55.00"
+},
+{
+"name":"Exelon ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Capsule",
+"strange":"1.5 mg",
+"ganare":"Rivastigmine Tartrate",
+"unitPrice":"Unit Price : ৳ 145.55"
+},
+{
+"name":"Exelon ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Capsule",
+"strange":"3 mg",
+"ganare":"Rivastigmine Tartrate",
+"unitPrice":"Unit Price : ৳ 145.55"
+},
+{
+"name":"Exelon ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Capsule",
+"strange":"4.5 mg",
+"ganare":"Rivastigmine Tartrate",
+"unitPrice":"Unit Price : ৳ 145.55"
+},
+{
+"name":"Exelon ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Patch",
+"strange":"9.5 mg/24 h (10 cm)",
+"ganare":"Rivastigmine Tartrate",
+"unitPrice":"Unit Price : ৳ 224.85"
+},
+{
+"name":"Exelon ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Patch",
+"strange":"4.6 mg/24 h (5 cm)",
+"ganare":"Rivastigmine Tartrate",
+"unitPrice":"Unit Price : ৳ 224.85"
+},
+{
+"name":"Exelon ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Patch",
+"strange":"13.3 mg/24 h (15 cm)",
+"ganare":"Rivastigmine Tartrate",
+"unitPrice":"Unit Price : ৳ 224.12"
+},
+{
+"name":"Exforge ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"5 mg+80 mg",
+"ganare":"Amlodipine + Valsartan",
+"unitPrice":"Unit Price : ৳ 50.50"
+},
+{
+"name":"Exforge",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"5 mg+160 mg",
+"ganare":"Amlodipine + Valsartan",
+"unitPrice":"Unit Price : ৳ 70.75"
+},
+{
+"name":"Exforge ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"10 mg+160 mg",
+"ganare":"Amlodipine + Valsartan",
+"unitPrice":"Unit Price : ৳ 79.09"
+},
+{
+"name":"Femara ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Letrozole",
+"unitPrice":"Unit Price : ৳ 376.42"
+},
+{
+"name":"Galvus ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Vildagliptin",
+"unitPrice":"Unit Price : ৳ 31.50"
+},
+{
+"name":"Galvus Met ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"50 mg+500 mg",
+"ganare":"Vildagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 31.50"
+},
+{
+"name":"Galvus Met ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"50 mg+850 mg",
+"ganare":"Vildagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 31.50"
+},
+{
+"name":"Glivec ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Imatinib Mesylate",
+"unitPrice":"Unit Price : ৳ 1672.30"
+},
+{
+"name":"Jakavi ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Ruxolitinib",
+"unitPrice":"Unit Price : ৳ 3906.41"
+},
+{
+"name":"Lescol XL ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Fluvastatin",
+"unitPrice":"Unit Price : ৳ 58.72"
+},
+{
+"name":"Lioresal ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 13.01"
+},
+{
+"name":"Lioresal ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 22.69"
+},
+{
+"name":"Lomir ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Isradipine",
+"unitPrice":"Unit Price : ৳ 19.39"
+},
+{
+"name":"Lucentis ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Injection",
+"strange":"0.5 mg/0.05 ml",
+"ganare":"Ranibizumab",
+"unitPrice":"0.23 ml vial : ৳ 37978.00"
+},
+{
+"name":"Miacalcic ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Salmon Calcitonin",
+"unitPrice":"1 ml ampoule : ৳ 591.00"
+},
+{
+"name":"Myfortic ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"180 mg",
+"ganare":"Mycophenolic acid",
+"unitPrice":"Unit Price : ৳ 75.00"
+},
+{
+"name":"Myfortic ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"360 mg",
+"ganare":"Mycophenolic acid",
+"unitPrice":"Unit Price : ৳ 150.00"
+},
+{
+"name":"Onbrez Breezhaler Inhalation ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Capsule",
+"strange":"150 mcg",
+"ganare":"Indacaterol Maleate",
+"unitPrice":"Unit Price : ৳ 93.55"
+},
+{
+"name":"Rabipur ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Injection",
+"strange":"2.5 IU/ml",
+"ganare":"Rabies Vaccine (Human)",
+"unitPrice":"1 ml vial : ৳ 640.00"
+},
+{
+"name":"Revolade ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Eltrombopag Olamine",
+"unitPrice":"Unit Price : ৳ 919.47"
+},
+{
+"name":"Sandimmum Neoral ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Capsule",
+"strange":"25 mg",
+"ganare":"Cyclosporine",
+"unitPrice":"Unit Price : ৳ 59.22"
+},
+{
+"name":"Sandimmum Neoral ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Cyclosporine",
+"unitPrice":"Unit Price : ৳ 117.44"
+},
+{
+"name":"Sandimmum Neoral ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Cyclosporine",
+"unitPrice":"Unit Price : ৳ 234.89"
+},
+{
+"name":"Sandostatin ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Injection",
+"strange":"50 mcg/ml",
+"ganare":"Octreotide Acetate",
+"unitPrice":"1 ml ampoule : ৳ 1405.13"
+},
+{
+"name":"Sandostatin LAR ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Infusion",
+"strange":"20 mg/vial",
+"ganare":"Octreotide Acetate",
+"unitPrice":"20 mg vial : ৳ 82157.90"
+},
+{
+"name":"Sebivo ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"600 mg",
+"ganare":"Telbivudine",
+"unitPrice":"Unit Price : ৳ 313.68"
+},
+{
+"name":"Seebri Breezhaler ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Inhalation Capsule",
+"strange":"50 mcg",
+"ganare":"Glycopyrronium Bromide",
+"unitPrice":"Unit Price : ৳ 99.88"
+},
+{
+"name":"Simulect ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Infusion",
+"strange":"20 mg/vial",
+"ganare":"Basiliximab",
+"unitPrice":"20 mg vial : ৳ 103273.56"
+},
+{
+"name":"Stalevo ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"75 mg+18.75 mg+200 mg",
+"ganare":"Levodopa + Carbidopa + Entacapone",
+"unitPrice":"Unit Price : ৳ 85.32"
+},
+{
+"name":"Stalevo ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"125 mg+31.25 mg+200 mg",
+"ganare":"Levodopa + Carbidopa + Entacapone",
+"unitPrice":"Unit Price : ৳ 85.32"
+},
+{
+"name":"Stalevo ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"200 mg+50 mg+200 mg",
+"ganare":"Levodopa + Carbidopa + Entacapone",
+"unitPrice":"Unit Price : ৳ 85.32"
+},
+{
+"name":"Starlix ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Nateglinide",
+"unitPrice":"Unit Price : ৳ 28.11"
+},
+{
+"name":"Tasigna ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Nilotinib",
+"unitPrice":"Unit Price : ৳ 3051.50"
+},
+{
+"name":"Tegretol ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Carbamazepine",
+"unitPrice":"Unit Price : ৳ 9.03"
+},
+{
+"name":"Tegretol ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Syrup",
+"strange":"100 mg/5 ml",
+"ganare":"Carbamazepine",
+"unitPrice":"100 ml bottle : ৳ 380.44"
+},
+{
+"name":"Tegretol CR ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Carbamazepine",
+"unitPrice":"Unit Price : ৳ 9.53"
+},
+{
+"name":"Trileptal ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Oxcarbazepine",
+"unitPrice":"Unit Price : ৳ 20.06"
+},
+{
+"name":"Trileptal ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"600 mg",
+"ganare":"Oxcarbazepine",
+"unitPrice":"Unit Price : ৳ 35.11"
+},
+{
+"name":"Trileptal ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Suspension",
+"strange":"60 mg/ml",
+"ganare":"Oxcarbazepine",
+"unitPrice":"100 ml bottle : ৳ 1072.00"
+},
+{
+"name":"Tykerb ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Lapatinib",
+"unitPrice":"Unit Price : ৳ 357.84"
+},
+{
+"name":"Ultibro ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Inhalation Capsule",
+"strange":"110 mcg+50 mcg",
+"ganare":"Indacaterol + Glycopyrronium",
+"unitPrice":"Unit Price : ৳ 145.80"
+},
+{
+"name":"Vaxem ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Injection",
+"strange":"10 mcg/0.5 ml",
+"ganare":"Haemophilus Influenzae Type B Vaccine (Conjugated)",
+"unitPrice":"0.5 ml vial : ৳ 425.77"
+},
+{
+"name":"Visudyne ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Injection",
+"strange":"2 mg/ml",
+"ganare":"Verteporfin",
+"unitPrice":"15 mg vial : ৳ 137799.79"
+},
+{
+"name":"Voltalin ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Voltalin ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Injection",
+"strange":"25 mg/ml",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"3 ml ampoule : ৳ 110.00"
+},
+{
+"name":"Voltalin ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Suppository",
+"strange":"12.5 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 31.00"
+},
+{
+"name":"Voltalin ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Suppository",
+"strange":"50 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 58.50"
+},
+{
+"name":"Voltalin ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Suppository",
+"strange":"25 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Voltalin D ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Voltalin Forte ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 8.50"
+},
+{
+"name":"Voltalin SR ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"75 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 11.03"
+},
+{
+"name":"Voltalin SR ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Voltaren ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Injection",
+"strange":"75 mg/3 ml",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"3 ml ampoule : ৳ 150.57"
+},
+{
+"name":"Votrient ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Pazopanib Hydrochloride",
+"unitPrice":"Unit Price : ৳ 628.06"
+},
+{
+"name":"Xolair ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Injection",
+"strange":"150 mg/vial",
+"ganare":"Omalizumab",
+"unitPrice":"150 mg vial : ৳ 38143.88"
+},
+{
+"name":"Zometa ",
+"company":"Novartis (Bangladesh) Limited",
+"type":"Infusion",
+"strange":"4 mg/5 ml",
+"ganare":"Zoledronic Acid (For hypercalcemia)",
+"unitPrice":"4 mg vial : ৳ 30113.60"
+},

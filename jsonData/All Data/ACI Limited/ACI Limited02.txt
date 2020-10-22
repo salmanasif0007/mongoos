@@ -1,0 +1,270 @@
+{
+"name":"Aciphin "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"250 mg/vial"
+"ganare":"Ceftriaxone"
+"unitPrice":"250 mg vial : ৳ 100.30"
+"price":100.30
+},
+{
+"name":"Aciphin "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"500 mg/vial"
+"ganare":"Ceftriaxone"
+"unitPrice":"500 mg vial : ৳ 130.39"
+"price":130.39
+},
+{
+"name":"Aciphin "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"1 gm/vial"
+"ganare":"Ceftriaxone"
+"unitPrice":"1 gm vial : ৳ 191.29"
+"price":191.29
+},
+{
+"name":"Aciphin "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"2 gm/vial"
+"ganare":"Ceftriaxone"
+"unitPrice":"2 gm vial : ৳ 302.04"
+"price":302.04
+},
+{
+"name":"Acitrin "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Cetirizine Dihydrochloride"
+"unitPrice":"Unit Price : ৳ 3.01"
+"price":3.01
+},
+{
+"name":"Acitrin "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"5 mg/5 ml"
+"ganare":"Cetirizine Dihydrochloride"
+"unitPrice":"60 ml bottle : ৳ 30.09"
+"price":30.09
+},
+{
+"name":"Acitrin "
+"company":"ACI Limited"
+"type":"Pediatric Drop"
+"strange":"2.5 mg/ml"
+"ganare":"Cetirizine Dihydrochloride"
+"unitPrice":"15 ml bottle : ৳ 25.08"
+"price":25.08
+},
+{
+"name":"Acitrin-L "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Levocetirizine Dihydrochloride"
+"unitPrice":"Unit Price : ৳ 3.01"
+"price":3.01
+},
+{
+"name":"Acitrin-L "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"2.5 mg/5 ml"
+"ganare":"Levocetirizine Dihydrochloride"
+"unitPrice":"60 ml bottle : ৳ 55.00"
+"price":55.00
+},
+{
+"name":"Acora "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"90 mg"
+"ganare":"Ticagrelor"
+"unitPrice":"Unit Price : ৳ 75.00"
+"price":75.00
+},
+{
+"name":"Adair "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"500 mcg"
+"ganare":"Roflumilast"
+"unitPrice":"Unit Price : ৳ 15.00"
+"price":15.00
+},
+{
+"name":"Adegra "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"25 mg"
+"ganare":"Sildenafil Citrate"
+"unitPrice":"Unit Price : ৳ 20.06"
+"price":20.06
+},
+{
+"name":"Adegra "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Sildenafil Citrate"
+"unitPrice":"Unit Price : ৳ 30.09"
+"price":30.09
+},
+{
+"name":"Adegra "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"100 mg"
+"ganare":"Sildenafil Citrate"
+"unitPrice":"Unit Price : ৳ 50.15"
+"price":50.15
+},
+{
+"name":"Adelax "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"0.5 mg+10 mg"
+"ganare":"Flupentixol + Melitracen"
+"unitPrice":"Unit Price : ৳ 5.02"
+"price":5.02
+},
+{
+"name":"Adgar "
+"company":"ACI Limited"
+"type":"Gel"
+"strange":"0.1%"
+"ganare":"Adapalene"
+"unitPrice":"10 gm tube : ৳ 60.18"
+"price":60.18
+},
+{
+"name":"Alaclov "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Valacyclovir"
+"unitPrice":"Unit Price : ৳ 40.27"
+"price":40.27
+},
+{
+"name":"Alaron "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Loratadine"
+"unitPrice":"Unit Price : ৳ 2.50"
+"price":2.50
+},
+{
+"name":"Amantril "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"100 mg"
+"ganare":"Amantadine Hydrochloride"
+"unitPrice":"Unit Price : ৳ 10.00"
+"price":10.00
+},
+{
+"name":"Amlex "
+"company":"ACI Limited"
+"type":"Oral Paste"
+"strange":"5%"
+"ganare":"Amlexanox"
+"unitPrice":"5 gm tube : ৳ 75.23"
+"price":75.23
+},
+{
+"name":"Amotrex "
+"company":"ACI Limited"
+"type":"Infusion"
+"strange":"500 mg/100 ml"
+"ganare":"Metronidazole"
+"unitPrice":"100 ml bottle : ৳ 85.26"
+"price":85.26
+},
+{
+"name":"Amotrex "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"200 mg"
+"ganare":"Metronidazole"
+"unitPrice":"Unit Price : ৳ 0.69"
+"price": 0.69
+},
+{
+"name":"Amotrex "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"400 mg"
+"ganare":"Metronidazole"
+"unitPrice":"Unit Price : ৳ 1.27"
+"price":1.27
+},
+{
+"name":"Amotrex "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"200 mg/5 ml"
+"ganare":"Metronidazole"
+"unitPrice":"60 ml bottle : ৳ 29.90"
+"price":29.90
+},
+{
+"name":"Anaflex "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Naproxen Sodium"
+"unitPrice":"Unit Price : ৳ 5.04"
+"price":5.04
+},
+{
+"name":"Anaflex "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Naproxen Sodium"
+"unitPrice":"Unit Price : ৳ 9.06"
+"price":9.06
+},
+{
+"name":"Anaflex "
+"company":"ACI Limited"
+"type":"Gel"
+"strange":"10% w/w"
+"ganare":"Naproxen Sodium"
+"unitPrice":"15 gm tube : ৳ 62.42"
+"price":62.42
+},
+{
+"name":"Anaflex Max "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"375 mg+20 mg"
+"ganare":"Naproxen Sodium + Esomeprazole"
+"unitPrice":"Unit Price : ৳ 8.02"
+"price":8.02
+},
+{
+"name":"Anaflex Max "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"500 mg+20 mg"
+"ganare":"Naproxen Sodium + Esomeprazole"
+"unitPrice":"Unit Price : ৳ 10.03"
+"price":10.03
+},
+{
+"name":"Anaflex SR "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Naproxen Sodium"
+"unitPrice":"Unit Price : ৳ 14.09"
+"price":14.09
+},

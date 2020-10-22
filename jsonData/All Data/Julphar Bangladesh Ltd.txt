@@ -1,0 +1,864 @@
+{
+"name":"3Bion ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Aclopain ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Ambryl ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"Ambryl ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Pediatric Drop",
+"strange":"6 mg/ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"15 ml bottle : ৳ 30.00"
+},
+{
+"name":"Anplat ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"75 mg",
+"ganare":"Clopidogrel Bisulphate",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Atovex ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Atovex ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 18.05"
+},
+{
+"name":"Beucal D ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Butasiv ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Pediatric Drop",
+"strange":"5 mg/ml",
+"ganare":"Butamirate Citrate",
+"unitPrice":"15 ml bottle : ৳ 50.00"
+},
+{
+"name":"Butasiv ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Syrup",
+"strange":"7.5 mg/5 ml",
+"ganare":"Butamirate Citrate",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Butasiv ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Butamirate Citrate",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Cinekar ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Cilnidipine",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Cinekar ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cilnidipine",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Clobenate ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Cream",
+"strange":"0.05%",
+"ganare":"Clobetasol Propionate",
+"unitPrice":"10 gm tube : ৳ 45.00"
+},
+{
+"name":"Clobenate ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Ointment",
+"strange":"0.05%",
+"ganare":"Clobetasol Propionate",
+"unitPrice":"10 gm tube : ৳ 50.00"
+},
+{
+"name":"Clobeon ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Cream",
+"strange":"0.05%+0.5%+2%",
+"ganare":"Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+"unitPrice":"10 gm tube : ৳ 60.01"
+},
+{
+"name":"Clonil ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Clonil ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Conbis ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Bisoprolol Fumarate",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Conbis ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Bisoprolol Fumarate",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Condia ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Glimepiride",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Condia ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Glimepiride",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Condia ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"3 mg",
+"ganare":"Glimepiride",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Dialozin ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Dapagliflozin Propanediol",
+"unitPrice":"Unit Price : ৳ 16.00"
+},
+{
+"name":"Doxair ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Doxair ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Enbee ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Entecavir",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Esomenta ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Esomenta ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Esomups",
+"company":"Julphar Bangladesh Ltd",
+"type":" ",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Esomups",
+"company":"Julphar Bangladesh Ltd",
+"type":" ",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 13.99"
+},
+{
+"name":"Etoflam ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Etoflam ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 12.01"
+},
+{
+"name":"Etoflam ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 13.99"
+},
+{
+"name":"Fixbac ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Pediatric Drop",
+"strange":"25 mg/ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"21 ml bottle : ৳ 100.00"
+},
+{
+"name":"Fixbac ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Fixbac ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Fixbac ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"30 ml bottle : ৳ 140.00"
+},
+{
+"name":"Fixbac DS ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 300.00"
+},
+{
+"name":"Flucanex",
+"company":"Julphar Bangladesh Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Flucanex ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 22.00"
+},
+{
+"name":"Flutivate ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Cream",
+"strange":"0.05%",
+"ganare":"Fluticasone Propionate (Topical)",
+"unitPrice":"10 gm tube : ৳ 96.00"
+},
+{
+"name":"FMR ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Flupentixol + Melitracen",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Gemiquin ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"320 mg",
+"ganare":"Gemifloxacin",
+"unitPrice":"Unit Price : ৳ 65.01"
+},
+{
+"name":"Greenox ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Capsule",
+"strange":"4 mg",
+"ganare":"Astaxanthin",
+"unitPrice":"Unit Price : ৳ 22.00"
+},
+{
+"name":"Greenox ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Capsule",
+"strange":"2 mg",
+"ganare":"Astaxanthin",
+"unitPrice":"Unit Price : ৳ 12.01"
+},
+{
+"name":"Hepcee ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Sofosbuvir",
+"unitPrice":"Unit Price : ৳ 800.00"
+},
+{
+"name":"Ibrunib ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Capsule",
+"strange":"140 mg",
+"ganare":"Ibrutinib",
+"unitPrice":"Unit Price : ৳ 550.00"
+},
+{
+"name":"Juparib ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Olaparib",
+"unitPrice":"Unit Price : ৳ 1508.00"
+},
+{
+"name":"Juparib ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Olaparib",
+"unitPrice":"Unit Price : ৳ 2320.00"
+},
+{
+"name":"Keteks ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Injection",
+"strange":"60 mg/2 ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"2 ml ampoule : ৳ 95.00"
+},
+{
+"name":"Keteks ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 12.01"
+},
+{
+"name":"Keteks ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Injection",
+"strange":"30 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 55.00"
+},
+{
+"name":"Levat ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Capsule",
+"strange":"10 mg",
+"ganare":"Lenvatinib",
+"unitPrice":"Unit Price : ৳ 1730.00"
+},
+{
+"name":"Lubicon ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Capsule",
+"strange":"8 mcg",
+"ganare":"Lubiprostone",
+"unitPrice":"Unit Price : ৳ 14.99"
+},
+{
+"name":"Lubicon ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Capsule",
+"strange":"24 mcg",
+"ganare":"Lubiprostone",
+"unitPrice":"Unit Price : ৳ 40.01"
+},
+{
+"name":"Maxair ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Maxair ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 14.99"
+},
+{
+"name":"Maxwel ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Meforin ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Meforin ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Napropain ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Napropain ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Nasopain ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"375 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 12.01"
+},
+{
+"name":"Nasopain ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 14.99"
+},
+{
+"name":"Natcal DX ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"600 mg+400 IU",
+"ganare":"Calcium Carbonate (Coral source) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 14.99"
+},
+{
+"name":"Neovox ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 16.00"
+},
+{
+"name":"Nexanib ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Sorafenib",
+"unitPrice":"Unit Price : ৳ 250.00"
+},
+{
+"name":"Omenta ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Omenta ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Injection",
+"strange":"40 mg/vial",
+"ganare":"Omeprazole",
+"unitPrice":"40 mg vial : ৳ 90.00"
+},
+{
+"name":"Palorex ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Palonosetron",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Pegaron ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 13.99"
+},
+{
+"name":"Pegaron ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Capsule",
+"strange":"75 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"R-Penem ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Meropenem Trihydrate",
+"unitPrice":"500 mg vial : ৳ 700.00"
+},
+{
+"name":"R-Penem ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Meropenem Trihydrate",
+"unitPrice":"1 gm vial : ৳ 1300.00"
+},
+{
+"name":"Raciprox ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 14.99"
+},
+{
+"name":"Raciprox ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"60 ml bottle : ৳ 100.00"
+},
+{
+"name":"Rakxon ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 190.00"
+},
+{
+"name":"Rakxon ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 130.00"
+},
+{
+"name":"Rakxon ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 190.00"
+},
+{
+"name":"Rakxon ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Injection",
+"strange":"2 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"2 gm vial : ৳ 300.00"
+},
+{
+"name":"Razithro ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Razithro ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.00"
+},
+{
+"name":"Refla ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"6 mg",
+"ganare":"Deflazacort",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Refla ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"24 mg",
+"ganare":"Deflazacort",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Ribacee ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Ribavirin",
+"unitPrice":"Unit Price : ৳ 34.58"
+},
+{
+"name":"Rinobas ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ebastine",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Rinocet ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Levocetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Rinofen ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Rinofen ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"180 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Roxibac ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Roxibac ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 45.00"
+},
+{
+"name":"Roxibac Plus ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"250 mg+62.5 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Roxibac Plus ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg+125 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Sephar ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.50"
+},
+{
+"name":"Sephar ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Sephar DS ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 120.00"
+},
+{
+"name":"Sucleer ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Tasso ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Osimertinib",
+"unitPrice":"Unit Price : ৳ 290.00"
+},
+{
+"name":"Tasso ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Osimertinib",
+"unitPrice":"Unit Price : ৳ 425.00"
+},
+{
+"name":"Tenbee ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Tenofovir Disoproxil Fumarate",
+"unitPrice":"Unit Price : ৳ 85.00"
+},
+{
+"name":"Timonac ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Tylen ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 20.63"
+},
+{
+"name":"Tylen Plus ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 2.49"
+},
+{
+"name":"Velpacee ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"400 mg+100 mg",
+"ganare":"Sofosbuvir + Velpatasvir",
+"unitPrice":"Unit Price : ৳ 1000.00"
+},
+{
+"name":"Vomiset ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"8 mg",
+"ganare":"Ondansetron",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Xeridon ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.49"
+},
+{
+"name":"Xeridon ",
+"company":"Julphar Bangladesh Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 35.00"
+},

@@ -1,0 +1,136 @@
+{
+"name":"ADS-10 ",
+"company":"Libra Infusions Limited",
+"type":"Infusion",
+"strange":"0.225%+10%",
+"ganare":"Sodium Chloride + Dextrose",
+"unitPrice":"500 ml bag : ৳ 65.87"
+},
+{
+"name":"Baby saline ",
+"company":"Libra Infusions Limited",
+"type":"Infusion",
+"strange":"0.225%+5%",
+"ganare":"Sodium Chloride + Dextrose",
+"unitPrice":"250 ml bag : ৳ 50.42"
+},
+{
+"name":"Diasol ",
+"company":"Libra Infusions Limited",
+"type":"Infusion",
+"strange":" ",
+"ganare":"Cholera Saline",
+"unitPrice":"500 ml bag : ৳ 52.60"
+},
+{
+"name":"Hartsol ",
+"company":"Libra Infusions Limited",
+"type":"Infusion",
+"strange":" ",
+"ganare":"Hartmann's Solution",
+"unitPrice":"500 ml bag : ৳ 52.44"
+},
+{
+"name":"Hartsol Plus ",
+"company":"Libra Infusions Limited",
+"type":"Infusion",
+"strange":"5%",
+"ganare":" Dextrose & Hartmann's Solution",
+"unitPrice":"500 ml bag : ৳ 62.77"
+},
+{
+"name":"Libotil ",
+"company":"Libra Infusions Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"70 ml bottle : ৳ 198.75"
+},
+{
+"name":"Libott ",
+"company":"Libra Infusions Limited",
+"type":"Infusion",
+"strange":"5%",
+"ganare":"Dextrose",
+"unitPrice":"500 ml bag : ৳ 48.55"
+},
+{
+"name":"Libott ",
+"company":"Libra Infusions Limited",
+"type":"Infusion",
+"strange":"10%",
+"ganare":"Dextrose",
+"unitPrice":"500 ml bag : ৳ 56.32"
+},
+{
+"name":"Libott ",
+"company":"Libra Infusions Limited",
+"type":"Infusion",
+"strange":"25%",
+"ganare":"Dextrose",
+"unitPrice":"100 ml bottle : ৳ 35.41"
+},
+{
+"name":"Libott-M ",
+"company":"Libra Infusions Limited",
+"type":"Infusion",
+"strange":"0.18%+4.3%",
+"ganare":"Sodium Chloride + Dextrose",
+"unitPrice":"500 ml bag : ৳ 47.54"
+},
+{
+"name":"Libott-S ",
+"company":"Libra Infusions Limited",
+"type":"Infusion",
+"strange":"0.9%+5%",
+"ganare":"Sodium Chloride + Dextrose",
+"unitPrice":"500 ml bag : ৳ 48.55"
+},
+{
+"name":"Libott-S JR ",
+"company":"Libra Infusions Limited",
+"type":"Infusion",
+"strange":"0.45%+5%",
+"ganare":"Sodium Chloride + Dextrose",
+"unitPrice":"500 ml bag : ৳ 56.47"
+},
+{
+"name":"Libracin ",
+"company":"Libra Infusions Limited",
+"type":"Infusion",
+"strange":"200 mg/100 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"100 ml bottle : ৳ 106.25"
+},
+{
+"name":"Libracin ",
+"company":"Libra Infusions Limited",
+"type":"Infusion",
+"strange":"400 mg/100 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"100 ml bottle : ৳ 145.75"
+},
+{
+"name":"Librazol ",
+"company":"Libra Infusions Limited",
+"type":"Infusion",
+"strange":"500 mg/100 ml",
+"ganare":"Metronidazole",
+"unitPrice":"100 ml bottle : ৳ 49.57"
+},
+{
+"name":"Libret ",
+"company":"Libra Infusions Limited",
+"type":"Infusion",
+"strange":"50 mg/100 ml",
+"ganare":"Ranitidine",
+"unitPrice":"100 ml bottle : ৳ 55.00"
+},
+{
+"name":"Normasol ",
+"company":"Libra Infusions Limited",
+"type":"Infusion",
+"strange":"0.9%",
+"ganare":"Sodium Chloride (Intravenous Solution)",
+"unitPrice":"500 ml bag : ৳ 46.39"
+},

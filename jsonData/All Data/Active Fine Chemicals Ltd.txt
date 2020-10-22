@@ -1,0 +1,80 @@
+{
+"name":"Atofine ",
+"company":"Active Fine Chemicals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Price not available"
+},
+{
+"name":"Atofine ",
+"company":"Active Fine Chemicals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Price not available"
+},
+{
+"name":"Azifine ",
+"company":"Active Fine Chemicals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Price not available"
+},
+{
+"name":"Cefatop ",
+"company":"Active Fine Chemicals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Price not available"
+},
+{
+"name":"Cefatop ",
+"company":"Active Fine Chemicals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Price not available"
+},
+{
+"name":"Cefufine ",
+"company":"Active Fine Chemicals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Price not available"
+},
+{
+"name":"Cefufine ",
+"company":"Active Fine Chemicals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Price not available"
+},
+{
+"name":"Cefufine ",
+"company":"Active Fine Chemicals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Price not available"
+},
+{
+"name":"Glorinta ",
+"company":"Active Fine Chemicals Ltd",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Ticagrelor",
+"unitPrice":"Price not available"
+},
+{
+"name":"Rosufine ",
+"company":"Active Fine Chemicals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Price not available"
+},

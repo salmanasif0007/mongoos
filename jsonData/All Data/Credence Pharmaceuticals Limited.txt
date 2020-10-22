@@ -1,0 +1,160 @@
+{
+"name":"Atostin ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Atostin ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Cepoxid ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"Unit Price : ৳ 41.00"
+},
+{
+"name":"Cidogrel ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"75 mg",
+"ganare":"Clopidogrel Bisulphate",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Creso ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Creso ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Diacon ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Gabamet ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"25 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Gabamet ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Gabamet ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"75 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 16.00"
+},
+{
+"name":"Lexopam ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"3 mg",
+"ganare":"Bromazepam",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Lox ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Nohist ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Osovast ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Pantrol ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Pantrol ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Texicam ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Tenoxicam",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Trucal ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Calcium Orotate Dihydrate",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Xisrol ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Bisoprolol Fumarate",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Xoricard ",
+"company":"Credence Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Olmesartan Medoxomil",
+"unitPrice":"Unit Price : ৳ 8.00"
+},

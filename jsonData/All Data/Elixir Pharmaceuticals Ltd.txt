@@ -1,0 +1,16 @@
+ {
+"name":"Elitrizine ",
+"company":"Elixir Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Indomin ",
+"company":"Elixir Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"25 mg",
+"ganare":"Indomethacin",
+"unitPrice":"Unit Price : ৳ 1.00"
+},

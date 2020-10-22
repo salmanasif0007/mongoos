@@ -1,0 +1,608 @@
+{
+"name":"Apilast ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Apremilast",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Ascova ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Ascova ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Azapin ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Mirtazapine",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Azilab ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 50.10"
+},
+{
+"name":"Azilab ",
+"company":"Labaid Pharma Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 115.00"
+},
+{
+"name":"Bacaid ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Bacaid ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 8.27"
+},
+{
+"name":"Bonaid ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ibandronic Acid",
+"unitPrice":"Unit Price : ৳ 1500.00"
+},
+{
+"name":"Cardinor ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Bisoprolol Fumarate",
+"unitPrice":"Unit Price : ৳ 6.01"
+},
+{
+"name":"Cardinor ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Bisoprolol Fumarate",
+"unitPrice":"Unit Price : ৳ 10.02"
+},
+{
+"name":"Cardolab ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 5.01"
+},
+{
+"name":"Ceftriaid ",
+"company":"Labaid Pharma Ltd",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"250 mg vial : ৳ 130.00"
+},
+{
+"name":"Ceftriaid ",
+"company":"Labaid Pharma Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 320.00"
+},
+{
+"name":"Ceftriaid ",
+"company":"Labaid Pharma Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 200.01"
+},
+{
+"name":"Ceftriaid ",
+"company":"Labaid Pharma Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 320.00"
+},
+{
+"name":"Ceftriaid ",
+"company":"Labaid Pharma Ltd",
+"type":"Injection",
+"strange":"2 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"2 gm vial : ৳ 490.00"
+},
+{
+"name":"Ceftriaid ",
+"company":"Labaid Pharma Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 200.01"
+},
+{
+"name":"Cephoral ",
+"company":"Labaid Pharma Ltd",
+"type":"Pediatric Drop",
+"strange":"25 mg/ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"21 ml bottle : ৳ 100.00"
+},
+{
+"name":"Cephoral ",
+"company":"Labaid Pharma Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 35.08"
+},
+{
+"name":"Cephoral ",
+"company":"Labaid Pharma Ltd",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 55.13"
+},
+{
+"name":"Cephoral ",
+"company":"Labaid Pharma Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 224.28"
+},
+{
+"name":"Cephoral DS ",
+"company":"Labaid Pharma Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 300.00"
+},
+{
+"name":"Ciproaid ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 15.03"
+},
+{
+"name":"Comfy ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Comfy ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Comfy ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Dexend ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Dexlansoprazole",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Dexend ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Dexlansoprazole",
+"unitPrice":"Unit Price : ৳ 16.00"
+},
+{
+"name":"Domaid ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.71"
+},
+{
+"name":"Eprazol ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Eprazol ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 7.01"
+},
+{
+"name":"Etorica ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Etorica ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 12.01"
+},
+{
+"name":"Etorica ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 13.99"
+},
+{
+"name":"Gaba-Aid ",
+"company":"Labaid Pharma Ltd",
+"type":"Capsule",
+"strange":"25 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Gaba-Aid ",
+"company":"Labaid Pharma Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 14.54"
+},
+{
+"name":"Gaba-Aid ",
+"company":"Labaid Pharma Ltd",
+"type":"Capsule",
+"strange":"75 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 19.06"
+},
+{
+"name":"Ketolab ",
+"company":"Labaid Pharma Ltd",
+"type":"Injection",
+"strange":"30 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 55.18"
+},
+{
+"name":"Ketolab ",
+"company":"Labaid Pharma Ltd",
+"type":"Injection",
+"strange":"60 mg/2 ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"2 ml ampoule : ৳ 95.29"
+},
+{
+"name":"Ketolab ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 12.03"
+},
+{
+"name":"Labcal-D ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 7.01"
+},
+{
+"name":"Labenac ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Labenac SR ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Labpan ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Merolab ",
+"company":"Labaid Pharma Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Meropenem Trihydrate",
+"unitPrice":"1 gm vial : ৳ 1365.00"
+},
+{
+"name":"Merolab ",
+"company":"Labaid Pharma Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Meropenem Trihydrate",
+"unitPrice":"500 mg vial : ৳ 790.00"
+},
+{
+"name":"Montilab ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 8.50"
+},
+{
+"name":"Montilab ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Montilab ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 15.03"
+},
+{
+"name":"Neuromate ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Paincare ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"375 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Paincare ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Peptral ",
+"company":"Labaid Pharma Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 9.03"
+},
+{
+"name":"Peptral ",
+"company":"Labaid Pharma Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 5.86"
+},
+{
+"name":"Preslo-H ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"50 mg+12.5 mg",
+"ganare":"Losartan Potassium + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 8.03"
+},
+{
+"name":"Preslo-L ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 4.51"
+},
+{
+"name":"Preslo-L ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 8.01"
+},
+{
+"name":"Propa ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Propantheline Bromide",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Relaxaid ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"3 mg",
+"ganare":"Bromazepam",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Rexiet ",
+"company":"Labaid Pharma Ltd",
+"type":"Capsule",
+"strange":"10 mg",
+"ganare":"Rabeprazole Sodium",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Rexiet ",
+"company":"Labaid Pharma Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Rabeprazole Sodium",
+"unitPrice":"Unit Price : ৳ 7.46"
+},
+{
+"name":"Roxilab ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 25.06"
+},
+{
+"name":"Roxilab ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 50.11"
+},
+{
+"name":"Roxilab ",
+"company":"Labaid Pharma Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"70 ml bottle : ৳ 270.68"
+},
+{
+"name":"Roxilab ",
+"company":"Labaid Pharma Ltd",
+"type":"Injection",
+"strange":"750 mg/vial",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"750 mg vial : ৳ 175.00"
+},
+{
+"name":"Roxilab Plus ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg+125 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Roxilab Plus ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"250 mg+62.5 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Roxilab Plus ",
+"company":"Labaid Pharma Ltd",
+"type":"Suspension",
+"strange":"(125 mg+31.25 mg)/5 ml",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"70 ml bottle : ৳ 250.01"
+},
+{
+"name":"Rupa-Aid ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rupatadine Fumarate",
+"unitPrice":"Unit Price : ৳ 12.01"
+},
+{
+"name":"Sardin ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.01"
+},
+{
+"name":"Sardin ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"180 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 9.02"
+},
+{
+"name":"Taziaid ",
+"company":"Labaid Pharma Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftazidime Pentahydrate",
+"unitPrice":"500 mg vial : ৳ 130.00"
+},
+{
+"name":"Tigilo ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 12.03"
+},
+{
+"name":"Tigilo ",
+"company":"Labaid Pharma Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 20.04"
+},
+{
+"name":"Zeofit ",
+"company":"Labaid Pharma Ltd",
+"type":"Capsule",
+"strange":"5 mg",
+"ganare":"Folic acid",
+"unitPrice":"Unit Price : ৳ 4.00"
+},

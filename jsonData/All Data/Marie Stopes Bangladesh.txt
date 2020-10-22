@@ -1,0 +1,8 @@
+{
+"name":"Mariprist",
+"company":"Marie Stopes Bangladesh",
+"type":"Tablet",
+"strange":"200 mg+200 mcg",
+"ganare":"Mifepristone + Misoprostol",
+"unitPrice":"5 tablet kit : ৳ 300.00"
+},

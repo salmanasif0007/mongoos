@@ -1,0 +1,624 @@
+{
+"name":"Alcavir ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Entecavir",
+"unitPrice":"Unit Price : ৳ 53.13"
+},
+{
+"name":"Aldopa ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"100 mg+10 mg",
+"ganare":"Levodopa + Carbidopa",
+"unitPrice":"Unit Price : ৳ 8.26"
+},
+{
+"name":"Aldopa ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"250 mg+25 mg",
+"ganare":"Levodopa + Carbidopa",
+"unitPrice":"Unit Price : ৳ 11.81"
+},
+{
+"name":"Altovas ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 11.81"
+},
+{
+"name":"Altovas ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 23.61"
+},
+{
+"name":"Bpcare ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Valsartan",
+"unitPrice":"Unit Price : ৳ 11.81"
+},
+{
+"name":"Bpcare ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"160 mg",
+"ganare":"Valsartan",
+"unitPrice":"Unit Price : ৳ 21.25"
+},
+{
+"name":"Diltiazem ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Diltiazem Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"EnoFab ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Fenofibrate",
+"unitPrice":"Unit Price : ৳ 5.90"
+},
+{
+"name":"Epival Chrono ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Sodium Valproate",
+"unitPrice":"Unit Price : ৳ 5.31"
+},
+{
+"name":"Epival Chrono ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Sodium Valproate",
+"unitPrice":"Unit Price : ৳ 9.44"
+},
+{
+"name":"Epival Chrono ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Sodium Valproate",
+"unitPrice":"Unit Price : ৳ 14.17"
+},
+{
+"name":"Epram ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Escitalopram",
+"unitPrice":"Unit Price : ৳ 6.50"
+},
+{
+"name":"Epram ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Escitalopram",
+"unitPrice":"Unit Price : ৳ 11.81"
+},
+{
+"name":"Esofour ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 9.44"
+},
+{
+"name":"Esofour ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 7.08"
+},
+{
+"name":"Esofour ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 11.81"
+},
+{
+"name":"Esofour ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 10.63"
+},
+{
+"name":"Exifil ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 35.42"
+},
+{
+"name":"Exifil ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 59.03"
+},
+{
+"name":"Felo ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 5.34"
+},
+{
+"name":"Felo ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 9.48"
+},
+{
+"name":"Flostat ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Febuxostat",
+"unitPrice":"Unit Price : ৳ 14.17"
+},
+{
+"name":"Fulimet ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Flupentixol + Melitracen",
+"unitPrice":"Unit Price : ৳ 5.31"
+},
+{
+"name":"Glirol ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 8.25"
+},
+{
+"name":"Inco SR ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"1.5 mg",
+"ganare":"Indapamide",
+"unitPrice":"Unit Price : ৳ 10.39"
+},
+{
+"name":"Isolol ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Bisoprolol Fumarate",
+"unitPrice":"Unit Price : ৳ 7.08"
+},
+{
+"name":"Isolol ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Bisoprolol Fumarate",
+"unitPrice":"Unit Price : ৳ 11.81"
+},
+{
+"name":"Lithium SR ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Lithium Carbonate",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Livacor ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Ursodeoxycholic Acid",
+"unitPrice":"Unit Price : ৳ 27.15"
+},
+{
+"name":"Livacor ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ursodeoxycholic Acid",
+"unitPrice":"Unit Price : ৳ 14.17"
+},
+{
+"name":"Lowet ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Capsule",
+"strange":"120 mg",
+"ganare":"Orlistat",
+"unitPrice":"Unit Price : ৳ 70.84"
+},
+{
+"name":"M-Fort ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.72"
+},
+{
+"name":"M-Fort ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.08"
+},
+{
+"name":"Monkon ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 7.08"
+},
+{
+"name":"Monkon ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 9.44"
+},
+{
+"name":"Monkon ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 20.07"
+},
+{
+"name":"Olanza ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Olanzapine",
+"unitPrice":"Unit Price : ৳ 5.43"
+},
+{
+"name":"Olanza ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Olanzapine",
+"unitPrice":"Unit Price : ৳ 3.07"
+},
+{
+"name":"Olme ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Olmesartan Medoxomil",
+"unitPrice":"Unit Price : ৳ 9.44"
+},
+{
+"name":"Olme ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Olmesartan Medoxomil",
+"unitPrice":"Unit Price : ৳ 17.71"
+},
+{
+"name":"Olme ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Olmesartan Medoxomil",
+"unitPrice":"Unit Price : ৳ 5.90"
+},
+{
+"name":"Olme-AM ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"5 mg+20 mg",
+"ganare":"Amlodipine + Olmesartan Medoxomil",
+"unitPrice":"Unit Price : ৳ 11.81"
+},
+{
+"name":"Olme-H ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"20 mg+12.5 mg",
+"ganare":"Olmesartan Medoxomil + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 10.63"
+},
+{
+"name":"Osteonil ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ibandronic Acid",
+"unitPrice":"Unit Price : ৳ 1770.88"
+},
+{
+"name":"Oxipin ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Oxcarbazepine",
+"unitPrice":"Unit Price : ৳ 12.99"
+},
+{
+"name":"Picloza ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 3.07"
+},
+{
+"name":"Picloza ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 11.33"
+},
+{
+"name":"Plator ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"75 mg",
+"ganare":"Clopidogrel Bisulphate",
+"unitPrice":"Unit Price : ৳ 14.17"
+},
+{
+"name":"Plator Plus ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"75 mg+75 mg",
+"ganare":"Clopidogrel + Aspirin",
+"unitPrice":"Unit Price : ৳ 15.35"
+},
+{
+"name":"Pregabid ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Capsule",
+"strange":"25 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 9.58"
+},
+{
+"name":"Pregabid ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 15.35"
+},
+{
+"name":"Pregabid ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Capsule",
+"strange":"75 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 18.89"
+},
+{
+"name":"Quetinil ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Quetiapine Fumarate",
+"unitPrice":"Unit Price : ৳ 3.54"
+},
+{
+"name":"Quetinil ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Quetiapine Fumarate",
+"unitPrice":"Unit Price : ৳ 11.92"
+},
+{
+"name":"Reclevus ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Vildagliptin",
+"unitPrice":"Unit Price : ৳ 33.06"
+},
+{
+"name":"Reclevus Met ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"50 mg+500 mg",
+"ganare":"Vildagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 33.06"
+},
+{
+"name":"Reclevus Met ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"50 mg+850 mg",
+"ganare":"Vildagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 33.06"
+},
+{
+"name":"Remave SR ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 11.81"
+},
+{
+"name":"Renaliv ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Linagliptin",
+"unitPrice":"Unit Price : ৳ 21.25"
+},
+{
+"name":"Renaliv Met ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"2.5 mg+500 mg",
+"ganare":"Linagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 14.17"
+},
+{
+"name":"Reptylin ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Amitriptyline hydrochloride",
+"unitPrice":"Unit Price : ৳ 0.59"
+},
+{
+"name":"Reptylin ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Amitriptyline hydrochloride",
+"unitPrice":"Unit Price : ৳ 1.18"
+},
+{
+"name":"Rislock ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Risperidone",
+"unitPrice":"Unit Price : ৳ 3.54"
+},
+{
+"name":"Rislock ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Risperidone",
+"unitPrice":"Unit Price : ৳ 7.08"
+},
+{
+"name":"Rislock ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Risperidone",
+"unitPrice":"Unit Price : ৳ 10.63"
+},
+{
+"name":"Rozavas ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price : ৳ 28.33"
+},
+{
+"name":"Rozavas ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price : ৳ 15.35"
+},
+{
+"name":"Sertlin ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Sertraline",
+"unitPrice":"Unit Price : ৳ 3.54"
+},
+{
+"name":"Sertlin ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Sertraline",
+"unitPrice":"Unit Price : ৳ 7.08"
+},
+{
+"name":"Sertlin ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Sertraline",
+"unitPrice":"Unit Price : ৳ 11.81"
+},
+{
+"name":"Tanpot ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 5.31"
+},
+{
+"name":"Tanpot ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 9.44"
+},
+{
+"name":"Tanpot ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 14.17"
+},
+{
+"name":"Tanpot Plus ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"50 mg+12.50 mg",
+"ganare":"Losartan Potassium + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 9.44"
+},
+{
+"name":"Trazapin ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Mirtazapine",
+"unitPrice":"Unit Price : ৳ 17.71"
+},
+{
+"name":"Trazapin ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"7.5 mg",
+"ganare":"Mirtazapine",
+"unitPrice":"Unit Price : ৳ 15.74"
+},
+{
+"name":"Trazapin ",
+"company":"Innova Pharma (Albion Laboratories)",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Mirtazapine",
+"unitPrice":"Unit Price : ৳ 10.63"
+},

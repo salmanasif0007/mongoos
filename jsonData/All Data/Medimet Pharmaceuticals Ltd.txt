@@ -1,0 +1,1128 @@
+{
+"name":"1stCef ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cefadroxil Monohydrate",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"2ndCef ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cefaclor Monohydrate",
+"unitPrice":"Price not available"
+},
+{
+"name":"3RD Cef ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 27.00"
+},
+{
+"name":"3RD Cef ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"3RD Cef ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"37.5 ml bottle : ৳ 130.00"
+},
+{
+"name":"Agedefy ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"6 mg+200 mg+50 mg",
+"ganare":"Betacarotene + Vitamin C + Vitamin E",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Albrex ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Allbeevit ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Caplet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.52"
+},
+{
+"name":"Allbeevit ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Allbeevit ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.52"
+},
+{
+"name":"Allbeevit ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 25.00"
+},
+{
+"name":"Allbeevit ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"2 ml ampoule : ৳ 8.00"
+},
+{
+"name":"Allbeevit-M ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 0.97"
+},
+{
+"name":"Allbeevit-M ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Allphen ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Promethazine Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 24.00"
+},
+{
+"name":"Ampimet ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Ampicillin",
+"unitPrice":"Unit Price : ৳ 3.25"
+},
+{
+"name":"Ampimet ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Ampicillin",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Ampimet DS ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Ampicillin",
+"unitPrice":"100 ml bot : ৳ 43.75"
+},
+{
+"name":"Angimil ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Verapamil Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.25"
+},
+{
+"name":"Angimil ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Verapamil Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.25"
+},
+{
+"name":"Angimil SR ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"240 mg",
+"ganare":"Verapamil Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Atorvast ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Azimete ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Azimete ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.00"
+},
+{
+"name":"Calock ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 3.75"
+},
+{
+"name":"Calock ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Calock Plus ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg+50 mg",
+"ganare":"Amlodipine + Atenolol",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Calock Plus ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg+50 mg",
+"ganare":"Amlodipine + Atenolol",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Carsec ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Atenolol",
+"unitPrice":"Unit Price : ৳ 1.35"
+},
+{
+"name":"Carsec ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Atenolol",
+"unitPrice":"Unit Price : ৳ 0.75"
+},
+{
+"name":"Carvetab ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"6.25 mg",
+"ganare":"Carvedilol",
+"unitPrice":"Price not available"
+},
+{
+"name":"Carvetab ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"12.5 mg",
+"ganare":"Carvedilol",
+"unitPrice":"Price not available"
+},
+{
+"name":"Ceemet ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Vitamin C (Ascorbic acid)",
+"unitPrice":"Unit Price : ৳ 1.20"
+},
+{
+"name":"Ceframed ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Ceframed ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Ceframed ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Ceframed ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cephradine",
+"unitPrice":"15 ml bottle : ৳ 50.00"
+},
+{
+"name":"Cefu M ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"750 mg/vial",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Price not available"
+},
+{
+"name":"Celeco ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Celecoxib",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Celeco ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Celecoxib",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Ceporal ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephalexin",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Ceporal ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephalexin",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Ceporal ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephalexin",
+"unitPrice":"100 ml bottle : ৳ 78.00"
+},
+{
+"name":"Chlorpheniramine ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"Unit Price : ৳ 0.18"
+},
+{
+"name":"Cipromet ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Cipromet ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Clacin ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Clarithromycin",
+"unitPrice":"Unit Price : ৳ 40.00"
+},
+{
+"name":"Clobid ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Clobazam",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Cloxmet ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cloxacillin",
+"unitPrice":"Unit Price : ৳ 5.75"
+},
+{
+"name":"Codyl ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"(30 mg+100 mg+1.25 mg)/5 ml",
+"ganare":"Pseudoephedrine + Guaiphenasine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"Cold B ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Bromhexine Hyrdochloride",
+"unitPrice":"Price not available"
+},
+{
+"name":"Colipan ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Hyoscine Butylbromide",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Colipan ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Hyoscine Butylbromide",
+"unitPrice":"Unit Price : ৳ 5.65"
+},
+{
+"name":"Colipan ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"20 mg/ml",
+"ganare":"Hyoscine Butylbromide",
+"unitPrice":"1 ml ampoule : ৳ 7.85"
+},
+{
+"name":"Cortimet ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Hydrocortisone Acetate (Topical)",
+"unitPrice":"10 gm tube : ৳ 28.00"
+},
+{
+"name":"Dayhista ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Mebhydrolin Napadisylate",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Demax ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Dexamethasone Sodium Phosphate",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Demax ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"5 mg/ml",
+"ganare":"Dexamethasone Sodium Phosphate",
+"unitPrice":"1 ml ampoule : ৳ 15.00"
+},
+{
+"name":"Dexam ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"5 mg/ml",
+"ganare":"Dexamethasone Sodium Phosphate",
+"unitPrice":"1 ml ampoule : ৳ 10.00"
+},
+{
+"name":"Dexam ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Dexamethasone Sodium Phosphate",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Dia M ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Price not available"
+},
+{
+"name":"Dia M ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Price not available"
+},
+{
+"name":"Dia M SR ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Price not available"
+},
+{
+"name":"Diapiotab ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Pioglitazone",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Diapiotab ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Pioglitazone",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Diapizi ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Glipizide",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Diapizi ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Glipizide",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Diazimet ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Diazepam",
+"unitPrice":"Unit Price : ৳ 0.50"
+},
+{
+"name":"Diclorex ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 0.54"
+},
+{
+"name":"Diclorex ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 0.70"
+},
+{
+"name":"Diclorex ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"25 mg/ml",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"3 ml ampoule : ৳ 9.50"
+},
+{
+"name":"Diclorex RTD ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Doximet ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Doxycycline",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Ecomet ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Econazole Nitrate",
+"unitPrice":"10 gm tube : ৳ 30.00"
+},
+{
+"name":"Emycin ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"Unit Price : ৳ 4.75"
+},
+{
+"name":"Emycin ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 61.00"
+},
+{
+"name":"Encoprin ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Aspirin",
+"unitPrice":"Price not available"
+},
+{
+"name":"Etb ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Ethambutol",
+"unitPrice":"Price not available"
+},
+{
+"name":"Ferigun ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg+500 mcg",
+"ganare":"Ferrous Fumerate + Folic acid",
+"unitPrice":"Unit Price : ৳ 0.57"
+},
+{
+"name":"Ferigun S ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"200 mg/5 ml",
+"ganare":"Ferrous Sulfate",
+"unitPrice":"200 ml bottle : ৳ 26.50"
+},
+{
+"name":"Feriz TR ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 2.90"
+},
+{
+"name":"Flucillin ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Flucillin ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Flucillin ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Furoxamid ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Diloxanide Furoate",
+"unitPrice":"Unit Price : ৳ 1.70"
+},
+{
+"name":"Gatimet ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Gatifloxacin (Tablet & Injection)",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Hiconcil ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.45"
+},
+{
+"name":"Hiconcil ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Hiconcil ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 47.00"
+},
+{
+"name":"Histacet ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Histacet ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"50 ml bottle : ৳ 15.50"
+},
+{
+"name":"Iburex ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Ibuprofen",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Iburex ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Ibuprofen",
+"unitPrice":"Unit Price : ৳ 1.20"
+},
+{
+"name":"Indorex ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"25 mg",
+"ganare":"Indomethacin",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Lanozole ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"15 mg",
+"ganare":"Lansoprazole",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Lanozole ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"30 mg",
+"ganare":"Lansoprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Laxate Eff. ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Powder",
+"strange":"3.5 gm/sachet",
+"ganare":"Ispaghula Husk",
+"unitPrice":"3.5 gm sachet : ৳ 7.00"
+},
+{
+"name":"Levomet ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Price not available"
+},
+{
+"name":"Levonic ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"500 mg/100 ml",
+"ganare":"Levofloxacin (Injection)",
+"unitPrice":"100 ml bottle : ৳ 430.00"
+},
+{
+"name":"Lidocaine ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"2%",
+"ganare":"Lidocaine Hydrochloride",
+"unitPrice":"2 ml ampoule : ৳ 2.70"
+},
+{
+"name":"Lidocaine ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"2%",
+"ganare":"Lidocaine Hydrochloride",
+"unitPrice":"Price not available"
+},
+{
+"name":"Lispril ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Lisinopril",
+"unitPrice":"Unit Price : ৳ 2.25"
+},
+{
+"name":"Losarcar ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Losarcar ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Losarcar Plus ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg+12.5 mg",
+"ganare":"Losartan Potassium + Hydrochlorothiazide",
+"unitPrice":"Price not available"
+},
+{
+"name":"Maxocol ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Metoclopramide Hydrochloride",
+"unitPrice":"Unit Price : ৳ 0.34"
+},
+{
+"name":"Maxocol ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Metoclopramide Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 15.77"
+},
+{
+"name":"Mebrex ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Mebendazole",
+"unitPrice":"Unit Price : ৳ 0.74"
+},
+{
+"name":"Mebrex ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Mebendazole",
+"unitPrice":"30 ml bottle : ৳ 14.83"
+},
+{
+"name":"Med Cal ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Medimet's ORS ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Powder",
+"strange":"13.95 gm",
+"ganare":"Oral Rehydration Salt (Powder)",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Meditrim ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg+80 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Unit Price : ৳ 1.48"
+},
+{
+"name":"Meditrim ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"800 mg+160 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Unit Price : ৳ 2.60"
+},
+{
+"name":"Meditrim",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(200 mg+40 mg)/5 ml",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"60 ml bottle : ৳ 20.00"
+},
+{
+"name":"Metropill ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 0.60"
+},
+{
+"name":"Metropill ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.10"
+},
+{
+"name":"Metropill ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 22.00"
+},
+{
+"name":"Motodon ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Motodon ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Neurovit ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Thiamine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 0.74"
+},
+{
+"name":"Neurovit ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"100 mg/ml",
+"ganare":"Thiamine Hydrochloride",
+"unitPrice":"1 ml ampoule : ৳ 4.00"
+},
+{
+"name":"Nitrodil ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"2.6 mg",
+"ganare":"Glyceryl Trinitrate (Nitroglycerin)",
+"unitPrice":"Price not available"
+},
+{
+"name":"Nocid ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg+400 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"Unit Price : ৳ 1.40"
+},
+{
+"name":"Nocid Plus ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg+200 mg+30 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+"unitPrice":"Unit Price : ৳ 0.90"
+},
+{
+"name":"Omezole ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Pyrac ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Pyrac ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"50 ml bottle : ৳ 18.25"
+},
+{
+"name":"Rantec ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Rantec ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Recefta ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Rabeprazole Sodium",
+"unitPrice":"Price not available"
+},
+{
+"name":"Salmol ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.40"
+},
+{
+"name":"Salmol ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"60 ml bottle : ৳ 13.00"
+},
+{
+"name":"Tetramet ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Tetracycline Hydrochloride (Oral)",
+"unitPrice":"Unit Price : ৳ 1.37"
+},
+{
+"name":"Trax ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"250 mg vial : ৳ 90.00"
+},
+{
+"name":"Trax ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 120.00"
+},
+{
+"name":"Trax ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 160.00"
+},
+{
+"name":"Trax ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"250 mg vial : ৳ 90.00"
+},
+{
+"name":"Trax ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 120.00"
+},
+{
+"name":"Trax ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 160.00"
+},
+{
+"name":"Valepi ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Sodium Valproate",
+"unitPrice":"Price not available"
+},
+{
+"name":"Zisulmet ",
+"company":"Medimet Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 30.00"
+},

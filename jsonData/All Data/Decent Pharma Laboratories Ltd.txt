@@ -1,0 +1,240 @@
+{
+"name":"ACF ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"AU-20 ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"AUP ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"AUP ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"CZM ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Calcium Carbonate + Vitamin D3 + Multimineral",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"D Cetamol ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"D Cetamol ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 16.00"
+},
+{
+"name":"D-Fo ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"DC-Plus ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"DCF ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 0.60"
+},
+{
+"name":"Decabutamol ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"100 ml bottle : ৳ 21.83"
+},
+{
+"name":"Decagyl ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Decagyl ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 25.50"
+},
+{
+"name":"Dedom ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 1.90"
+},
+{
+"name":"Dedom ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 28.00"
+},
+{
+"name":"Demacro ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Demacro ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.00"
+},
+{
+"name":"Deplex ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.56"
+},
+{
+"name":"Deplex ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 26.50"
+},
+{
+"name":"Flovo ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Flustat ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Flustat ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"60 ml bottle : ৳ 20.00"
+},
+{
+"name":"Ibf ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Ibuprofen",
+"unitPrice":"Unit Price : ৳ 1.25"
+},
+{
+"name":"Kilpan ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Oxetin ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Fluoxetine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.90"
+},
+{
+"name":"Peptonil R ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"VIC ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron + Folic acid + Vitamin B complex + Vitamin C",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"VT-3 ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 1.88"
+},
+{
+"name":"Zilic-TR ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"ZS ",
+"company":"Decent Pharma Laboratories Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 30.00"
+},

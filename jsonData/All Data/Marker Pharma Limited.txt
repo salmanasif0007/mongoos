@@ -1,0 +1,296 @@
+{
+"name":"Alfil ",
+"company":"Marker Pharma Limited",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron + Folic acid + Vitamin B complex + Vitamin C",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Ancoc ",
+"company":"Marker Pharma Limited",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Ancoc ",
+"company":"Marker Pharma Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Ancoc ",
+"company":"Marker Pharma Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Avelox ",
+"company":"Marker Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Cephradex ",
+"company":"Marker Pharma Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.50"
+},
+{
+"name":"Cephradex DS ",
+"company":"Marker Pharma Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Dersa ",
+"company":"Marker Pharma Limited",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Silver Sulfadiazine",
+"unitPrice":"25 gm tube : ৳ 30.00"
+},
+{
+"name":"Dopon ",
+"company":"Marker Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Mumox ",
+"company":"Marker Pharma Limited",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Mumox ",
+"company":"Marker Pharma Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Mumox ",
+"company":"Marker Pharma Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Osmin-D ",
+"company":"Marker Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 3.33"
+},
+{
+"name":"Pax ",
+"company":"Marker Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Phagocin ",
+"company":"Marker Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 30.09"
+},
+{
+"name":"Phagocin ",
+"company":"Marker Pharma Limited",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.26"
+},
+{
+"name":"Procala ",
+"company":"Marker Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Propenta ",
+"company":"Marker Pharma Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Rotex ",
+"company":"Marker Pharma Limited",
+"type":"Tablet",
+"strange":"6 mg+200 mg+50 mg",
+"ganare":"Betacarotene + Vitamin C + Vitamin E",
+"unitPrice":"Unit Price : ৳ 2.55"
+},
+{
+"name":"Sacona ",
+"company":"Marker Pharma Limited",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Sacona ",
+"company":"Marker Pharma Limited",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 16.05"
+},
+{
+"name":"Sadin ",
+"company":"Marker Pharma Limited",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Safenac TR ",
+"company":"Marker Pharma Limited",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Sakti-TR ",
+"company":"Marker Pharma Limited",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 2.90"
+},
+{
+"name":"Salora ",
+"company":"Marker Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Loratadine",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Sapclo ",
+"company":"Marker Pharma Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Sapen ",
+"company":"Marker Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Hyoscine Butylbromide",
+"unitPrice":"Unit Price : ৳ 1.80"
+},
+{
+"name":"Satrol ",
+"company":"Marker Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Secotal ",
+"company":"Marker Pharma Limited",
+"type":"Cream",
+"strange":"1%+0.1%",
+"ganare":"Econazole Nitrate + Triamcinolone Acetonide",
+"unitPrice":"10 gm tube : ৳ 34.00"
+},
+{
+"name":"Som ",
+"company":"Marker Pharma Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Suffix ",
+"company":"Marker Pharma Limited",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Suffix ",
+"company":"Marker Pharma Limited",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 160.00"
+},
+{
+"name":"Tensa ",
+"company":"Marker Pharma Limited",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Flupentixol + Melitracen",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Timolax ",
+"company":"Marker Pharma Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Vitsa ",
+"company":"Marker Pharma Limited",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.49"
+},
+{
+"name":"Xenolac ",
+"company":"Marker Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Zinfo ",
+"company":"Marker Pharma Limited",
+"type":"Capsule",
+"strange":"500 mg+22.5 mg",
+"ganare":"Folic Acid + Zinc Sulfate Monohydrate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},

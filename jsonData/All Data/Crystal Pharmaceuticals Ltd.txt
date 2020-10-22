@@ -1,0 +1,8 @@
+{
+"name":"Crystacid ",
+"company":"Crystal Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(175 mg+225 mg)/5 ml",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"200 ml bottle : ৳ 32.00"
+},

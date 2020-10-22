@@ -1,0 +1,184 @@
+{
+"name":"Alater ",
+"company":"Bengal drugs Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Ambrop ",
+"company":"Bengal drugs Ltd",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"Bdflox ",
+"company":"Bengal drugs Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Bdflox ",
+"company":"Bengal drugs Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Bedine ",
+"company":"Bengal drugs Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Bedom ",
+"company":"Bengal drugs Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Bedom ",
+"company":"Bengal drugs Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 28.00"
+},
+{
+"name":"Beflam ",
+"company":"Bengal drugs Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Ibuprofen",
+"unitPrice":"Unit Price : ৳ 1.82"
+},
+{
+"name":"Benzol ",
+"company":"Bengal drugs Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Benzol ",
+"company":"Bengal drugs Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 22.00"
+},
+{
+"name":"Bepol ",
+"company":"Bengal drugs Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 18.00"
+},
+{
+"name":"Bepol Plus ",
+"company":"Bengal drugs Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Besectil ",
+"company":"Bengal drugs Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Cardiben-D ",
+"company":"Bengal drugs Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Lemox ",
+"company":"Bengal drugs Ltd",
+"type":"Syrup",
+"strange":"40 mg/5 ml",
+"ganare":"Levamisole",
+"unitPrice":"15 ml bottle : ৳ 9.00"
+},
+{
+"name":"Napromep ",
+"company":"Bengal drugs Ltd",
+"type":"Tablet",
+"strange":"500 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Price not available"
+},
+{
+"name":"Newcip ",
+"company":"Bengal drugs Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Odazin ",
+"company":"Bengal drugs Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Vilet B ",
+"company":"Bengal drugs Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.44"
+},
+{
+"name":"Vilet B ",
+"company":"Bengal drugs Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 23.00"
+},
+{
+"name":"Xtramox ",
+"company":"Bengal drugs Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Xtramox ",
+"company":"Bengal drugs Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Xtramox ",
+"company":"Bengal drugs Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 46.00"
+},

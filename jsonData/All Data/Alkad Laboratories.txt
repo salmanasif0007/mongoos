@@ -1,0 +1,120 @@
+{
+"name":"Alartn ",
+"company":"Alkad Laboratories",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"60 ml bottle : ৳ 30.00"
+},
+{
+"name":"Alkamin",
+"company":"Alkad Laboratories",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"60 ml bottle : ৳ 11.11"
+},
+{
+"name":"Alkaparol ",
+"company":"Alkad Laboratories",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 18.00"
+},
+{
+"name":"Alkatrim ",
+"company":"Alkad Laboratories",
+"type":"Suspension",
+"strange":"(200 mg+40 mg)/5 ml",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"60 ml bottle : ৳ 22.00"
+},
+{
+"name":"Alkazol ",
+"company":"Alkad Laboratories",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 24.00"
+},
+{
+"name":"Altrax ",
+"company":"Alkad Laboratories",
+"type":"Syrup",
+"strange":"40 mg/5 ml",
+"ganare":"Levamisole",
+"unitPrice":"15 ml bottle : ৳ 15.00"
+},
+{
+"name":"Buta ",
+"company":"Alkad Laboratories",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"60 ml bottle : ৳ 13.30"
+},
+{
+"name":"Kashba ",
+"company":"Alkad Laboratories",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"Price not available"
+},
+{
+"name":"Kashba ",
+"company":"Alkad Laboratories",
+"type":"Pediatric Drop",
+"strange":"6 mg/ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"15 ml bottle : ৳ 20.00"
+},
+{
+"name":"Metaton ",
+"company":"Alkad Laboratories",
+"type":"Syrup",
+"strange":"200 mg/5 ml",
+"ganare":"Ferrous Sulfate",
+"unitPrice":"200 ml bottle : ৳ 26.15"
+},
+{
+"name":"Micro ",
+"company":"Alkad Laboratories",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Albendazole",
+"unitPrice":"Price not available"
+},
+{
+"name":"Milk Of Magnesia ",
+"company":"Alkad Laboratories",
+"type":"Suspension",
+"strange":"400 mg/5 ml",
+"ganare":"Magnesium Hydroxide",
+"unitPrice":"100 ml bottle : ৳ 38.00"
+},
+{
+"name":"Tokn ",
+"company":"Alkad Laboratories",
+"type":"Syrup",
+"strange":"1 mg/5 ml",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"Zylomax ",
+"company":"Alkad Laboratories",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Zylomax ",
+"company":"Alkad Laboratories",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"Price not available"
+},

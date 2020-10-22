@@ -1,0 +1,32 @@
+{
+"name":"Cerzin ",
+"company":"Everest Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Neome ",
+"company":"Everest Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Nuceta Plus ",
+"company":"Everest Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.90"
+},
+{
+"name":"Nunap ",
+"company":"Everest Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 4.00"
+},

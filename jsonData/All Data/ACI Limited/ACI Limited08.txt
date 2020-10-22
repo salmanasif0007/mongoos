@@ -1,0 +1,299 @@
+{
+"name":"Coxia "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"120 mg"
+"ganare":"Etoricoxib"
+"unitPrice":"Unit Price : ৳ 14.09"
+"price":14.09
+
+},
+{
+"name":"D3 "
+"company":"ACI Limited"
+"type":"Oral Solution"
+"strange":"200 IU/ml"
+"ganare":"Colecalciferol (Vitamin D3)"
+"unitPrice":"15 ml bottle : ৳ 75.00"
+"price":75.00
+
+},
+{
+"name":"D3 "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"200000 IU/ml"
+"ganare":"Colecalciferol (Vitamin D3)"
+"unitPrice":"1 ml ampoule : ৳ 120.00"
+"price":120.00
+
+},
+{
+"name":"D3 "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"2000 IU"
+"ganare":"Colecalciferol (Vitamin D3)"
+"unitPrice":"Unit Price : ৳ 2.50"
+"price":2.50
+
+},
+{
+"name":"D3 "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"20000 IU"
+"ganare":"Colecalciferol (Vitamin D3)"
+"unitPrice":"Unit Price : ৳ 20.00"
+"price":20.00
+
+},
+{
+"name":"D3 "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"40000 IU"
+"ganare":"Colecalciferol (Vitamin D3)"
+"unitPrice":"Unit Price : ৳ 35.00"
+"price":35.00
+
+},
+{
+"name":"Daclin "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"150 mg"
+"ganare":"Clindamycin"
+"unitPrice":"Unit Price : ৳ 8.02"
+"price":8.02
+
+},
+{
+"name":"Daclin "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"300 mg"
+"ganare":"Clindamycin"
+"unitPrice":"Unit Price : ৳ 15.05"
+"price":15.05
+
+},
+{
+"name":"Daclin "
+"company":"ACI Limited"
+"type":"Lotion"
+"strange":"1%"
+"ganare":"Clindamycin"
+"unitPrice":"25 ml bottle : ৳ 125.38"
+"price":125.38
+
+},
+{
+"name":"Daxetin "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"30 mg"
+"ganare":"Dapoxetine Hydrochloride"
+"unitPrice":"Unit Price : ৳ 30.00"
+"price":30.00
+
+},
+{
+"name":"Daxetin "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"60 mg"
+"ganare":"Dapoxetine Hydrochloride"
+"unitPrice":"Unit Price : ৳ 50.00"
+"price":50.00
+
+},
+{
+"name":"Defzort "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"6 mg"
+"ganare":"Deflazacort"
+"unitPrice":"Unit Price : ৳ 8.00"
+"price":8.00
+
+},
+{
+"name":"Defzort "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"24 mg"
+"ganare":"Deflazacort"
+"unitPrice":"Unit Price : ৳ 30.00"
+"price":30.00
+
+},
+{
+"name":"Denicol "
+"company":"ACI Limited"
+"type":"Eye Drop"
+"strange":"0.1%+0.5%"
+"ganare":"Dexamethasone + Chloramphenicol"
+"unitPrice":"5 ml drop : ৳ 70.00"
+"price":70.00
+
+},
+{
+"name":"Dermasim "
+"company":"ACI Limited"
+"type":"Solution"
+"strange":"1%"
+"ganare":"Clotrimazole (Topical)"
+"unitPrice":"20 ml solution : ৳ 68.20"
+"price":68.20
+
+},
+{
+"name":"Dermasim "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"1%"
+"ganare":"Clotrimazole (Topical)"
+"unitPrice":"15 gm tube : ৳ 40.12"
+"price":40.12
+
+},
+{
+"name":"Dermasim VT "
+"company":"ACI Limited"
+"type":"Vaginal Tablet"
+"strange":"200 mg"
+"ganare":"Clotrimazole (Rectal)"
+"unitPrice":"Unit Price : ৳ 20.08"
+"price":20.08
+
+},
+{
+"name":"Dermasim VT "
+"company":"ACI Limited"
+"type":"Vaginal Tablet"
+"strange":"500 mg"
+"ganare":"Clotrimazole (Rectal)"
+"unitPrice":"Unit Price : ৳ 60.41"
+"price":60.41
+
+},
+{
+"name":"Deslorin "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Desloratadine"
+"unitPrice":"Unit Price : ৳ 2.51"
+"price":2.51
+
+},
+{
+"name":"Deslorin "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"2.5 mg/5 ml"
+"ganare":"Desloratadine"
+"unitPrice":"60 ml bottle : ৳ 25.17"
+"price":25.17
+
+},
+{
+"name":"Deslorin Plus "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"2.5 mg+120 mg"
+"ganare":"Desloratadine + Pseudoephedrine Sulphate"
+"unitPrice":"Unit Price : ৳ 3.49"
+"price":3.49
+
+},
+{
+"name":"Deslorin Plus "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg+240 mg"
+"ganare":"Desloratadine + Pseudoephedrine Sulphate"
+"unitPrice":"Unit Price : ৳ 5.50"
+"price":5.50
+
+},
+{
+"name":"Desotop "
+"company":"ACI Limited"
+"type":"Gel"
+"strange":"0.05%"
+"ganare":"Desonide"
+"unitPrice":"15 gm tube : ৳ 50.34"
+"price":50.34
+
+},
+{
+"name":"Dexcor "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"5 mg/ml"
+"ganare":"Dexamethasone Sodium Phosphate"
+"unitPrice":"1 ml ampoule : ৳ 22.00"
+"price":22.00
+
+},
+{
+"name":"Dexcor "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"0.5 mg"
+"ganare":"Dexamethasone Sodium Phosphate"
+"unitPrice":"Unit Price : ৳ 1.10"
+"price":1.10
+
+},
+{
+"name":"Diar "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Nitazoxanide"
+"unitPrice":"Unit Price : ৳ 10.07"
+"price":10.07
+
+},
+{
+"name":"Diar "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"100 mg/5 ml"
+"ganare":"Nitazoxanide"
+"unitPrice":"30 ml bottle : ৳ 35.24"
+"price":35.24
+
+},
+{
+"name":"Diaset "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"25 mg"
+"ganare":"Miglitol"
+"unitPrice":"Unit Price : ৳ 10.07"
+"price":10.07
+
+},
+{
+"name":"Diaset "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Miglitol"
+"unitPrice":"Unit Price : ৳ 15.11"
+"price":15.11
+
+},
+{
+"name":"Diasulin "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"30%+70% in 40 IU/ml"
+"ganare":"Insulin Human (rDNA) + Isophane Insulin Human"
+"unitPrice":"10 ml vial : ৳ 195.00"
+"price":195.00
+},

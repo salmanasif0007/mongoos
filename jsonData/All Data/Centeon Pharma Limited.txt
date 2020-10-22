@@ -1,0 +1,176 @@
+{
+"name":"Arizith ",
+"company":"Centeon Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 45.00"
+},
+{
+"name":"Avastrol ",
+"company":"Centeon Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 12.01"
+},
+{
+"name":"Avastrol ",
+"company":"Centeon Pharma Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Centokast ",
+"company":"Centeon Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 14.99"
+},
+{
+"name":"Centomin ",
+"company":"Centeon Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Centomin ",
+"company":"Centeon Pharma Limited",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Ciproton ",
+"company":"Centeon Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 14.99"
+},
+{
+"name":"Corvastin ",
+"company":"Centeon Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Corvastin ",
+"company":"Centeon Pharma Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Domixon ",
+"company":"Centeon Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 3.08"
+},
+{
+"name":"Esoflux ",
+"company":"Centeon Pharma Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Esoflux ",
+"company":"Centeon Pharma Limited",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Ketoplex ",
+"company":"Centeon Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Napoxol ",
+"company":"Centeon Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 14.99"
+},
+{
+"name":"Omecent ",
+"company":"Centeon Pharma Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Omecent ",
+"company":"Centeon Pharma Limited",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Pregavax ",
+"company":"Centeon Pharma Limited",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 13.01"
+},
+{
+"name":"Pregavax ",
+"company":"Centeon Pharma Limited",
+"type":"Capsule",
+"strange":"75 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 17.00"
+},
+{
+"name":"Temnor ",
+"company":"Centeon Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Temnor Plus ",
+"company":"Centeon Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 2.49"
+},
+{
+"name":"Ursoton ",
+"company":"Centeon Pharma Limited",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Ursodeoxycholic Acid",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"VD-Cal ",
+"company":"Centeon Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 7.00"
+},

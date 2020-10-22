@@ -1,0 +1,168 @@
+{
+"name":"Bromocriptine ",
+"company":"City Overseas Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Bromocriptine Mesylate",
+"unitPrice":"Unit Price : ৳ 21.20"
+},
+{
+"name":"Calcitonin ",
+"company":"City Overseas Ltd",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Salmon Calcitonin",
+"unitPrice":"1 ml ampoule : ৳ 145.00"
+},
+{
+"name":"Cavinton ",
+"company":"City Overseas Ltd",
+"type":"Injection",
+"strange":"10 mg/2 ml",
+"ganare":"Vinpocetine",
+"unitPrice":"2 ml ampoule : ৳ 50.20"
+},
+{
+"name":"Dobutamine ",
+"company":"City Overseas Ltd",
+"type":"Injection",
+"strange":"12.5 mg/ml",
+"ganare":"Dobutamine",
+"unitPrice":"20 ml vial : ৳ 285.00"
+},
+{
+"name":"Dopamine-Rotex ",
+"company":"City Overseas Ltd",
+"type":"Injection",
+"strange":"200 mg/5 ml",
+"ganare":"Dopamine Hydrochloride",
+"unitPrice":"5 ml ampoule : ৳ 60.00"
+},
+{
+"name":"Ethylchloride ",
+"company":"City Overseas Ltd",
+"type":"Spray",
+"strange":"100 ml",
+"ganare":"Ethyl Chloride",
+"unitPrice":"100 ml pack : ৳ 89.40"
+},
+{
+"name":"Fluphenazine ",
+"company":"City Overseas Ltd",
+"type":"Injection",
+"strange":"25 mg/ml",
+"ganare":"Fluphenazine Decanoate",
+"unitPrice":"1 ml ampoule : ৳ 96.00"
+},
+{
+"name":"Heparin-Rotex ",
+"company":"City Overseas Ltd",
+"type":"Injection",
+"strange":"25000 IU/5 ml",
+"ganare":"Heparin Sodium",
+"unitPrice":"5 ml vial : ৳ 300.00"
+},
+{
+"name":"Humaglobin ",
+"company":"City Overseas Ltd",
+"type":"Injection",
+"strange":"250 mg/5 ml",
+"ganare":"Human Immunoglobulin-G (IgG)",
+"unitPrice":"5 ml vial : ৳ 18500.00"
+},
+{
+"name":"Humaglobin ",
+"company":"City Overseas Ltd",
+"type":"Injection",
+"strange":"500 mg/10 ml",
+"ganare":"Human Immunoglobulin-G (IgG)",
+"unitPrice":"10 ml vial : ৳ 36500.00"
+},
+{
+"name":"Human Albumin ",
+"company":"City Overseas Ltd",
+"type":"Infusion",
+"strange":"20%",
+"ganare":"Human Albumin",
+"unitPrice":"50 ml bottle : ৳ 2750.00"
+},
+{
+"name":"Hydrocortisone ",
+"company":"City Overseas Ltd",
+"type":"Injection",
+"strange":"100 mg/2 ml",
+"ganare":"Hydrocortisone (Oral & Injection)",
+"unitPrice":"100 mg vial : ৳ 72.00"
+},
+{
+"name":"Kontab ",
+"company":"City Overseas Ltd",
+"type":"Tablet",
+"strange":"50 mg+1 mg",
+"ganare":"Bromelain + Trypsin",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Lucetam ",
+"company":"City Overseas Ltd",
+"type":"Tablet",
+"strange":"1200 mg",
+"ganare":"Piracetam",
+"unitPrice":"Unit Price : ৳ 15.75"
+},
+{
+"name":"Maxitrol ",
+"company":"City Overseas Ltd",
+"type":"Eye Drop",
+"strange":"(1 mg+3500 IU+6000 IU)/ml",
+"ganare":"Dexamethasone + Neomycin Sulphate + Polymyxin B Sulphate",
+"unitPrice":"5 ml drop : ৳ 90.00"
+},
+{
+"name":"Metrolin ",
+"company":"City Overseas Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.14"
+},
+{
+"name":"Nitromint Retard ",
+"company":"City Overseas Ltd",
+"type":"Tablet",
+"strange":"2.6 mg",
+"ganare":"Glyceryl Trinitrate (Nitroglycerin)",
+"unitPrice":"Unit Price : ৳ 6.50"
+},
+{
+"name":"Norcolut ",
+"company":"City Overseas Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Norethisterone",
+"unitPrice":"Unit Price : ৳ 7.25"
+},
+{
+"name":"Postinor ",
+"company":"City Overseas Ltd",
+"type":"Tablet",
+"strange":"0.75 mg",
+"ganare":"Levonorgestrel",
+"unitPrice":"Unit Price : ৳ 40.00"
+},
+{
+"name":"Propofol-Lipuro ",
+"company":"City Overseas Ltd",
+"type":"Injection",
+"strange":"200 mg/20 ml",
+"ganare":"Propofol",
+"unitPrice":"20 ml vial : ৳ 366.80"
+},
+{
+"name":"Vinblastin ",
+"company":"City Overseas Ltd",
+"type":"Injection",
+"strange":"10 mg/10 ml",
+"ganare":"Vinblastine Sulfate",
+"unitPrice":"10 mg vial : ৳ 720.00"
+},

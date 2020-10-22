@@ -1,0 +1,5592 @@
+{
+"name":"Acifix ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rabeprazole Sodium",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Acifix ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Rabeprazole Sodium",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Adafil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Tadalafil",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Adafil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Tadalafil",
+"unitPrice":"Unit Price : ৳ 60.00"
+},
+{
+"name":"Adinot ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Naltrexone",
+"unitPrice":"Unit Price : ৳ 75.00"
+},
+{
+"name":"Aeronid ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"200 mcg/puff",
+"ganare":"Budesonide",
+"unitPrice":"200 metered doses : ৳ 400.00"
+},
+{
+"name":"Aeronid (HFA) ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"200 mcg/puff",
+"ganare":"Budesonide",
+"unitPrice":"200 metered doses : ৳ 410.00"
+},
+{
+"name":"Aerovil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Pheniramine Maleate",
+"unitPrice":"100 ml bottle : ৳ 20.07"
+},
+{
+"name":"Alendon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Alendronic acid",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Alendon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"70 mg",
+"ganare":"Alendronic acid",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Alpatin",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":" ",
+"strange":"0.05%",
+"ganare":"Epinastine Hydrochloride",
+"unitPrice":"5 ml drop : ৳ 150.00"
+},
+{
+"name":"Alphin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Albendazole",
+"unitPrice":"10 ml bottle : ৳ 20.00"
+},
+{
+"name":"Alphin DS ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Amdocal ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Amdocal ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Amdocal Plus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg+25 mg",
+"ganare":"Amlodipine + Atenolol",
+"unitPrice":"Unit Price : ৳ 5.26"
+},
+{
+"name":"Amdocal Plus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg+50 mg",
+"ganare":"Amlodipine + Atenolol",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Amdopril ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"5 mg+20 mg",
+"ganare":"Amlodipine + Benazepril Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Amdopril ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"2.5 mg+10 mg",
+"ganare":"Amlodipine + Benazepril Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Amdopril ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"5 mg+10 mg",
+"ganare":"Amlodipine + Benazepril Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Amdopril ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"10 mg+20 mg",
+"ganare":"Amlodipine + Benazepril Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Amdova ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg+10 mg",
+"ganare":"Amlodipine + Atorvastatin",
+"unitPrice":"Unit Price : ৳ 11.01"
+},
+{
+"name":"Antacid Max ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg+400 mg+30 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Anustat ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":" ",
+"ganare":"Aesculin + Cinchocaine + Hydrocortisone + Neomycin Sulphate",
+"unitPrice":"15 gm tube : ৳ 70.00"
+},
+{
+"name":"Apresin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Fluphenazine + Nortriptyline",
+"unitPrice":"Unit Price : ৳ 1.05"
+},
+{
+"name":"Arbit ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Irbesartan",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Arbit ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"75 mg",
+"ganare":"Irbesartan",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Aristocal ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Aristocal D ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Aristocal M ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Calcium Carbonate + Vitamin D3 + Multimineral",
+"unitPrice":"Unit Price : ৳ 5.49"
+},
+{
+"name":"Aristoferon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"200 mg/5 ml",
+"ganare":"Ferrous Sulfate",
+"unitPrice":"200 ml bottle : ৳ 40.25"
+},
+{
+"name":"Aristofol Fe ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"308 mg+350 mcg",
+"ganare":"Ferrous Fumerate + Folic acid",
+"unitPrice":"Unit Price : ৳ 0.47"
+},
+{
+"name":"Aristoplex ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 35.65"
+},
+{
+"name":"Aristovit B ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.61"
+},
+{
+"name":"Aristovit M ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Aristovit X ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Super Antioxidant Vitamins & Multimineral",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Arixon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"2 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"2 gm vial : ৳ 300.00"
+},
+{
+"name":"Arixon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"250 mg vial : ৳ 100.00"
+},
+{
+"name":"Arixon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 130.00"
+},
+{
+"name":"Arixon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 190.00"
+},
+{
+"name":"Arixon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"250 mg vial : ৳ 100.00"
+},
+{
+"name":"Arixon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 130.00"
+},
+{
+"name":"Arixon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 190.00"
+},
+{
+"name":"Arlin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"600 mg",
+"ganare":"Linezolid",
+"unitPrice":"Unit Price : ৳ 85.00"
+},
+{
+"name":"Arlin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Linezolid",
+"unitPrice":"100 ml bottle : ৳ 280.00"
+},
+{
+"name":"Arlin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Linezolid",
+"unitPrice":"Unit Price : ৳ 60.00"
+},
+{
+"name":"Arlin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"2 mg/ml",
+"ganare":"Linezolid",
+"unitPrice":"300 ml solution : ৳ 450.00"
+},
+{
+"name":"Ascobex ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Vitamin C (Ascorbic acid)",
+"unitPrice":"Unit Price : ৳ 1.89"
+},
+{
+"name":"Ascofol D ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg+400 IU+2 mg",
+"ganare":"Vitamin C + Vitamin D3 + Folic acid",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Atolimus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"0.03%",
+"ganare":"Tacrolimus (Topical)",
+"unitPrice":"5 gm tube : ৳ 80.00"
+},
+{
+"name":"Atova ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Atova ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Atova ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 24.00"
+},
+{
+"name":"Atralin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Sertraline",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Atrizin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Atrizin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"60 ml bottle : ৳ 30.00"
+},
+{
+"name":"Atrizin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"2.5 mg/ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"15 ml bottle : ৳ 25.00"
+},
+{
+"name":"Avidro ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Pizotifen",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Avidro ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1.5 mg",
+"ganare":"Pizotifen",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Avifanz ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"600 mg",
+"ganare":"Efavirenz",
+"unitPrice":"Unit Price : ৳ 140.00"
+},
+{
+"name":"Avifix ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Nelfinavir",
+"unitPrice":"Unit Price : ৳ 45.00"
+},
+{
+"name":"Avilam ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Lamivudine (For HIV Infection)",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Avitron V ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Thiamine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 0.74"
+},
+{
+"name":"Axodin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Axodin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Axodin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"180 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Axodin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"30 mg/5 ml",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"50 ml bottle : ৳ 55.00"
+},
+{
+"name":"Azithrocin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Azithrocin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Azithrocin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.00"
+},
+{
+"name":"Azithrocin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"500 mg/vial",
+"ganare":"Azithromycin",
+"unitPrice":"500 mg vial : ৳ 460.00"
+},
+{
+"name":"Azithrocin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Azmasol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.25"
+},
+{
+"name":"Azmasol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.45"
+},
+{
+"name":"Azmasol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Nebuliser",
+"strange":"5 mg/ml",
+"ganare":"Salbutamol (Nebuliser Solution)",
+"unitPrice":"20 ml pack : ৳ 120.00"
+},
+{
+"name":"Azmasol (DPI) ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhalation Powder",
+"strange":"200 mcg/bexicap",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 2.49"
+},
+{
+"name":"Azmasol (MDI) ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"100 mcg/puff",
+"ganare":"Salbutamol (Inhaler)",
+"unitPrice":"200 metered doses : ৳ 129.88"
+},
+{
+"name":"Azmasol (refill) ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"100 mcg/puff",
+"ganare":"Salbutamol (Inhaler)",
+"unitPrice":"200 metered doses : ৳ 109.90"
+},
+{
+"name":"Azmasol HFA (MDI) ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"100 mcg/puff",
+"ganare":"Salbutamol (Inhaler)",
+"unitPrice":"200 metered doses : ৳ 230.00"
+},
+{
+"name":"Azmasol HFA (refill) ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"100 mcg/puff",
+"ganare":"Salbutamol (Inhaler)",
+"unitPrice":"200 metered doses : ৳ 198.01"
+},
+{
+"name":"Besicon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.6%",
+"ganare":"Besifloxacin",
+"unitPrice":"5 ml drop : ৳ 350.00"
+},
+{
+"name":"Betapro ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Bisoprolol Fumarate",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Betapro ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Bisoprolol Fumarate",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Betapro ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Bisoprolol Fumarate",
+"unitPrice":"Unit Price : ৳ 16.00"
+},
+{
+"name":"Bexidal ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Mebhydrolin Napadisylate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Bexipred ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Prednisolone (Oral / Injection)",
+"unitPrice":"Unit Price : ৳ 3.23"
+},
+{
+"name":"Bexipred ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Prednisolone (Oral / Injection)",
+"unitPrice":"Unit Price : ৳ 1.72"
+},
+{
+"name":"Bexipred ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Prednisolone (Oral / Injection)",
+"unitPrice":"Unit Price : ৳ 6.28"
+},
+{
+"name":"Bexipred ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"1%",
+"ganare":"Prednisolone Acetate (Eye drops)",
+"unitPrice":"5 ml drop : ৳ 100.00"
+},
+{
+"name":"Bexitrol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhalation Capsule",
+"strange":"25 mcg",
+"ganare":"Salmeterol Xinafoate",
+"unitPrice":"Price not available"
+},
+{
+"name":"Bexitrol (MDI) ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"25 mcg/ puff",
+"ganare":"Salmeterol Xinafoate",
+"unitPrice":"200 metered doses : ৳ 189.83"
+},
+{
+"name":"Bexitrol F (DPI) ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Bexicap",
+"strange":"50 mcg+100 mcg",
+"ganare":"Salmeterol + Fluticasone Propionate",
+"unitPrice":"Unit Price : ৳ 6.50"
+},
+{
+"name":"Bexitrol F (DPI) ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Bexicap",
+"strange":"50 mcg+250 mcg",
+"ganare":"Salmeterol + Fluticasone Propionate",
+"unitPrice":"Unit Price : ৳ 12.01"
+},
+{
+"name":"Bexitrol F (DPI) ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Bexicap",
+"strange":"50 mcg+500 mcg",
+"ganare":"Salmeterol + Fluticasone Propionate",
+"unitPrice":"Unit Price : ৳ 17.00"
+},
+{
+"name":"Bexitrol F (MDI) ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"(25 mcg+50 mcg)/puff",
+"ganare":"Salmeterol + Fluticasone Propionate",
+"unitPrice":"120 metered doses : ৳ 500.00"
+},
+{
+"name":"Bexitrol F (MDI) ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"(25 mcg+125 mcg)/puff",
+"ganare":"Salmeterol + Fluticasone Propionate",
+"unitPrice":"120 metered doses : ৳ 574.46"
+},
+{
+"name":"Bexitrol F HFA (MDI) ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"(25 mcg+250 mcg)/puff",
+"ganare":"Salmeterol + Fluticasone Propionate",
+"unitPrice":"120 metered doses : ৳ 795.00"
+},
+{
+"name":"Bextram ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamins & Multiminerals (A-Z prenatal preparation)",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Bextram Gold ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z gold preparation)",
+"unitPrice":"Unit Price : ৳ 9.50"
+},
+{
+"name":"Bextram Kids ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Cod Liver Oil",
+"unitPrice":"100 ml bottle : ৳ 90.00"
+},
+{
+"name":"Bextram Silver ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z silver preparation)",
+"unitPrice":"Unit Price : ৳ 9.50"
+},
+{
+"name":"Bextram Teen Hm ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z teen boys preparation)",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Bextram Teen Hr ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z teen girls preparation)",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Bimatoprost ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.03%",
+"ganare":"Bimatoprost",
+"unitPrice":"3 ml drop : ৳ 500.00"
+},
+{
+"name":"Bizoran ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg+20 mg",
+"ganare":"Amlodipine + Olmesartan Medoxomil",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Bizoran ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg+40 mg",
+"ganare":"Amlodipine + Olmesartan Medoxomil",
+"unitPrice":"Unit Price : ৳ 16.67"
+},
+{
+"name":"Breathlin SR ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Theophylline",
+"unitPrice":"Unit Price : ৳ 1.60"
+},
+{
+"name":"Bricasol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Nebuliser",
+"strange":"5 mg/2 ml",
+"ganare":"Terbutaline Sulphate (Resperitory Solution)",
+"unitPrice":"2 ml ampoule : ৳ 20.00"
+},
+{
+"name":"Bronkolax ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"100 ml bottle : ৳ 23.00"
+},
+{
+"name":"Bugesic ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mcg",
+"ganare":"Buprenorphine",
+"unitPrice":"Price not available"
+},
+{
+"name":"Burnsil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Silver Sulfadiazine",
+"unitPrice":"25 gm tube : ৳ 45.00"
+},
+{
+"name":"C Gum ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"125 mg",
+"ganare":"Vitamin C (Ascorbic acid)",
+"unitPrice":"Unit Price : ৳ 3.80"
+},
+{
+"name":"Calcium Lactate ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Calcium Lactate",
+"unitPrice":"Unit Price : ৳ 0.71"
+},
+{
+"name":"Calorate ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Calcium Orotate Dihydrate",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Calorate ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"740 mg",
+"ganare":"Calcium Orotate Dihydrate",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Calorate Kit ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg & 400 mg",
+"ganare":"Ibandronic Acid & Calcium Orotate",
+"unitPrice":"One kit : ৳ 990.00"
+},
+{
+"name":"Candoral ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Oral Gel",
+"strange":"2% w/w",
+"ganare":"Miconazole Nitrate (Oral Gel)",
+"unitPrice":"15 gm tube : ৳ 52.00"
+},
+{
+"name":"Cardopril ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Captopril",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Cardopril ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Captopril",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Carnitab ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"330 mg",
+"ganare":"Levocarnitine",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Carnitor ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Solution",
+"strange":"500 mg/5 ml",
+"ganare":"Levocarnitine",
+"unitPrice":"100 ml bottle : ৳ 100.00"
+},
+{
+"name":"Carocet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"6 mg+200 mg+50 mg",
+"ganare":"Betacarotene + Vitamin C + Vitamin E",
+"unitPrice":"Unit Price : ৳ 2.54"
+},
+{
+"name":"Carofol-Z ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"50 mg+0.50 mg+61.80 mg",
+"ganare":"Carbonyl Iron + Folic Acid + Zinc Sulfate Monohydrate",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Cefida ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"300 mg",
+"ganare":"Cefdinir",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Cefida ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefdinir",
+"unitPrice":"60 ml bottle : ৳ 175.93"
+},
+{
+"name":"Ceftoril ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Ceftibuten Dihydrate",
+"unitPrice":"Unit Price : ৳ 120.01"
+},
+{
+"name":"Ceftoril ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"90 mg/5 ml",
+"ganare":"Ceftibuten Dihydrate",
+"unitPrice":"60 ml bottle : ৳ 480.00"
+},
+{
+"name":"Cephalen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephalexin",
+"unitPrice":"Unit Price : ৳ 6.73"
+},
+{
+"name":"Cephalen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephalexin",
+"unitPrice":"Unit Price : ৳ 12.60"
+},
+{
+"name":"Cephalen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephalexin",
+"unitPrice":"100 ml bottle : ৳ 81.81"
+},
+{
+"name":"Cerivin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Vinpocetine",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Cesonide ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"80 mcg/puff",
+"ganare":"Ciclesonide",
+"unitPrice":"120 metered doses : ৳ 275.00"
+},
+{
+"name":"Cesonide ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"160 mcg/puff",
+"ganare":"Ciclesonide",
+"unitPrice":"120 metered doses : ৳ 375.00"
+},
+{
+"name":"Chlormet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.1%+0.5%",
+"ganare":"Dexamethasone + Chloramphenicol",
+"unitPrice":"5 ml drop : ৳ 70.00"
+},
+{
+"name":"Cinarex ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.3%",
+"ganare":"Tobramycin (Eye)",
+"unitPrice":"5 ml drop : ৳ 100.00"
+},
+{
+"name":"Cinarex D ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.1%+0.3%",
+"ganare":"Dexamethasone + Tobramycin",
+"unitPrice":"5 ml drop : ৳ 150.00"
+},
+{
+"name":"Citicol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/4 ml",
+"ganare":"Citicoline Sodium",
+"unitPrice":"4 ml ampoule : ৳ 140.00"
+},
+{
+"name":"Citicol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Citicoline Sodium",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Citrocal ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.25 mcg+252 mg",
+"ganare":"Calcitriol + Calcium Citrate",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Cleven ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"20 mg/0.2 ml",
+"ganare":"Enoxaparin Sodium",
+"unitPrice":"0.2 ml pre-filled syringe : ৳ 200.00"
+},
+{
+"name":"Cleven ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"40 mg/0.4 ml",
+"ganare":"Enoxaparin Sodium",
+"unitPrice":"0.4 ml pre-filled syringe : ৳ 412.65"
+},
+{
+"name":"Cleven ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"60 mg/0.6 ml",
+"ganare":"Enoxaparin Sodium",
+"unitPrice":"0.6 ml pre-filled syringe : ৳ 528.37"
+},
+{
+"name":"Cleven ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"80 mg/0.8 ml",
+"ganare":"Enoxaparin Sodium",
+"unitPrice":"0.8 ml pre-filled syringe : ৳ 591.96"
+},
+{
+"name":"Clinacyn ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Clindamycin",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Clinacyn ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"300 mg",
+"ganare":"Clindamycin",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Clinacyn T ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Topical Gel",
+"strange":"1.2%+0.025%",
+"ganare":"Clindamycin + Tretinoin",
+"unitPrice":"15 gm tube : ৳ 150.00"
+},
+{
+"name":"Clobex ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cloxacillin",
+"unitPrice":"Unit Price : ৳ 5.98"
+},
+{
+"name":"Clobex ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cloxacillin",
+"unitPrice":"100 ml bottle : ৳ 43.97"
+},
+{
+"name":"CoDiaglit ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"15 mg+500 mg",
+"ganare":"Pioglitazone + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"CoDiaglit ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"15 mg+850 mg",
+"ganare":"Pioglitazone + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 11.50"
+},
+{
+"name":"Combimet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2.5 mg+250 mg",
+"ganare":"Glipizide + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 1.80"
+},
+{
+"name":"Combimet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2.5 mg+500 mg",
+"ganare":"Glipizide + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Combimet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg+500 mg",
+"ganare":"Glipizide + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.80"
+},
+{
+"name":"Contra ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.3%",
+"ganare":"Lomefloxacin (Eye Drop)",
+"unitPrice":"5 ml drop : ৳ 60.00"
+},
+{
+"name":"Cortiflo ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"6 mg",
+"ganare":"Deflazacort",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Cosmotrin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.025%",
+"ganare":"Tretinoin",
+"unitPrice":"10 gm tube : ৳ 45.00"
+},
+{
+"name":"Cox B ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Celecoxib",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Cox B ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Celecoxib",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Curin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Levocetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"D-Rise ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"40000 IU",
+"ganare":"Colecalciferol (Vitamin D3)",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"D-Rise ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20000 IU",
+"ganare":"Colecalciferol (Vitamin D3)",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"D-Rise ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2000 IU",
+"ganare":"Colecalciferol (Vitamin D3)",
+"unitPrice":"Unit Price : ৳ 2.49"
+},
+{
+"name":"Dakovir-C ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Daclatasvir",
+"unitPrice":"Unit Price : ৳ 400.00"
+},
+{
+"name":"Decacycline ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Tetracycline Hydrochloride (Oral)",
+"unitPrice":"Unit Price : ৳ 1.31"
+},
+{
+"name":"Decomit ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Nasal Spray",
+"strange":"50 mcg/spray",
+"ganare":"Beclomethasone Dipropionate (Nasal Spray)",
+"unitPrice":"200 metered sprays : ৳ 146.00"
+},
+{
+"name":"Decomit ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Nasal Spray",
+"strange":"1 mcg/Spray",
+"ganare":"Beclomethasone Dipropionate (Nasal Spray)",
+"unitPrice":"200 metered sprays : ৳ 146.00"
+},
+{
+"name":"Decomit 100 (MDI) ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"100 mcg/puff",
+"ganare":"Beclometasone Dipropionate (Inhaler)",
+"unitPrice":"200 metered doses : ৳ 200.00"
+},
+{
+"name":"Decomit 250 (HFA) ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"250 mcg/puff",
+"ganare":"Beclometasone Dipropionate (Inhaler)",
+"unitPrice":"200 metered doses : ৳ 351.32"
+},
+{
+"name":"Decomit 50 (HFA) ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"50 mcg/puff",
+"ganare":"Beclometasone Dipropionate (Inhaler)",
+"unitPrice":"200 metered doses : ৳ 220.00"
+},
+{
+"name":"Deflux ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.75"
+},
+{
+"name":"Deflux ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"100 ml bottle : ৳ 38.01"
+},
+{
+"name":"Deflux ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"5 mg/ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"15 ml drop : ৳ 20.00"
+},
+{
+"name":"Deflux DT ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Dexaqua ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"5%",
+"ganare":"Dextrose",
+"unitPrice":"500 ml bag : ৳ 71.06"
+},
+{
+"name":"Dexaqua DS ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"10%",
+"ganare":"Dextrose",
+"unitPrice":"500 ml bag : ৳ 77.93"
+},
+{
+"name":"Dexifen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Dexibuprofen",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Dexifen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Dexibuprofen",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Dexifen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Dexibuprofen",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Dexifen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Dexibuprofen",
+"unitPrice":"100 ml bottle : ৳ 40.01"
+},
+{
+"name":"Dexoride ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"0.9%+5%",
+"ganare":"Sodium Chloride + Dextrose",
+"unitPrice":"500 ml bag : ৳ 75.63"
+},
+{
+"name":"Dextrim ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"(20 mg+10 mg+2.5 mg)/5 ml",
+"ganare":"Dextromethorphan + Phenylephrine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 100.00"
+},
+{
+"name":"Dextromethorphan ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Dextromethorphan Hydrobromide",
+"unitPrice":"100 ml bottle : ৳ 35.00"
+},
+{
+"name":"Diactin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Glipizide",
+"unitPrice":"Unit Price : ৳ 1.49"
+},
+{
+"name":"Diaglit ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Pioglitazone",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Diaglit ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Pioglitazone",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Diapro ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Diapro MR ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Diapro MR ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 12.01"
+},
+{
+"name":"Diaryl ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Glimepiride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Diaryl ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Glimepiride",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Diaryl ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"3 mg",
+"ganare":"Glimepiride",
+"unitPrice":"Unit Price : ৳ 12.01"
+},
+{
+"name":"Diavix ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg+300 mg",
+"ganare":"Lamivudine + Zidovudine",
+"unitPrice":"Unit Price : ৳ 45.00"
+},
+{
+"name":"Digecid Plus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"480 mg+20 mg",
+"ganare":"Magaldrate + Simethicone",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Digecid Plus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(480 mg+20 mg)/5 ml",
+"ganare":"Magaldrate + Simethicone",
+"unitPrice":"200 ml bottle : ৳ 110.00"
+},
+{
+"name":"Dilapress ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"6.25 mg",
+"ganare":"Carvedilol",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Dilapress ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"12.5 mg",
+"ganare":"Carvedilol",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Dilapress ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Carvedilol",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Dinogest ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Dienogest",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Dinogest Plus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"30 mcg+150 mcg",
+"ganare":"Ethinylestradiol + Desogestrel",
+"unitPrice":"Price not available"
+},
+{
+"name":"Dinovo ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"375 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Dinovo ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Duvent ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Oral Solution",
+"strange":"5 mg/5 ml",
+"ganare":"Rupatadine Fumarate",
+"unitPrice":"60 ml bottle : ৳ 60.00"
+},
+{
+"name":"Duvent ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rupatadine Fumarate",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Ecotrim ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%+0.1%",
+"ganare":"Econazole Nitrate + Triamcinolone Acetonide",
+"unitPrice":"10 gm tube : ৳ 34.50"
+},
+{
+"name":"Efol ER ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Emonium ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Emonium ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"5 mg/2ml",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"2 ml ampoule : ৳ 15.00"
+},
+{
+"name":"Enaril ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Enalapril Maleate",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Enegra ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Enegra ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Epilep ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Carbamazepine",
+"unitPrice":"Unit Price : ৳ 3.51"
+},
+{
+"name":"Epilep CR ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Carbamazepine",
+"unitPrice":"Unit Price : ৳ 4.52"
+},
+{
+"name":"Epipen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Gabapentin",
+"unitPrice":"Unit Price : ৳ 17.98"
+},
+{
+"name":"Eplon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"10 mg",
+"ganare":"Zaleplon",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Eplon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"5 mg",
+"ganare":"Zaleplon",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Etrocin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"Unit Price : ৳ 4.80"
+},
+{
+"name":"Etrocin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"Unit Price : ৳ 9.03"
+},
+{
+"name":"Etrocin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 84.74"
+},
+{
+"name":"Eukrim ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"10%",
+"ganare":"Urea (10%)",
+"unitPrice":"15 gm tube : ৳ 30.00"
+},
+{
+"name":"Evo ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Levofloxacin (Eye)",
+"unitPrice":"5 ml drop : ৳ 90.00"
+},
+{
+"name":"Evo ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Evo ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 15.87"
+},
+{
+"name":"Evo ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"750 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Evo ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Oral Solution",
+"strange":"125 mg/5 ml",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 75.00"
+},
+{
+"name":"Evo ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"500 mg/100 ml",
+"ganare":"Levofloxacin (Injection)",
+"unitPrice":"100 ml bottle : ৳ 100.00"
+},
+{
+"name":"Evo TS ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"1.5%",
+"ganare":"Levofloxacin (Eye)",
+"unitPrice":"5 ml drop : ৳ 130.00"
+},
+{
+"name":"Exovate ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.05%",
+"ganare":"Clobetasol Propionate",
+"unitPrice":"10 gm tube : ৳ 45.00"
+},
+{
+"name":"Exovate ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"0.05%",
+"ganare":"Clobetasol Propionate",
+"unitPrice":"10 gm tube : ৳ 50.00"
+},
+{
+"name":"Exovate N ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.05%+0.5%+2%",
+"ganare":"Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+"unitPrice":"25 gm tube : ৳ 90.00"
+},
+{
+"name":"Ezeta ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ezetimibe",
+"unitPrice":"Unit Price : ৳ 10.04"
+},
+{
+"name":"Feburic ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Febuxostat",
+"unitPrice":"Unit Price : ৳ 11.99"
+},
+{
+"name":"Femzole ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Letrozole",
+"unitPrice":"Unit Price : ৳ 40.01"
+},
+{
+"name":"Fenamic ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Mefenamic acid",
+"unitPrice":"Unit Price : ৳ 2.01"
+},
+{
+"name":"Fenamic ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Mefenamic acid",
+"unitPrice":"Unit Price : ৳ 3.82"
+},
+{
+"name":"Fenamic ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"50 mg/5 ml",
+"ganare":"Mefenamic acid",
+"unitPrice":"60 ml bottle : ৳ 15.00"
+},
+{
+"name":"Ferintus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/10 ml",
+"ganare":"Ferric Carboxymaltose",
+"unitPrice":"10 ml vial : ৳ 700.00"
+},
+{
+"name":"Fertil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Clomiphene Citrate",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Fibril ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"300 mg",
+"ganare":"Gemfibrozil",
+"unitPrice":"Unit Price : ৳ 6.99"
+},
+{
+"name":"Fibropress ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Ulipristal Acetate (For uterine fibroids)",
+"unitPrice":"Unit Price : ৳ 55.00"
+},
+{
+"name":"Filmet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 0.68"
+},
+{
+"name":"Filmet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.52"
+},
+{
+"name":"Filmet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 29.90"
+},
+{
+"name":"Filmet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"500 mg/100 ml",
+"ganare":"Metronidazole",
+"unitPrice":"100 ml bottle : ৳ 53.86"
+},
+{
+"name":"Filmet DS ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"800 mg",
+"ganare":"Metronidazole",
+"unitPrice":"   Unit Price : ৳ 2.01"
+},
+{
+"name":"Fixolin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Fixolin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"100 mg/5 ml",
+"ganare":"Doxophylline",
+"unitPrice":"100 ml bottle : ৳ 100.00"
+},
+{
+"name":"Fixolin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Flatameal ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg+200 mg+30 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Flatameal Plus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(200 mg+400 mg+30 mg)/5 ml",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+"unitPrice":"200 ml bottle : ৳ 75.00"
+},
+{
+"name":"Flubex ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Flubex ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.50"
+},
+{
+"name":"Flubex ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Flubex DS ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 110.00"
+},
+{
+"name":"Flurium ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Flunarizine",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Flurium ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Flunarizine",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Formula E ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Vitamin E (Alpha Tocopherol Acetate)",
+"unitPrice":"Unit Price : ৳ 3.82"
+},
+{
+"name":"Fosamin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Granules",
+"strange":"3 gm/sachet",
+"ganare":"Fosfomycin",
+"unitPrice":"3 gm sachet : ৳ 350.00"
+},
+{
+"name":"Frelax ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Emulsion",
+"strange":"(300 mg+1.25 ml)/5 ml",
+"ganare":"Magnesium Hydroxide + Liquid Paraffin",
+"unitPrice":"100 ml bottle : ৳ 94.96"
+},
+{
+"name":"Frenxit ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Flupentixol + Melitracen",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Frenzoy ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Flupentixol",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Frenzoy ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Flupentixol",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Fructin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"10% w/v",
+"ganare":"Fructose",
+"unitPrice":"500 ml bag : ৳ 97.00"
+},
+{
+"name":"Fungistin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100000 unit/ml",
+"ganare":"Nystatin (Oral)",
+"unitPrice":"12 ml bottle : ৳ 22.81"
+},
+{
+"name":"Furasep ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.2%",
+"ganare":"Nitrofurazone",
+"unitPrice":"20 gm tube : ৳ 17.00"
+},
+{
+"name":"Fusidic Plus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"2%+1%",
+"ganare":"Fusidic acid + Hydrocortisone",
+"unitPrice":"10 gm tube : ৳ 125.49"
+},
+{
+"name":"Gastalfet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1000 mg",
+"ganare":"Sucralfate",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Gastalfet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Sucralfate",
+"unitPrice":"Unit Price : ৳ 4.02"
+},
+{
+"name":"Gensulin M30 ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Human (rDNA) + Isophane Insulin Human",
+"unitPrice":"3 ml cartridge : ৳ 217.44"
+},
+{
+"name":"Gensulin N ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Human (rDNA)",
+"unitPrice":"3 ml cartridge : ৳ 217.44"
+},
+{
+"name":"Gensulin R ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Human (rDNA)",
+"unitPrice":"3 ml cartridge : ৳ 215.49"
+},
+{
+"name":"Gentosep ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.3 %",
+"ganare":"Gentamicin Sulphate (Topical Preparation)",
+"unitPrice":"15 mg tube : ৳ 18.50"
+},
+{
+"name":"Glipita ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Sitagliptin",
+"unitPrice":"Unit Price : ৳ 13.01"
+},
+{
+"name":"Glipita ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Sitagliptin",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Glipita M ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg+500 mg",
+"ganare":"Sitagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 13.99"
+},
+{
+"name":"Glipita M ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg+1000 mg",
+"ganare":"Sitagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 15.99"
+},
+{
+"name":"Glipita M ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg+500 mg",
+"ganare":"Sitagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 15.99"
+},
+{
+"name":"Glipita M ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg+1000 mg",
+"ganare":"Sitagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Glucovis ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.25%",
+"ganare":"Betaxolol Hydrochloride",
+"unitPrice":"5 ml drop : ৳ 200.00"
+},
+{
+"name":"Heart Plus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg+2.5 mg+1 mg",
+"ganare":"Vitamin B6 B9 & B12",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Hefolin SR ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg",
+"ganare":"Ferrous Sulphate + Folic Acid",
+"unitPrice":"Unit Price : ৳ 2.40"
+},
+{
+"name":"Hemofix ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"33 mg",
+"ganare":"Ferrous Ascorbate",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Hemofix FZ ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"48 mg+0.5 mg+22.5 mg",
+"ganare":"Ferrous Ascorbate (Iron) + Folic Acid + Zinc Sulfate Monohydrate",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Hypersol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"5%",
+"ganare":"Sodium Chloride (5% Eye Drop)",
+"unitPrice":"10 ml drop : ৳ 69.97"
+},
+{
+"name":"Hyprosol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.3%",
+"ganare":"Hypromellose (Eye drop)",
+"unitPrice":"10 ml drop : ৳ 65.00"
+},
+{
+"name":"Icykool ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"15%+10%",
+"ganare":"Methyl Salicylate + Menthol",
+"unitPrice":"25 gm tube : ৳ 40.00"
+},
+{
+"name":"Icykool Max ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"30%+8%",
+"ganare":"Methyl Salicylate + Menthol",
+"unitPrice":"25 gm tube : ৳ 65.00"
+},
+{
+"name":"Inarzin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Cinnarizine",
+"unitPrice":"Unit Price : ৳ 0.90"
+},
+{
+"name":"Indelix SR ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1.5 mg",
+"ganare":"Indapamide",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Induric Plus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.625 mg+2 mg",
+"ganare":"Indapamide + Perindopril Arginine",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Inflavis ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.1%",
+"ganare":"Dexamethasone Sodium Phosphate (E/E)",
+"unitPrice":"5 ml drop : ৳ 70.00"
+},
+{
+"name":"Informet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Informet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Informet LA ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 5.01"
+},
+{
+"name":"Informet LA ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"750 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Informet LA ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1000 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Intracef ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 6.50"
+},
+{
+"name":"Intracef ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.50"
+},
+{
+"name":"Intracef ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Intracef ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cephradine",
+"unitPrice":"15 ml bottle : ৳ 50.00"
+},
+{
+"name":"Intracef ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Cephradine",
+"unitPrice":"250 mg vial : ৳ 35.14"
+},
+{
+"name":"Intracef ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Cephradine",
+"unitPrice":"500 mg vial : ৳ 50.19"
+},
+{
+"name":"Intracef DS ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 120.00"
+},
+{
+"name":"Intramol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Timolol Maleate",
+"unitPrice":"5 ml drop : ৳ 70.00"
+},
+{
+"name":"Invigen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"80 mg/100 ml",
+"ganare":"Gentamicin Sulfate (IV Infusion)",
+"unitPrice":"100 ml bottle : ৳ 47.22"
+},
+{
+"name":"Ipramid ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"20 mcg/puff",
+"ganare":"Ipratropium Bromide (Inhaler)",
+"unitPrice":"200 metered doses : ৳ 200.00"
+},
+{
+"name":"Ipramid ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Nebuliser",
+"strange":"250 mcg/ml",
+"ganare":"Ipratropium Bromide (Nebuliser Solution)",
+"unitPrice":"20 ml bottle : ৳ 130.00"
+},
+{
+"name":"Iprasol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"(100 mcg+20 mcg)/puff",
+"ganare":"Salbutamol + Ipratropium Bromide",
+"unitPrice":"200 metered doses : ৳ 230.00"
+},
+{
+"name":"Iprasol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Solution for Inhalation",
+"strange":"(2.5 mg+500 mcg)/3 ml",
+"ganare":"Salbutamol + Ipratropium Bromide",
+"unitPrice":"20 ml bottle : ৳ 225.00"
+},
+{
+"name":"Iprasol HFA ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"(100 mcg+20 mcg)/puff",
+"ganare":"Salbutamol + Ipratropium Bromide",
+"unitPrice":"200 metered doses : ৳ 250.00"
+},
+{
+"name":"Iprasol HFA (refill) ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"(100 mcg+20 mcg)/puff",
+"ganare":"Salbutamol + Ipratropium Bromide",
+"unitPrice":"200 metered doses : ৳ 230.00"
+},
+{
+"name":"Irigon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Solution",
+"strange":"1.5%",
+"ganare":"Glycine",
+"unitPrice":"1000 ml bag : ৳ 70.79"
+},
+{
+"name":"Isofloxin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Pefloxacin",
+"unitPrice":"Unit Price : ৳ 12.05"
+},
+{
+"name":"Isoride ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"0.18%+4.3%",
+"ganare":"Sodium Chloride + Dextrose",
+"unitPrice":"500 ml bag : ৳ 71.09"
+},
+{
+"name":"Ivera ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"6 mg",
+"ganare":"Ivermectin (Oral)",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Jardian ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Empagliflozin",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Jardian ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Empagliflozin",
+"unitPrice":"Unit Price : ৳ 40.00"
+},
+{
+"name":"Jointec Max ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"750 mg+50 mg",
+"ganare":"Glucosamine Sulphate + Diacerein",
+"unitPrice":"Unit Price : ৳ 12.01"
+},
+{
+"name":"Jointec Plus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg+200 mg",
+"ganare":"Glucosamine Sulphate + Chondroitin",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Keolax ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Clobazam",
+"unitPrice":"Unit Price : ৳ 2.77"
+},
+{
+"name":"Koloride ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":" ",
+"ganare":"Cholera Saline",
+"unitPrice":"500 ml bag : ৳ 69.90"
+},
+{
+"name":"Labeta ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Labetalol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Labeta ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Labetalol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Lacrison ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"0.5%",
+"ganare":"Loteprednol Etabonate",
+"unitPrice":"5 ml drop : ৳ 175.00"
+},
+{
+"name":"Lacrison T ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"0.5%+0.3%",
+"ganare":"Loteprednol Etabonate + Tobramycin",
+"unitPrice":"5 ml drop : ৳ 200.00"
+},
+{
+"name":"Lactameal ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(175 mg+225 mg)/5 ml",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"200 ml bottle : ৳ 33.05"
+},
+{
+"name":"Lactameal ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg+400 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"Unit Price : ৳ 0.73"
+},
+{
+"name":"Lactoride ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":" ",
+"ganare":"Hartmann's Solution",
+"unitPrice":"500 ml bag : ৳ 71.06"
+},
+{
+"name":"Larnox LA ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"350 mg",
+"ganare":"Aminophylline",
+"unitPrice":"Unit Price : ৳ 2.22"
+},
+{
+"name":"Lensovit ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":" ",
+"ganare":"Sodium Succinate + Cytochrome C + Adenosine + Nicotinamide",
+"unitPrice":"5 ml drop : ৳ 120.00"
+},
+{
+"name":"Lesovir-C ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"90 mg+400 mg",
+"ganare":"Ledipasvir + Sofosbuvir",
+"unitPrice":"Unit Price : ৳ 1200.00"
+},
+{
+"name":"Limogel ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"15%",
+"ganare":"L-Lysine Hydrochloride",
+"unitPrice":"25 gm tube : ৳ 80.00"
+},
+{
+"name":"Liveric ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ursodeoxycholic Acid",
+"unitPrice":"Unit Price : ৳ 10.99"
+},
+{
+"name":"Liveric ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Ursodeoxycholic Acid",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Lodiben ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"10 mg+20 mg",
+"ganare":"Amlodipine + Benazepril Hydrochloride",
+"unitPrice":"Price not available"
+},
+{
+"name":"Lodiben ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"5 mg+20 mg",
+"ganare":"Amlodipine + Benazepril Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Lodiben ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"5 mg+10 mg",
+"ganare":"Amlodipine + Benazepril Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Lodiben ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"2.5 mg+10 mg",
+"ganare":"Amlodipine + Benazepril Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Lofat ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Fenofibrate",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Lonet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Atenolol",
+"unitPrice":"Unit Price : ৳ 1.37"
+},
+{
+"name":"Lonet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Atenolol",
+"unitPrice":"Unit Price : ৳ 0.77"
+},
+{
+"name":"Lopidam ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"370 mg/ml",
+"ganare":"Iopamidol",
+"unitPrice":"100 ml vial : ৳ 2634.90"
+},
+{
+"name":"Lopidam ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"300 mg/ml",
+"ganare":"Iopamidol",
+"unitPrice":"50 ml vial : ৳ 752.26"
+},
+{
+"name":"Lospan ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Lospan ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 15.99"
+},
+{
+"name":"Loverin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Dicycloverine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.01"
+},
+{
+"name":"Loverin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Dicycloverine Hydrochloride",
+"unitPrice":"50 ml bottle : ৳ 30.00"
+},
+{
+"name":"Lucidol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.50"
+},
+{
+"name":"Lucidol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suppository",
+"strange":"100 mg",
+"ganare":"Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Lucidol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"100 mg/2 ml",
+"ganare":"Tramadol Hydrochloride",
+"unitPrice":"2 ml ampoule : ৳ 20.00"
+},
+{
+"name":"Maxidim ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"250 mg/5 ml",
+"ganare":"Ceftazidime Pentahydrate",
+"unitPrice":"250 mg vial : ৳ 85.00"
+},
+{
+"name":"Maxidim ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/5 ml",
+"ganare":"Ceftazidime Pentahydrate",
+"unitPrice":"500 mg vial : ৳ 130.00"
+},
+{
+"name":"Maxidim ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/10 ml",
+"ganare":"Ceftazidime Pentahydrate",
+"unitPrice":"1 gm vial : ৳ 240.00"
+},
+{
+"name":"Meclomid ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Metoclopramide Hydrochloride",
+"unitPrice":"Price not available"
+},
+{
+"name":"Megadox ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Doxycycline",
+"unitPrice":"Unit Price : ৳ 2.16"
+},
+{
+"name":"Megatrim ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(200 mg+40 mg)/5 ml",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"60 ml bottle : ৳ 22.17"
+},
+{
+"name":"Megatrim DS ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"800 mg+160 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Unit Price : ৳ 2.66"
+},
+{
+"name":"Melev ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Paroxetine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 9.53"
+},
+{
+"name":"Melphin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"125 mg",
+"ganare":"Pyrantel Pamoate",
+"unitPrice":"Unit Price : ৳ 1.66"
+},
+{
+"name":"Melphin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"50 mg/ml",
+"ganare":"Pyrantel Pamoate",
+"unitPrice":"10 ml bottle : ৳ 16.10"
+},
+{
+"name":"Memorin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Donepezil Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Metazine MR ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"35 mg",
+"ganare":"Trimetazidine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{ 
+"name":"Metoprol-XL ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Metoprolol Tartrate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Metoprol-XL ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Metoprolol Tartrate",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Misopa ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mcg",
+"ganare":"Misoprostol",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Misopa ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mcg",
+"ganare":"Misoprostol",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Misopa ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"600 mcg",
+"ganare":"Misoprostol",
+"unitPrice":"Unit Price : ৳ 40.00"
+},
+{
+"name":"Mobicam ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Tenoxicam",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Modipran ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Fluoxetine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.89"
+},
+{
+"name":"Momento ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Desloratadine",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Momento ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"2.5 mg/5 ml",
+"ganare":"Desloratadine",
+"unitPrice":"60 ml bottle : ৳ 25.00"
+},
+{
+"name":"Momvit ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral Essentials (For nursing mother)",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Momvit Plus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (For nursing mother)",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Monate ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Isosorbide Mononitrate",
+"unitPrice":"Unit Price : ৳ 1.42"
+},
+{
+"name":"Monocast ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 3.49"
+},
+{
+"name":"Monocast ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Monocast ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Monocast ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Monocast ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Monocast ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"4 mg/3.5 gm",
+"ganare":"Montelukast Sodium",
+"unitPrice":"3.5 gm sachet : ৳ 8.01"
+},
+{
+"name":"Mucomist ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Nebuliser",
+"strange":"200 mg/ml",
+"ganare":"Acetylcysteine",
+"unitPrice":"3 ml ampoule : ৳ 30.00"
+},
+{
+"name":"Mucomist DT ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"600 mg",
+"ganare":"Acetylcysteine",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Mucosol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"Mucosol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"6 mg/ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"15 ml bottle : ৳ 30.00"
+},
+{
+"name":"Myconil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Rifampicin",
+"unitPrice":"Price not available"
+},
+{
+"name":"Myconil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"450 mg",
+"ganare":"Rifampicin",
+"unitPrice":"Price not available"
+},
+{
+"name":"Mydrate ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"1%",
+"ganare":"Cyclopentolate Hydrochloride",
+"unitPrice":"5 ml drop : ৳ 120.00"
+},
+{
+"name":"Myolin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Nalepsin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"4 gm/100 ml",
+"ganare":"Magnesium Sulfate",
+"unitPrice":"100 ml bottle : ৳ 70.79"
+},
+{
+"name":"Napa ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suppository",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Napa ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 1.28"
+},
+{
+"name":"Napa ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Napa ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"50 ml bottle : ৳ 18.29"
+},
+{
+"name":"Napa ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"80 mg/ml",
+"ganare":"Paracetamol",
+"unitPrice":"15 ml bottle : ৳ 14.82"
+},
+{
+"name":"Napa ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suppository",
+"strange":"60 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Napa ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suppository",
+"strange":"125 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Napa ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suppository",
+"strange":"250 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Napa ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"10 mg/ml",
+"ganare":"Paracetamol (IV Infusion)",
+"unitPrice":"100 ml bottle : ৳ 149.93"
+},
+{
+"name":"Napa DT ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 1.28"
+},
+{
+"name":"Napa Extend ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"665 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 1.51"
+},
+{
+"name":"Napa Extra ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 2.49"
+},
+{
+"name":"Napa Rapid ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Caplet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Napa-soft ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+100 mg",
+"ganare":"Paracetamol + Methionine",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Napadol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"325 mg+37.5 mg",
+"ganare":"Paracetamol + Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Nasomet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Nasal Spray",
+"strange":"50 mcg/spray",
+"ganare":"Mometasone Furoate (Nasal Spray)",
+"unitPrice":"120 metered sprays : ৳ 250.00"
+},
+{
+"name":"Navsol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Solution",
+"strange":" ",
+"ganare":"Balanced Salt Solution",
+"unitPrice":"500 ml bottle : ৳ 250.00"
+},
+{
+"name":"Nazolin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Nasal Spray",
+"strange":"0.05%",
+"ganare":"Oxymetazoline Hydrochloride (Nasal)",
+"unitPrice":"200 metered sprays : ৳ 130.00"
+},
+{
+"name":"Nebactil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Nalidixic Acid",
+"unitPrice":"Unit Price : ৳ 4.08"
+},
+{
+"name":"Nebactil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"300 mg/5 ml",
+"ganare":"Nalidixic Acid",
+"unitPrice":"50 ml bottle : ৳ 41.86"
+},
+{
+"name":"Neocard ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Diltiazem Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Neocard ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Diltiazem Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.80"
+},
+{
+"name":"Neoceptin R ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.75"
+},
+{
+"name":"Neoceptin R ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Neoceptin R ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"75 mg/5 ml",
+"ganare":"Ranitidine",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"Neoceptin R ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"50 mg/2 ml",
+"ganare":"Ranitidine",
+"unitPrice":"2 ml ampoule : ৳ 10.00"
+},
+{
+"name":"Neoceptin R ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"50 mg/100 ml",
+"ganare":"Ranitidine",
+"unitPrice":"100 ml bottle : ৳ 101.00"
+},
+{
+"name":"Neodrop ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"67 mg/ml",
+"ganare":"Simethicone",
+"unitPrice":"15 ml drop : ৳ 30.00"
+},
+{
+"name":"Neofloxin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 8.50"
+},
+{
+"name":"Neofloxin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 14.99"
+},
+{
+"name":"Neofloxin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"750 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Neofloxin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"60 ml bottle : ৳ 100.00"
+},
+{
+"name":"Neofloxin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"200 mg/100 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"100 ml bottle : ৳ 146.49"
+},
+{
+"name":"Neofloxin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.3%",
+"ganare":"Ciprofloxacin (Eye/Ear)",
+"unitPrice":"5 ml drop : ৳ 40.00"
+},
+{
+"name":"Neofloxin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"250 mg/sachet",
+"ganare":"Ciprofloxacin",
+"unitPrice":"250 mg sachet : ৳ 12.01"
+},
+{
+"name":"Neofloxin XR ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 11.00"
+},
+{
+"name":"Neofloxin XR ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1000 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Neofloxin-D ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.3%+0.1%",
+"ganare":"Ciprofloxacin + Dexamethasone",
+"unitPrice":"5 ml drop : ৳ 75.00"
+},
+{
+"name":"Neokit ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Strip",
+"strange":"20 mg+400 mg+500 mg",
+"ganare":"Omeprazole + Metronidazole + Clarithromycin",
+"unitPrice":"Unit Price : ৳ 55.00"
+},
+{
+"name":"Neopril ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Lisinopril",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Neopril ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Lisinopril",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Neosol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"0.225%+5%",
+"ganare":"Sodium Chloride + Dextrose",
+"unitPrice":"250 ml bag : ৳ 55.02"
+},
+{
+"name":"Neosol DS ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"0.45%+5%",
+"ganare":"Sodium Chloride + Dextrose",
+"unitPrice":"250 ml bag : ৳ 55.02"
+},
+{
+"name":"Neosten ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Clotrimazole (Topical)",
+"unitPrice":"20 gm tube : ৳ 45.00"
+},
+{
+"name":"Neosten HC ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%+1%",
+"ganare":"Clotrimazole + Hydrocortisone",
+"unitPrice":"10 gm tube : ৳ 35.00"
+},
+{
+"name":"Neosten VT ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Vaginal Tablet",
+"strange":"200 mg",
+"ganare":"Clotrimazole (Rectal)",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Nerkein ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"5 mg/ml",
+"ganare":"Bupivacaine Hydrochloride",
+"unitPrice":"30 ml vial : ৳ 60.00"
+},
+{
+"name":"Nervalin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"25 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Nervalin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 11.01"
+},
+{
+"name":"Nervalin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"75 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 15.99"
+},
+{
+"name":"Neurocare ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Nightus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"3 mg",
+"ganare":"Bromazepam",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Nitaxide ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Nitazoxanide",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Nitaxide ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Nitazoxanide",
+"unitPrice":"30 ml bottle : ৳ 35.00"
+},
+{
+"name":"Nitrosol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Spray",
+"strange":"400 mcg/spray",
+"ganare":"Glyceryl Trinitrate (Nitroglycerin)",
+"unitPrice":"200 metered spray : ৳ 225.00"
+},
+{
+"name":"Nitrosol SR ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2.6 mg",
+"ganare":"Glyceryl Trinitrate (Nitroglycerin)",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Nokof ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"125 mg/5 ml",
+"ganare":"Carbocisteine",
+"unitPrice":"100 ml bottle : ৳ 30.00"
+},
+{
+"name":"Nokof ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"375 mg",
+"ganare":"Carbocisteine",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Nokof DS ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"250 mg/5 ml",
+"ganare":"Carbocisteine",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"Norestin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Norethisterone",
+"unitPrice":"Unit Price : ৳ 6.84"
+},
+{
+"name":"Normotil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"2 mg",
+"ganare":"Loperamide",
+"unitPrice":"Unit Price : ৳ 0.60"
+},
+{
+"name":"Noscab ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"5%w/w",
+"ganare":"Permethrin",
+"unitPrice":"25 gm tube : ৳ 35.00"
+},
+{
+"name":"Nuprafen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Price not available"
+},
+{
+"name":"Nuprafen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 4.20"
+},
+{
+"name":"Nuprafen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 7.84"
+},
+{
+"name":"Nutridex 25 ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"25%",
+"ganare":"Dextrose",
+"unitPrice":"100 ml vial : ৳ 37.42"
+},
+{
+"name":"Nutrimin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"5%",
+"ganare":"Amino acid",
+"unitPrice":"500 ml bottle : ৳ 350.00"
+},
+{
+"name":"Nutrimin-D ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"7%+10%",
+"ganare":"Amino Acid + Glucose & Electrolytes",
+"unitPrice":"500 ml bottle : ৳ 410.00"
+},
+{
+"name":"Ocutrex ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.5%",
+"ganare":"Chloramphenicol",
+"unitPrice":"10 ml drop : ৳ 34.49"
+},
+{
+"name":"Odeson ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"4 mg/ml",
+"ganare":"Dexamethasone Sodium Phosphate",
+"unitPrice":"1 ml ampoule : ৳ 15.00"
+},
+{
+"name":"Odeson ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Dexamethasone Sodium Phosphate",
+"unitPrice":"Unit Price : ৳ 1.15"
+},
+{
+"name":"Odrel ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"75 mg",
+"ganare":"Clopidogrel Bisulphate",
+"unitPrice":"Unit Price : ৳ 12.01"
+},
+{
+"name":"Odrel Plus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"75 mg+75 mg",
+"ganare":"Clopidogrel + Aspirin",
+"unitPrice":"Unit Price : ৳ 12.01"
+},
+{
+"name":"Odycin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Moxifloxacin Hydrochloride (Oral or Injection)",
+"unitPrice":"Unit Price : ৳ 69.94"
+},
+{
+"name":"Odycin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Moxifloxacin Hydrochloride",
+"unitPrice":"5 ml drop : ৳ 140.00"
+},
+{
+"name":"Olmesan ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Olmesartan Medoxomil",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Olmesan ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Olmesartan Medoxomil",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Olmesan ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Olmesartan Medoxomil",
+"unitPrice":"Unit Price : ৳ 14.99"
+},
+{
+"name":"Olmesan Plus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg+12.5 mg",
+"ganare":"Olmesartan Medoxomil + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Olopan ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.1%",
+"ganare":"Olopatadine Hydrochloride (Eye Drops)",
+"unitPrice":"5 ml drop : ৳ 110.00"
+},
+{
+"name":"Olopan ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Nasal Spray",
+"strange":"600 mcg/spray",
+"ganare":"Olopatadine Hydrochloride (Nasal Spray)",
+"unitPrice":"120 metered sprays : ৳ 400.00"
+},
+{
+"name":"Olopan DS ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.2%",
+"ganare":"Olopatadine Hydrochloride (Eye Drops)",
+"unitPrice":"5 ml drop : ৳ 160.00"
+},
+{
+"name":"Omastin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Omastin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 22.00"
+},
+{
+"name":"Omastin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Omastin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"50 mg/5 ml",
+"ganare":"Fluconazole",
+"unitPrice":"35 ml bottle : ৳ 78.00"
+},
+{
+"name":"Omastin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"200 mg/100 ml",
+"ganare":"Fluconazole",
+"unitPrice":"100 ml bottle : ৳ 200.00"
+},
+{
+"name":"Omastin Duo",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Oral Capsule & Vaginal Cream",
+"strange":"150 mg & 10 mg/gm",
+"ganare":"Fluconazole & Clotrimazole",
+"unitPrice":"150 mg oral capsule and 20 gm tube : ৳ 55.00"
+},
+{
+"name":"Omnivit ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Carbonyl Iron + FolicAcid + Vitamin-B Complex + Vitamin C + Zinc",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Onriva Inhalation ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"75 mcg",
+"ganare":"Indacaterol Maleate",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Onriva Inhalation ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mcg",
+"ganare":"Indacaterol Maleate",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Onriva Plus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhalation Capsule",
+"strange":"110 mcg+50 mcg",
+"ganare":"Indacaterol + Glycopyrronium",
+"unitPrice":"Unit Price : ৳ 70.00"
+},
+{
+"name":"Onsat ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Oral Soluble Film",
+"strange":"4 mg",
+"ganare":"Ondansetron",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Onsat ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Oral Soluble Film",
+"strange":"8 mg",
+"ganare":"Ondansetron",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Onsat ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Oral Solution",
+"strange":"4 mg/5 ml",
+"ganare":"Ondansetron",
+"unitPrice":"50 ml bottle : ৳ 30.00"
+},
+{
+"name":"Onsat ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"8 mg",
+"ganare":"Ondansetron",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Onsat ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"8 mg/4 ml",
+"ganare":"Ondansetron",
+"unitPrice":"4 ml ampoule : ৳ 25.00"
+},
+{
+"name":"Opanac ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"0.1%",
+"ganare":"Nepafenac",
+"unitPrice":"3 ml drop : ৳ 119.00"
+},
+{
+"name":"Opton ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Opton ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Opton ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Opton ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Opton ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"40 mg/vial",
+"ganare":"Esomeprazole",
+"unitPrice":"40 mg vial : ৳ 110.00"
+},
+{
+"name":"Orpan ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"300 mg",
+"ganare":"Etodolac",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Oseflu ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"75 mg",
+"ganare":"Oseltamivir",
+"unitPrice":"Unit Price : ৳ 150.00"
+},
+{
+"name":"Oseflu ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"60 mg/5 ml",
+"ganare":"Oseltamivir",
+"unitPrice":"Unit Price : ৳ 650.00"
+},
+{
+"name":"Osmosol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"20%",
+"ganare":"Mannitol",
+"unitPrice":"500 ml bottle : ৳ 155.00"
+},
+{
+"name":"Ovalac ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Valacyclovir",
+"unitPrice":"Unit Price : ৳ 149.86"
+},
+{
+"name":"Pacet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Amiodarone Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.04"
+},
+{
+"name":"Pacet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Amiodarone Hydrochloride",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Pantobex ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Pantobex ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Pantobex ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"40 mg/vial",
+"ganare":"Pantoprazole",
+"unitPrice":"40 mg vial : ৳ 110.00"
+},
+{
+"name":"Pedeamin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Diphenhydramine Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Pedrox ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"50 mg/5 ml",
+"ganare":"Roxithromycin",
+"unitPrice":"50 ml bottle : ৳ 45.00"
+},
+{
+"name":"Pedrox ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Roxithromycin",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Pedrox ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Roxithromycin",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Penomer ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Meropenem Trihydrate",
+"unitPrice":"1 gm vial : ৳ 1300.00"
+},
+{
+"name":"Penomer ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Meropenem Trihydrate",
+"unitPrice":"500 mg vial : ৳ 700.00"
+},
+{
+"name":"Pericam ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Olanzapine",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Pericam ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Olanzapine",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Perilax ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tolperisone Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Perinase ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Nasal Spray",
+"strange":"50 mcg/spray",
+"ganare":"Fluticasone Propionate (Nasal Spray)",
+"unitPrice":"120 metered sprays : ৳ 250.00"
+},
+{
+"name":"Pirox ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"40 mg/2 ml",
+"ganare":"Piroxicam",
+"unitPrice":"2 ml ampoule : ৳ 18.00"
+},
+{
+"name":"Prasuva ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Prasugrel Hydrochloride",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Prasuva ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Prasugrel Hydrochloride",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Pregvit ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron + Folic acid + Vitamin B complex + Vitamin C",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Premil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Repaglinide",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Premil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Repaglinide",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Premil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Repaglinide",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Pretin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Loratadine",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Pretin D ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg+240 mg",
+"ganare":"Loratadine + Pseudoephedrine",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Primace ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"10 mg",
+"ganare":"Ramipril",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Primace ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1.25 mg",
+"ganare":"Ramipril",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Primace ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"1.25 mg",
+"ganare":"Ramipril",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Primace ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"2.5 mg",
+"ganare":"Ramipril",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Primace ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"5 mg",
+"ganare":"Ramipril",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Primace ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Ramipril",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Primace ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Ramipril",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Primace ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ramipril",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Proceptin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Proceptin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Proceptin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"40 mg/vial",
+"ganare":"Omeprazole",
+"unitPrice":"40 mg vial : ৳ 100.00"
+},
+{
+"name":"Promezin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Promethazine Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 15.54"
+},
+{
+"name":"Prosan ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Prosan ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Prosan HZ ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg+12.5 mg",
+"ganare":"Losartan Potassium + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Prosan HZ ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg+12.5 mg",
+"ganare":"Losartan Potassium + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 8.99"
+},
+{
+"name":"Prosan HZ ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg+25 mg",
+"ganare":"Losartan Potassium + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Prosfin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Finasteride (For B.P.H.)",
+"unitPrice":"Unit Price : ৳ 10.04"
+},
+{
+"name":"Protolan ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"15 mg",
+"ganare":"Lansoprazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Protolan ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"30 mg",
+"ganare":"Lansoprazole",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Prudex ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"(10 mg+30 mg+1.25 mg)/5 ml",
+"ganare":"Dextromethorphan + Pseudoephedrine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 70.00"
+},
+{
+"name":"Pylopac Kit ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Strip",
+"strange":"500 mg+500 mg+30 mg",
+"ganare":"Clarithromycin + Metronidazole + Lansoprazol",
+"unitPrice":"Unit Price : ৳ 14.98"
+},
+{
+"name":"Q-Rash ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"40%",
+"ganare":"Zinc Oxide",
+"unitPrice":"25 gm pack : ৳ 50.00"
+},
+{
+"name":"Recovate ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Rectal Ointment",
+"strange":"0.05%+0.1%+2.5%",
+"ganare":"Betamethasone + Phenylephrine + Lignocaine",
+"unitPrice":"Price not available"
+},
+{
+"name":"Recur ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Finasteride (For Androgenic Alopecia)",
+"unitPrice":"Unit Price : ৳ 4.02"
+},
+{
+"name":"Reflon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Glucosamine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Relentus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Tizanidine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Repitol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Ropinirole",
+"unitPrice":"Unit Price : ৳ 10.04"
+},
+{
+"name":"Repitol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.25 mg",
+"ganare":"Ropinirole",
+"unitPrice":"Unit Price : ৳ 2.01"
+},
+{
+"name":"Resitone ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg+50 mg",
+"ganare":"Furosemide + Spironolactone",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Resitone Plus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg+50 mg",
+"ganare":"Furosemide + Spironolactone",
+"unitPrice":"Unit Price : ৳ 7.99"
+},
+{
+"name":"Resolve ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Shampoo",
+"strange":"2%",
+"ganare":"Ketoconazole",
+"unitPrice":"100 ml bottle : ৳ 250.01"
+},
+{
+"name":"Respira ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Levosalbutamol (Oral)",
+"unitPrice":"Unit Price : ৳ 0.89"
+},
+{
+"name":"Respira ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Levosalbutamol (Oral)",
+"unitPrice":"Unit Price : ৳ 1.70"
+},
+{
+"name":"Respira ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"1 mg/5 ml",
+"ganare":"Levosalbutamol (Oral)",
+"unitPrice":"100 ml bottle : ৳ 38.00"
+},
+{
+"name":"Respira ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"50 mcg/puff",
+"ganare":"Levosalbutamol (Inhaler)",
+"unitPrice":"200 metered doses : ৳ 200.00"
+},
+{
+"name":"Reumafen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Ibuprofen",
+"unitPrice":"Unit Price : ৳ 0.88"
+},
+{
+"name":"Reumafen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Ibuprofen",
+"unitPrice":"Unit Price : ৳ 1.43"
+},
+{
+"name":"Reumafen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Ibuprofen",
+"unitPrice":"100 ml bottle : ৳ 33.82"
+},
+{
+"name":"Rezoven ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Adefovir Dipivoxil",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Ribox ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Ribox ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 12.01"
+},
+{
+"name":"Ribox ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 13.99"
+},
+{
+"name":"Rixamin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Rifaximin",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Rixamin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"550 mg",
+"ganare":"Rifaximin",
+"unitPrice":"Unit Price : ৳ 55.00"
+},
+{
+"name":"Rolacin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Clarithromycin",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Rolacin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Clarithromycin",
+"unitPrice":"Unit Price : ৳ 40.00"
+},
+{
+"name":"Rostil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"135 mg",
+"ganare":"Mebeverine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Rostil SR ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Mebeverine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Rosutin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price: ৳ 30.00"
+},
+{
+"name":"Rosutin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Rosutin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Rubalon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.1%",
+"ganare":"Fluorometholone Acetate",
+"unitPrice":"5 ml drop : ৳ 100.00"
+},
+{
+"name":"S-Clon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Eszopiclone",
+"unitPrice":"Unit Price : ৳ 2.01"
+},
+{
+"name":"S-Clon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Eszopiclone",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Saloride ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"0.9%",
+"ganare":"Sodium Chloride (Intravenous Solution)",
+"unitPrice":"100 ml bottle : ৳ 47.89"
+},
+{
+"name":"Saloride ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.9%",
+"ganare":"Sodium Chloride (0.9% Eye Drop)",
+"unitPrice":"10 ml drop : ৳ 60.00"
+},
+{
+"name":"Semastin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Simvastatin",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Sensipin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Clozapine",
+"unitPrice":"Unit Price : ৳ 3.84"
+},
+{
+"name":"Serelose ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Oral Solution",
+"strange":"3.35 gm/5 ml",
+"ganare":"Lactulose",
+"unitPrice":"100 ml bottle : ৳ 130.00"
+},
+{
+"name":"Seronil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Amitriptyline hydrochloride",
+"unitPrice":"Price Unavailable"
+},
+{
+"name":"Seronil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Amitriptyline hydrochloride",
+"unitPrice":"Price Unavailable"
+},
+{
+"name":"Seropam ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Escitalopram",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Seropam ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Escitalopram",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Sibulin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"5 mg",
+"ganare":"Sibutramine",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Sofovir-C ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Sofosbuvir",
+"unitPrice":"Unit Price : ৳ 350.00"
+},
+{
+"name":"Soritene ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.1%",
+"ganare":"Tazarotene",
+"unitPrice":"25 gm tube : ৳ 151.00"
+},
+{
+"name":"Spanil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Hyoscine Butylbromide",
+"unitPrice":"Unit Price : ৳ 6.90"
+},
+{
+"name":"Sparlin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Sparfloxacin",
+"unitPrice":"Unit Price : ৳ 15.06"
+},
+{
+"name":"Spulyt ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"4 mg/5 ml",
+"ganare":"Bromhexine Hyrdochloride",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"Spulyt ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"8 mg",
+"ganare":"Bromhexine Hyrdochloride",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Stopain ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Pentazocine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Symbion ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Bexicap",
+"strange":"100 mcg+6 mcg",
+"ganare":"Budesonide + Formoterol Fumarate Dihydrate",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Symbion ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Bexicap",
+"strange":"200 mcg+6 mcg",
+"ganare":"Budesonide + Formoterol Fumarate Dihydrate",
+"unitPrice":"Unit Price : ৳ 11.01"
+},
+{
+"name":"Symbion ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"80 mcg+4.5 mcg",
+"ganare":"Budesonide + Formoterol Fumarate Dihydrate",
+"unitPrice":"200 metered doses : ৳ 624.73"
+},
+{
+"name":"Symbion ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"160 mcg+4.5 mcg",
+"ganare":"Budesonide + Formoterol Fumarate Dihydrate",
+"unitPrice":"120 metered doses : ৳ 980.00"
+},
+{
+"name":"Symbion ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhalation Capsule",
+"strange":"400 mcg+12 mcg",
+"ganare":"Budesonide + Formoterol Fumarate Dihydrate",
+"unitPrice":"Unit Price : ৳ 13.99"
+},
+{
+"name":"Synomid ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Leflunomide",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Synomid ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Leflunomide",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Synomid ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Leflunomide",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Synroid ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mcg",
+"ganare":"Levothyroxine Sodium",
+"unitPrice":"Unit Price : ৳ 1.60"
+},
+{
+"name":"Tamona ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Tamoxifen Citrate",
+"unitPrice":"Unit Price : ৳ 10.07"
+},
+{
+"name":"Tamona ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Tamoxifen Citrate",
+"unitPrice":"Unit Price : ৳ 16.08"
+},
+{
+"name":"Taverin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Drotaverine",
+"unitPrice":"Unit Price : ৳ 1.75"
+},
+{
+"name":"Tearex ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"5%",
+"ganare":"Povidone Iodine (Eye Drop)",
+"unitPrice":"10 ml drop : ৳ 90.01"
+},
+{
+"name":"Tearon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.4%+0.3%",
+"ganare":"Polyethylene Glycol + Propylene Glycol",
+"unitPrice":"10 ml drop : ৳ 175.00"
+},
+{
+"name":"Tearon Fresh ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"1%",
+"ganare":"Carboxymethyl Cellulose",
+"unitPrice":"10 ml drop : ৳ 275.00"
+},
+{
+"name":"Telma ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Telmisartan",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Telma ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Telmisartan",
+"unitPrice":"Unit Price : ৳ 12.50"
+},
+{
+"name":"Telma Plus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg+12.5 mg",
+"ganare":"Telmisartan + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 12.50"
+},
+{
+"name":"Telmacal ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg+40 mg",
+"ganare":"Amlodipine + Telmisartan",
+"unitPrice":"Unit Price : ৳ 12.50"
+},
+{
+"name":"Tenafin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Butenafine Hydrochloride",
+"unitPrice":"15 gm tube : ৳ 50.00"
+},
+{
+"name":"Terbex ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Terbinafine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Terbex ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Terbinafine Hydrochloride",
+"unitPrice":"5 gm tube : ৳ 34.97"
+},
+{
+"name":"Tetracef ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Cefepime Hydrochloride",
+"unitPrice":"500 mg vial : ৳ 300.00"
+},
+{
+"name":"Tetracef ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Cefepime Hydrochloride",
+"unitPrice":"1 gm vial : ৳ 550.00"
+},
+{
+"name":"Tetracef ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"2 gm/vial",
+"ganare":"Cefepime Hydrochloride",
+"unitPrice":"2 gm vial : ৳ 1100.00"
+},
+{
+"name":"Tezolin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Tedizolid Phosphate",
+"unitPrice":"Unit Price : ৳ 500.00"
+},
+{
+"name":"Thalin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Chlorthalidone",
+"unitPrice":"Unit Price : ৳ 4.98"
+},
+{
+"name":"Tibilon ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Tibolone",
+"unitPrice":"Unit Price : ৳ 21.50"
+},
+{
+"name":"Tigel ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Ticagrelor",
+"unitPrice":"Unit Price : ৳ 75.00"
+},
+{
+"name":"Tioriva ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhalation Capsule",
+"strange":"18 mcg",
+"ganare":"Tiotropium (Dry Powder Inhaler)",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Tobasol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Nebuliser",
+"strange":"300 mg/5 ml",
+"ganare":"Tobramycin (Respirator Solution)",
+"unitPrice":"5 ml ampoule : ৳ 100.00"
+},
+{
+"name":"Tofen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.025%",
+"ganare":"Ketotifen Fumarate (Eye drops)",
+"unitPrice":"5 ml drop : ৳ 100.00"
+},
+{
+"name":"Tofen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"Unit Price : ৳ 2.49"
+},
+{
+"name":"Tofen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"1 mg/5 ml",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"100 ml bottle : ৳ 55.00"
+},
+{
+"name":"Tolmic ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Tolfenamic acid",
+"unitPrice":"Unit Price : ৳ 8.03"
+},
+{
+"name":"Tolmus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tolperisone Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Traneta ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Linagliptin",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Traneta M ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2.5 mg+500 mg",
+"ganare":"Linagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 12.01"
+},
+{
+"name":"Traneta M ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2.5 mg+850 mg",
+"ganare":"Linagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 13.99"
+},
+{
+"name":"Traneta M ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2.5 mg+1000 mg",
+"ganare":"Linagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 16.00"
+},
+{
+"name":"Tranexil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Tranexamic Acid",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Tranexil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/5 ml",
+"ganare":"Tranexamic Acid",
+"unitPrice":"5 ml ampoule : ৳ 50.00"
+},
+{
+"name":"Triocim ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 35.01"
+},
+{
+"name":"Triocim ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Triocim ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 210.00"
+},
+{
+"name":"Triocim DS ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 320.00"
+},
+{
+"name":"Triomid ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Inhaler",
+"strange":"9 mcg/puff",
+"ganare":"Tiotropium (Inhaler)",
+"unitPrice":"120 metered doses : ৳ 350.00"
+},
+{
+"name":"Triovix ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg+300 mg+200 mg",
+"ganare":"Lamivudine + Zidovudine + Nevirapine",
+"unitPrice":"Unit Price : ৳ 70.00"
+},
+{
+"name":"Tripec ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"(30 mg+100 mg+1.25 mg)/5 ml",
+"ganare":"Pseudoephedrine + Guaiphenasine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 55.00"
+},
+{
+"name":"Turbocef ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Turbocef ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 45.00"
+},
+{
+"name":"Turbocef ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"70 ml bottle : ৳ 240.00"
+},
+{
+"name":"Turbocef ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"750 mg/vial",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"750 mg vial : ৳ 125.00"
+},
+{
+"name":"Turbocef ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1.5 gm/vial",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"1.5 gm vial : ৳ 200.00"
+},
+{
+"name":"Turbocef DS ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"50 ml bottle : ৳ 320.00"
+},
+{
+"name":"Turboclav ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg+62.5 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Turboclav ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+125 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Tuspel ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"(200 mg+15 mg+15 mg)/5 ml",
+"ganare":"Guaifenesin + Dextromethorphan + Menthol",
+"unitPrice":"100 ml bottle : ৳ 85.00"
+},
+{
+"name":"Tycil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"15 ml bottle : ৳ 30.29"
+},
+{
+"name":"Tycil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.61"
+},
+{
+"name":"Tycil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.79"
+},
+{
+"name":"Tycil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 46.76"
+},
+{
+"name":"Tycil DS ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 54.56"
+},
+{
+"name":"Tyclav ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(125 mg+31.25 mg)/5 ml",
+"ganare":"Amoxicillin + Clavulanic Acid",
+"unitPrice":"100 ml bottle : ৳ 220.00"
+},
+{
+"name":"Tyclav ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"(500 mg+100 mg)/10 ml",
+"ganare":"Amoxicillin + Clavulanic Acid",
+"unitPrice":"600 mg vial : ৳ 150.00"
+},
+{
+"name":"Tyclav ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"(1 gm+200 mg)/20 ml",
+"ganare":"Amoxicillin + Clavulanic Acid",
+"unitPrice":"1.2 gm vial : ৳ 300.00"
+},
+{
+"name":"Tyclav ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"875 mg+125 mg",
+"ganare":"Amoxicillin + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 45.00"
+},
+{
+"name":"Tyclav ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg+125 mg",
+"ganare":"Amoxicillin + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 25.00"
+}
+{
+"name":"Viscocid ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(500 mg+100 mg)/5 ml",
+"ganare":"Sodium Alginate + Potassium Bicarbonate",
+"unitPrice":"200 ml bottle : ৳ 150.00"
+},
+{
+"name":"Viscocid ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+100 mg",
+"ganare":"Sodium Alginate + Potassium Bicarbonate",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Vitonic ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"SyrupIron",
+"strange":" ",
+"ganare":"Polymaltose Complex + Vitamin B Complex + Zinc",
+"unitPrice":"50 ml bottle : ৳ 30.00"
+},
+{
+"name":"Vivis",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":" ",
+"strange":" ",
+"ganare":"Vitamin C Vitamin E Lutein Copper & Zinc",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Voligel ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Gel",
+"strange":"1%w/w",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"30 gm tube : ৳ 80.00"
+},
+{
+"name":"Vomec ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Meclizine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Vomic Plus ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg+50 mg",
+"ganare":"Meclizine + Pyridoxine",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Vomix DR ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg+10 mg",
+"ganare":"Pyridoxine Hydrochloride + Doxylamine Succinate",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Xalanol ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.005%+0.5%",
+"ganare":"Latanoprost + Timolol",
+"unitPrice":"2.5 ml drop : ৳ 495.00"
+},
+{
+"name":"Xalaprost ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.005%",
+"ganare":"Latanoprost",
+"unitPrice":"2.5 ml drop : ৳ 460.00"
+},
+{
+"name":"Xegal",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":" ",
+"strange":"0.3%",
+"ganare":"Gatifloxacin (Ophthalmic)",
+"unitPrice":"5 ml drop : ৳ 90.00"
+},
+{
+"name":"Xegal ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Gatifloxacin (Tablet & Injection)",
+"unitPrice":"Unit Price : ৳ 10.07"
+},
+{
+"name":"Xetril ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Xetril ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 8.97"
+},
+{
+"name":"Xidolac ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Xidolac ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"10 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 30.00"
+},
+{
+"name":"Xidolac ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"30 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 55.00"
+},
+{
+"name":"Xidolac ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Ketorolac Tromethamine (Eye Drops)",
+"unitPrice":"5 ml drop : ৳ 80.00"
+},
+{
+"name":"Xidolac ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 12.01"
+},
+{
+"name":"Xynofen ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Ketoprofen",
+"unitPrice":"Unit Price : ৳ 7.54"
+},
+{
+"name":"Xynor ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ornidazole",
+"unitPrice":"Unit Price : ৳ 6.50"
+},
+{
+"name":"Yamadin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Famotidine",
+"unitPrice":"Unit Price : ৳ 3.82"
+},
+{
+"name":"Yamadin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Famotidine",
+"unitPrice":"Unit Price : ৳ 1.89"
+},
+{
+"name":"Zedex ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Zedex DS ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 30.00"
+},
+{
+"name":"Zedex Max ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"20 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 30.00"
+},
+{
+"name":"Zilapro ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cefprozil",
+"unitPrice":"Unit Price : ৳ 55.00"
+},
+{
+"name":"Zilapro ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cefprozil",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Zilapro ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Cefprozil",
+"unitPrice":"50 ml bottle : ৳ 276.00"
+},
+{
+"name":"Zocil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Cilostazol",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Zocil ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Cilostazol",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Zolax ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.25 mg",
+"ganare":"Alprazolam",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Zolax ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Alprazolam",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Zolfin ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Zolmit ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Zolmitriptan",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Zoltero ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"5 mg/100 ml",
+"ganare":"Zoledronic Acid (For osteoporosis)",
+"unitPrice":"100 ml bottle : ৳ 7000.00"
+},
+{
+"name":"Zukast ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Zafirlukast",
+"unitPrice":"Unit Price : ৳ 25.98"
+},
+{
+"name":"Zybex SR ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Bupropion Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Zymet ",
+"company":"Beximco Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"325 mg",
+"ganare":"Pancreatin",
+"unitPrice":"Unit Price : ৳ 3.50"
+},

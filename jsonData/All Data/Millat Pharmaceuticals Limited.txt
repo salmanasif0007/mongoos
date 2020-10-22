@@ -1,0 +1,568 @@
+{
+"name":"Bederm ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Cream",
+"strange":"0.05%",
+"ganare":"Clobetasol Propionate",
+"unitPrice":"10 gm tube : ৳ 35.00"
+},
+{
+"name":"Brohexin ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"8 mg",
+"ganare":"Bromhexine Hyrdochloride",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Brohexin ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"4 mg/5 ml",
+"ganare":"Bromhexine Hyrdochloride",
+"unitPrice":"100 ml bottle : ৳ 30.00"
+},
+{
+"name":"Brondyl ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"100 ml bottle : ৳ 22.80"
+},
+{
+"name":"C-Vitera ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Vitamin C (Ascorbic acid)",
+"unitPrice":"Unit Price : ৳ 1.30"
+},
+{
+"name":"Cabonate ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Ciprom ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Ciprom ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Ciprom DS ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Coldex ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"(30 mg+100 mg+1.25 mg)/5 ml",
+"ganare":"Pseudoephedrine + Guaiphenasine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"Diacon ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Din ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Loratadine",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Dola ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Dola ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 20.00"
+},
+{
+"name":"Dola Extra ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.90"
+},
+{
+"name":"Dompen ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Donor ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"6 mg+200 mg+50 mg",
+"ganare":"Betacarotene + Vitamin C + Vitamin E",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Durazol ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Albendazole",
+"unitPrice":"10 ml bottle : ৳ 15.00"
+},
+{
+"name":"Durazol ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Edin ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 6.50"
+},
+{
+"name":"Edin ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.50"
+},
+{
+"name":"Edin ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 86.00"
+},
+{
+"name":"Edin ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cephradine",
+"unitPrice":"15 ml bottle : ৳ 50.00"
+},
+{
+"name":"Edin DS ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 120.00"
+},
+{
+"name":"Flucin ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Flucin ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 22.00"
+},
+{
+"name":"Flucin ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 61.14"
+},
+{
+"name":"Flucin DS ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 110.00"
+},
+{
+"name":"Gem ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Glimet ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Hectamox ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.60"
+},
+{
+"name":"Hectamox ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.70"
+},
+{
+"name":"Hectamox ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 47.00"
+},
+{
+"name":"Hectamox ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"15 ml bottle : ৳ 30.00"
+},
+{
+"name":"Hectamox DS ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 65.00"
+},
+{
+"name":"Hydrocid ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"(175 mg+225 mg)/5 ml",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"200 ml bottle : ৳ 32.57"
+},
+{
+"name":"Hyginol ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Solution",
+"strange":"0.3%+3%",
+"ganare":"Chlorhexidine Gluconate + Cetrimide",
+"unitPrice":"50 ml bottle : ৳ 17.00"
+},
+{
+"name":"Hyginol ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Cream",
+"strange":"0.1%+0.5%",
+"ganare":"Chlorhexidine Hydrochloride + Cetrimide",
+"unitPrice":"30 gm tube : ৳ 22.00"
+},
+{
+"name":"Hyxim ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 195.00"
+},
+{
+"name":"Hyxim ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Hyzith ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Hyzith ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.00"
+},
+{
+"name":"Kidoplex ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Cod Liver Oil",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Laxod ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Litrim ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"(200 mg+40 mg)/5 ml",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"60 ml bottle : ৳ 21.50"
+},
+{
+"name":"Litrim ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"400 mg+80 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Unit Price : ৳ 2.02"
+},
+{
+"name":"Lofam ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Mebolos ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Oral Solution",
+"strange":"3.35 gm/5 ml",
+"ganare":"Lactulose",
+"unitPrice":"100 ml bottle : ৳ 75.00"
+},
+{
+"name":"Meta Plus TR ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg",
+"ganare":"Ferrous Sulphate + Folic Acid",
+"unitPrice":"Unit Price : ৳ 2.40"
+},
+{
+"name":"Meta-Z TR ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 2.93"
+},
+{
+"name":"Micac ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"1000 mg+327 mg+500 mg",
+"ganare":"Calcium Lactate Gluconate + Calcium Carbonate + Vitamin-C",
+"unitPrice":"Unit Price : ৳ 7.80"
+},
+{
+"name":"Miclocin ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cloxacillin",
+"unitPrice":"Unit Price : ৳ 5.95"
+},
+{
+"name":"Miclocin ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cloxacillin",
+"unitPrice":"100 ml bottle : ৳ 44.67"
+},
+{
+"name":"Miclofen ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 0.84"
+},
+{
+"name":"Miclofen TR ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 3.03"
+},
+{
+"name":"Micoplex-B",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.43"
+},
+{
+"name":"Micoplex-B ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 20.92"
+},
+{
+"name":"Micoplex-M ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 1.80"
+},
+{
+"name":"Millat's ORS ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Powder",
+"strange":"13.95 gm",
+"ganare":"Oral Rehydration Salt (Powder)",
+"unitPrice":"Unit Price : ৳ 3.43"
+},
+{
+"name":"Mitargan ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Promethazine Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 15.50"
+},
+{
+"name":"Mitrocin ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"Unit Price : ৳ 3.45"
+},
+{
+"name":"Mitrocin ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"Unit Price : ৳ 8.51"
+},
+{
+"name":"Mitrocin ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Mitrocin DS ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 103.00"
+},
+{
+"name":"Neogyl ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.14"
+},
+{
+"name":"Neogyl ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 24.88"
+},
+{
+"name":"Piocin ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Sparfloxacin",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Ranimil ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Scameth ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Cream",
+"strange":"5%w/w",
+"ganare":"Permethrin",
+"unitPrice":"30 gm tube : ৳ 40.00"
+},
+{
+"name":"Whitfield ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Ointment",
+"strange":"6%+3%",
+"ganare":"Benzoic Acid + Salicylic Acid",
+"unitPrice":"10 gm pack : ৳ 8.50"
+},
+{
+"name":"Zinton ",
+"company":"Millat Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 35.00"
+},

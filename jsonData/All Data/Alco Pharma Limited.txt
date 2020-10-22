@@ -1,0 +1,1368 @@
+{
+"name":"Aclo ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Adnix ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Nitazoxanide",
+"unitPrice":"Unit Price : ৳ 10.03"
+},
+{
+"name":"Adnix ",
+"company":"Alco Pharma Limited",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Nitazoxanide",
+"unitPrice":"30 ml bottle : ৳ 35.11"
+},
+{
+"name":"Alagra ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Alagra ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Alagra ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"180 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.53"
+},
+{
+"name":"Alagra ",
+"company":"Alco Pharma Limited",
+"type":"Suspension",
+"strange":"30 mg/5 ml",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"50 ml bottle : ৳ 48.14"
+},
+{
+"name":"Alagra ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.51"
+},
+{
+"name":"Aloran ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Desloratadine",
+"unitPrice":"Unit Price : ৳ 2.51"
+},
+{
+"name":"Amdin ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Amdin ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Amdin Plus ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"5 mg+50 mg",
+"ganare":"Amlodipine + Atenolol",
+"unitPrice":"Unit Price : ৳ 4.51"
+},
+{
+"name":"Atovin ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 10.03"
+},
+{
+"name":"Atovin ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 15.05"
+},
+{
+"name":"Axeclav ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"250 mg+62.5 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Axeclav ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg+125 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Axeclav ",
+"company":"Alco Pharma Limited",
+"type":"Suspension",
+"strange":"(125 mg+31.25 mg)/5 ml",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"70 ml bottle : ৳ 250.01"
+},
+{
+"name":"Axetil ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"125 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 12.04"
+},
+{
+"name":"Axetil ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 25.08"
+},
+{
+"name":"Axetil ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 45.14"
+},
+{
+"name":"Axetil ",
+"company":"Alco Pharma Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"70 ml bottle : ৳ 190.58"
+},
+{
+"name":"B-One ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Thiamine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 0.74"
+},
+{
+"name":"Bendil ",
+"company":"Alco Pharma Limited",
+"type":"Cream",
+"strange":"2%+0.1%",
+"ganare":"Diphenhydramine Hydrochloride + Zinc Acetate",
+"unitPrice":"5 gm tube : ৳ 22.00"
+},
+{
+"name":"Betasef ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Betasef ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Betasef",
+"company":"Alco Pharma Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 90.01"
+},
+{
+"name":"Betasef ",
+"company":"Alco Pharma Limited",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cephradine",
+"unitPrice":"15 ml bottle : ৳ 65.01"
+},
+{
+"name":"Betasef DS ",
+"company":"Alco Pharma Limited",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 120.36"
+},
+{
+"name":"Brolyt ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Bromhexine Hyrdochloride",
+"unitPrice":"Unit Price : ৳ 0.70"
+},
+{
+"name":"Brolyt ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"8 mg",
+"ganare":"Bromhexine Hyrdochloride",
+"unitPrice":"Unit Price: ৳ 1.00"
+},
+{
+"name":"Brolyt ",
+"company":"Alco Pharma Limited",
+"type":"Syrup",
+"strange":"4 mg/5 ml",
+"ganare":"Bromhexine Hyrdochloride",
+"unitPrice":"100 ml bottle : ৳ 40.12"
+},
+{
+"name":"Brozep ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"3 mg",
+"ganare":"Bromazepam",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"C-4 ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"1000 mg+327 mg+500 mg",
+"ganare":"Calcium Lactate Gluconate + Calcium Carbonate + Vitamin-C",
+"unitPrice":"Unit Price : ৳ 9.50"
+},
+{
+"name":"Calmi ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Calmi-D ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Calmi-M ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Calcium Carbonate + Vitamin D3 + Multimineral",
+"unitPrice":"Unit Price : ৳ 5.52"
+},
+{
+"name":"Capotril ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Captopril",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Cardilock ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Atenolol",
+"unitPrice":"Unit Price : ৳ 0.77"
+},
+{
+"name":"Cepdoxim ",
+"company":"Alco Pharma Limited",
+"type":"Suspension",
+"strange":"40 mg/5 ml",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"50 ml bottle : ৳ 90.27"
+},
+{
+"name":"Chuben DS ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Clopidol ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"75 mg",
+"ganare":"Clopidogrel Bisulphate",
+"unitPrice":"Unit Price : ৳ 10.03"
+},
+{
+"name":"Clopidol Plus ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"75 mg+75 mg",
+"ganare":"Clopidogrel + Aspirin",
+"unitPrice":"Unit Price : ৳ 12.04"
+},
+{
+"name":"Closten ",
+"company":"Alco Pharma Limited",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Clotrimazole (Topical)",
+"unitPrice":"10 gm tube : ৳ 25.08"
+},
+{
+"name":"Dazine ",
+"company":"Alco Pharma Limited",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Silver Sulfadiazine",
+"unitPrice":"25 gm tube : ৳ 50.16"
+},
+{
+"name":"Derfin ",
+"company":"Alco Pharma Limited",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Terbinafine Hydrochloride",
+"unitPrice":"10 gm tube : ৳ 30.09"
+},
+{
+"name":"Derma ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Derma ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 20.06"
+},
+{
+"name":"Desopra ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"30 mg",
+"ganare":"Dexlansoprazole",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Diaprid ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Dirin ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Dicycloverine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.01"
+},
+{
+"name":"Dirin ",
+"company":"Alco Pharma Limited",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Dicycloverine Hydrochloride",
+"unitPrice":"50 ml bottle : ৳ 40.12"
+},
+{
+"name":"Dompi ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.01"
+},
+{
+"name":"Dompi ",
+"company":"Alco Pharma Limited",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 40.12"
+},
+{
+"name":"Dumaflox ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 7.52"
+},
+{
+"name":"Dumaflox ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 10.03"
+},
+{
+"name":"Dumaflox ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"750 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 12.04"
+},
+{
+"name":"Dumaflox ",
+"company":"Alco Pharma Limited",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"60 ml bottle : ৳ 100.00"
+},
+{
+"name":"Ecox ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 7.02"
+},
+{
+"name":"Ecox ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 12.04"
+},
+{
+"name":"Ecox ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 14.04"
+},
+{
+"name":"Emiset ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"8 mg",
+"ganare":"Ondansetron",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Emiset ",
+"company":"Alco Pharma Limited",
+"type":"Oral Solution",
+"strange":"4 mg/5 ml",
+"ganare":"Ondansetron",
+"unitPrice":"50 ml bottle : ৳ 45.00"
+},
+{
+"name":"Emulyt ",
+"company":"Alco Pharma Limited",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 45.14"
+},
+{
+"name":"Epizam ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Epizam ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Ery ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"Unit Price : ৳ 5.17"
+},
+{
+"name":"Ery ",
+"company":"Alco Pharma Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 82.01"
+},
+{
+"name":"Ery ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"Unit Price : ৳ 10.33"
+},
+{
+"name":"Esopra ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 7.02"
+},
+{
+"name":"Esopra ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Esopra ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 9.03"
+},
+{
+"name":"Esopra ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Fecon BC ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron + Folic acid + Vitamin B complex + Vitamin C",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Fecon TR ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg",
+"ganare":"Ferrous Sulphate + Folic Acid",
+"unitPrice":"Unit Price : ৳ 2.41"
+},
+{
+"name":"Fecon-Z ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 2.94"
+},
+{
+"name":"Gipid ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Glimepiride",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Gipid ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Glimepiride",
+"unitPrice":"Unit Price : ৳ 6.50"
+},
+{
+"name":"Gluvil ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Vildagliptin",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Infecef ",
+"company":"Alco Pharma Limited",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"250 mg vial : ৳ 100.30"
+},
+{
+"name":"Infecef ",
+"company":"Alco Pharma Limited",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 130.39"
+},
+{
+"name":"Infecef ",
+"company":"Alco Pharma Limited",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 190.58"
+},
+{
+"name":"Infecef ",
+"company":"Alco Pharma Limited",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 190.58"
+},
+{
+"name":"Infecef ",
+"company":"Alco Pharma Limited",
+"type":"Injection",
+"strange":"2 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"2 gm vial : ৳ 300.90"
+},
+{
+"name":"Leaxe ",
+"company":"Alco Pharma Limited",
+"type":"Oral Solution",
+"strange":"3.35 gm/5 ml",
+"ganare":"Lactulose",
+"unitPrice":"100 ml bottle : ৳ 140.42"
+},
+{
+"name":"Lebrod ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Levosalbutamol (Oral)",
+"unitPrice":"Unit Price : ৳ 0.75"
+},
+{
+"name":"Lebrod ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Levosalbutamol (Oral)",
+"unitPrice":"Unit Price : ৳ 1.40"
+},
+{
+"name":"Lebrod ",
+"company":"Alco Pharma Limited",
+"type":"Syrup",
+"strange":"1 mg/5 ml",
+"ganare":"Levosalbutamol (Oral)",
+"unitPrice":"100 ml bottle : ৳ 45.14"
+},
+{
+"name":"Leoflox ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 7.02"
+},
+{
+"name":"Leoflox ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 15.05"
+},
+{
+"name":"Levocet",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Levocetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.01"
+},
+{
+"name":"Life Gold ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z gold preparation)",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Life Silver ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z silver preparation)",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Losa ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"50",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Losa ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 3.51"
+},
+{
+"name":"Losa Plus ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"50 mg+12.5 mg",
+"ganare":"Losartan Potassium + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Maxclin ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Clindamycin",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Maxclin ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"300 mg",
+"ganare":"Clindamycin",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Menilet ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.57"
+},
+{
+"name":"Metmin ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Metmin ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Metmin XR ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Mokast ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Mokast ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 10.03"
+},
+{
+"name":"Moxiflox ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Moxifloxacin Hydrochloride (Oral or Injection)",
+"unitPrice":"Unit Price : ৳ 50.15"
+},
+{
+"name":"Mupi ",
+"company":"Alco Pharma Limited",
+"type":"Ointment",
+"strange":"2% w/w",
+"ganare":"Mupirocin",
+"unitPrice":"5 gm tube : ৳ 80.24"
+},
+{
+"name":"Napren ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Napren ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 9.03"
+},
+{
+"name":"Nenol ",
+"company":"Alco Pharma Limited",
+"type":"Powder",
+"strange":"(5 mg+500 IU)/gm",
+"ganare":"Neomycin Sulfate + Bacitracin Zinc",
+"unitPrice":"5 gm pack : ৳ 15.56"
+},
+{
+"name":"Noler ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.51"
+},
+{
+"name":"Nox ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"6 mg+200 mg+50 mg",
+"ganare":"Betacarotene + Vitamin C + Vitamin E",
+"unitPrice":"Unit Price : ৳ 2.54"
+},
+{
+"name":"Nuprin ",
+"company":"Alco Pharma Limited",
+"type":"Cream",
+"strange":"(3.5 mg+10000 IU+10 mg)/gm",
+"ganare":"Neomycin Sulphate + Polymyxin B Sulphate + Pramoxine",
+"unitPrice":"5 gm tube : ৳ 40.11"
+},
+{
+"name":"Omepra ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Omepra ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 7.02"
+},
+{
+"name":"Ornizol ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ornidazole",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Oticef ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cefaclor Monohydrate",
+"unitPrice":"Unit Price : ৳ 40.12"
+},
+{
+"name":"Oticef ",
+"company":"Alco Pharma Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefaclor Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 200.60"
+},
+{
+"name":"Oticef ",
+"company":"Alco Pharma Limited",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cefaclor Monohydrate",
+"unitPrice":"15 ml bottle : ৳ 125.38"
+},
+{
+"name":"P-Cool ",
+"company":"Alco Pharma Limited",
+"type":"Cream",
+"strange":"15%+10%",
+"ganare":"Methyl Salicylate + Menthol",
+"unitPrice":"10 gm tube : ৳ 27.00"
+},
+{
+"name":"P+C ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Pantopra ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Pantopra ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 6.50"
+},
+{
+"name":"Pendol ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Perma ",
+"company":"Alco Pharma Limited",
+"type":"Cream",
+"strange":"5% w/w",
+"ganare":"Permethrin",
+"unitPrice":"15 gm tube : ৳ 24.07"
+},
+{
+"name":"Piolit ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Pioglitazone",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Povidine ",
+"company":"Alco Pharma Limited",
+"type":"Ointment",
+"strange":"5% w/w",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"15 gm tube : ৳ 34.10"
+},
+{
+"name":"Rani ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.01"
+},
+{
+"name":"Renep ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Repaglid ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Repaglinide",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Repaglid ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Repaglinide",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Rosvin ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Roxcin ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Roxithromycin",
+"unitPrice":"Unit Price : ৳ 7.02"
+},
+{
+"name":"Roxcin ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Roxithromycin",
+"unitPrice":"Unit Price : ৳ 14.04"
+},
+{
+"name":"Roxcin ",
+"company":"Alco Pharma Limited",
+"type":"Suspension",
+"strange":"50 mg/5 ml",
+"ganare":"Roxithromycin",
+"unitPrice":"50 ml bottle : ৳ 50.14"
+},
+{
+"name":"Rupaler ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rupatadine Fumarate",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Sapox ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.78"
+},
+{
+"name":"Sapox ",
+"company":"Alco Pharma Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 47.61"
+},
+{
+"name":"Sapox ",
+"company":"Alco Pharma Limited",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"15 ml bottle : ৳ 30.30"
+},
+{
+"name":"Saver ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 30.09"
+},
+{
+"name":"Saver ",
+"company":"Alco Pharma Limited",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"30 ml bottle : ৳ 120.36"
+},
+{
+"name":"Saver ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 50.15"
+},
+{
+"name":"Simecol ",
+"company":"Alco Pharma Limited",
+"type":"Pediatric Drop",
+"strange":"67 mg/ml",
+"ganare":"Simethicone",
+"unitPrice":"15 ml drop : ৳ 35.11"
+},
+{
+"name":"Sparflox ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Sparfloxacin",
+"unitPrice":"Unit Price : ৳ 16.05"
+},
+{
+"name":"Staflu ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.79"
+},
+{
+"name":"Staflu ",
+"company":"Alco Pharma Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.57"
+},
+{
+"name":"Staflu ",
+"company":"Alco Pharma Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 65.21"
+},
+{
+"name":"Staflu DS ",
+"company":"Alco Pharma Limited",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 110.75"
+},
+{
+"name":"Tempil ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Tensnil ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Clobazam",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Tiemo ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Tixol ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Flupentixol + Melitracen",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Tolec ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.03"
+},
+{
+"name":"Tolec ",
+"company":"Alco Pharma Limited",
+"type":"Injection",
+"strange":"30 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 55.17"
+},
+{
+"name":"Tolec ",
+"company":"Alco Pharma Limited",
+"type":"Injection",
+"strange":"60 mg/2 ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"2 ml ampoule : ৳ 95.29"
+},
+{
+"name":"Tosma ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Tosma ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"1 mg/5 ml",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"100 ml bottle : ৳ 55.00"
+},
+{
+"name":"V-Nil",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"25 mg+50 mg",
+"ganare":"Meclizine + Pyridoxine",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Vertig ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Flunarizine",
+"unitPrice":"Unit Price : ৳ 3.51"
+},
+{
+"name":"Vertig ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Flunarizine",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Viev ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Tadalafil",
+"unitPrice":"Unit Price : ৳ 60.18"
+},
+{
+"name":"Viev ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Tadalafil",
+"unitPrice":"Unit Price : ৳ 35.11"
+},
+{
+"name":"Vitcod ",
+"company":"Alco Pharma Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Cod Liver Oil",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"X-Cite ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 30.09"
+},
+{
+"name":"X-Cite ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 50.15"
+},
+{
+"name":"Xinc DT ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"Unit Price : ৳ 1.75"
+},
+{
+"name":"Zep ",
+"company":"Alco Pharma Limited",
+"type":"Syrup",
+"strange":"20 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 35.11"
+},
+{
+"name":"Zep Junior ",
+"company":"Alco Pharma Limited",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 35.11"
+},
+{
+"name":"Zinex ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 20.06"
+},
+{
+"name":"Zinex ",
+"company":"Alco Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Zinex ",
+"company":"Alco Pharma Limited",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.26"
+},
+{
+"name":"Zivit ",
+"company":"Alco Pharma Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 60.18"
+},
+{
+"name":"Zivit-I ",
+"company":"Alco Pharma Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 60.18"
+},

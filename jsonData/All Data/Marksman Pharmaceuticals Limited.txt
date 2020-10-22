@@ -1,0 +1,200 @@
+{
+"name":"Aceclora ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 3.02"
+},
+{
+"name":"Allercet ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Allercet ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"60 ml bottle : ৳ 14.80"
+},
+{
+"name":"Amogit ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.03"
+},
+{
+"name":"Bonacal ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 2.21"
+},
+{
+"name":"Eryth ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 55.00"
+},
+{
+"name":"Ketoropack ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Mardox ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Doxycycline",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Mepra ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Mycorest ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Neolev ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Neozith ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.00"
+},
+{
+"name":"Neozith ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Nutriace ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"6 mg+200 mg+50 mg",
+"ganare":"Betacarotene + Vitamin C + Vitamin E",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Pace ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.51"
+},
+{
+"name":"Prefer ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.55"
+},
+{
+"name":"Prefer ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 12.00"
+},
+{
+"name":"Proviron ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron + Folic Acid + Vitamin B Complex + Vitamine C + Zinc Sulfate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Rescure ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 165.00"
+},
+{
+"name":"Rescure ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Sporin ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Sporin ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Sporin ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cephradine",
+"unitPrice":"15 ml bottle : ৳ 60.00"
+},
+{
+"name":"Vitacare ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 20.00"
+},
+{
+"name":"Zisul ",
+"company":"Marksman Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 25.00"
+},

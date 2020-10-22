@@ -1,0 +1,24 @@
+{
+"name":"Compressed breathing oxygen ",
+"company":"Linde Bangladesh Limited",
+"type":"Gas",
+"strange":" ",
+"ganare":"Oxygen",
+"unitPrice":"1500 litres cylinder : ৳ 24452.00"
+},
+{
+"name":"Entonox EP ",
+"company":"Linde Bangladesh Limited",
+"type":"Gas",
+"strange":"50%+50%",
+"ganare":"Nitrous Oxide + Oxygen",
+"unitPrice":"Price not available"
+},
+{
+"name":"Nitrous EP ",
+"company":"Linde Bangladesh Limited",
+"type":"Gas",
+"strange":"98%",
+"ganare":"Nitrous Oxide",
+"unitPrice":"Price not available"
+},

@@ -1,0 +1,648 @@
+{
+"name":"G-Ephedrine ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"25 mg/5 ml",
+"ganare":"Ephedrine Hydrochloride",
+"unitPrice":"5 ml ampoule : ৳ 12.01"
+},
+{
+"name":"G-Ergometrine ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.125 mg",
+"ganare":"Ergometrine Maleate",
+"unitPrice":"Unit Price : ৳ 0.60"
+},
+{
+"name":"G-Ergometrine ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"0.2 mg/ml",
+"ganare":"Ergometrine Maleate",
+"unitPrice":"1 ml ampoule : ৳ 7.44"
+},
+{
+"name":"G-Flucloxacillin ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"G-Flucloxacillin ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"500 mg vial : ৳ 25.00"
+},
+{
+"name":"G-Flucloxacillin ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"G-Frusemide ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Furosemide",
+"unitPrice":"Unit Price : ৳ 0.49"
+},
+{
+"name":"G-Frusemide ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"20 mg/2 ml",
+"ganare":"Furosemide",
+"unitPrice":"2 ml ampoule : ৳ 8.00"
+},
+{
+"name":"G-G Vin ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Griseofulvin (Microsize)",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"G-Gentamicin ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"40 mg/2 ml",
+"ganare":"Gentamicin Sulfate (Injection)",
+"unitPrice":"2 ml ampoule : ৳ 10.03"
+},
+{
+"name":"G-Gentamicin ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"80 mg/2 ml",
+"ganare":"Gentamicin Sulfate (Injection)",
+"unitPrice":"2 ml ampoule : ৳ 14.99"
+},
+{
+"name":"G-Gentamicin ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.3%",
+"ganare":"Gentamicin Sulphate (Eye/Ear Drops)",
+"unitPrice":"10 gm tube : ৳ 25.08"
+},
+{
+"name":"G-Gliclazide ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"G-Haloperidol ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Haloperidol",
+"unitPrice":"Unit Price : ৳ 0.49"
+},
+{
+"name":"G-Hemodialysis B ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Dialysis Solution",
+"strange":" ",
+"ganare":"Bicarbonate Component (HCO3 Hemodialysis Solution)",
+"unitPrice":"10 liters container : ৳ 351.32"
+},
+{
+"name":"G-Heparin ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"25000 IU/5 ml",
+"ganare":"Heparin Sodium",
+"unitPrice":"5 ml vial : ৳ 275.00"
+},
+{
+"name":"G-Hyoscine ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Hyoscine Butylbromide",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"G-Hyoscine ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"20 mg/ml",
+"ganare":"Hyoscine Butylbromide",
+"unitPrice":"1 ml ampoule : ৳ 10.01"
+},
+{
+"name":"G-Hypophos ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"667 mg",
+"ganare":"Calcium Acetate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"G-Ibuprofen ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Ibuprofen",
+"unitPrice":"Unit Price : ৳ 1.20"
+},
+{
+"name":"G-Ipra ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Nebuliser",
+"strange":"250 mcg/ml",
+"ganare":"Ipratropium Bromide (Nebuliser Solution)",
+"unitPrice":"20 ml bottle : ৳ 55.00"
+},
+{
+"name":"G-Iron ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"200 mg/5 ml",
+"ganare":"Ferrous Sulfate",
+"unitPrice":"200 ml bottle : ৳ 25.00"
+},
+{
+"name":"G-Iron Folic acid ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"308 mg+350 mcg",
+"ganare":"Ferrous Fumerate + Folic acid",
+"unitPrice":"100's can : ৳ 20.01"
+},
+{
+"name":"G-Ketamine ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"50 mg/ml",
+"ganare":"Ketamine",
+"unitPrice":"10 ml vial : ৳ 85.00"
+},
+{
+"name":"G-Lidocaine ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"2%",
+"ganare":"Lidocaine Hydrochloride",
+"unitPrice":"2 ml ampoule : ৳ 3.50"
+},
+{
+"name":"G-Lidocaine with Adrenaline ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"2%+0.0005%",
+"ganare":"Lidocaine + Adrenaline",
+"unitPrice":"50 ml vial : ৳ 50.00"
+},
+{
+"name":"G-Losartan ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"G-Losartan ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"G-Magsulph ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"2.5 gm/5 ml",
+"ganare":"Magnesium Sulfate",
+"unitPrice":"5 ml ampoule : ৳ 14.99"
+},
+{
+"name":"G-Magsulph ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"4 gm/100 ml",
+"ganare":"Magnesium Sulfate Heptahydrate",
+"unitPrice":"100 ml vial : ৳ 50.00"
+},
+{
+"name":"G-Metformin ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.49"
+},
+{
+"name":"G-Metformin ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"G-Metronidazole ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 0.45"
+},
+{
+"name":"G-Metronidazole ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"100's blister : ৳ 100.05"
+},
+{
+"name":"G-Metronidazole ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 20.00"
+},
+{
+"name":"G-Metronidazole ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"500 mg/100 ml",
+"ganare":"Metronidazole",
+"unitPrice":"100 ml bottle : ৳ 35.00"
+},
+{
+"name":"G-Miconazole ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"2%",
+"ganare":"Miconazole Nitrate (Topical Cream)",
+"unitPrice":"5 gm tube : ৳ 20.00"
+},
+{
+"name":"G-Misoprostol ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mcg",
+"ganare":"Misoprostol",
+"unitPrice":"Unit Price : ৳ 12.01"
+},
+{
+"name":"G-Multivitamin ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":" ",
+"ganare":"Multivitamin [Pediatric preparation]",
+"unitPrice":"15 ml drop : ৳ 13.99"
+},
+{
+"name":"G-Neostigmine ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"0.5 mg/ml",
+"ganare":"Neostigmine Methyl Sulphate",
+"unitPrice":"1 ml ampoule : ৳ 10.01"
+},
+{
+"name":"G-Omeprazole ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"G-Omeprazole ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"40 mg/vial",
+"ganare":"Omeprazole",
+"unitPrice":"40 mg vial : ৳ 50.00"
+},
+{
+"name":"G-ORS ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Powder",
+"strange":"13.95 gm",
+"ganare":"Oral Rehydration Salt (Powder)",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"G-Paracetamol ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"100's blister : ৳ 60.03"
+},
+{
+"name":"G-Paracetamol ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"50 ml bottle : ৳ 14.99"
+},
+{
+"name":"G-Paracetamol ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 15.99"
+},
+{
+"name":"G-Penicillin V ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Phenoxymethyl Penicillin (Penicillin V)",
+"unitPrice":"Unit Price : ৳ 2.28"
+},
+{
+"name":"G-Penicillin V ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Phenoxymethyl Penicillin (Penicillin V)",
+"unitPrice":"50 ml bottle : ৳ 20.00"
+},
+{
+"name":"G-Phenobarbitone ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Phenobarbital",
+"unitPrice":"Unit Price : ৳ 0.77"
+},
+{
+"name":"G-Phenobarbitone ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"200 mg/ml",
+"ganare":"Phenobarbital",
+"unitPrice":"1 ml ampoule : ৳ 14.99"
+},
+{
+"name":"G-Prazosin ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Prazosin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"G-Prazosin ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Prazosin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"G-Prazosin ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Prazosin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"G-Prednisolone ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Prednisolone",
+"unitPrice":"Unit Price : ৳ 1.72"
+},
+{
+"name":"G-Ramipril ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Ramipril",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"G-Ramipril ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Ramipril",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"G-Ranitidin ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 1.49"
+},
+{
+"name":"G-Salbutamol ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.47"
+},
+{
+"name":"G-Salbutamol ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"100 ml bottle : ৳ 20.00"
+},
+{
+"name":"G-Salbutamol ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Nebuliser",
+"strange":"5 mg/ml",
+"ganare":"Salbutamol (Nebuliser Solution)",
+"unitPrice":"20 ml solution : ৳ 80.00"
+},
+{
+"name":"G-Tetracycline ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Tetracycline Hydrochloride (Oral)",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"G-Tetracycline ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Eye Ointment",
+"strange":"1%",
+"ganare":"Tetracycline Hydrochloride (Ophthalmic)",
+"unitPrice":"5 gm tube : ৳ 8.00"
+},
+{
+"name":"G-Tetracycline ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"3%",
+"ganare":"Tetracycline Hydrochloride (Topical)",
+"unitPrice":"20 gm tube : ৳ 17.76"
+},
+{
+"name":"G-Theophylline ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Theophylline",
+"unitPrice":"100's can : ৳ 120.06"
+},
+{
+"name":"G-Theophylline ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"120 mg/5 ml",
+"ganare":"Theophylline",
+"unitPrice":"50 ml bottle : ৳ 15.00"
+},
+{
+"name":"G-Thiazide T ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg+50 mg",
+"ganare":"Hydrochlorothiazide + Triamterene",
+"unitPrice":"Unit Price : ৳ 0.50"
+},
+{
+"name":"G-Thiopentone ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Thiopental Sodium",
+"unitPrice":"1 gm vial : ৳ 80.00"
+},
+{
+"name":"G-Thiopentone ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Thiopental Sodium",
+"unitPrice":"500 mg vial : ৳ 50.00"
+},
+{
+"name":"G-Vitamin B Complex ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.49"
+},
+{
+"name":"G-Vitamin B Complex ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 20.00"
+},
+{
+"name":"G-Vitamin B Complex ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"2 ml ampoule : ৳ 10.01"
+},
+{
+"name":"G-Vitamin B1 ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Thiamine Hydrochloride",
+"unitPrice":"100 can : ৳ 60.03"
+},
+{
+"name":"G-Vitamin B12 ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 mg/ml",
+"ganare":"Cyanocobalamin",
+"unitPrice":"1 ml ampoule : ৳ 7.00"
+},
+{
+"name":"G-Vitamin B2 ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Riboflavin",
+"unitPrice":"100 can : ৳ 20.01"
+},
+{
+"name":"G-Vitamin B6 ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Pyridoxine Hydrochloride",
+"unitPrice":"100 can : ৳ 25.35"
+},
+{
+"name":"G-Vitamin C ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Vitamin C (Ascorbic acid)",
+"unitPrice":"Unit Price : ৳ 1.29"
+},
+{
+"name":"G-Water for ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"injection",
+"strange":"5 ml/ampoule",
+"ganare":"Water for injection",
+"unitPrice":"5 ml ampoule : ৳ 5.00"
+},
+{
+"name":"G-Xylometazoline ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Nasal Drop",
+"strange":"0.1%",
+"ganare":"Xylometazoline",
+"unitPrice":"15 ml drop : ৳ 11.01"
+},
+{
+"name":"G-Zinc ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"G-Zinc ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 20.00"
+},
+{
+"name":"S-Silver Sulfadiazine ",
+"company":"Gonoshasthaya Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Silver Sulfadiazine",
+"unitPrice":"25 gm tube : ৳ 30.00"
+},

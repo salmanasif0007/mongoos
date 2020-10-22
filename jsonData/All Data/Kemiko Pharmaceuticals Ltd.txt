@@ -1,0 +1,1640 @@
+{
+"name":"Adocil ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cefadroxil Monohydrate",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Adocil ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefadroxil Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 80.24"
+},
+{
+"name":"Adze ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Allernil ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.51"
+},
+{
+"name":"Allernil ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"60 ml bottle : ৳ 25.00"
+},
+{
+"name":"Alona ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Aloten ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg+25 mg",
+"ganare":"Amlodipine + Atenolol",
+"unitPrice":"Unit Price : ৳ 4.24"
+},
+{
+"name":"Aloten Forte ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg+50 mg",
+"ganare":"Amlodipine + Atenolol",
+"unitPrice":"Unit Price : ৳ 4.51"
+},
+{
+"name":"Altiver ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"60 mg",
+"ganare":"Ginkgo Biloba",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Anet ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Anet ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 35.00"
+},
+{
+"name":"Antepsin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1000 mg",
+"ganare":"Sucralfate",
+"unitPrice":"Unit Price : ৳ 5.52"
+},
+{
+"name":"Apain Plus ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"(75 mg+20 mg)/2 ml",
+"ganare":"Diclofenac Sodium + Lidocaine Hydrochloride",
+"unitPrice":"2 ml ampoule : ৳ 15.05"
+},
+{
+"name":"Apain-MS ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"75 mg+200 mcg",
+"ganare":"Diclofenac Sodium + Misoprostol",
+"unitPrice":"Unit Price : ৳ 11.00"
+},
+{
+"name":"Apain-TR ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Aspasom ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Aspasom ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"100 ml bottle : ৳ 90.01"
+},
+{
+"name":"Atopen ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Atopen ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 20.63"
+},
+{
+"name":"Atopen Plus ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 2.51"
+},
+{
+"name":"Atopen-X ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"325 mg+37.5 mg",
+"ganare":"Paracetamol + Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Avista ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Super Antioxidant Vitamins & Multimineral",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Betanem ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Meropenem Trihydrate",
+"unitPrice":"1 gm vial : ৳ 1250.00"
+},
+{
+"name":"Betanem ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Meropenem Trihydrate",
+"unitPrice":"500 mg vial : ৳ 700.00"
+},
+{
+"name":"Biogen ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1 gm",
+"ganare":"Collagen II & GAGs",
+"unitPrice":"Unit Price : ৳ 19.17"
+},
+{
+"name":"Cantina ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Clotrimazole (Topical)",
+"unitPrice":"10 gm tube : ৳ 35.11"
+},
+{
+"name":"Casalt ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Casalt-D ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Casalt-D ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"30's pot : ৳ 120.30"
+},
+{
+"name":"Clonate ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"0.05%",
+"ganare":"Clobetasol Propionate",
+"unitPrice":"10 gm tube : ৳ 50.14"
+},
+{
+"name":"Clonate-NN ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.05%+0.5%+2%",
+"ganare":"Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+"unitPrice":"15 gm tube : ৳ 75.22"
+},
+{
+"name":"Coxfree ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 7.02"
+},
+{
+"name":"Coxfree ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 12.03"
+},
+{
+"name":"Coxfree ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 14.04"
+},
+{
+"name":"Deen ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Desloratadine",
+"unitPrice":"Unit Price : ৳ 2.51"
+},
+{
+"name":"Derson ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"0.1%",
+"ganare":"Betamethasone Valerate",
+"unitPrice":"15 gm tube : ৳ 36.00"
+},
+{
+"name":"Derson-CL ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"0.1%+1%",
+"ganare":"Betamethasone + Clotrimazole",
+"unitPrice":"10 gm tube : ৳ 29.08"
+},
+{
+"name":"Econal ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Econazole Nitrate",
+"unitPrice":"10 gm tube : ৳ 32.10"
+},
+{
+"name":"Enso ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"15 mg",
+"ganare":"Lansoprazole",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Enso ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"30 mg",
+"ganare":"Lansoprazole",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Erazole ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 10.03"
+},
+{
+"name":"Erazole ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 7.02"
+},
+{
+"name":"Erazole ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 8.03"
+},
+{
+"name":"Erazole ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Erom ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"Unit Price : ৳ 4.87"
+},
+{
+"name":"Erom ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"Unit Price : ৳ 8.63"
+},
+{
+"name":"Erom ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 69.50"
+},
+{
+"name":"Femanol ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Flupentixol + Melitracen",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Fenaxo ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Fenaxo ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.02"
+},
+{
+"name":"Fenaxo ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"180 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Fenaxo ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"30 mg/5 ml",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"50 ml bottle : ৳ 48.00"
+},
+{
+"name":"Flu-K ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 6.65"
+},
+{
+"name":"Flu-K ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.53"
+},
+{
+"name":"Flu-K ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"G-Con ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Nasal Drop",
+"strange":"0.025%",
+"ganare":"Oxymetazoline Hydrochloride (Nasal)",
+"unitPrice":"10 ml drop : ৳ 40.12"
+},
+{
+"name":"G-Con ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Nasal Drop",
+"strange":"0.05%",
+"ganare":"Oxymetazoline Hydrochloride (Nasal)",
+"unitPrice":"10 ml drop : ৳ 45.14"
+},
+{
+"name":"Gludex ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Dexamethasone Sodium Phosphate",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Gludex ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"5 mg/ml",
+"ganare":"Dexamethasone Sodium Phosphate",
+"unitPrice":"1 ml ampoule : ৳ 22.06"
+},
+{
+"name":"Gludex ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.1%",
+"ganare":"Dexamethasone Sodium Phosphate (E/E)",
+"unitPrice":"5 ml drop : ৳ 70.21"
+},
+{
+"name":"Hybrox ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 40.12"
+},
+{
+"name":"Hybrox ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"6 mg/ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"15 ml bottle : ৳ 30.09"
+},
+{
+"name":"Iconal ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Itraconazole",
+"unitPrice":"Unit Price : ৳ 15.04"
+},
+{
+"name":"Inflect ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"375 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Inflect ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 10.03"
+},
+{
+"name":"K-Saline Fruity ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Powder",
+"strange":" ",
+"ganare":"Oral Rehydration Salt (Flavored)",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"K-Saline N ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Powder",
+"strange":"13.95 gm",
+"ganare":"Oral Rehydration Salt (Powder)",
+"unitPrice":"Unit Price : ৳ 4.59"
+},
+{
+"name":"Kadol ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Kamoxy ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.60"
+},
+{
+"name":"Kamoxy ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.78"
+},
+{
+"name":"Kamoxy ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 47.60"
+},
+{
+"name":"Kamoxy ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"15 ml bottle : ৳ 28.00"
+},
+{
+"name":"Kdrox Plus ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg+400 mg+30 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Kefim ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 30.09"
+},
+{
+"name":"Kefim ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 55.16"
+},
+{
+"name":"Kefim ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"37.5 ml bottle : ৳ 130.39"
+},
+{
+"name":"Kemet ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.26"
+},
+{
+"name":"Kemet ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 29.80"
+},
+{
+"name":"Kemin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Kemin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Kemin-SR ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Kevil ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Loratadine",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Kevil ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Loratadine",
+"unitPrice":"60 ml bottle : ৳ 30.90"
+},
+{
+"name":"Kezid ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Kezid MR ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Kfore ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 25.07"
+},
+{
+"name":"Kfore ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 45.13"
+},
+{
+"name":"Kfore ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"70 ml bottle : ৳ 198.00"
+},
+{
+"name":"Kmi ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"320 mg",
+"ganare":"Gemifloxacin",
+"unitPrice":"Unit Price : ৳ 65.00"
+},
+{
+"name":"Kofsol ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Adhatoda vasica + Piper longum (Herbal cough syrup)",
+"unitPrice":"100 ml bottle : ৳ 47.00"
+},
+{
+"name":"Kpam ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"3 mg",
+"ganare":"Bromazepam",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Ktin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"1 mg/5 ml",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"100 ml bottle : ৳ 50.14"
+},
+{
+"name":"Ktin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"kTx ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Tadalafil",
+"unitPrice":"Unit Price : ৳ 18.05"
+},
+{
+"name":"kTx ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Tadalafil",
+"unitPrice":"Unit Price : ৳ 35.11"
+},
+{
+"name":"kTx ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Tadalafil",
+"unitPrice":"Unit Price : ৳ 60.00"
+},
+{
+"name":"Kvit Gold ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral [A-Z gold preparation]",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Kvit Seas ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Cod Liver Oil",
+"unitPrice":"100 ml bottle : ৳ 80.24"
+},
+{
+"name":"Kvit-B ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Kvit-B ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.51"
+},
+{
+"name":"Kvit-B ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"200 ml bottle : ৳ 62.17"
+},
+{
+"name":"Kvit-C ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Vitamin C (Ascorbic acid)",
+"unitPrice":"Unit Price : ৳ 1.30"
+},
+{
+"name":"Kvit-D ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"200000 IU/ml",
+"ganare":"Colecalciferol (Vitamin D3)",
+"unitPrice":"1 ml ampoule : ৳ 90.27"
+},
+{
+"name":"Kvit-I",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":" ",
+"strange":" ",
+"ganare":"Vitamin C Vitamin E Lutein Copper & Zinc",
+"unitPrice":"Unit Price : ৳ 10.03"
+},
+{
+"name":"Kvit-M ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Kvit-N ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"30's pot : ৳ 120.30"
+},
+{
+"name":"Kvit-N ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Kvit-N ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"(100 mg+100 mg+1 mg)/3 ml",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"3 ml ampoule : ৳ 25.07"
+},
+{
+"name":"Kvit-TH ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Thiamine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 0.74"
+},
+{
+"name":"kX-100 ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 50.14"
+},
+{
+"name":"kX-50 ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 30.09"
+},
+{
+"name":"Levoair ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"1 mg/5 ml",
+"ganare":"Levosalbutamol (Oral)",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Limep ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Glimepiride",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Limep ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Glimepiride",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Lin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Lin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 15.05"
+},
+{
+"name":"Lin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Levofloxacin (Eye)",
+"unitPrice":"5 ml drop : ৳ 90.01"
+},
+{
+"name":"Lintin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Linagliptin",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Livoton ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Oral Solution",
+"strange":"3.35 gm/5 ml",
+"ganare":"Lactulose",
+"unitPrice":"50 ml bottle : ৳ 70.21"
+},
+{
+"name":"Loplate ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"75 mg",
+"ganare":"Clopidogrel Bisulphate",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Loplate Plus ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"75 mg+75 mg",
+"ganare":"Clopidogrel + Aspirin",
+"unitPrice":"Unit Price : ৳ 11.03"
+},
+{
+"name":"Lozin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Levocetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Lurex ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"(30 mg+100 mg+1.25 mg)/5 ml",
+"ganare":"Pseudoephedrine + Guaiphenasine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 55.00"
+},
+{
+"name":"Magaplus-X ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(480 mg+20 mg)/5 ml",
+"ganare":"Magaldrate + Simethicone",
+"unitPrice":"200 ml bottle : ৳ 100.30"
+},
+{
+"name":"Maso Plus ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg+200 mg",
+"ganare":"Glucosamine Sulphate + Chondroitin",
+"unitPrice":"Unit Price : ৳ 7.02"
+},
+{
+"name":"Metholone ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.1%",
+"ganare":"Fluorometholone Acetate",
+"unitPrice":"5 ml drop : ৳ 90.27"
+},
+{
+"name":"Molukat ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Molukat ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Molukat ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 12.04"
+},
+{
+"name":"Moxikem ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Moxifloxacin Hydrochloride",
+"unitPrice":"5 ml drop : ৳ 100.30"
+},
+{
+"name":"Neeper ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"5%w/w",
+"ganare":"Permethrin",
+"unitPrice":"15 gm tube : ৳ 28.08"
+},
+{
+"name":"Nelod ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Nelod ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Neobacin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"(5 mg+10 mg)/gm",
+"ganare":"Neomycin Sulfate + Bacitracin Zinc",
+"unitPrice":"20 gm tube : ৳ 44.03"
+},
+{
+"name":"Nodepress ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Fluoxetine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.60"
+},
+{
+"name":"Normacid ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.51"
+},
+{
+"name":"Normacid ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"75 mg/5 ml",
+"ganare":"Ranitidine",
+"unitPrice":"100 ml bottle : ৳ 45.13"
+},
+{
+"name":"Normacid ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"50 mg/2 ml",
+"ganare":"Ranitidine",
+"unitPrice":"2 ml ampoule : ৳ 6.02"
+},
+{
+"name":"Norpress ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Atenolol",
+"unitPrice":"Unit Price : ৳ 0.75"
+},
+{
+"name":"Ofpain ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.03"
+},
+{
+"name":"Ofpain ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"30 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 55.00"
+},
+{
+"name":"Ofpain ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"60 mg/2 ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"2 ml ampoule : ৳ 95.29"
+},
+{
+"name":"Ofpain ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Ketorolac Tromethamine (Eye Drops)",
+"unitPrice":"5 ml drop : ৳ 80.00"
+},
+{
+"name":"Ogli ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Pioglitazone",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Olif ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Olif ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 22.06"
+},
+{
+"name":"Olon-DS ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.2%",
+"ganare":"Olopatadine Hydrochloride (Eye Drops)",
+"unitPrice":"5 ml drop : ৳ 150.00"
+},
+{
+"name":"Omex",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"40 mg/vial",
+"ganare":"Omeprazole",
+"unitPrice":"40 mg vial : ৳ 87.01"
+},
+{
+"name":"Omex ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Omex ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 7.02"
+},
+{
+"name":"Ornys ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100000 unit/ml",
+"ganare":"Nystatin (Oral)",
+"unitPrice":"12 ml bottle : ৳ 20.46"
+},
+{
+"name":"Orvatin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 10.03"
+},
+{
+"name":"Orvatin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 18.05"
+},
+{
+"name":"Painthol ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":" ",
+"ganare":"Menthol + Camphor + Methyl Salicylate + Oleoresin Capsicum",
+"unitPrice":"20 gm tube : ৳ 43.00"
+},
+{
+"name":"Pavitex ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Panax Ginseng",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Pepin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Phenoxymethyl Penicillin (Penicillin V)",
+"unitPrice":"Price not available"
+},
+{
+"name":"Pinam ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Pivmecillinam",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Pizide ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Glipizide",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Podo ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"Unit Price : ৳ 22.07"
+},
+{
+"name":"Podo ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"40 mg/5 ml",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"50 ml bottle : ৳ 98.29"
+},
+{
+"name":"Povilect ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"5%",
+"ganare":"Povidone Iodine (Eye Drop)",
+"unitPrice":"10 ml drop : ৳ 90.01"
+},
+{
+"name":"Procin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 8.52"
+},
+{
+"name":"Procin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 14.05"
+},
+{
+"name":"Procin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"750 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Procin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"60 ml bottle : ৳ 90.27"
+},
+{
+"name":"Procin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.3%",
+"ganare":"Ciprofloxacin (Eye/Ear)",
+"unitPrice":"10 ml drop : ৳ 50.14"
+},
+{
+"name":"Procin-D ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.3%+0.1%",
+"ganare":"Ciprofloxacin + Dexamethasone",
+"unitPrice":"5 ml drop : ৳ 75.22"
+},
+{
+"name":"Ramdex ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.1%+0.5%",
+"ganare":"Dexamethasone + Chloramphenicol",
+"unitPrice":"5 ml drop : ৳ 70.21"
+},
+{
+"name":"Ramphen ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.5%",
+"ganare":"Chloramphenicol",
+"unitPrice":"10 ml drop : ৳ 35.00"
+},
+{
+"name":"Razole ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Rabeprazole Sodium",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Rison ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tolperisone Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"RIT ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"250 mg vial : ৳ 95.29"
+},
+{
+"name":"RIT ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 120.36"
+},
+{
+"name":"RIT ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 190.58"
+},
+{
+"name":"RIT ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"250 mg vial : ৳ 95.00"
+},
+{
+"name":"RIT ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 120.00"
+},
+{
+"name":"RIT ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 190.58"
+},
+{
+"name":"RIT ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"2 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"2 gm vial : ৳ 300.90"
+},
+{
+"name":"Rotomycin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Roxithromycin",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Rova ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Drotaverine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Salocin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Sparfloxacin",
+"unitPrice":"Unit Price : ৳ 17.00"
+},
+{
+"name":"Seovin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Griseofulvin (Microsize)",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Silzin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Silver Sulfadiazine",
+"unitPrice":"25 gm tube : ৳ 50.00"
+},
+{
+"name":"Skinaderm ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"0.1%",
+"ganare":"Triamcinolone Acetonide (Topical)",
+"unitPrice":"10 gm tube : ৳ 20.06"
+},
+{
+"name":"Syskem ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.4%+0.3%",
+"ganare":"Polyethylene Glycol + Propylene Glycol",
+"unitPrice":"10 ml drop : ৳ 150.46"
+},
+{
+"name":"Taran ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Taran ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Tinacort ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%+0.1%",
+"ganare":"Econazole Nitrate + Triamcinolone Acetonide",
+"unitPrice":"10 gm tube : ৳ 40.12"
+},
+{
+"name":"Tofa ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Tofa ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Triacin ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"40 mg/ml",
+"ganare":"Triamcinolone Acetonide (Injection)",
+"unitPrice":"1 ml vial : ৳ 60.18"
+},
+{
+"name":"Tupime ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Cefepime Hydrochloride",
+"unitPrice":"1 gm vial : ৳ 551.66"
+},
+{
+"name":"Velox ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 7.02"
+},
+{
+"name":"Velox ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 13.04"
+},
+{
+"name":"Velox ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.24"
+},
+{
+"name":"Velox ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cephradine",
+"unitPrice":"15 ml bottle : ৳ 50.16"
+},
+{
+"name":"Vitafol ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron + Folic acid + Vitamin B complex + Vitamin C",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Vroot ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"6 mg+200 mg+50 mg",
+"ganare":"Betacarotene + Vitamin C + Vitamin E",
+"unitPrice":"Unit Price : ৳ 2.51"
+},
+{
+"name":"Zismo ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 35.00"
+},
+{
+"name":"Zismo-B ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 50.14"
+},
+{
+"name":"Zita ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Zita ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.26"
+},
+{
+"name":"Zita ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"1%",
+"ganare":"Azithromycin",
+"unitPrice":"2.5 ml drop : ৳ 120.35"
+},
+{
+"name":"Zopan ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Zopan ",
+"company":"Kemiko Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 6.02"
+},

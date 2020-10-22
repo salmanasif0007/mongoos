@@ -1,0 +1,1048 @@
+{
+"name":"Activit Gold ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z gold preparation)",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Activit Silver ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z silver preparation)",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Activit Z ",
+"company":"Delta Pharma Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Activit ZI ",
+"company":"Delta Pharma Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"Aire ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Levosalbutamol (Oral)",
+"unitPrice":"Unit Price : ৳ 0.90"
+},
+{
+"name":"Aire ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Levosalbutamol (Oral)",
+"unitPrice":"Unit Price : ৳ 1.70"
+},
+{
+"name":"Amsiv ",
+"company":"Delta Pharma Limited",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Anin ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Anin Plus ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"50 mg+12.5 mg",
+"ganare":"Losartan Potassium + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"ATV ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"ATV ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"ATV ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"ATV Plus ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"5 mg+10 mg",
+"ganare":"Amlodipine + Atorvastatin",
+"unitPrice":"Unit Price : ৳ 24.00"
+},
+{
+"name":"Azo ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Azo ",
+"company":"Delta Pharma Limited",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 90.00"
+},
+{
+"name":"Boni D ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Boni Gold ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Calcium Orotate Dihydrate",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Boni M ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Calcium Carbonate + Vitamin D3 + Multimineral",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Bpnol Plus ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"5 mg+50 mg",
+"ganare":"Amlodipine + Atenolol",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Cildocal ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Cilnidipine",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Cildocal ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cilnidipine",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Clas ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"75 mg+75 mg",
+"ganare":"Clopidogrel + Aspirin",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"CNV ",
+"company":"Delta Pharma Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Cod Liver Oil",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"CTZ ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Cusef ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 6.50"
+},
+{
+"name":"Cusef ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.50"
+},
+{
+"name":"Danidazol ",
+"company":"Delta Pharma Limited",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 22.02"
+},
+{
+"name":"Debion ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Degut ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Delfex ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Delfex ",
+"company":"Delta Pharma Limited",
+"type":"Suspension",
+"strange":"30 mg/5 ml",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"50 ml bottle : ৳ 48.00"
+},
+{
+"name":"Demovo ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"375 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 8.33"
+},
+{
+"name":"Demovo ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Depyrin ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Dexalax ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":"30 mg",
+"ganare":"Dexlansoprazole",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Dexalax ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":"60 mg",
+"ganare":"Dexlansoprazole",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Dexodel Plus ",
+"company":"Delta Pharma Limited",
+"type":"Syrup",
+"strange":"(20 mg+10 mg+2.5 mg)/5 ml",
+"ganare":"Dextromethorphan + Phenylephrine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 100.00"
+},
+{
+"name":"DFX ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"DFX ",
+"company":"Delta Pharma Limited",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"60 ml bottle : ৳ 97.00"
+},
+{
+"name":"Doxobid ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Doxobid ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Ebatrol ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ebastine",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Ebatrol ",
+"company":"Delta Pharma Limited",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Ebastine",
+"unitPrice":"50 ml bottle : ৳ 80.00"
+},
+{
+"name":"Empazin ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Empagliflozin",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Empazin ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Empagliflozin",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Eto ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Eto ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Eto ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Evarin ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"135 mg",
+"ganare":"Mebeverine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Farlan ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Farlan ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Febulas ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Febuxostat",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Feona FZ ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"47 mg+0.5 mg+22.5 mg",
+"ganare":"Iron Polymaltose Complex + Folic Acid + Zinc Sulfate",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Feona Z ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron + Folic Acid + Vitamin B Complex + Vitamine C + Zinc Sulfate",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Freten ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"3 mg",
+"ganare":"Bromazepam",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"iMAX ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"iMAX ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Inhibita ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Inhibita ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Ket ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Ket ",
+"company":"Delta Pharma Limited",
+"type":"Injection",
+"strange":"30 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 55.00"
+},
+{
+"name":"Ketotif ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Linatin ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Linagliptin",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Linatin M ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"2.5 mg+500 mg",
+"ganare":"Linagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Linatin M ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"2.5 mg+850 mg",
+"ganare":"Linagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Linatin M ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"2.5 mg+1000 mg",
+"ganare":"Linagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Liosal ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Lonapam ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Lonapam ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Lonapam ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Meera ",
+"company":"Delta Pharma Limited",
+"type":"Syrup",
+"strange":"7.5 mg/5 ml",
+"ganare":"Butamirate Citrate",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Meera SR ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Butamirate Citrate",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Methotrax ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Methotrexate",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Methotrax ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Methotrexate",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Montela ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Montela ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Montela ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Nasida SR ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Navafil ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Avanafil",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Navafil ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Avanafil",
+"unitPrice":"Unit Price : ৳ 60.00"
+},
+{
+"name":"Nebinor ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Nebivolol",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Niagra ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Niagra ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Nitax ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Nitazoxanide",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Obid ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Obid ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Ofex ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Ofex ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 40.00"
+},
+{
+"name":"Ofex ",
+"company":"Delta Pharma Limited",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 195.00"
+},
+{
+"name":"Olcin ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Pelican ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Plezer ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Dapoxetine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Pregadel ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Pregadel ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":"75 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Pyrenol ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Pyrenol XR ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"665 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Reumaflex ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Hydroxychloroquine Sulphate",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Rmax ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Rabeprazole Sodium",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"RTV ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"RTV ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Sarinex ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Desloratadine",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Scabo ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"6 mg",
+"ganare":"Ivermectin (Oral)",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Seton ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"8 mg",
+"ganare":"Ondansetron",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Sitalia M ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"50 mg+500 mg",
+"ganare":"Sitagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Sitalia M XR ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"50 mg+500 mg",
+"ganare":"Sitagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Staxim ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Staxim ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 45.00"
+},
+{
+"name":"Staxim ",
+"company":"Delta Pharma Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"70 ml bottle : ৳ 170.00"
+},
+{
+"name":"Stela ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Trifluoperazine",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Stela ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Trifluoperazine",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Stimo ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Flupentixol + Melitracen",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Sun D ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":"20000 IU",
+"ganare":"Colecalciferol (Vitamin D3)",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Sun D ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":"40000 IU",
+"ganare":"Colecalciferol (Vitamin D3)",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Sun D ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"1000 IU",
+"ganare":"Colecalciferol (Vitamin D3)",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Tamsin ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":"0.4 mg",
+"ganare":"Tamsulosin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Tamsin D ",
+"company":"Delta Pharma Limited",
+"type":"Capsule",
+"strange":"0.4 mg+0.5 mg",
+"ganare":"Tamsulosin Hydrochloride + Dutasteride",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Tinadin ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Tino ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Tofacit ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Tofacitinib",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Tofacit XR ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"11 mg",
+"ganare":"Tofacitinib",
+"unitPrice":"Unit Price : ৳ 60.00"
+},
+{
+"name":"Toraxim ",
+"company":"Delta Pharma Limited",
+"type":"Suspension",
+"strange":"40 mg/5 ml",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"50 ml bottle : ৳ 98.00"
+},
+{
+"name":"Toraxim ",
+"company":"Delta Pharma Limited",
+"type":"Pediatric Drop",
+"strange":"20 mg/ml",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"15 ml bottle : ৳ 60.00"
+},
+{
+"name":"Urodel-K ",
+"company":"Delta Pharma Limited",
+"type":"Oral Solution",
+"strange":"(1500 mg+250 mg)/5 ml",
+"ganare":"Potassium Citrate + Citric Acid",
+"unitPrice":"200 ml bottle : ৳ 200.01"
+},
+{
+"name":"Xido ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Xone-3 ",
+"company":"Delta Pharma Limited",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 100.00"
+},
+{
+"name":"Xone-3 ",
+"company":"Delta Pharma Limited",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 150.00"
+},
+{
+"name":"Xone-3 ",
+"company":"Delta Pharma Limited",
+"type":"Injection",
+"strange":"2 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"2 gm vial : ৳ 250.00"
+},
+{
+"name":"Xone-3 ",
+"company":"Delta Pharma Limited",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 100.00"
+},
+{
+"name":"Xtrafen ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Xtrafen SR ",
+"company":"Delta Pharma Limited",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Xylose ",
+"company":"Delta Pharma Limited",
+"type":"Oral Solution",
+"strange":"3.35 gm/5 ml",
+"ganare":"Lactulose",
+"unitPrice":"100 ml bottle : ৳ 120.00"
+},

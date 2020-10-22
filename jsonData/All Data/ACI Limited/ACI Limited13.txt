@@ -1,0 +1,299 @@
+{
+"name":"Lynotril "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Lynestrenol"
+"unitPrice":"Unit Price : ৳ 12.00"
+"price":12.00
+
+},
+{
+"name":"Mastel "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Mizolastine"
+"unitPrice":"Unit Price : ৳ 6.52"
+"price":6.52
+
+},
+{
+"name":"Maxiflox "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"400 mg"
+"ganare":"Moxifloxacin Hydrochloride (Oral or Injection)"
+"unitPrice":"Unit Price : ৳ 50.00"
+"price":50.00
+
+},
+{
+"name":"Maxiflox "
+"company":"ACI Limited"
+"type":"Eye Drop"
+"strange":"0.5%"
+"ganare":"Moxifloxacin Hydrochloride"
+"unitPrice":"5 ml drop : ৳ 100.68"
+"price":100.68
+
+},
+{
+"name":"Meloderm "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"0.1%"
+"ganare":"Mometasone Furoate (Topical)"
+"unitPrice":"5 gm tube : ৳ 100.30"
+"price":100.30
+
+},
+{
+"name":"Memopil "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"800 mg"
+"ganare":"Piracetam"
+"unitPrice":"Unit Price : ৳ 6.04"
+"price":6.04
+
+},
+{
+"name":"Memopil "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"500 mg/5 ml"
+"ganare":"Piracetam"
+"unitPrice":"100 ml bottle : ৳ 151.02"
+"price":151.02
+
+},
+{
+"name":"Menogia "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Norethisterone"
+"unitPrice":"Unit Price : ৳ 6.00"
+"price":6.00
+
+},
+{
+"name":"Metform "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Metformin Hydrochloride"
+"unitPrice":"Unit Price : ৳ 4.00"
+"price":4.00
+
+},
+{
+"name":"Metform "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"850 mg"
+"ganare":"Metformin Hydrochloride"
+"unitPrice":"Unit Price : ৳ 6.00"
+"price":6.00
+
+},
+{
+"name":"Metform ER "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Metformin Hydrochloride"
+"unitPrice":"Unit Price : ৳ 6.00"
+"price":6.00
+
+},
+{
+"name":"Metform ER "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"1000 mg"
+"ganare":"Metformin Hydrochloride"
+"unitPrice":"Unit Price : ৳ 9.00"
+"price":9.00
+
+},
+{
+"name":"Miconex "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"2%"
+"ganare":"Miconazole Nitrate (Topical Cream)"
+"unitPrice":"10 gm tube : ৳ 39.00"
+"price":39.00
+
+},
+{
+"name":"Micoral "
+"company":"ACI Limited"
+"type":"Oral Gel"
+"strange":"2% w/w"
+"ganare":"Miconazole Nitrate (Oral Gel)"
+"unitPrice":"15 gm tube : ৳ 60.18"
+"price":60.18
+
+},
+{
+"name":"Micosone "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"2%+1%"
+"ganare":"Miconazole Nitrate + Hydrocortisone"
+"unitPrice":"10 gm tube : ৳ 40.27"
+"price":40.27
+
+},
+{
+"name":"Micosone "
+"company":"ACI Limited"
+"type":"Ointment"
+"strange":"2%+1%"
+"ganare":"Miconazole Nitrate + Hydrocortisone"
+"unitPrice":"10 gm tube : ৳ 40.27"
+"price":40.27
+
+},
+{
+"name":"Milk Aid "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"300 mg"
+"ganare":"Lactase"
+"unitPrice":"Unit Price : ৳ 15.00"
+"price":15.00
+
+},
+{
+"name":"Minolac "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"60 mg/2 ml"
+"ganare":"Ketorolac Tromethamine"
+"unitPrice":"2 ml ampoule : ৳ 95.65"
+"price":95.65
+
+},
+{
+"name":"Minolac"
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Ketorolac Tromethamine"
+"unitPrice":"Unit Price : ৳ 10.07"
+"price":10.07
+
+},
+{
+"name":"Minolac "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"30 mg/ml"
+"ganare":"Ketorolac Tromethamine"
+"unitPrice":"1 ml ampoule : ৳ 55.38"
+"price":55.38
+
+},
+{
+"name":"Miragon PR"
+"company":"ACI Limited"
+"type":"Tablet (Prolonged Release)"
+"strange":"25 mg"
+"ganare":"Mirabegron"
+"unitPrice":"Unit Price : ৳ 30.00"
+"price":30.00
+
+},
+{
+"name":"Mobifen "
+"company":"ACI Limited"
+"type":"Suppository"
+"strange":"50 mg"
+"ganare":"Diclofenac Sodium"
+"unitPrice":"Unit Price : ৳ 15.00"
+"price":15.00
+
+},
+{
+"name":"Mobifen "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Diclofenac Sodium"
+"unitPrice":"Unit Price : ৳ 0.88"
+"price":0.88
+
+},
+{
+"name":"Mobifen "
+"company":"ACI Limited"
+"type":"Suppository"
+"strange":"12.5 mg"
+"ganare":"Diclofenac Sodium"
+"unitPrice":"Unit Price : ৳ 9.00"
+"price": 9.00
+
+},
+{
+"name":"Mobifen "
+"company":"ACI Limited"
+"type":"Suppository"
+"strange":"25 mg"
+"ganare":"Diclofenac Sodium"
+"unitPrice":"Unit Price : ৳ 12.00"
+"price":12.00
+
+},
+{
+"name":"Mobifen Plus "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"(75 mg+20 mg)/2 ml"
+"ganare":"Diclofenac Sodium + Lidocaine Hydrochloride"
+"unitPrice":"2 ml ampoule : ৳ 9.57"
+"price": 9.57
+
+},
+{
+"name":"Mylovit-Z "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":" "
+"ganare":"Iron Polymaltose Complex + Folic Acid + Zinc + Vitamin B-Complex"
+"unitPrice":"Unit Price : ৳ 3.52"
+"price":3.52
+
+},
+{
+"name":"Myrox "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"15 mg/5 ml"
+"ganare":"Ambroxol Hydrochloride"
+"unitPrice":"100 ml bottle : ৳ 40.12"
+"price":40.12
+
+},
+{
+"name":"Myrox "
+"company":"ACI Limited"
+"type":"Pediatric Drop"
+"strange":"6 mg/ml"
+"ganare":"Ambroxol Hydrochloride"
+"unitPrice":"15 ml bottle : ৳ 30.09"
+"price":30.09
+
+},
+{
+"name":"Myrox SR "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"75 mg"
+"ganare":"Ambroxol Hydrochloride"
+"unitPrice":"Unit Price : ৳ 5.00"
+"price":5.00
+},

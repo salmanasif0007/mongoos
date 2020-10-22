@@ -1,0 +1,32 @@
+{
+"name":"Libradin ",
+"company":"Libra Pharmaceuticls Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.30"
+},
+{
+"name":"Libradin ",
+"company":"Libra Pharmaceuticls Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.54"
+},
+{
+"name":"Xylocef ",
+"company":"Libra Pharmaceuticls Limited",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 25.10"
+},
+{
+"name":"Xylocef ",
+"company":"Libra Pharmaceuticls Limited",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 160.61"
+},

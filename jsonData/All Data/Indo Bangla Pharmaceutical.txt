@@ -1,0 +1,304 @@
+{
+"name":"Albendox ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Arromin ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Promethazine Hydrochloride",
+"unitPrice":"60 ml bottle : ৳ 9.00"
+},
+{
+"name":"Butabrom ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Hyoscine Butylbromide",
+"unitPrice":"Unit Price : ৳ 2.20"
+},
+{
+"name":"Caltab ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Calcium Lactate",
+"unitPrice":"Unit Price : ৳ 0.27"
+},
+{
+"name":"Cotrimox ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Suspension",
+"strange":"(200 mg+40 mg)/5 ml",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"60 ml bottle : ৳ 21.00"
+},
+{
+"name":"Cotrimox ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"400 mg+80 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Unit Price : ৳ 1.35"
+},
+{
+"name":"Cotrimox DS ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"800 mg+160 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"I-Cin ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Capsule",
+"strange":"25 mg",
+"ganare":"Indomethacin",
+"unitPrice":"Unit Price : ৳ 0.60"
+},
+{
+"name":"I-Fol ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"200 mg+200 mcg",
+"ganare":"Ferrous Fumerate + Folic acid",
+"unitPrice":"Unit Price : ৳ 0.30"
+},
+{
+"name":"Indocal ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Indocef ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Indoflam ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Ibuprofen",
+"unitPrice":"100 ml bottle : ৳ 18.58"
+},
+{
+"name":"Indophyllin ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aminophylline",
+"unitPrice":"Unit Price : ৳ 0.42"
+},
+{
+"name":"Indoplex ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 20.70"
+},
+{
+"name":"Indoplex B ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.40"
+},
+{
+"name":"Indoprox ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 5.33"
+},
+{
+"name":"Indoprox ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Indotetra ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Tetracycline Hydrochloride (Oral)",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Indotetra ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Tetracycline Hydrochloride (Oral)",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Indox ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Doxycycline",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Indozith ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Indozith ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Indozith ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.00"
+},
+{
+"name":"Inket ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Mebendox ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Mebendazole",
+"unitPrice":"30 ml bottle : ৳ 14.00"
+},
+{
+"name":"Mebendox ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Mebendazole",
+"unitPrice":"Unit Price : ৳ 0.74"
+},
+{
+"name":"Metrol ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 21.00"
+},
+{
+"name":"Metrol ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Penicillin-V ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Phenoxymethyl Penicillin (Penicillin V)",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Penicillin-V ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Phenoxymethyl Penicillin (Penicillin V)",
+"unitPrice":"50 ml bottle : ৳ 18.00"
+},
+{
+"name":"Protobit ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Relise ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Riboflavine ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Riboflavin",
+"unitPrice":"Unit Price : ৳ 0.20"
+},
+{
+"name":"Salbumol ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"100 ml bottle : ৳ 16.12"
+},
+{
+"name":"Seplon ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Solution",
+"strange":"0.3%+3%",
+"ganare":"Chlorhexidine Gluconate + Cetrimide",
+"unitPrice":"56 ml bottle : ৳ 18.00"
+},
+{
+"name":"Tensareal ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Diazepam",
+"unitPrice":"Unit Price : ৳ 0.25"
+},
+{
+"name":"Trialugel ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Tablet",
+"strange":"250 mg+400 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"Unit Price : ৳ 0.40"
+},
+{
+"name":"Zins ",
+"company":"Indo Bangla Pharmaceutical",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 26.00"
+},

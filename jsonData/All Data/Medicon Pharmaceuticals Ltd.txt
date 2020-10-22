@@ -1,0 +1,872 @@
+{
+"name":"Acenac ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 2.73"
+},
+{
+"name":"Alfex ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.44"
+},
+{
+"name":"Alfex ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"30 mg/5 ml",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"50 ml bottle : ৳ 43.18"
+},
+{
+"name":"Amoxicon ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 2.84"
+},
+{
+"name":"Amoxicon ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 5.68"
+},
+{
+"name":"Amoxicon ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 45.45"
+},
+{
+"name":"Anol ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Atenolol",
+"unitPrice":"Unit Price : ৳ 0.74"
+},
+{
+"name":"Atocon ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 9.94"
+},
+{
+"name":"Azmet ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"60 ml bottle : ৳ 14.77"
+},
+{
+"name":"Bactocycline ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Tetracycline Hydrochloride (Oral)",
+"unitPrice":"Unit Price : ৳ 1.65"
+},
+{
+"name":"Balo ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 7.58"
+},
+{
+"name":"Brite ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.01%+4%+0.05%",
+"ganare":"Fluocinolone Acetonide + Hydroquinone + Tretinoin",
+"unitPrice":"15 gm tube : ৳ 104.54"
+},
+{
+"name":"Calpo ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 2.84"
+},
+{
+"name":"Calpo-D ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 3.98"
+},
+{
+"name":"Cexitil ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 22.73"
+},
+{
+"name":"Cexitil ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 44.03"
+},
+{
+"name":"Cezin ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 1.70"
+},
+{
+"name":"Cezin ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"60 ml bottle : ৳ 18.18"
+},
+{
+"name":"Ciprol ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 11.36"
+},
+{
+"name":"Ciprol DS ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"60 ml bottle : ৳ 95.45"
+},
+{
+"name":"Closon ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.05%+1%",
+"ganare":"Betamethasone + Clotrimazole",
+"unitPrice":"10 gm tube : ৳ 28.41"
+},
+{
+"name":"Dopin ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 4.66"
+},
+{
+"name":"Doridon ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 1.70"
+},
+{
+"name":"Doridon ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"5 mg/ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"15 ml drop : ৳ 19.32"
+},
+{
+"name":"Doxicon ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Doxycycline",
+"unitPrice":"Unit Price : ৳ 2.20"
+},
+{
+"name":"Dual ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.99"
+},
+{
+"name":"Ecot ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%+0.1%",
+"ganare":"Econazole Nitrate + Triamcinolone Acetonide",
+"unitPrice":"10 gm tube : ৳ 37.50"
+},
+{
+"name":"Ekzina ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"0.05%+3%",
+"ganare":"Clobetasol Propionate + Salicylic Acid",
+"unitPrice":"10 gm tube : ৳ 64.77"
+},
+{
+"name":"Enar ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"375 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 7.99"
+},
+{
+"name":"Enar ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 9.66"
+},
+{
+"name":"Erythro ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 69.31"
+},
+{
+"name":"Esozol ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 5.45"
+},
+{
+"name":"Fentikol ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Vaginal Cream",
+"strange":"2%w/w",
+"ganare":"Fenticonazole Nitrate",
+"unitPrice":"30 gm tube : ৳ 187.49"
+},
+{
+"name":"Feol TR ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 2.84"
+},
+{
+"name":"Fludex ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 18.18"
+},
+{
+"name":"Fludex ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 6.63"
+},
+{
+"name":"Flumed ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.48"
+},
+{
+"name":"Flumed ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 14.65"
+},
+{
+"name":"Flumed ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 59.80"
+},
+{
+"name":"Fusimed BT ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"2%+0.1%",
+"ganare":"Fucidic Acid + Betamethasone",
+"unitPrice":"10 gm tube : ৳ 150.00"
+},
+{
+"name":"Gabalon ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 11.36"
+},
+{
+"name":"Gide ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 6.82"
+},
+{
+"name":"Hidin ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Mouthwash",
+"strange":"1%w/v",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"100 ml bottle : ৳ 34.09"
+},
+{
+"name":"Hidin ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"5%w/w",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"25 gm tube : ৳ 21.92"
+},
+{
+"name":"Inspra ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Flupentixol + Melitracen",
+"unitPrice":"Unit Price : ৳ 3.98"
+},
+{
+"name":"Instacool ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"30%+8%",
+"ganare":"Methyl Salicylate + Menthol",
+"unitPrice":"25 gm tube : ৳ 59.09"
+},
+{
+"name":"Instacool Plus ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"30%+10%+4%",
+"ganare":"Methyl Salicylate + Menthol + Camphor",
+"unitPrice":"15 gm tube : ৳ 93.18"
+},
+{
+"name":"Irovit-Z ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 48.86"
+},
+{
+"name":"Joingurd ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg+200 mg",
+"ganare":"Glucosamine Sulphate + Chondroitin",
+"unitPrice":"Unit Price : ৳ 7.95"
+},
+{
+"name":"Kefat ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"Unit Price : ৳ 1.70"
+},
+{
+"name":"Kefat ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"1 mg/5 ml",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"100 ml bottle : ৳ 44.32"
+},
+{
+"name":"Ketora ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 9.66"
+},
+{
+"name":"Kingcox ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 6.51"
+},
+{
+"name":"Kingcox ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 11.36"
+},
+{
+"name":"Linago ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Linagliptin",
+"unitPrice":"Unit Price : ৳ 14.77"
+},
+{
+"name":"Losanil ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 7.39"
+},
+{
+"name":"Loxin ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 11.93"
+},
+{
+"name":"Mebalon ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Powder",
+"strange":"(5 mg+250 IU)/gm",
+"ganare":"Neomycin Sulfate + Bacitracin Zinc",
+"unitPrice":"5 gm pack : ৳ 13.64"
+},
+{
+"name":"Mebel ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Albendazole",
+"unitPrice":"10 ml bottle : ৳ 19.32"
+},
+{
+"name":"Mebel DS ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Medi Gold ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral [A-Z gold preparation]",
+"unitPrice":"Unit Price : ৳ 6.82"
+},
+{
+"name":"Medi Gold ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral [A-Z syrup preparation]",
+"unitPrice":"100 ml bottle : ৳ 86.36"
+},
+{
+"name":"Medibion ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 7.39"
+},
+{
+"name":"Medicef ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 11.93"
+},
+{
+"name":"Medicef ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 75.00"
+},
+{
+"name":"Medicon Oralsaline ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Powder",
+"strange":"19.95 gm",
+"ganare":"Oral Rehydration Salt (Powder)",
+"unitPrice":"Unit Price : ৳ 4.32"
+},
+{
+"name":"Medifen ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Topical Gel",
+"strange":"1%w/w",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"10 gm tube : ৳ 12.95"
+},
+{
+"name":"Medifen TR ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 2.73"
+},
+{
+"name":"Medivit ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.57"
+},
+{
+"name":"Medivit-M ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 1.79"
+},
+{
+"name":"Medizol ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.14"
+},
+{
+"name":"Medizol ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 23.86"
+},
+{
+"name":"Megasim ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(480 mg+20 mg)/5 ml",
+"ganare":"Magaldrate + Simethicone",
+"unitPrice":"200 ml bottle : ৳ 95.45"
+},
+{
+"name":"Metnil ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.84"
+},
+{
+"name":"Minopa ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Tolfenamic acid",
+"unitPrice":"Unit Price : ৳ 7.39"
+},
+{
+"name":"Mizol ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Oral Gel",
+"strange":"2%w/w",
+"ganare":"Miconazole Nitrate (Oral Gel)",
+"unitPrice":"15 gm tube : ৳ 56.81"
+},
+{
+"name":"MTS ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 9.37"
+},
+{
+"name":"Mucogel ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg+400 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"200 ml bottle : ৳ 53.41"
+},
+{
+"name":"Neotrim ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(200 mg+40 mg)/5 ml",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"60 ml bottle : ৳ 19.32"
+},
+{
+"name":"Nizonid ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Nitazoxanide",
+"unitPrice":"Unit Price : ৳ 9.94"
+},
+{
+"name":"Nizonid ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Nitazoxanide",
+"unitPrice":"30 ml bottle : ৳ 34.09"
+},
+{
+"name":"Omel ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 7.07"
+},
+{
+"name":"Omel ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.55"
+},
+{
+"name":"OTsol ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Hand Rub",
+"strange":"0.5%+70%",
+"ganare":"Chlorhexidine Gluconate + Isopropyl alcohol",
+"unitPrice":"50 ml bottle : ৳ 38.63"
+},
+{
+"name":"Pamel ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 3.41"
+},
+{
+"name":"Pamel ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 5.11"
+},
+{
+"name":"Permenin ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"5%w/w",
+"ganare":"Permethrin",
+"unitPrice":"15 gm tube : ৳ 23.86"
+},
+{
+"name":"Pirocin ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"2%w/w",
+"ganare":"Mupirocin",
+"unitPrice":"10 gm tube : ৳ 130.67"
+},
+{
+"name":"Pitofen ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Pizotifen",
+"unitPrice":"Unit Price : ৳ 2.95"
+},
+{
+"name":"Proctil ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"40 mg/5 ml",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"50 ml bottle : ৳ 95.45"
+},
+{
+"name":"Profix ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 34.09"
+},
+{
+"name":"Profix ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"30 ml bottle : ৳ 102.27"
+},
+{
+"name":"Rapo ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Rabeprazole Sodium",
+"unitPrice":"Unit Price : ৳ 4.83"
+},
+{
+"name":"Rata ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rupatadine Fumarate",
+"unitPrice":"Unit Price : ৳ 9.97"
+},
+{
+"name":"Renicon ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 1.31"
+},
+{
+"name":"Rixol ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 37.50"
+},
+{
+"name":"Scabicon ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Emulsion",
+"strange":"1.25 gm/5 ml",
+"ganare":"Benzyl Benzoate",
+"unitPrice":"100 ml bottle : ৳ 36.36"
+},
+{
+"name":"Systaflam ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Topical Gel",
+"strange":" ",
+"ganare":"Diclofenac Diethylamine + Mephenesin + Menthol + Methyl Salicylate + Turpentine Oil",
+"unitPrice":"25 gm tube : ৳ 118.17"
+},
+{
+"name":"Tandamol ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.76"
+},
+{
+"name":"Tandamol ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 20.45"
+},
+{
+"name":"Teracin ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Oxytetracycline",
+"unitPrice":"Unit Price : ৳ 2.84"
+},
+{
+"name":"TMS ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"Unit Price : ৳ 4.32"
+},
+{
+"name":"Uneed ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron + Folic acid + Vitamin B complex + Vitamin C",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Vita Seas ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Cod Liver Oil",
+"unitPrice":"100 ml bottle : ৳ 79.54"
+},
+{
+"name":"Vitacon ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 34.09"
+},
+{
+"name":"Zinon ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"Unit Price : ৳ 1.48"
+},
+{
+"name":"Zinon ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 34.09"
+},
+{
+"name":"Zitrex ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 32.95"
+},
+{
+"name":"Zitrex ",
+"company":"Medicon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"20 ml bottle : ৳ 97.72"
+},

@@ -1,0 +1,299 @@
+{
+"name":"Solone "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Prednisolone (Oral / Injection)"
+"unitPrice":"
+Unit Price : ৳ 3.23"
+},
+{
+"name":"
+Solone "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Prednisolone (Oral / Injection)"
+"unitPrice":"
+Unit Price : ৳ 6.27"
+},
+{
+"name":"
+Solone "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Prednisolone (Oral / Injection)"
+"unitPrice":"
+Unit Price : ৳ 1.72"
+},
+{
+"name":"
+Solone "
+"company":"ACI Limited"
+"type":"Oral Solution"
+"strange":"5 mg/5 ml"
+"ganare":"Prednisolone (Oral / Injection)"
+"unitPrice":"
+50 ml bottle : ৳ 65.00"
+},
+{
+"name":"
+Soritec "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"10 mg"
+"ganare":"Acitretin"
+"unitPrice":"
+Unit Price : ৳ 45.14"
+},
+{
+"name":"
+Soritec "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"25 mg"
+"ganare":"Acitretin"
+"unitPrice":"
+Unit Price : ৳ 85.26"
+},
+{
+"name":"
+Steradin HFA "
+"company":"ACI Limited"
+"type":"Inhaler"
+"strange":"100 mcg/puff"
+"ganare":"Beclometasone Dipropionate (Inhaler)"
+"unitPrice":"
+200 metered doses : ৳ 271.84"
+},
+{
+"name":"
+Steradin HFA "
+"company":"ACI Limited"
+"type":"Inhaler"
+"strange":"250 mcg/puff"
+"ganare":"Beclometasone Dipropionate (Inhaler)"
+"unitPrice":"
+200 metered doses : ৳ 352.38"
+},
+{
+"name":"
+Suvorest "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Suvorexant"
+"unitPrice":"
+Unit Price : ৳ 35.00"
+},
+{
+"name":"
+Systop "
+"company":"ACI Limited"
+"type":"Ointment"
+"strange":"2% w/w"
+"ganare":"Mupirocin"
+"unitPrice":"
+10 gm tube : ৳ 140.42"
+},
+{
+"name":"
+Tasti "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"6 mg+200 mg+50 mg"
+"ganare":"Betacarotene + Vitamin C + Vitamin E"
+"unitPrice":"
+Unit Price : ৳ 2.50"
+},
+{
+"name":"
+Tazosyn "
+"company":"ACI Limited"
+"type":"Infusion"
+"strange":"2 gm+0.25 gm"
+"ganare":"Piperacillin + Tazobactam"
+"unitPrice":"
+2.25 gm combipack : ৳ 601.80"
+},
+{
+"name":"
+Tazosyn "
+"company":"ACI Limited"
+"type":"Infusion"
+"strange":"4 gm+0.5 gm"
+"ganare":"Piperacillin + Tazobactam"
+"unitPrice":"
+4.5 gm vial : ৳ 1,003.01"
+},
+{
+"name":"
+Tenocab "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg+25 mg"
+"ganare":"Amlodipine + Atenolol"
+"unitPrice":"
+Unit Price : ৳ 5.27"
+},
+{
+"name":"
+Tenocab "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg+50 mg"
+"ganare":"Amlodipine + Atenolol"
+"unitPrice":"
+Unit Price : ৳ 6.02"
+},
+{
+"name":"
+Tenoren "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Atenolol"
+"unitPrice":"
+Unit Price : ৳ 0.77"
+},
+{
+"name":"
+Tenoren "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"100 mg"
+"ganare":"Atenolol"
+"unitPrice":"
+Unit Price : ৳ 1.38"
+},
+{
+"name":"
+Tenoren "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"25 mg"
+"ganare":"Atenolol"
+"unitPrice":"
+Unit Price : ৳ 0.45"
+},
+{
+"name":"
+Tenoren Plus "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"50 mg+25 mg"
+"ganare":"Atenolol + Chlorthalidone"
+"unitPrice":"
+Unit Price : ৳ 3.02"
+},
+{
+"name":"
+Teolex SR "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"200 mg"
+"ganare":"Theophylline"
+"unitPrice":"
+Unit Price : ৳ 1.50"
+},
+{
+"name":"
+Testoren "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"250 mg/ml"
+"ganare":"Testosterone Decanoate"
+"unitPrice":"
+1 ml ampoule : ৳ 174.00"
+},
+{
+"name":"
+Tetrasol "
+"company":"ACI Limited"
+"type":"Solution"
+"strange":"25%"
+"ganare":"Monosulfiram"
+"unitPrice":"
+30 ml bottle : ৳ 68.20"
+},
+{
+"name":"
+Teviral "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"0.5 mg"
+"ganare":"Entecavir"
+"unitPrice":"
+Unit Price : ৳ 48.32"
+},
+{
+"name":"
+Teviral "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"1 mg"
+"ganare":"Entecavir"
+"unitPrice":"
+Unit Price : ৳ 100.30"
+},
+{
+"name":"
+Thiopen "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"1 gm/vial"
+"ganare":"Thiopental Sodium"
+"unitPrice":"
+1 gm vial : ৳ 100.68"
+},
+{
+"name":"
+Thiopen "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"500 mg/vial"
+"ganare":"Thiopental Sodium"
+"unitPrice":"
+500 mg vial : ৳ 70.05"
+},
+{
+"name":"
+Tiotrop "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"18 mcg"
+"ganare":"Tiotropium (Dry Powder Inhaler)"
+"unitPrice":"
+Unit Price : ৳ 8.00"
+},
+{
+"name":"
+Tioxil"
+"company":"ACI Limited"
+"type":" "
+"strange":" "
+"ganare":"Vitamin C, Vitamin E, Lutein, Copper & Zinc"
+"unitPrice":"
+Unit Price : ৳ 10.00"
+},
+{
+"name":"
+Tivion "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"2.5 mg"
+"ganare":"Tibolone"
+"unitPrice":"
+Unit Price : ৳ 20.06"
+},
+{
+"name":"
+Tizadin "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"2 mg"
+"ganare":"Tizanidine Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 5.04"
+},

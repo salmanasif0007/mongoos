@@ -1,0 +1,120 @@
+{
+"name":"Airnaaf ",
+"company":"Naafco Pharma Limited",
+"type":"Syrup",
+"strange":"1 mg/5 ml",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"Azinaaf ",
+"company":"Naafco Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 33.00"
+},
+{
+"name":"Azinaaf ",
+"company":"Naafco Pharma Limited",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"30 ml bottle : ৳ 130.00"
+},
+{
+"name":"Azinaaf ",
+"company":"Naafco Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 33.00"
+},
+{
+"name":"Esonaaf ",
+"company":"Naafco Pharma Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Fexonaaf ",
+"company":"Naafco Pharma Limited",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Fexonaaf ",
+"company":"Naafco Pharma Limited",
+"type":"Suspension",
+"strange":"30 mg/5 ml",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"50 ml bottle : ৳ 48.00"
+},
+{
+"name":"Ketonaaf ",
+"company":"Naafco Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Montenaaf ",
+"company":"Naafco Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Naafcal-D ",
+"company":"Naafco Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Naafcal-DS ",
+"company":"Naafco Pharma Limited",
+"type":"Tablet",
+"strange":"600 mg+400 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Naafco Orsaline ",
+"company":"Naafco Pharma Limited",
+"type":"Powder",
+"strange":"13.95 gm",
+"ganare":"Oral Rehydration Salt (Powder)",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Naafvit A-Z ",
+"company":"Naafco Pharma Limited",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral [A-Z gold preparation]",
+"unitPrice":"Unit Price : ৳ 7.50"
+},
+{
+"name":"Naafvit-BZ ",
+"company":"Naafco Pharma Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Omenaaf ",
+"company":"Naafco Pharma Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},

@@ -1,0 +1,824 @@
+{
+"name":"Aclosol ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.05%",
+"ganare":"Clobetasol Propionate",
+"unitPrice":"10 gm tube : ৳ 45.00"
+},
+{
+"name":"Ad-All ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron + Folic Acid + Vitamin B Complex + Vitamine C + Zinc Sulfate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Adlorin ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Desloratadine",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Adrox ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"70 ml bottle : ৳ 181.00"
+},
+{
+"name":"Aldaben ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Albendazole",
+"unitPrice":"10 ml bottle : ৳ 15.00"
+},
+{
+"name":"Aldaben-DS ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Alerjess ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"Unit Price : ৳ 0.20"
+},
+{
+"name":"Alerjess ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"100 ml bottle : ৳ 20.00"
+},
+{
+"name":"Amobet ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.05%",
+"ganare":"Clobetasone Butyrate",
+"unitPrice":"10 gm tube : ৳ 30.00"
+},
+{
+"name":"Aroxia ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Aroxia ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Aroxia ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Avidol ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"6.25 mg",
+"ganare":"Carvedilol",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"B-Plex ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.46"
+},
+{
+"name":"B-Plex ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 20.84"
+},
+{
+"name":"Calcium A&D ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 3.30"
+},
+{
+"name":"Calcium-A ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Calonil ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"8 mg",
+"ganare":"Sucralose",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Cartace ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Ramipril",
+"unitPrice":"Unit Price : ৳ 4.60"
+},
+{
+"name":"Cefixime-A ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Cefixime-A ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 180.00"
+},
+{
+"name":"Cevozin ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Levocetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Ciproxen ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Ciproxen ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Cirizin ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Cirizin ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"60 ml bottle : ৳ 22.00"
+},
+{
+"name":"Cladin ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Loratadine",
+"unitPrice":"Unit Price : ৳ 2.25"
+},
+{
+"name":"Clogrel ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"75 mg",
+"ganare":"Clopidogrel Bisulphate",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Clogrel Plus ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"75 mg+75 mg",
+"ganare":"Clopidogrel + Aspirin",
+"unitPrice":"Unit Price : ৳ 11.00"
+},
+{
+"name":"Co-Try ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(200 mg+40 mg)/5 ml",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"60 ml bottle : ৳ 21.50"
+},
+{
+"name":"Co-Try DS ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"800 mg+160 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Combomin ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Conatrim ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%+0.1%",
+"ganare":"Econazole Nitrate + Triamcinolone Acetonide",
+"unitPrice":"10 gm tube : ৳ 34.00"
+},
+{
+"name":"Duomeal ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(175 mg+200 mg)/5 ml",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"200 ml bottle : ৳ 40.00"
+},
+{
+"name":"Duomeal ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg+400 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"Unit Price : ৳ 0.53"
+},
+{
+"name":"Erythromycin-A ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Feva ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.75"
+},
+{
+"name":"Feva ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 18.00"
+},
+{
+"name":"Feva",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"80 mg/ml",
+"ganare":"Paracetamol",
+"unitPrice":"15 ml bottle : ৳ 12.27"
+},
+{
+"name":"Feva ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suppository",
+"strange":"125 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Feva ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suppository",
+"strange":"250 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Feva ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suppository",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Feva Plus ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Fleco ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Folate ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Folic acid",
+"unitPrice":"Unit Price : ৳ 0.30"
+},
+{
+"name":"Guamin",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Gutset ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Gutset ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"5 mg/ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"15 ml drop : ৳ 20.00"
+},
+{
+"name":"Gutset ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 35.00"
+},
+{
+"name":"Helben ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Mebendazole",
+"unitPrice":"30 ml bottle : ৳ 14.80"
+},
+{
+"name":"J-Mox ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 2.86"
+},
+{
+"name":"J-Mox ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 5.71"
+},
+{
+"name":"J-Mox ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"J-Mox ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"15 ml bottle : ৳ 28.32"
+},
+{
+"name":"J-Zinc ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 30.00"
+},
+{
+"name":"Jedine ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.50"
+},
+{
+"name":"Jedine ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cephradine",
+"unitPrice":"15 ml bottle : ৳ 50.00"
+},
+{
+"name":"Jedine ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Jefenac TR ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Lacor ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Loderm ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Clotrimazole (Topical)",
+"unitPrice":"10 gm tube : ৳ 23.00"
+},
+{
+"name":"Meczin ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Meclizine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Metodex ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Dextromethorphan Hydrobromide",
+"unitPrice":"100 ml bottle : ৳ 30.00"
+},
+{
+"name":"Metra ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.05"
+},
+{
+"name":"Metra ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 24.00"
+},
+{
+"name":"Mitigal ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"2%",
+"ganare":"Miconazole Nitrate (Topical Cream)",
+"unitPrice":"10 gm tube : ৳ 30.00"
+},
+{
+"name":"Mucovan ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"Neofenac ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 0.60"
+},
+{
+"name":"Neofenac ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suppository",
+"strange":"12.5 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 7.50"
+},
+{
+"name":"Neofenac ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suppository",
+"strange":"50 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Neofenac ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Gel",
+"strange":"1% w/w",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"10 gm tube : ৳ 12.90"
+},
+{
+"name":"Nixpan ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Nixpan ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Nopidin ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Omrazol ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Omrazol ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Onevit ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Thiamine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 0.74"
+},
+{
+"name":"ORS-A ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Powder",
+"strange":"10 gm",
+"ganare":"Oral Rehydration Salt (Powder)",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Oxacol ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Prolol ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Metoprolol Tartrate",
+"unitPrice":"Unit Price : ৳ 1.30"
+},
+{
+"name":"Proxa-A ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Nitazoxanide",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Proxa-A ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Nitazoxanide",
+"unitPrice":"30 ml bottle : ৳ 35.00"
+},
+{
+"name":"Quiva ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 13.00"
+},
+{
+"name":"Ranitack ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Red Plus ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Red Plus Extra ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron Polymaltose Complex + Folic Acid + Zinc + Vitamin B-Complex",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Relofen ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Ribomin ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Riboflavin",
+"unitPrice":"Unit Price : ৳ 0.23"
+},
+{
+"name":"Somazole ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Somazole ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Sugred ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Tium ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Trigal ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Trigal ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Ultradol ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.50"
+},
+{
+"name":"Ultranax ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Vastor ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Ventosol ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"100 ml bottle : ৳ 20.00"
+},
+{
+"name":"Vinzam ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Vinzam ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 82.00"
+},
+{
+"name":"Xofast ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Xofast ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Zolecon ",
+"company":"Ad-din pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Econazole Nitrate",
+"unitPrice":"10 gm tube : ৳ 25.00"
+},

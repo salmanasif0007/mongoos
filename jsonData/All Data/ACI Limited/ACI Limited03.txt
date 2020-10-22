@@ -1,0 +1,270 @@
+{
+"name":"Anaxyl "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Tranexamic Acid"
+"unitPrice":"Unit Price : ৳ 20.06"
+"price":20.06
+},
+{
+"name":"Anaxyl "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"500 mg/5 ml"
+"ganare":"Tranexamic Acid"
+"unitPrice":"5 ml ampoule : ৳ 50.34"
+"price":50.34
+},
+{
+"name":"Aptin "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Vildagliptin"
+"unitPrice":"Unit Price : ৳ 20.00"
+"price":20.00
+},
+{
+"name":"Aptin M"
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"50 mg+500 mg"
+"ganare":"Vildagliptin + Metformin Hydrochloride"
+"unitPrice":"Unit Price : ৳ 22.00"
+"price":22.00
+},
+{
+"name":"Aptin M"
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"50 mg+850 mg"
+"ganare":"Vildagliptin + Metformin Hydrochloride"
+"unitPrice":"Unit Price : ৳ 23.00"
+"price":23.00
+},
+{
+"name":"Arbitel"
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Telmisartan"
+"unitPrice":"Unit Price : ৳ 7.00"
+"price": 7.00
+},
+{
+"name":"Arbitel "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"40 mg"
+"ganare":"Telmisartan"
+"unitPrice":"Unit Price : ৳ 12.50"
+"price":12.50
+},
+{
+"name":"Arbitel"
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"80 mg"
+"ganare":"Telmisartan"
+"unitPrice":"Unit Price : ৳ 20.00"
+"price":20.00
+},
+{
+"name":"Arbitel AM "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg+80 mg"
+"ganare":"Amlodipine + Telmisartan"
+"unitPrice":"Unit Price : ৳ 18.00"
+"price":18.00
+},
+{
+"name":"Arbitel AM"
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg+40 mg"
+"ganare":"Amlodipine + Telmisartan"
+"unitPrice":"Unit Price : ৳ 12.50"
+"price":12.50
+},
+{
+"name":"Arbitel Plus "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"40 mg+12.5 mg"
+"ganare":"Telmisartan + Hydrochlorothiazide"
+"unitPrice":"Unit Price : ৳ 12.50"
+"price":12.50
+},
+{
+"name":"Arbitel Plus"
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"80 mg+12.5 mg"
+"ganare":"Telmisartan + Hydrochlorothiazide"
+"unitPrice":"Unit Price : ৳ 20.00"
+"price":20.00
+},
+{
+"name":"Armoda "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"150 mg"
+"ganare":"Armodafinil"
+"unitPrice":"Unit Price : ৳ 15.00"
+"price":15.00
+},
+{
+"name":"Armoda "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Armodafinil"
+"unitPrice":"Unit Price : ৳ 25.00"
+"price":25.00
+},
+{
+"name":"Aronem "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"500 mg/vial"
+"ganare":"Meropenem Trihydrate"
+"unitPrice":"500 mg vial : ৳ 654.41"
+"price":654.41
+},
+{
+"name":"Aronem "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"1 gm/vial"
+"ganare":"Meropenem Trihydrate"
+"unitPrice":"1 gm vial : ৳ 1,208.14"
+"price":1,208.14
+},
+{
+"name":"Artica "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Hydroxyzine Hydrochloride"
+"unitPrice":"Unit Price : ৳ 1.25"
+"price":1.25
+},
+{
+"name":"Artica "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"25 mg"
+"ganare":"Hydroxyzine Hydrochloride"
+"unitPrice":"Unit Price : ৳ 2.01"
+"price":2.01
+},
+{
+"name":"Artica"
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"10 mg/5 ml"
+"ganare":"Hydroxyzine Hydrochloride"
+"unitPrice":"100 ml bottle : ৳ 40.27"
+"price":40.27
+},
+{
+"name":"Artigo "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"20 mg+40 mg"
+"ganare":"Cinnarizine + Dimenhydrinate"
+"unitPrice":"Unit Price : ৳ 2.01"
+"price":2.01
+},
+{
+"name":"Atasin"
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Atorvastatin Calcium"
+"unitPrice":"Unit Price : ৳ 10.07"
+"price":10.07
+},
+{
+"name":"Atasin"
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Atorvastatin Calcium"
+"unitPrice":"Unit Price : ৳ 18.12"
+"price":18.12
+},
+{
+"name":"Atasin "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"40 mg"
+"ganare":"Atorvastatin Calcium"
+"unitPrice":"Unit Price : ৳ 24.16"
+"price": 24.16
+},
+{
+"name":"Atier "
+"company":"ACI Limited"
+"type":"Eye Drop"
+"strange":"0.3%"
+"ganare":"Hypromellose (Eye drop)"
+"unitPrice":"10 ml drop : ৳ 70.00"
+"price":70.00
+},
+{
+"name":"Avintol "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Vinpocetine"
+"unitPrice":"Unit Price : ৳ 3.00"
+"price":3.00
+},
+{
+"name":"Avlocid MS "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"(480 mg+20 mg)/5 ml"
+"ganare":"Magaldrate + Simethicone"
+"unitPrice":"200 ml bottle : ৳ 100.30"
+"price":100.30
+},
+{
+"name":"Avlocid Plus "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"400 mg+400 mg+30 mg"
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone"
+"unitPrice":"Unit Price : ৳ 2.01"
+"price":
+},
+{
+"name":"Avlocid Plus"
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"(400 mg+400 mg+30 mg)/5 ml"
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone"
+"unitPrice":"200 ml bottle : ৳ 75.23"
+"price":75.23
+},
+{
+"name":"Avloclav "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"(500 mg+100 mg)/10 ml"
+"ganare":"Amoxicillin + Clavulanic Acid"
+"unitPrice":"600 mg vial : ৳ 150.00"
+"price":150.00
+},
+{
+"name":"Avloclav "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"(1 gm+200 mg)/20 ml"
+"ganare":"Amoxicillin + Clavulanic Acid"
+"unitPrice":"1.2 gm vial : ৳ 300.00"
+"price":300.00
+},

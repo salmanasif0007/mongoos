@@ -1,0 +1,2224 @@
+{
+"name":"A-Forte ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"50000 IU",
+"ganare":"Vitamin A",
+"unitPrice":"Unit Price : ৳ 1.90"
+},
+{
+"name":"ABO Kit ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"200 mg+200 mcg",
+"ganare":"Mifepristone + Misoprostol",
+"unitPrice":"5 tablet kit : ৳ 280.00"
+},
+{
+"name":"Actolin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.40"
+},
+{
+"name":"Actolin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"100 ml bottle : ৳ 23.01"
+},
+{
+"name":"Actrim ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"(200 mg+40 mg)/5 ml",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"60 ml bottle : ৳ 22.00"
+},
+{
+"name":"Actrim-DS ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"800 mg+160 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"AL-DS ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Aminomax ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Infusion",
+"strange":"5%",
+"ganare":"Amino acid",
+"unitPrice":"500 ml bottle : ৳ 350.00"
+},
+{
+"name":"Aminomax Gold ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Infusion",
+"strange":"7%+10%",
+"ganare":"Amino Acid + Glucose & Electrolytes",
+"unitPrice":"500 ml bottle : ৳ 400.00"
+},
+{
+"name":"Angitrim MR ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"35 mg",
+"ganare":"Trimetazidine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Anlet ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"75 mg",
+"ganare":"Clopidogrel Bisulphate",
+"unitPrice":"Unit Price : ৳ 11.00"
+},
+{
+"name":"Anlet Plus ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"75 mg+75 mg",
+"ganare":"Clopidogrel + Aspirin",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Anobac ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"300 mg",
+"ganare":"Clindamycin",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Apodin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Solution",
+"strange":"10%w/v",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"100 ml bottle : ৳ 80.01"
+},
+{
+"name":"Apodin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Ointment",
+"strange":"5%w/w",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"10 gm tube : ৳ 15.00"
+},
+{
+"name":"Aros ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Asmafen ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Eye Drop",
+"strange":"0.025%",
+"ganare":"Ketotifen Fumarate (Eye drops)",
+"unitPrice":"5 ml drop : ৳ 95.00"
+},
+{
+"name":"Asmafen ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Asmafen ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"1 mg/5 ml",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"B-Cort ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Eye Drop",
+"strange":"0.1%",
+"ganare":"Betamethasone",
+"unitPrice":"5 ml drop : ৳ 30.00"
+},
+{
+"name":"Bizi ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"Bonmax ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ibandronic Acid",
+"unitPrice":"Unit Price : ৳ 510.00"
+},
+{
+"name":"Bredox ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Bredox ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Burnrid ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Silver Sulfadiazine",
+"unitPrice":"25 gm tube : ৳ 40.00"
+},
+{
+"name":"Butil ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"75 mg/5 ml",
+"ganare":"Butamirate Citrate",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Calpin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Calpin Plus ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"5 mg+50 mg",
+"ganare":"Amlodipine + Atenolol",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Calsart ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"5 mg+20 mg",
+"ganare":"Amlodipine + Olmesartan Medoxomil",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Carbocal ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 2.20"
+},
+{
+"name":"Carbocal-D ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Carbocal-M ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Calcium Carbonate + Vitamin D3 + Multimineral",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Cartifit ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"250 mg+200 mg",
+"ganare":"Glucosamine Sulphate + Chondroitin",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Clodal ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Clotrimazole (Topical)",
+"unitPrice":"10 gm tube : ৳ 25.00"
+},
+{
+"name":"Clon ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Clon ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Conrif ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Eye Drop",
+"strange":"0.1%",
+"ganare":"Olopatadine Hydrochloride (Eye Drops)",
+"unitPrice":"5 ml drop : ৳ 100.00"
+},
+{
+"name":"Conrif DS ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Eye Drop",
+"strange":"0.2%",
+"ganare":"Olopatadine Hydrochloride (Eye Drops)",
+"unitPrice":"5 ml drop : ৳ 150.00"
+},
+{
+"name":"Cordema ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Eye Drop",
+"strange":"5%",
+"ganare":"Sodium Chloride (5% Eye Drop)",
+"unitPrice":"10 ml drop : ৳ 70.00"
+},
+{
+"name":"D-cort ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Dexamethasone Sodium Phosphate",
+"unitPrice":"Unit Price : ৳ 0.75"
+},
+{
+"name":"D-cort ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"5 mg/ml",
+"ganare":"Dexamethasone Sodium Phosphate",
+"unitPrice":"1 ml ampoule : ৳ 15.00"
+},
+{
+"name":"D-Cort ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Eye Drop",
+"strange":"0.1%",
+"ganare":"Dexamethasone Sodium Phosphate (E/E)",
+"unitPrice":"5 ml drop : ৳ 70.00"
+},
+{
+"name":"Dejac ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Dapoxetine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Dejac ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Dapoxetine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Deslona ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Desloratadine",
+"unitPrice":"Unit Price : ৳ 2.49"
+},
+{
+"name":"Deslona ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"2.5 mg/5 ml",
+"ganare":"Desloratadine",
+"unitPrice":"60 ml bottle : ৳ 25.00"
+},
+{
+"name":"Dexatob ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Eye Drop",
+"strange":"0.1%+0.3%",
+"ganare":"Dexamethasone + Tobramycin",
+"unitPrice":"5 ml drop : ৳ 150.00"
+},
+{
+"name":"Dezert ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"6 mg",
+"ganare":"Deflazacort",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Ebahist ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Ebastine",
+"unitPrice":"50 ml bottle : ৳ 80.00"
+},
+{
+"name":"Ebahist ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ebastine",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Ecocort ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Cream",
+"strange":"1%+0.1%",
+"ganare":"Econazole Nitrate + Triamcinolone Acetonide",
+"unitPrice":"10 gm tube : ৳ 40.00"
+},
+{
+"name":"Ecopril ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Lisinopril",
+"unitPrice":"Unit Price : ৳ 6.82"
+},
+{
+"name":"Ecotin",
+"company":"Globe Pharmaceuticals Limited",
+"type":" ",
+"strange":" ",
+"ganare":"Vitamin C Vitamin E Lutein Copper & Zinc",
+"unitPrice":"Unit Price : ৳ 8.80"
+},
+{
+"name":"Ecovit ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Vitamin E (Alpha Tocopherol Acetate)",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Ecovit-S ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Vitamin E (Alpha Tocopherol Acetate)",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Effical ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Calcium Orotate Dihydrate",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Ema ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Ema ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Ema ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Ema ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Ema ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"40 mg/vial",
+"ganare":"Esomeprazole",
+"unitPrice":"40 mg vial : ৳ 80.00"
+},
+{
+"name":"Emaprox ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Emaprox ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"375 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Encatrol ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"0.25 mcg",
+"ganare":"Calcitriol",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"EPL ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron + Folic acid + Vitamin B complex + Vitamin C",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"EPL Plus ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Carbonyl Iron + FolicAcid + Vitamin-B Complex + Vitamin C + Zinc",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Etoxib ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Etoxib ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Eusef ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Eusef ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Eusef ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cephradine",
+"unitPrice":"15 ml bottle : ৳ 50.00"
+},
+{
+"name":"Eusef ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Cephradine",
+"unitPrice":"500 mg vial : ৳ 50.00"
+},
+{
+"name":"Eusef ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Cephradine",
+"unitPrice":"1 gm vial : ৳ 80.00"
+},
+{
+"name":"Eusef DS ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 140.00"
+},
+{
+"name":"Femex ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"Fexona ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.33"
+},
+{
+"name":"Fexona ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.50"
+},
+{
+"name":"Fexona ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"180 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Fexona ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"30 mg/5 ml",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"50 ml bottle : ৳ 48.00"
+},
+{
+"name":"Fibrostat ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Tranexamic Acid",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Fibrostat ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"500 mg/5 ml",
+"ganare":"Tranexamic Acid",
+"unitPrice":"5 ml ampoule : ৳ 45.00"
+},
+{
+"name":"Flamic ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Mefenamic acid",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Flamic ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Mefenamic acid",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Flamic ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"50 mg/5 ml",
+"ganare":"Mefenamic acid",
+"unitPrice":"60 ml bottle : ৳ 40.00"
+},
+{
+"name":"Fluzole ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Fluzole ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 22.00"
+},
+{
+"name":"Frusiton ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"20 mg+50 mg",
+"ganare":"Furosemide + Spironolactone",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Frusiton ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"40 mg+50 mg",
+"ganare":"Furosemide + Spironolactone",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Genac ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 1.20"
+},
+{
+"name":"Genac ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"75 mg/3 ml",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"3 ml ampoule : ৳ 14.00"
+},
+{
+"name":"Genac Plus ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"(75 mg+20 mg)/2 ml",
+"ganare":"Diclofenac Sodium + Lidocaine Hydrochloride",
+"unitPrice":"2 ml ampoule : ৳ 15.00"
+},
+{
+"name":"Gepril ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Ramipril",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Glomox ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Moxifloxacin Hydrochloride",
+"unitPrice":"5 ml drop : ৳ 100.00"
+},
+{
+"name":"Glophen ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"E/E Drop",
+"strange":"0.5%",
+"ganare":"Chloramphenicol",
+"unitPrice":"10 ml drop : ৳ 34.00"
+},
+{
+"name":"Glophen D ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Eye Drop",
+"strange":"0.1%+0.5%",
+"ganare":"Dexamethasone + Chloramphenicol",
+"unitPrice":"5 ml drop : ৳ 70.00"
+},
+{
+"name":"Gloxen ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Gloxen ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Glucort ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"100 mg/2 ml",
+"ganare":"Hydrocortisone (Oral & Injection)",
+"unitPrice":"100 mg vial : ৳ 50.00"
+},
+{
+"name":"Glumol ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Timolol Maleate",
+"unitPrice":"5 ml drop : ৳ 70.00"
+},
+{
+"name":"Gynoheal ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Vaginal Suppository",
+"strange":" ",
+"ganare":"Metronidazole + Neomycin Sulphate + Nystatin + Polymyxin B",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Isoclox ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Isoclox ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Isoclox ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Kanaprim ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Primaquine Phosphate",
+"unitPrice":"Unit Price : ৳ 0.62"
+},
+{
+"name":"Kanaquine ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Quinine Sulfate",
+"unitPrice":"Unit Price : ৳ 6.40"
+},
+{
+"name":"Kanaquine ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"300 mg/5 ml",
+"ganare":"Quinine Sulfate",
+"unitPrice":"5 ml ampoule : ৳ 10.25"
+},
+{
+"name":"Kapron ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"E/E Drop",
+"strange":"0.3%",
+"ganare":"Ciprofloxacin (Eye/Ear)",
+"unitPrice":"5 ml drop : ৳ 40.00"
+},
+{
+"name":"Kapron ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Kapron ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Kapron ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"750 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Kapron ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"60 ml bottle : ৳ 90.00"
+},
+{
+"name":"Kayon ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"1 mg",
+"ganare":"Phytomenadione (Vitamin K-1)",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Laxolac ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Oral Solution",
+"strange":"3.4 gm/5 ml",
+"ganare":"Lactulose",
+"unitPrice":"100 ml bottle : ৳ 140.00"
+},
+{
+"name":"Letol ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Levosalbutamol (Oral)",
+"unitPrice":"Unit Price : ৳ 1.70"
+},
+{
+"name":"Letol ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"1 mg/5 ml",
+"ganare":"Levosalbutamol (Oral)",
+"unitPrice":"100 ml bottle : ৳ 38.00"
+},
+{
+"name":"Liplo ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Liplo ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Locin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 11.00"
+},
+{
+"name":"Locin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Locin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Levofloxacin (Eye)",
+"unitPrice":"5 ml drop : ৳ 90.00"
+},
+{
+"name":"Lok Plus ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"50 mg+12.5 mg",
+"ganare":"Losartan Potassium + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Lok-50 ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Magasol ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"(480 mg+20 mg)/5 ml",
+"ganare":"Magaldrate + Simethicone",
+"unitPrice":"200 ml bottle : ৳ 110.00"
+},
+{
+"name":"Maxifer ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"100 mg/5 ml",
+"ganare":"Iron Sucrose Injection (Elemental Iron)",
+"unitPrice":"5 ml ampoule : ৳ 300.00"
+},
+{
+"name":"Mendil ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Diphenhydramine + Levomenthol",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Mepcort ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Methyl Prednisolone",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Mepcort ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"8 mg",
+"ganare":"Methyl Prednisolone",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Mepcort ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"16 mg",
+"ganare":"Methyl Prednisolone",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Mepcort ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Methyl Prednisolone Sodium Succcinate",
+"unitPrice":"1 gm vial : ৳ 1000.00"
+},
+{
+"name":"Mepcort ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Methyl Prednisolone Sodium Succcinate",
+"unitPrice":"500 mg vial : ৳ 600.00"
+},
+{
+"name":"Merocar ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Meropenem Trihydrate",
+"unitPrice":"500 mg vial : ৳ 650.00"
+},
+{
+"name":"Merocar ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Meropenem Trihydrate",
+"unitPrice":"1 gm vial : ৳ 1200.00"
+},
+{
+"name":"MIC ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Cream",
+"strange":"2%",
+"ganare":"Miconazole Nitrate (Topical Cream)",
+"unitPrice":"10 gm tube : ৳ 35.00"
+},
+{
+"name":"MIC-HC ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Cream",
+"strange":"2%+1%",
+"ganare":"Miconazole Nitrate + Hydrocortisone",
+"unitPrice":"10 gm tube : ৳ 40.00"
+},
+{
+"name":"Micogyl ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Infusion",
+"strange":"500 mg/100 ml",
+"ganare":"Metronidazole",
+"unitPrice":"100 ml bottle : ৳ 53.41"
+},
+{
+"name":"Micogyl ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.20"
+},
+{
+"name":"Micogyl ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 29.88"
+},
+{
+"name":"Miganil ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Flunarizine",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Miganil ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Flunarizine",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Momtas ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Mometasone Furoate (Topical)",
+"unitPrice":"10 gm tube : ৳ 180.00"
+},
+{
+"name":"Montifast ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Montifast ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 7.50"
+},
+{
+"name":"Montifast ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Muderm ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Ointment",
+"strange":"2%w/w",
+"ganare":"Mupirocin",
+"unitPrice":"10 gm tube : ৳ 140.00"
+},
+{
+"name":"Myoxan ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tolperisone Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Nebium ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Clobazam",
+"unitPrice":"Unit Price : ৳ 2.55"
+},
+{
+"name":"Neurica ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Neurica ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"75 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 16.00"
+},
+{
+"name":"Neurofen ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Ibuprofen",
+"unitPrice":"Unit Price : ৳ 1.42"
+},
+{
+"name":"Ocutob ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Eye Drop",
+"strange":"0.3%",
+"ganare":"Tobramycin (Eye)",
+"unitPrice":"5 ml drop : ৳ 85.00"
+},
+{
+"name":"OP-20 ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.75"
+},
+{
+"name":"OP-40 ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"OP-40 ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"40 mg/vial",
+"ganare":"Omeprazole",
+"unitPrice":"40 mg vial : ৳ 70.00"
+},
+{
+"name":"Optifen ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Eye Drop",
+"strange":"0.09%",
+"ganare":"Bromfenac Sodium",
+"unitPrice":"5 ml drop : ৳ 100.00"
+},
+{
+"name":"Oxrin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Nasal Drop",
+"strange":"0.05%",
+"ganare":"Oxymetazoline Hydrochloride (Nasal)",
+"unitPrice":"10 ml drop : ৳ 45.00"
+},
+{
+"name":"Oxrin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Nasal Drop",
+"strange":"0.025%",
+"ganare":"Oxymetazoline Hydrochloride (Nasal)",
+"unitPrice":"10 ml drop : ৳ 40.00"
+},
+{
+"name":"Oxycap ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Oxytetracycline",
+"unitPrice":"Unit Price : ৳ 1.15"
+},
+{
+"name":"P-Cort ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Prednisolone",
+"unitPrice":"Unit Price : ৳ 1.70"
+},
+{
+"name":"P-Cort ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Oral Solution",
+"strange":"5 mg/5 ml",
+"ganare":"Prednisolone",
+"unitPrice":"50 ml bottle : ৳ 60.00"
+},
+{
+"name":"P-Gut ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"P-Gut ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"P-Gut ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"40 mg/vial",
+"ganare":"Pantoprazole",
+"unitPrice":"40 mg vial : ৳ 70.00"
+},
+{
+"name":"Pedial ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mcg",
+"ganare":"Mecobalamin",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Pedigas ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Pediatric Drop",
+"strange":"67 mg/ml",
+"ganare":"Simethicone",
+"unitPrice":"15 ml drop : ৳ 30.00"
+},
+{
+"name":"Perion ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Perion ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 30.00"
+},
+{
+"name":"Perls ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Cream",
+"strange":"5%w/w",
+"ganare":"Permethrin",
+"unitPrice":"30 gm tube : ৳ 40.00"
+},
+{
+"name":"Pixan ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Apixaban",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Pixan ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Apixaban",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Pol ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Pol ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 20.56"
+},
+{
+"name":"Pol Plus ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Polan ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Levocetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Polyfiz ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"47 mg+0.5 mg+22.5 mg",
+"ganare":"Iron Polymaltose Complex + Folic Acid + Zinc Sulfate",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Pralidot ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"1000 mg/ml",
+"ganare":"Pralidoxime Chloride",
+"unitPrice":"1 ml vial : ৳ 500.00"
+},
+{
+"name":"Premesis ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Ondansetron",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Premesis ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"8 mg",
+"ganare":"Ondansetron",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Premesis ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Oral Solution",
+"strange":"4 mg/5 ml",
+"ganare":"Ondansetron",
+"unitPrice":"50 ml bottle : ৳ 40.00"
+},
+{
+"name":"Premesis ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"8 mg/4 ml",
+"ganare":"Ondansetron",
+"unitPrice":"4 ml ampoule : ৳ 25.00"
+},
+{
+"name":"Quinolex ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Chloroquine Phosphate",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Quinolex ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"80 mg/5 ml",
+"ganare":"Chloroquine Phosphate",
+"unitPrice":"60 ml bottle : ৳ 20.00"
+},
+{
+"name":"Radex ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Flupentixol + Melitracen",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Rofagyl ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Rifaximin",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Roket ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Roket ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"30 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 55.00"
+},
+{
+"name":"Roket ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"60 mg/2 ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"2 ml ampoule : ৳ 95.00"
+},
+{
+"name":"Rolid ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Roxithromycin",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Rolid ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"50 mg/5 ml",
+"ganare":"Roxithromycin",
+"unitPrice":"50 ml bottle : ৳ 45.00"
+},
+{
+"name":"Rosulip ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"RP 20 ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Rabeprazole Sodium",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Rupana ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Oral Solution",
+"strange":"5 mg/5 ml",
+"ganare":"Rupatadine Fumarate",
+"unitPrice":"60 ml bottle : ৳ 75.00"
+},
+{
+"name":"Rupana ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rupatadine Fumarate",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Salison ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Ointment",
+"strange":"0.05%+3%",
+"ganare":"Betamethasone + Salicylic Acid",
+"unitPrice":"10 gm tube : ৳ 70.00"
+},
+{
+"name":"Seas Plus ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Cod Liver Oil",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Serotal ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Escitalopram",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Serotal ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Escitalopram",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Spar ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Sparfloxacin",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Spinafen ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Stano-M ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Stanoplex ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 35.00"
+},
+{
+"name":"Stanovit-B ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.51"
+},
+{
+"name":"Stanovit-M ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 1.80"
+},
+{
+"name":"Sucomet ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Sucomet ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Sucorid ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Glimepiride",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Sucosit ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Sitagliptin",
+"unitPrice":"Unit Price : ৳ 28.00"
+},
+{
+"name":"Sucosit ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Sitagliptin",
+"unitPrice":"Unit Price : ৳ 16.00"
+},
+{
+"name":"Sucosit M ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"50 mg+500 mg",
+"ganare":"Sitagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Sucosit M ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"50 mg+1000 mg",
+"ganare":"Sitagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 16.00"
+},
+{
+"name":"Sucotab ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Sucovil ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Vildagliptin",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Sucovil-M ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"50 mg+850 mg",
+"ganare":"Vildagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 23.00"
+},
+{
+"name":"Sucovil-M ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"50 mg+500 mg",
+"ganare":"Vildagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 21.00"
+},
+{
+"name":"Tamurin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"0.4 mg",
+"ganare":"Tamsulosin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Tapexia ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"75 mg",
+"ganare":"Tapentadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 17.00"
+},
+{
+"name":"Tapexia ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tapentadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Tensfree ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"3 mg",
+"ganare":"Bromazepam",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Theo-fast ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"120 mg/5 ml",
+"ganare":"Theophylline",
+"unitPrice":"100 ml bottle : ৳ 30.95"
+},
+{
+"name":"Throcin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 56.00"
+},
+{
+"name":"Tibucef ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Ceftibuten Dihydrate",
+"unitPrice":"Unit Price : ৳ 120.00"
+},
+{
+"name":"Tibucef ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"90 mg/5 ml",
+"ganare":"Ceftibuten Dihydrate",
+"unitPrice":"60 ml bottle : ৳ 465.00"
+},
+{
+"name":"Tizime ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftazidime Pentahydrate",
+"unitPrice":"250 mg vial : ৳ 70.00"
+},
+{
+"name":"Tizime ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftazidime Pentahydrate",
+"unitPrice":"500 mg vial : ৳ 115.00"
+},
+{
+"name":"Tizime ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftazidime Pentahydrate",
+"unitPrice":"1 gm vial : ৳ 210.00"
+},
+{
+"name":"Tofanib ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Tofacitinib",
+"unitPrice":"Unit Price : ৳ 48.00"
+},
+{
+"name":"Tofanib XR ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"11 mg",
+"ganare":"Tofacitinib",
+"unitPrice":"Unit Price : ৳ 80.00"
+},
+{
+"name":"Triamon ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"40 mg/ml",
+"ganare":"Triamcinolone Acetonide (Injection)",
+"unitPrice":"1 ml vial : ৳ 70.00"
+},
+{
+"name":"Tribac ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"250 mg vial : ৳ 90.00"
+},
+{
+"name":"Tribac ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 120.00"
+},
+{
+"name":"Tribac ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 180.00"
+},
+{
+"name":"Tribac ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"250 mg vial : ৳ 90.00"
+},
+{
+"name":"Tribac ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 120.00"
+},
+{
+"name":"Tribac ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 180.00"
+},
+{
+"name":"Tribac ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"2 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"2 gm vial : ৳ 300.00"
+},
+{
+"name":"Tribion ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Tribion ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"(100 mg+100 mg+1 mg)/3 ml",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Trigger ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Trin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Trin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"60 ml bottle : ৳ 25.00"
+},
+{
+"name":"Ultraclav ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg+125 mg",
+"ganare":"Amoxicillin + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Ultraclox ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cloxacillin",
+"unitPrice":"Unit Price : ৳ 4.83"
+},
+{
+"name":"Ultradin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"75 mg/5 ml",
+"ganare":"Ranitidine",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"Ultradin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Ultramox ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Ultramox ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.07"
+},
+{
+"name":"Ultramox ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 47.29"
+},
+{
+"name":"Unidox ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Doxycycline",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Vardena ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Vardenafil",
+"unitPrice":"Unit Price : ৳ 32.00"
+},
+{
+"name":"Vardena ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Vardenafil",
+"unitPrice":"Unit Price : ৳ 58.00"
+},
+{
+"name":"Virunil ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Infusion",
+"strange":"500 mg/vial",
+"ganare":"Acyclovir (Injection)",
+"unitPrice":"500 mg vial : ৳ 700.00"
+},
+{
+"name":"Virunil ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Infusion",
+"strange":"250 mg/vial",
+"ganare":"Acyclovir (Injection)",
+"unitPrice":"250 mg vial : ৳ 400.00"
+},
+{
+"name":"Vispazin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"100 ml bottle : ৳ 90.00"
+},
+{
+"name":"Vispazin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Vispazin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"5 mg/2 ml",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"2 ml ampoule : ৳ 15.00"
+},
+{
+"name":"Winkol ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"100 ml bottle : ৳ 21.78"
+},
+{
+"name":"Xanide ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Nitazoxanide",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Xanide ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Nitazoxanide",
+"unitPrice":"30 ml bottle : ৳ 35.00"
+},
+{
+"name":"Ximeclav ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"(125 mg+31.25 mg)/5 ml",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"70 ml bottle : ৳ 250.00"
+},
+{
+"name":"Ximeclav ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"250 mg+62.50 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Ximeclav ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg+125 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Ximepime ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Cefepime Hydrochloride",
+"unitPrice":"500 mg vial : ৳ 300.00"
+},
+{
+"name":"Ximepime ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Cefepime Hydrochloride",
+"unitPrice":"1 gm vial : ৳ 550.00"
+},
+{
+"name":"Ximepime ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"2 gm/vial",
+"ganare":"Cefepime Hydrochloride",
+"unitPrice":"2 gm vial : ৳ 1100.00"
+},
+{
+"name":"Ximetil ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"70 ml bottle : ৳ 198.00"
+},
+{
+"name":"Ximetil ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Ximetil ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 45.00"
+},
+{
+"name":"Ximetil ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"750 mg/vial",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"750 mg vial : ৳ 125.00"
+},
+{
+"name":"Ximetil ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Injection",
+"strange":"1.5 gm/vial",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"1.5 gm vial : ৳ 200.00"
+},
+{
+"name":"Xiotic ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Alprazolam",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Xtrum Gold ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral [A-Z gold preparation]",
+"unitPrice":"100 ml bottle : ৳ 90.00"
+},
+{
+"name":"Xtrum Gold ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral [A-Z gold preparation]",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Zedoxim ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"40 mg/5 ml",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"50 ml bottle : ৳ 95.00"
+},
+{
+"name":"Zedoxim ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Zedoxim ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"Unit Price : ৳ 40.00"
+},
+{
+"name":"Zedoxim ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Pediatric Drop",
+"strange":"20 mg/ml",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"15 ml bottle : ৳ 60.00"
+},
+{
+"name":"Zikid ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 35.00"
+},
+{
+"name":"Zycin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Zycin ",
+"company":"Globe Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.00"
+},

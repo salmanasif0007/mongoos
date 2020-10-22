@@ -1,0 +1,4068 @@
+
+{
+"name":"Aggra ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Aggra ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Aladay ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Eye Drop",
+"strange":"0.1%",
+"ganare":"Olopatadine Hydrochloride (Eye Drops)",
+"unitPrice":"5 ml drop : ৳ 110.00"
+},
+{
+"name":"Aladay DS ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Eye Drop",
+"strange":"0.2%",
+"ganare":"Olopatadine Hydrochloride (Eye Drops)",
+"unitPrice":"5 ml drop : ৳ 160.00"
+},
+{
+"name":"Alben ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 2.68"
+},
+{
+"name":"Alben ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Albendazole",
+"unitPrice":"10 ml bottle : ৳ 20.00"
+},
+{
+"name":"Alben DS ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Alben DS ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Aldorin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Epalrestat",
+"unitPrice":"Unit Price : ৳ 8.99"
+},
+{
+"name":"Alphagan P ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Eye Drop",
+"strange":"0.15%",
+"ganare":"Brimonidine Tartrate",
+"unitPrice":"5 ml drop : ৳ 593.61"
+},
+{
+"name":"Amboten ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Amboten PD ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Pediatric Drop",
+"strange":"6 mg/ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"15 ml bottle : ৳ 35.01"
+},
+{
+"name":"Ambunol ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Ethambutol",
+"unitPrice":"Unit Price : ৳ 1.64"
+},
+{
+"name":"Anapril ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Enalapril Maleate",
+"unitPrice":"Unit Price : ৳ 1.51"
+},
+{
+"name":"Anapril ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Enalapril Maleate",
+"unitPrice":"Unit Price : ৳ 2.70"
+},
+{
+"name":"Anapril ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Enalapril Maleate",
+"unitPrice":"Unit Price : ৳ 5.05"
+},
+{
+"name":"Arocef ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cefadroxil Monohydrate",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Arocef ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefadroxil Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 70.00"
+},
+{
+"name":"Arotide ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Inhaler",
+"strange":"(25 mcg+125 mcg)/puff",
+"ganare":"Salmeterol + Fluticasone Propionate",
+"unitPrice":"120 metered doses : ৳ 595.00"
+},
+{
+"name":"Arotide ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Inhaler",
+"strange":"(25 mcg+250 mcg)/puff",
+"ganare":"Salmeterol + Fluticasone Propionate",
+"unitPrice":"120 metered doses : ৳ 795.00"
+},
+{
+"name":"Augment ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"250 mg+125 mg",
+"ganare":"Amoxicillin + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Augment ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg+125 mg",
+"ganare":"Amoxicillin + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Augment ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"875 mg+125 mg",
+"ganare":"Amoxicillin + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Augment ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"(125 mg+31.25 mg)/5 ml",
+"ganare":"Amoxicillin + Clavulanic Acid",
+"unitPrice":"100 ml bottle : ৳ 175.00"
+},
+{
+"name":"Augment ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"(1 gm+200 mg)/20 ml",
+"ganare":"Amoxicillin + Clavulanic Acid",
+"unitPrice":"1.2 gm vial : ৳ 275.00"
+},
+{
+"name":"Azbec ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Inhaler",
+"strange":"100 mcg/puff",
+"ganare":"Beclometasone Dipropionate (Inhaler)",
+"unitPrice":"200 metered doses : ৳ 269.98"
+},
+{
+"name":"Azbec ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Inhaler",
+"strange":"200 mcg/puff",
+"ganare":"Beclometasone Dipropionate (Inhaler)",
+"unitPrice":"200 metered doses : ৳ 320.00"
+},
+{
+"name":"Betaclox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Dicloxacillin",
+"unitPrice":"Unit Price : ৳ 5.56"
+},
+{
+"name":"Betagan ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Levobunolol",
+"unitPrice":"5 ml drop : ৳ 196.37"
+},
+{
+"name":"Biltin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Bilastine",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Binzotim ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"1%+0.5%",
+"ganare":"Brinzolamide + Timolol",
+"unitPrice":"5 ml drop : ৳ 550.00"
+},
+{
+"name":"Bonflex ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"250 mg+200 mg",
+"ganare":"Glucosamine Sulphate + Chondroitin",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Brizy ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Levosalbutamol (Oral)",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Brizy ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Levosalbutamol (Oral)",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Brizy ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"1 mg/5 ml",
+"ganare":"Levosalbutamol (Oral)",
+"unitPrice":"60 ml bottle : ৳ 32.00"
+},
+{
+"name":"Cal X ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"6.5 mg",
+"ganare":"Sucralose",
+"unitPrice":"Unit Price : ৳ 1.06"
+},
+{
+"name":"Cal X ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"10 mg",
+"ganare":"Sucralose",
+"unitPrice":"25 sachet : ৳ 62.78"
+},
+{
+"name":"Calofast ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Calcium Orotate Dihydrate",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Carbazin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Carbamazepine",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Carbolin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"125 mg/5 ml",
+"ganare":"Carbocisteine",
+"unitPrice":"100 ml bottle : ৳ 30.00"
+},
+{
+"name":"Carbolin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"375 mg",
+"ganare":"Carbocisteine",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Carbolin DS ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"250 mg/5 ml",
+"ganare":"Carbocisteine",
+"unitPrice":"100 ml bottle : ৳ 40.01"
+},
+{
+"name":"Cardimet-MR ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"35 mg",
+"ganare":"Trimetazidine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Cardobis ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Bisoprolol Fumarate",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Cardobis ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Bisoprolol Fumarate",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Cardobis Plus ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"2.5 mg+6.25 mg",
+"ganare":"Bisoprolol Fumarate + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Cardobis Plus ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg+6.25 mg",
+"ganare":"Bisoprolol Fumarate + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Cardon ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Cardon ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Cardoneb ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Nebivolol",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Cardoneb ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Nebivolol",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Cardoplus ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"100 mg+25 mg",
+"ganare":"Losartan Potassium + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Cardoplus ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg+12.5 mg",
+"ganare":"Losartan Potassium + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Cardovan ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Valsartan",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Cardovan ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"160 mg",
+"ganare":"Valsartan",
+"unitPrice":"Unit Price : ৳ 16.00"
+},
+{
+"name":"Cardovan Plus ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"80 mg+12.5 mg",
+"ganare":"Valsartan + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Cardovan Plus ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"160 mg+12.5 mg",
+"ganare":"Valsartan + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 16.00"
+},
+{
+"name":"Cefaten ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Ceftibuten Dihydrate",
+"unitPrice":"Unit Price : ৳ 120.00"
+},
+{
+"name":"Cefaten ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"90 mg/5 ml",
+"ganare":"Ceftibuten Dihydrate",
+"unitPrice":"60 ml bottle : ৳ 465.00"
+},
+{
+"name":"Ceflon ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefaclor Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 200.01"
+},
+{
+"name":"Ceflon ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cefaclor Monohydrate",
+"unitPrice":"15 ml bottle : ৳ 125.00"
+},
+{
+"name":"Cloron ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Cloron ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Pediatric Drop",
+"strange":"2.5 mg/ml",
+"ganare":"Clonazepam",
+"unitPrice":"10 ml drop : ৳ 79.93"
+},
+{
+"name":"Cloron ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Cloron ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Combigan ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Eye Drop",
+"strange":"0.2%+0.5%",
+"ganare":"Brimonidine Tartrate + Timolol Maleate",
+"unitPrice":"5 ml drop : ৳ 633.56"
+},
+{
+"name":"Cortider ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Hydrocortisone Acetate (Topical)",
+"unitPrice":"10 gm tube : ৳ 35.01"
+},
+{
+"name":"Creston ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Creston ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Rosuvastatin",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Danamet ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Danazol",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Danamet ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Danazol",
+"unitPrice":"Unit Price : ৳ 38.00"
+},
+{
+"name":"Deloxi ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"60 mg",
+"ganare":"Duloxetine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 17.98"
+},
+{
+"name":"Desodin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Desloratadine",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Desodin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"2.5 mg/5 ml",
+"ganare":"Desloratadine",
+"unitPrice":"60 ml bottle : ৳ 25.00"
+},
+{
+"name":"Dexpofen ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Dextromethorphan Hydrobromide",
+"unitPrice":"100 ml bottle : ৳ 40.01"
+},
+{
+"name":"Dexpoten ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"(10 mg+30 mg+1.25 mg)/5 ml",
+"ganare":"Dextromethorphan + Pseudoephedrine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Dexpoten Plus ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"(20 mg+10 mg+2.5 mg)/5 ml",
+"ganare":"Dextromethorphan + Phenylephrine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 100.00"
+},
+{
+"name":"Dextor ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Dexamethasone Sodium Phosphate",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Dextor-C ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"E/E Drop",
+"strange":"0.1%+0.5%",
+"ganare":"Dexamethasone + Chloramphenicol",
+"unitPrice":"5 ml drop : ৳ 70.00"
+},
+{
+"name":"Dextor-T ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Eye Drop",
+"strange":"0.1%+0.3%",
+"ganare":"Dexamethasone + Tobramycin",
+"unitPrice":"5 ml drop : ৳ 150.00"
+},
+{
+"name":"Dezide ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"25 mg+50 mg",
+"ganare":"Hydrochlorothiazide + Triamterene",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Dialon ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Glimepiride",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Dialon ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Glimepiride",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Dialon ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Glimepiride",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Dialon ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"3 mg",
+"ganare":"Glimepiride",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Dietil ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"120 mg",
+"ganare":"Orlistat",
+"unitPrice":"Unit Price : ৳ 40.00"
+},
+{
+"name":"Dilator ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Bambuterol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Dilator ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Bambuterol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Dilator ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Oral Solution",
+"strange":"5 mg/5 ml",
+"ganare":"Bambuterol Hydrochloride",
+"unitPrice":"60 ml bottle : ৳ 30.00"
+},
+{
+"name":"Dinafex ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Dinafex ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Dinafex ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"180 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Dinafex ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"30 mg/5 ml",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"50 ml bottle : ৳ 48.00"
+},
+{
+"name":"Dorenta ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Diphenhydramine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.49"
+},
+{
+"name":"Dorenta ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Diphenhydramine Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 40.01"
+},
+{
+"name":"Doripen ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Doripenem",
+"unitPrice":"250 mg vial : ৳ 1300.00"
+},
+{
+"name":"Doripen ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Doripenem",
+"unitPrice":"500 mg vial : ৳ 2000.00"
+},
+{
+"name":"Dumax ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Dapoxetine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Dumax ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Dapoxetine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Edenil ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"20 mg+50 mg",
+"ganare":"Furosemide + Spironolactone",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Edenil ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"40 mg+50 mg",
+"ganare":"Furosemide + Spironolactone",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Emazid ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Empagliflozin",
+"unitPrice":"Unit Price : ৳ 40.00"
+},
+{
+"name":"Emazid ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Empagliflozin",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Emezin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Meclizine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Emezin Plus ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"25 mg+50 mg",
+"ganare":"Meclizine + Pyridoxine",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Esoral",
+"company":"Eskayef Bangladesh Ltd",
+"type":" ",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Esoral",
+"company":"Eskayef Bangladesh Ltd",
+"type":" ",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Esoral ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Esoral ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Esoral ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Esoral ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 9.74"
+},
+{
+"name":"Esoral ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"40 mg/vial",
+"ganare":"Esomeprazole",
+"unitPrice":"40 mg vial : ৳ 90.01"
+},
+{
+"name":"Ethinor ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Norethisterone",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Etorix ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Etorix ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Etorix ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 13.28"
+},
+{
+"name":"Etriam ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Cream",
+"strange":"1%+0.1%",
+"ganare":"Econazole Nitrate + Triamcinolone Acetonide",
+"unitPrice":"10 gm tube : ৳ 40.01"
+},
+{
+"name":"Expoten ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"(30 mg+100 mg+1.25 mg)/5 ml",
+"ganare":"Pseudoephedrine + Guaiphenasine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 65.00"
+},
+{
+"name":"Facid ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Sodium Fusidate (Oral)",
+"unitPrice":"Unit Price : ৳ 65.00"
+},
+{
+"name":"Facid ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Cream",
+"strange":"2%",
+"ganare":"Sodium Fusidate (Topical)",
+"unitPrice":"15 gm tube : ৳ 90.01"
+},
+{
+"name":"Facid ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Ointment",
+"strange":"2%",
+"ganare":"Sodium Fusidate (Topical)",
+"unitPrice":"15 gm tube : ৳ 90.01"
+},
+{
+"name":"Facid BT ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Cream",
+"strange":"2%+0.1%",
+"ganare":"Fucidic Acid + Betamethasone",
+"unitPrice":"10 gm tube : ৳ 160.00"
+},
+{
+"name":"Facid HC ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Cream",
+"strange":"2%+1%",
+"ganare":"Fusidic acid + Hydrocortisone",
+"unitPrice":"10 gm tube : ৳ 125.00"
+},
+{
+"name":"Fenobac ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Baclofen",
+"unitPrice":"100 ml bottle : ৳ 100.02"
+},
+{
+"name":"Fenobac ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Fenobac ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Feofer ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"100 mg/5 ml",
+"ganare":"Iron Sucrose Injection (Elemental Iron)",
+"unitPrice":"5 ml ampoule : ৳ 350.00"
+},
+{
+"name":"Feofer DS ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"200 mg/10 ml",
+"ganare":"Iron Sucrose Injection (Elemental Iron)",
+"unitPrice":"10 ml ampoule : ৳ 600.00"
+},
+{
+"name":"Feofol TR ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg",
+"ganare":"Ferrous Sulphate + Folic Acid",
+"unitPrice":"Unit Price : ৳ 2.41"
+},
+{
+"name":"Feofol-Cl ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"50 mg+0.5 mg",
+"ganare":"Carbonyl Iron + Folic Acid",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Feozin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg+20 mg",
+"ganare":"Folic Acid + Zinc Sulfate Monohydrate",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Fibrino ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"500 mg/5 ml",
+"ganare":"Tranexamic Acid",
+"unitPrice":"5 ml ampoule : ৳ 49.98"
+},
+{
+"name":"Fibrino ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Tranexamic Acid",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Flucloxin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"500 mg vial : ৳ 45.28"
+},
+{
+"name":"Flucloxin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 109.90"
+},
+{
+"name":"Flucloxin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.77"
+},
+{
+"name":"Flucloxin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.50"
+},
+{
+"name":"Flucloxin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 61.01"
+},
+{
+"name":"Flucoder ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.10"
+},
+{
+"name":"Flucoder ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 22.00"
+},
+{
+"name":"Flucoder ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"50 mg/5 ml",
+"ganare":"Fluconazole",
+"unitPrice":"35 ml bottle : ৳ 77.97"
+},
+{
+"name":"Flucoder ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Fluflam ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"0.1%",
+"ganare":"Fluorometholone Acetate",
+"unitPrice":"5 ml drop : ৳ 100.00"
+},
+{
+"name":"Folvit TR ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron + Folic acid + Vitamin B complex + Vitamin C",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Folvit-Cl ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron + Folic Acid + Vitamin B Complex + Vitamine C + Zinc Sulfate",
+"unitPrice":"Unit Price : ৳ 3.25"
+},
+{
+"name":"Freshtear ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Eye Drop",
+"strange":"0.4%+0.3%",
+"ganare":"Polyethylene Glycol + Propylene Glycol",
+"unitPrice":"10 ml drop : ৳ 175.00"
+},
+{
+"name":"Freshtear P0",
+"company":"Eskayef Bangladesh Ltd",
+"type":" ",
+"strange":"4%+0.3%",
+"ganare":"Polyethylene Glycol + Propylene Glycol",
+"unitPrice":"10 ml drop : ৳ 200.01"
+},
+{
+"name":"Gasnil ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Pediatric Drop",
+"strange":"67 mg/ml",
+"ganare":"Simethicone",
+"unitPrice":"15 ml drop : ৳ 30.00"
+},
+{
+"name":"Gastid ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"(480 mg+20 mg)/5 ml",
+"ganare":"Magaldrate + Simethicone",
+"unitPrice":"200 ml bottle : ৳ 100.00"
+},
+{
+"name":"Gastid ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"480 mg+20 mg",
+"ganare":"Magaldrate + Simethicone",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Gelid ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"(500 mg+100 mg)/5 ml",
+"ganare":"Sodium Alginate + Potassium Bicarbonate",
+"unitPrice":"200 ml bottle : ৳ 125.00"
+},
+{
+"name":"Gelid ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg+100 mg",
+"ganare":"Sodium Alginate + Potassium Bicarbonate",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Geminox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"320 mg",
+"ganare":"Gemifloxacin",
+"unitPrice":"Unit Price : ৳ 65.00"
+},
+{
+"name":"Glikazid ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Glikazid MR ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Glikazid MR ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Glunor ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Glunor ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Glunor XR ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"GTN 2.6 SR ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"2.6 mg",
+"ganare":"Glyceryl Trinitrate (Nitroglycerin)",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Hairgrow ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Scalp Lotion",
+"strange":"2%",
+"ganare":"Minoxidil",
+"unitPrice":"60 ml bottle : ৳ 500.00"
+},
+{
+"name":"Hairgrow ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Scalp Lotion",
+"strange":"5%",
+"ganare":"Minoxidil",
+"unitPrice":"60 ml bottle : ৳ 600.00"
+},
+{
+"name":"Handirub ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Hand Rub",
+"strange":"0.5%+70%",
+"ganare":"Chlorhexidine Gluconate + Isopropyl alcohol",
+"unitPrice":"50 ml bottle : ৳ 40.01"
+},
+{
+"name":"Hapytab ER ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Desvenlafaxine",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"HI-C ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"100 mg/5 ml",
+"ganare":"Vitamin C (Ascorbic acid)",
+"unitPrice":"100 ml bottle : ৳ 33.33"
+},
+{
+"name":"Hunny ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"(0.75 ml+1.93 ml)/5 ml",
+"ganare":"Glycerol + Liquid Sugar",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"Irbes ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"75 mg",
+"ganare":"Irbesartan",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Irbes ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Irbesartan",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Isobgul ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Eff. Powder",
+"strange":"140 gm/container",
+"ganare":"Ispaghula Husk",
+"unitPrice":"140 gm container : ৳ 395.00"
+},
+{
+"name":"Isobgul ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Eff. Powder",
+"strange":"3.5 gm/sachet",
+"ganare":"Ispaghula Husk",
+"unitPrice":"3.5 gm sachet : ৳ 8.00"
+},
+{
+"name":"Juci ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Granules",
+"strange":"500 mg",
+"ganare":"Vitamin C (Ascorbic acid)",
+"unitPrice":"7.5 gm sachet : ৳ 10.00"
+},
+{
+"name":"Juci ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Vitamin C (Ascorbic acid)",
+"unitPrice":"Unit Price : ৳ 1.89"
+},
+{
+"name":"Kefuclav ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg+125 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Kefuclav ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"250 mg+62.50 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Kefuclav ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"(125 mg+31.25 mg)/5 ml",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"70 ml bottle : ৳ 250.00"
+},
+{
+"name":"Kefuclav ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg+62.50 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Ketonic ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"30 mg/2 ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"2 ml ampoule : ৳ 54.95"
+},
+{
+"name":"Ketonic ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"60 mg/2 ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"2 ml ampoule : ৳ 94.91"
+},
+{
+"name":"Ketonic ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Ketonic ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"30 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 54.74"
+},
+{
+"name":"Kezona ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Ketoconazole",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Kilmax ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"125 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Kilmax ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Kilmax ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 45.00"
+},
+{
+"name":"Kilmax ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"70 ml bottle : ৳ 198.00"
+},
+{
+"name":"Kilmax ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"750 mg/vial",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"750 mg vial : ৳ 125.00"
+},
+{
+"name":"Kilmax ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"1.5 gm/vial",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"1.5 gm vial : ৳ 200.00"
+},
+{
+"name":"Kynol TR ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Ketoprofen",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Lamidin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Lamivudine (For Chronic Hepatitis B)",
+"unitPrice":"Unit Price : ৳ 25.30"
+},
+{
+"name":"Laxenna ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"66.67 gm/100 ml",
+"ganare":"Lactitol Monohydrate",
+"unitPrice":"50 ml bottle : ৳ 65.00"
+},
+{
+"name":"Laxenna ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Powder",
+"strange":"10 gm/sachet",
+"ganare":"Lactitol Monohydrate",
+"unitPrice":"10 gm powder : ৳ 12.00"
+},
+{
+"name":"Laxitol ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Granules",
+"strange":"10 gm/sachet",
+"ganare":"Lactitol Monohydrate",
+"unitPrice":"10 gm sachet : ৳ 11.96"
+},
+{
+"name":"Laxitol ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Oral Solution",
+"strange":"10 gm/100 ml",
+"ganare":"Lactitol Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 119.59"
+},
+{
+"name":"Laxitol ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Oral Solution",
+"strange":"10 gm/50 ml",
+"ganare":"Lactitol Monohydrate",
+"unitPrice":"50 ml bottle : ৳ 64.78"
+},
+{
+"name":"Lenor ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Letrozole",
+"unitPrice":"Unit Price : ৳ 40.00"
+},
+{
+"name":"Levomax",
+"company":"Eskayef Bangladesh Ltd",
+"type":" ",
+"strange":"0.5%",
+"ganare":"Levofloxacin (Eye)",
+"unitPrice":"5 ml drop : ৳ 90.00"
+},
+{
+"name":"Levomax ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Levomax ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"750 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Levomax TS",
+"company":"Eskayef Bangladesh Ltd",
+"type":" ",
+"strange":"1.5%",
+"ganare":"Levofloxacin (Eye)",
+"unitPrice":"5 ml drop : ৳ 130.00"
+},
+{
+"name":"Licnil ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Lotion",
+"strange":"1%",
+"ganare":"Ivermectin (Topical)",
+"unitPrice":"60 gm tube : ৳ 130.00"
+},
+{
+"name":"Ligazid ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Linagliptin",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Ligazid M ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"2.5 mg+500 mg",
+"ganare":"Linagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Ligazid M ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"2.5 mg+850 mg",
+"ganare":"Linagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Ligazid M ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"2.5 mg+1000 mg",
+"ganare":"Linagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 16.00"
+},
+{
+"name":"Lindamax ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Clindamycin",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Lindamax ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"300 mg",
+"ganare":"Clindamycin",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Lindamax ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Lotion",
+"strange":"1%",
+"ganare":"Clindamycin",
+"unitPrice":"25 ml bottle : ৳ 125.00"
+},
+{
+"name":"Lindamax Plus ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Topical Gel",
+"strange":"1.2%+0.025%",
+"ganare":"Clindamycin + Tretinoin",
+"unitPrice":"10 gm tube : ৳ 120.00"
+},
+{
+"name":"Lipicon ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Lipicon ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Lipicon ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 23.99"
+},
+{
+"name":"Losectil ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Losectil ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"10 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Losectil ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Losectil ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"20 mg/sachet",
+"ganare":"Omeprazole",
+"unitPrice":"20 mg sachet : ৳ 5.00"
+},
+{
+"name":"Losectil ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"40 mg/sachet",
+"ganare":"Omeprazole",
+"unitPrice":"40 mg sachet : ৳ 8.00"
+},
+{
+"name":"Losectil ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"40 mg/vial",
+"ganare":"Omeprazole",
+"unitPrice":"40 mg vial : ৳ 89.99"
+},
+{
+"name":"Losectil ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Omeprazole Magnesium",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Losectil MUPS ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Omeprazole (Multiple-Unit Pellet System)",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Losectil MUPS ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Omeprazole (Multiple-Unit Pellet System)",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Losectil V ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.98"
+},
+{
+"name":"Losectil V ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Losita ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Escitalopram",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Losita ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Escitalopram",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Losita ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Escitalopram",
+"unitPrice":"Unit Price : ৳ 16.00"
+},
+{
+"name":"Lotrel ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"0.5%",
+"ganare":"Loteprednol Etabonate",
+"unitPrice":"5 ml drop : ৳ 175.00"
+},
+{
+"name":"Lotrel G ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"0.5%+0.3%",
+"ganare":"Loteprednol Etabonate + Gatifloxacin",
+"unitPrice":"5 ml drop : ৳ 250.00"
+},
+{
+"name":"Lotrel T ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"0.5%+0.3%",
+"ganare":"Loteprednol Etabonate + Tobramycin",
+"unitPrice":"5 ml drop : ৳ 200.00"
+},
+{
+"name":"Lulizol ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Luliconazole",
+"unitPrice":"10 gm tube : ৳ 100.00"
+},
+{
+"name":"Lumigan ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Eye Drop",
+"strange":"0.03%",
+"ganare":"Bimatoprost",
+"unitPrice":"3 ml drop : ৳ 1157.18"
+},
+{
+"name":"Lumona ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Lumona ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Granules",
+"strange":"4 mg/3.5 gm",
+"ganare":"Montelukast Sodium",
+"unitPrice":"3.5 gm sachet : ৳ 8.00"
+},
+{
+"name":"Lumona ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Lumona ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Lumona ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Mebidal ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Mebhydrolin Napadisylate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Mecopen ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mcg",
+"ganare":"Mecobalamin",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Megapime ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Cefepime Hydrochloride",
+"unitPrice":"500 mg vial : ৳ 300.00"
+},
+{
+"name":"Megapime ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Cefepime Hydrochloride",
+"unitPrice":"1 gm vial : ৳ 550.00"
+},
+{
+"name":"Megapime ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"2 gm/vial",
+"ganare":"Cefepime Hydrochloride",
+"unitPrice":"2 gm vial : ৳ 1100.00"
+},
+{
+"name":"Memanto ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Memantine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Memanto ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Memantine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Meroject ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Meropenem Trihydrate",
+"unitPrice":"500 mg vial : ৳ 700.00"
+},
+{
+"name":"Meroject ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Meropenem Trihydrate",
+"unitPrice":"1 gm vial : ৳ 1300.00"
+},
+{
+"name":"Metco ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.26"
+},
+{
+"name":"Metco ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 29.79"
+},
+{
+"name":"Metco ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Infusion",
+"strange":"500 mg/100 ml",
+"ganare":"Metronidazole",
+"unitPrice":"100 ml bottle : ৳ 60.18"
+},
+{
+"name":"Metopa ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"15 mg+500 mg",
+"ganare":"Pioglitazone + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.99"
+},
+{
+"name":"Milam ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"7.5 mg",
+"ganare":"Midazolam",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Milam ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Midazolam",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Milam ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"15 mg/ml",
+"ganare":"Midazolam",
+"unitPrice":"3 ml ampoule : ৳ 120.00"
+},
+{
+"name":"Miraten ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"7.5 mg/5 ml",
+"ganare":"Butamirate Citrate",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Miraten ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Pediatric Drop",
+"strange":"5 mg/ml",
+"ganare":"Butamirate Citrate",
+"unitPrice":"15 ml bottle : ৳ 50.00"
+},
+{
+"name":"Mixavit ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Cod Liver Oil",
+"unitPrice":"100 ml bottle : ৳ 140.00"
+},
+{
+"name":"Mucoten ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"4 mg/5 ml",
+"ganare":"Bromhexine Hyrdochloride",
+"unitPrice":"100 ml bottle : ৳ 40.01"
+},
+{
+"name":"Mupiron ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Ointment",
+"strange":"2%",
+"ganare":"w/w",
+"unitPrice":"Mupirocin"
+},
+{
+"name":"10 gm tube : ৳ 140.00",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Mycofin ",
+"strange":"Tablet",
+"ganare":"250 mg",
+"unitPrice":"Terbinafine Hydrochloride"
+},
+{
+"name":"Unit Price : ৳ 40.00",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Mycofin ",
+"strange":"Cream",
+"ganare":"1%",
+"unitPrice":"Terbinafine Hydrochloride"
+},
+{
+"name":"5 gm tube : ৳ 50.00",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Mypril ",
+"strange":"Tablet",
+"ganare":"2.5 mg",
+"unitPrice":"Ramipril"
+},
+{
+"name":"Unit Price : ৳ 5.00",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Mypril ",
+"strange":"Tablet",
+"ganare":"5 mg",
+"unitPrice":"Ramipril"
+},
+{
+"name":"Unit Price : ৳ 8.00",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Naprox ",
+"strange":"Tablet",
+"ganare":"250 mg",
+"unitPrice":"Naproxen Sodium"
+},
+{
+"name":"Unit Price : ৳ 6.01",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Naprox ",
+"strange":"Tablet",
+"ganare":"500 mg",
+"unitPrice":"Naproxen Sodium"
+},
+{
+"name":"Unit Price : ৳ 10.06",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Naprox ",
+"strange":"Suspension",
+"ganare":"125 mg/5 ml",
+"unitPrice":"Naproxen Sodium"
+},
+{
+"name":"50 ml bottle : ৳ 70.00Naprox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Gel",
+"strange":"10%w/w",
+"ganare":"Naproxen Sodium",
+"unitPrice":"15 gm tube : ৳ 70.00"
+},
+{
+"name":"Naprox Plus ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"375 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 8.68"
+},
+{
+"name":"Naprox Plus ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 10.82"
+},
+{
+"name":"Neorex ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephalexin",
+"unitPrice":"Unit Price : ৳ 12.50"
+},
+{
+"name":"Neorex ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephalexin",
+"unitPrice":"100 ml bottle : ৳ 83.43"
+},
+{
+"name":"Neorice ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Powder",
+"strange":" ",
+"ganare":"Oral Rehydration Salt (Rice Based)",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Neosaline ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Powder",
+"strange":"10.25 gm",
+"ganare":"Oral Rehydration Salt (Powder)",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Ostocal G ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Ostocal GX ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"1500 mg+400 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 12.82"
+},
+{
+"name":"Ostocal JR ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Ostocal M ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Calcium Carbonate + Vitamin D3 + Multimineral",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Ostomax ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Alendronic acid",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Ostomax D ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"70 mg+2800 IU",
+"ganare":"Alendronic Acid + Vitamin D3",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Ostovit ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Paino ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Palosis ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"0.075 mg/1.5 ml",
+"ganare":"Palonosetron",
+"unitPrice":"1.5 ml vial : ৳ 75.00"
+},
+{
+"name":"Palosis ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Palonosetron",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Palosis ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"0.5 mg",
+"ganare":"Palonosetron",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Panoral ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Table",
+"strange":"t20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Panoral ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Parlox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Sparfloxacin",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Peptil H ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Peptil H ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"75 mg/5 ml",
+"ganare":"Ranitidine",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Peptil H ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"50 mg/2 ml",
+"ganare":"Ranitidine",
+"unitPrice":"2 ml ampoule : ৳ 5.98"
+},
+{
+"name":"Perosa ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Cream",
+"strange":"5%w/w",
+"ganare":"Permethrin",
+"unitPrice":"30 gm tube : ৳ 50.00"
+},
+{
+"name":"PG ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"25 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"PG ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 11.00"
+},
+{
+"name":"PG ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"75 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 17.08"
+},
+{
+"name":"PG ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Pivasta ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Pitavastatin Calcium",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Poly-Pred ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Prednisolone Acetate (Eye drops)",
+"unitPrice":"5 ml drop : ৳ 213.88"
+},
+{
+"name":"Povidon ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Solution",
+"strange":"10%w/v",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"30 ml bottle : ৳ 55.00"
+},
+{
+"name":"Povidon ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Ointment",
+"strange":"5%w/w",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"20 gm tube : ৳ 40.01"
+},
+{
+"name":"Pred ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Prednisolone (Oral / Injection)",
+"unitPrice":"Unit Price : ৳ 1.71"
+},
+{
+"name":"Pred ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Prednisolone (Oral / Injection)",
+"unitPrice":"Unit Price : ৳ 3.22"
+},
+{
+"name":"Pred ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Prednisolone (Oral / Injection)",
+"unitPrice":"Unit Price : ৳ 6.25"
+},
+{
+"name":"Pred ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"1%",
+"ganare":"Prednisolone Acetate (Eye drops)",
+"unitPrice":"5 ml drop : ৳ 99.99"
+},
+{
+"name":"Priocin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Priocin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 61.42"
+},
+{
+"name":"Protinex ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Infusion",
+"strange":"5%",
+"ganare":"Amino acid",
+"unitPrice":"500 ml bottle : ৳ 350.00"
+},
+{
+"name":"Protinex Gold ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Infusion",
+"strange":"5%",
+"ganare":"Amino acid",
+"unitPrice":"500 ml bottle : ৳ 398.12"
+},
+{
+"name":"Protinex Kids ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Infusion",
+"strange":"6.5%",
+"ganare":"Human Milk Based Amino Acid",
+"unitPrice":"100 ml bottle : ৳ 280.00"
+},
+{
+"name":"Protinex Ultra ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Infusion",
+"strange":"7%+10%",
+"ganare":"Amino Acid + Glucose & Electrolytes",
+"unitPrice":"500 ml bottle : ৳ 750.01"
+},
+{
+"name":"Provenor ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Medroxyprogesterone Acetate",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Provenor ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Medroxyprogesterone Acetate",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Prozin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Elixir",
+"strange":" ",
+"ganare":"Promethazine Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 14.96"
+},
+{
+"name":"Quinox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 8.50"
+},
+{
+"name":"Quinox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Quinox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"750 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Quinox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Infusion",
+"strange":"200 mg/100 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"100 ml bottle : ৳ 100.00"
+},
+{
+"name":"Quinox DS ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"60 ml bottle : ৳ 100.00"
+},
+{
+"name":"Rabifast ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Rabeprazole Sodium",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Reelife ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"12.5 mg+5 mg",
+"ganare":"Amitriptyline + Chlordiazepoxide",
+"unitPrice":"Unit Price : ৳ 7.24"
+},
+{
+"name":"Refresh Liquigel ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Eye Drop",
+"strange":"1%",
+"ganare":"Carboxymethyl Cellulose",
+"unitPrice":"10 ml drop : ৳ 512.04"
+},
+{
+"name":"Refresh Tears ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Carboxymethyl Cellulose",
+"unitPrice":"15 ml drop : ৳ 259.43"
+},
+{
+"name":"Relestat",
+"company":"Eskayef Bangladesh Ltd",
+"type":" ",
+"strange":"0.05%",
+"ganare":"Epinastine Hydrochloride",
+"unitPrice":"5 ml drop : ৳ 284.94"
+},
+{
+"name":"Reomen ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Clomiphene Citrate",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Reomen ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Clomiphene Citrate",
+"unitPrice":"Unit Price : ৳ 17.95"
+},
+{
+"name":"Restol ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"3 mg",
+"ganare":"Bromazepam",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Ridon ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Ridon ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 30.00"
+},
+{
+"name":"Ridon ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Pediatric Drop",
+"strange":"5 mg/ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"15 ml drop : ৳ 19.98"
+},
+{
+"name":"Ridon Fast ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Ridon-EG ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Eff. Granules",
+"strange":"10 mg/3 gm",
+"ganare":"Domperidone Maleate",
+"unitPrice":"3 gm sachet : ৳ 6.00"
+},
+{
+"name":"Rivarox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rivaroxaban",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Rivarox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Rivaroxaban",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Rivarox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Rivaroxaban",
+"unitPrice":"Unit Price : ৳ 45.00"
+},
+{
+"name":"Rivarox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Rivaroxaban",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Romfen",
+"company":"Eskayef Bangladesh Ltd",
+"type":" ",
+"strange":"0.09%",
+"ganare":"Bromfenac Sodium",
+"unitPrice":"5 ml drop : ৳ 99.99"
+},
+{
+"name":"Romfen S",
+"company":"Eskayef Bangladesh Ltd",
+"type":" ",
+"strange":"0.07%",
+"ganare":"Bromfenac Sodium",
+"unitPrice":"5 ml drop : ৳ 90.01"
+},
+{
+"name":"Roxim ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Pediatric Drop",
+"strange":"25 mg/ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"15 ml bottle : ৳ 85.01"
+},
+{
+"name":"Roxim ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 29.86"
+},
+{
+"name":"Roxim ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 49.77"
+},
+{
+"name":"Roxim ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Roxim ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Roxim ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 210.00"
+},
+{
+"name":"Roxim XL ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"30 ml bottle : ৳ 135.00"
+},
+{
+"name":"Rupaday ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Oral Solution",
+"strange":"5 mg/5 ml",
+"ganare":"Rupatadine Fumarate",
+"unitPrice":"60 ml bottle : ৳ 75.00"
+},
+{
+"name":"Rupaday ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rupatadine Fumarate",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Salidex ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Cream",
+"strange":"6%",
+"ganare":"Salicylic Acid",
+"unitPrice":"15 gm tube : ৳ 42.00"
+},
+{
+"name":"Salomax ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.46"
+},
+{
+"name":"Salomax ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Inhaler",
+"strange":"100 mcg/puff",
+"ganare":"Salbutamol (Inhaler)",
+"unitPrice":"200 metered doses : ৳ 195.00"
+},
+{
+"name":"Sensit ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Flupentixol + Melitracen",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Sentix ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Flupentixol",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Sentix ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Flupentixol",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Seropin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Quetiapine Fumarate",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Seropin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Quetiapine Fumarate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Sidopin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Sidopin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 5.04"
+},
+{
+"name":"Sidoplus ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg+25 mg",
+"ganare":"Amlodipine + Atenolol",
+"unitPrice":"Unit Price : ৳ 5.25"
+},
+{
+"name":"Sidoplus ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg+50 mg",
+"ganare":"Amlodipine + Atenolol",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Sitazid ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Sitagliptin",
+"unitPrice":"Unit Price : ৳ 13.00"
+},
+{
+"name":"Sitazid ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Sitagliptin",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Sitazid M ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg+1000 mg",
+"ganare":"Sitagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Sitazid M ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg+500 mg",
+"ganare":"Sitagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"SK-Cef ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"SK-Cef ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"SK-Cef ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 90.01"
+},
+{
+"name":"SK-Cef ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cephradine",
+"unitPrice":"15 ml bottle : ৳ 65.01"
+},
+{
+"name":"SK-Cef ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Cephradine",
+"unitPrice":"500 mg vial : ৳ 50.00"
+},
+{
+"name":"SK-Cef ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Cephradine",
+"unitPrice":"1 gm vial : ৳ 80.00"
+},
+{
+"name":"SK-Cef DS ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"60 ml bottle : ৳ 80.00"
+},
+{
+"name":"Sk-Flu ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"75 mg",
+"ganare":"Oseltamivir",
+"unitPrice":"Unit Price : ৳ 179.83"
+},
+{
+"name":"SK-mox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 68.19"
+},
+{
+"name":"SK-mox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.55"
+},
+{
+"name":"SK-mox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.09"
+},
+{
+"name":"SK-mox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 47.60"
+},
+{
+"name":"SK-mox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"15 ml bottle : ৳ 30.20"
+},
+{
+"name":"SK-mox DS ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 65.00"
+},
+{
+"name":"Softi ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Ointment",
+"strange":"7.5%",
+"ganare":"Zinc Oxide",
+"unitPrice":"15 gm pack : ৳ 34.97"
+},
+{
+"name":"Solbion ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"(100 mg+100 mg+1 mg)/3 ml",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"3 ml ampoule : ৳ 25.00"
+},
+{
+"name":"Solbion ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Solvit-B ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.62"
+},
+{
+"name":"Solvit-M ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Solvitone ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 35.54"
+},
+{
+"name":"Sominex ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Eszopiclone",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Sominex ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Eszopiclone",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Sorex ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Oral Paste",
+"strange":"5%",
+"ganare":"Amlexanox",
+"unitPrice":"5 gm tube : ৳ 75.00"
+},
+{
+"name":"Soventa ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Sofosbuvir",
+"unitPrice":"Unit Price : ৳ 587.69"
+},
+{
+"name":"Starin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"Unit Price : ৳ 22.00"
+},
+{
+"name":"Starin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"40 mg/5 ml",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"50 ml bottle : ৳ 98.00"
+},
+{
+"name":"Starin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Pediatric Drop",
+"strange":"20 mg/ml",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"15 ml bottle : ৳ 59.94"
+},
+{
+"name":"Starin DS ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"80 mg/5 ml",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"50 ml bottle : ৳ 150.00"
+},
+{
+"name":"Stiba ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ebastine",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Stiba ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Ebastine",
+"unitPrice":"30 ml bottle : ৳ 60.01"
+},
+{
+"name":"Stoma ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"250 mg+400 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"Unit Price : ৳ 0.54"
+},
+{
+"name":"Sulidac ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Sulindac",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Sulidac ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Sulindac",
+"unitPrice":"Unit Price : ৳ 9.50"
+},
+{
+"name":"Tada ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Tadalafil",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Tada ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Tadalafil",
+"unitPrice":"Unit Price : ৳ 34.99"
+},
+{
+"name":"Tada ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Tadalafil",
+"unitPrice":"Unit Price : ৳ 60.00"
+},
+{
+"name":"Tamen ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Tamen ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 16.27"
+},
+{
+"name":"Tamen ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Pediatric Drop",
+"strange":"80 mg/ml",
+"ganare":"Paracetamol",
+"unitPrice":"15 ml bottle : ৳ 12.26"
+},
+{
+"name":"Tamen ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Infusion",
+"strange":"10 mg/ml",
+"ganare":"Paracetamol (IV Infusion)",
+"unitPrice":"100 ml bottle : ৳ 120.00"
+},
+{
+"name":"Tamen ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 20.68"
+},
+{
+"name":"Tamen Turbo ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Tamen Ultra ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Tamen XR ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"665 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Tamenol ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"325 mg+37.5 mg",
+"ganare":"Paracetamol + Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Tapenta ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tapentadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Tapenta ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"75 mg",
+"ganare":"Tapentadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 17.00"
+},
+{
+"name":"Tapenta ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Tapentadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Tazimax ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftazidime Pentahydrate",
+"unitPrice":"1 gm vial : ৳ 240.00"
+},
+{
+"name":"Tazimax ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftazidime Pentahydrate",
+"unitPrice":"250 mg vial : ৳ 85.01"
+},
+{
+"name":"Telabid ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg+1 mg",
+"ganare":"Isopropamide + Trifluoperazine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Telabid ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg+2 mg",
+"ganare":"Isopropamide + Trifluoperazine",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Telabid Forte ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"7.5 mg+2 mg",
+"ganare":"Isopropamide + Trifluoperazine",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Telazine ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Trifluoperazine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Telazine ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Trifluoperazine",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Tenoxim ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Tenoxicam",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Terfen ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Terfenadine",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Thynor ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mcg",
+"ganare":"Levothyroxine Sodium",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Tibonor ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Tibolone",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Timothy ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"100 ml bottle : ৳ 39.96"
+},
+{
+"name":"Timothy ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Timothy ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"5 mg/2 ml",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"2 ml ampoule : ৳ 15.00"
+},
+{
+"name":"Tojak ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Tofacitinib",
+"unitPrice":"Unit Price : ৳ 47.98"
+},
+{
+"name":"Toperin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tolperisone Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Topibet-CL ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Ointment",
+"strange":"0.1%+1%",
+"ganare":"Betamethasone + Clotrimazole",
+"unitPrice":"10 gm tube : ৳ 30.00"
+},
+{
+"name":"Topiclo ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Cream",
+"strange":"0.05%",
+"ganare":"Clobetasol Propionate",
+"unitPrice":"10 gm tube : ৳ 45.00"
+},
+{
+"name":"Topiclo ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Ointment",
+"strange":"0.05%",
+"ganare":"Clobetasol Propionate",
+"unitPrice":"10 gm tube : ৳ 50.02"
+},
+{
+"name":"Topiclo-NN ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Ointment",
+"strange":"0.05%+0.5%+2%",
+"ganare":"Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+"unitPrice":"10 gm tube : ৳ 64.97"
+},
+{
+"name":"Topiclo-S ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Ointment",
+"strange":"0.05%+3%",
+"ganare":"Clobetasol Propionate + Salicylic Acid",
+"unitPrice":"10 gm tube : ৳ 70.00"
+},
+{
+"name":"Topiclo-S ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Ointment",
+"strange":"0.05%+6%",
+"ganare":"Clobetasol Propionate + Salicylic Acid",
+"unitPrice":"10 gm tube : ৳ 79.93"
+},
+{
+"name":"Topress ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Metoprolol Tartrate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Toti ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Toti ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"1 mg/5 ml",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"100 ml bottle : ৳ 55.00"
+},
+{
+"name":"Toza ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Nitazoxanide",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Toza ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Nitazoxanide",
+"unitPrice":"30 ml bottle : ৳ 34.97"
+},
+{
+"name":"Triject ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"250 mg vial : ৳ 100.00"
+},
+{
+"name":"Triject ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 130.00"
+},
+{
+"name":"Triject ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 190.00"
+},
+{
+"name":"Triject ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"250 mg vial : ৳ 100.00"
+},
+{
+"name":"Triject ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 130.00"
+},
+{
+"name":"Triject ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 190.00"
+},
+{
+"name":"Triject ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"2 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"2 gm vial : ৳ 300.00"
+},
+{
+"name":"Trioclav ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"200 mg+125 mg",
+"ganare":"Cefpodoxime + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 40.00"
+},
+{
+"name":"Tuffox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Tufnil ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Tolfenamic acid",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Tulac ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Oral Solution",
+"strange":"3.35 gm/5 ml",
+"ganare":"Lactulose",
+"unitPrice":"50 ml bottle : ৳ 64.78"
+},
+{
+"name":"Tuscof ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"(100 mg+1.1 mg+14 mg)/5 ml",
+"ganare":"Guaifenesin + Levomenthol + Diphenhydramine",
+"unitPrice":"100 ml bottle : ৳ 85.01"
+},
+{
+"name":"Ulicon ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Ulipristal Acetate (For emergency contraception)",
+"unitPrice":"Unit Price : ৳ 191.00"
+},
+{
+"name":"Urokit ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"1080 mg",
+"ganare":"Potassium Citrate",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Urokit Plus ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Oral Solution",
+"strange":"(1500 mg+250 mg)/5 ml",
+"ganare":"Potassium Citrate + Citric Acid",
+"unitPrice":"200 ml bottle : ৳ 200.01"
+},
+{
+"name":"Urosin SR ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"0.4 mg",
+"ganare":"Tamsulosin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Valenty ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Vardenafil",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Valenty ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Vardenafil",
+"unitPrice":"Unit Price : ৳ 60.00"
+},
+{
+"name":"Ventofil ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Ventofil ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Veron ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"135 mg",
+"ganare":"Mebeverine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Vigamet ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg+850 mg",
+"ganare":"Vildagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 22.00"
+},
+{
+"name":"Vigamet ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg+500 mg",
+"ganare":"Vildagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Vigatin ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Vildagliptin",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Vincet ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Vinpocetine",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Virenta ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Entecavir",
+"unitPrice":"Unit Price : ৳ 48.00"
+},
+{
+"name":"Viroxi ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Acyclovir (Oral)",
+"unitPrice":"Unit Price : ৳ 13.99"
+},
+{
+"name":"Visomox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Moxifloxacin Hydrochloride",
+"unitPrice":"5 ml drop : ৳ 100.00"
+},
+{
+"name":"Visomox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Moxifloxacin Hydrochloride (Oral or Injection)",
+"unitPrice":"Unit Price : ৳ 40.00"
+},
+{
+"name":"Visomox D ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Eye Drop",
+"strange":"0.5%+0.1%",
+"ganare":"Moxifloxacin Hydrochloride + Dexamethasone Phosphate",
+"unitPrice":"5 ml drop : ৳ 200.01"
+},
+{
+"name":"Visovit",
+"company":"Eskayef Bangladesh Ltd",
+"type":" ",
+"strange":" ",
+"ganare":"Vitamin C Vitamin E Lutein Copper & Zinc",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Vitocal D ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"600 mg+400 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Vitrum Gold ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z gold preparation)",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Vitrum Silver ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z silver preparation)",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Volmax SR ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Welon ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Solution",
+"strange":"0.5%+3%",
+"ganare":"Chlorhexidine Gluconate + Cetrimide",
+"unitPrice":"1 liter pack : ৳ 145.00"
+},
+{
+"name":"Xenthol ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Cream",
+"strange":"30%+8%",
+"ganare":"Methyl Salicylate + Menthol",
+"unitPrice":"15 gm tube : ৳ 40.00"
+},
+{
+"name":"Xinc ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"20 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 54.95"
+},
+{
+"name":"Xinc ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"Unit Price : ৳ 2.75"
+},
+{
+"name":"Xinc ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 35.00"
+},
+{
+"name":"Xinc-B ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B Complex + Zinc",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Xinc-B ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 55.00"
+},
+{
+"name":"Zatral ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Alfuzosin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Zeefol M ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"47 mg+0.5 mg+22.5 mg",
+"ganare":"Iron Polymaltose Complex + Folic Acid + Zinc Sulfate",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Zeefol TR ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Zeefol-CI ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"50 mg+0.50 mg+61.80 mg",
+"ganare":"Carbonyl Iron + Folic Acid + Zinc Sulfate Monohydrate",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Zeefoln TR ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Zeofol CL ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Zeromig ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Pizotifen",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Zeromig ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"1.5 mg",
+"ganare":"Pizotifen",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Zilvit ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Carbonyl Iron + FolicAcid + Vitamin-B Complex + Vitamin C + Zinc",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Zithrox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 20.16"
+},
+{
+"name":"Zithrox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Zithrox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Zithrox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"20 ml bottle : ৳ 90.01"
+},
+{
+"name":"Zofra ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Ondansetron",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Zofra ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"8 mg",
+"ganare":"Ondansetron",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Zofra ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Oral Solution",
+"strange":"4 mg/5 ml",
+"unitPrice":"50 ml bottle : ৳ 45.00"
+},
+{
+"name":"Zofra ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"8 mg/4 ml",
+"ganare":"Ondansetron",
+"unitPrice":"4 ml ampoule : ৳ 29.90"
+},
+{
+"name":"Zolopt ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"1%",
+"ganare":"Brinzolamide",
+"unitPrice":"5 ml drop : ৳ 500.00"
+},
+{
+"name":"Zymarin",
+"company":"Eskayef Bangladesh Ltd",
+"type":"0.5%",
+"strange":"Gatifloxacin (Ophthalmic)",
+"ganare":"5 ml drop : ৳ 125.03",
+"unitPrice":""
+},
+70
+PS E:\mongooes\jsonData> node data.js
+body-parser deprecated undefined extended: provide extended option data.js:6:17
+Zeofol CL `Capsule`150 mg+0.5 mg+61.8 mg`Ferrous Sulphate + Folic Acid + Zinc Sulphate`Unit Price : ৳ 3.00`Zeromig `Tablet`0.5 mg`Pizotifen`Unit Price : ৳ 3.00`Zeromig `Tablet`1.5 mg`Pizotifen`Unit Price : ৳ 7.00`Zilvit `Capsule` `Carbonyl Iron + FolicAcid + Vitamin-B Complex + Vitamin C + Zinc`Unit Price : ৳ 3.50`Zithrox `Capsule`250 mg`Azithromycin`Unit Price : ৳ 20.16`Zithrox `Tablet`250 mg`Azithromycin`Unit Price : ৳ 25.00`Zithrox `Tablet`500 mg`Azithromycin`Unit Price : ৳ 35.00`Zithrox `Suspension`200 mg/5 ml`Azithromycin`20 ml bottle : ৳ 90.01`Zofra `Tablet`4 mg`Ondansetron`Unit Price : ৳ 5.00`Zofra `Tablet`8 mg`Ondansetron`Unit Price : ৳ 10.00`Zofra `Oral Solution`4 mg/5 ml`Ondansetron`50 ml bottle : ৳ 45.00`Zofra `Injection`8 mg/4 ml`Ondansetron`4 ml ampoule : ৳ 29.90`Zolopt `Suspension`1%`Brinzolamide`5 ml drop : ৳ 500.00`Zymarin` `0.5%`Gatifloxacin (Ophthalmic)`5 ml drop : ৳ 125.03`
+{
+"name":"Zeofol CL ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Zeromig ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Pizotifen",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Zeromig ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"1.5 mg",
+"ganare":"Pizotifen",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Zilvit ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Carbonyl Iron + FolicAcid + Vitamin-B Complex + Vitamin C + Zinc",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Zithrox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 20.16"
+},
+{
+"name":"Zithrox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Zithrox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Zithrox ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"20 ml bottle : ৳ 90.01"
+},
+{
+"name":"Zofra ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Ondansetron",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Zofra ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Tablet",
+"strange":"8 mg",
+"ganare":"Ondansetron",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Zofra ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Oral Solution",
+"strange":"4 mg/5 ml",
+"ganare":"Ondansetron",
+"unitPrice":"50 ml bottle : ৳ 45.00"
+},
+{
+"name":"Zofra ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Injection",
+"strange":"8 mg/4 ml",
+"ganare":"Ondansetron",
+"unitPrice":"4 ml ampoule : ৳ 29.90"
+},
+{
+"name":"Zolopt ",
+"company":"Eskayef Bangladesh Ltd",
+"type":"Suspension",
+"strange":"1%",
+"ganare":"Brinzolamide",
+"unitPrice":"5 ml drop : ৳ 500.00"
+},
+{
+"name":"Zymarin",
+"company":"Eskayef Bangladesh Ltd",
+"type":" ",
+"strange":"0.5%",
+"ganare":"Gatifloxacin (Ophthalmic)",
+"unitPrice":"5 ml drop : ৳ 125.03"
+},

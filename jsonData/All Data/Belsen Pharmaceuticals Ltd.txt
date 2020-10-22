@@ -1,0 +1,168 @@
+{
+"name":"Acegic ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Azirex ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"B-Cef ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"B-Cef ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"60 ml bottle : ৳ 20.00"
+},
+{
+"name":"B-Dexa ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Dexamethasone Sodium Phosphate",
+"unitPrice":"Unit Price : ৳ 0.50"
+},
+{
+"name":"Beloxin ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Benz ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 3.20"
+},
+{
+"name":"Beridom ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Beridom ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 28.00"
+},
+{
+"name":"Cinet ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Ferofolin TR ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Folic Acid ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Folic acid",
+"unitPrice":"Unit Price : ৳ 0.35"
+},
+{
+"name":"Gastolin ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(200 mg+250 mg)/5 ml",
+"ganare":"Aluminium Oxide + Magnesium Trisilicate",
+"unitPrice":"200 ml bottle : ৳ 30.00"
+},
+{
+"name":"Jovran ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Ormet ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 20.00"
+},
+{
+"name":"Ormet ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.12"
+},
+{
+"name":"Orpa Plus ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.90"
+},
+{
+"name":"Provit-B ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.37"
+},
+{
+"name":"Provit-B ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 23.00"
+},
+{
+"name":"Seloktil ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Sencital ",
+"company":"Belsen Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Escitalopram",
+"unitPrice":"Unit Price : ৳ 10.00"
+},

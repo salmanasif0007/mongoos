@@ -1,0 +1,168 @@
+{
+"name":"Abasaglar ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Glargine (rDNA)",
+"unitPrice":"3 ml pen : ৳ 1079.47"
+},
+{
+"name":"Abasaglar ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Glargine (rDNA)",
+"unitPrice":"3 ml cartridge : ৳ 727.22"
+},
+{
+"name":"Alimta ",
+"company":"Eli Lilly and Company",
+"type":"Infusion",
+"strange":"500 mg/vial",
+"ganare":"Pemetrexed",
+"unitPrice":"500 mg vial : ৳ 119710.00"
+},
+{
+"name":"Ceclor CR ",
+"company":"Eli Lilly and Company",
+"type":"Capsule",
+"strange":"375 mg",
+"ganare":"Cefaclor Monohydrate",
+"unitPrice":"Unit Price : ৳ 43.38"
+},
+{
+"name":"Gemzar ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Gemcitabine",
+"unitPrice":"1 gm vial : ৳ 8671.92"
+},
+{
+"name":"Gemzar ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"200 mg/vial",
+"ganare":"Gemcitabine",
+"unitPrice":"200 mg vial : ৳ 2078.34"
+},
+{
+"name":"Humalog KwikPen ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"100 unit/ml",
+"ganare":"Insulin Lispro",
+"unitPrice":"3 ml cartridge : ৳ 681.77"
+},
+{
+"name":"Humalog KwikPen ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"100 unit/ml",
+"ganare":"Insulin Lispro",
+"unitPrice":"3 ml pen : ৳ 863.58"
+},
+{
+"name":"Humalog Mix ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"75%+25%",
+"ganare":"Insulin Lispro Protamine + Insulin Lispro",
+"unitPrice":"3 ml cartridge : ৳ 681.77"
+},
+{
+"name":"Humalog Mix ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"50%+50%",
+"ganare":"Insulin Lispro Protamine + Insulin Lispro",
+"unitPrice":"3 ml cartridge : ৳ 681.77"
+},
+{
+"name":"Humalog Mix ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"50%+50%",
+"ganare":"Insulin Lispro Protamine + Insulin Lispro",
+"unitPrice":"3 ml pen : ৳ 863.58"
+},
+{
+"name":"Humalog Mix ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"75%+25%",
+"ganare":"Insulin Lispro Protamine + Insulin Lispro",
+"unitPrice":"3 ml pen : ৳ 863.58"
+},
+{
+"name":"Humulin 70/30 ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"40 IU/ml",
+"ganare":"Insulin Human (rDNA) + Isophane Insulin Human",
+"unitPrice":"10 ml vial : ৳ 269.56"
+},
+{
+"name":"Humulin 70/30 ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Human (rDNA) + Isophane Insulin Human",
+"unitPrice":"10 ml vial : ৳ 749.95"
+},
+{
+"name":"Humulin 70/30 ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Human (rDNA) + Isophane Insulin Human",
+"unitPrice":"3 ml cartridge : ৳ 484.06"
+},
+{
+"name":"Humulin N ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"40 IU/ml",
+"ganare":"Insulin Human (rDNA)",
+"unitPrice":"10 ml vial : ৳ 269.56"
+},
+{
+"name":"Humulin N ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Human (rDNA)",
+"unitPrice":"10 ml vial : ৳ 749.95"
+},
+{
+"name":"Humulin N ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Human (rDNA)",
+"unitPrice":"3 ml cartridge : ৳ 484.06"
+},
+{
+"name":"Humulin R ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"40 IU/ml",
+"ganare":"Insulin Human (rDNA)",
+"unitPrice":"10 ml vial : ৳ 269.56"
+},
+{
+"name":"Humulin R ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Human (rDNA)",
+"unitPrice":"10 ml vial : ৳ 749.95"
+},
+{
+"name":"Humulin R ",
+"company":"Eli Lilly and Company",
+"type":"Injection",
+"strange":"100 IU/ml",
+"ganare":"Insulin Human (rDNA)",
+"unitPrice":"3 ml cartridge : ৳ 484.06"
+},

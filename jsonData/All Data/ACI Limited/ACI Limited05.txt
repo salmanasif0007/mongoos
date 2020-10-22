@@ -1,0 +1,270 @@
+{
+"name":"Brodil"
+"company":"ACI Limited"
+"type":" Syrup"
+"strange":"2 mg/5 ml"
+"ganare":"Salbutamol"
+"unitPrice":"100 ml bottle : ৳ 23.00"
+"price":23.00
+},
+{
+"name":"Brodil "
+"company":"ACI Limited"
+"type":"Nebuliser"
+"strange":"5 mg/ml"
+"ganare":"Salbutamol (Nebuliser Solution)"
+"unitPrice":"20 ml pack : ৳ 120.36"
+"price":120.36
+},
+{
+"name":"Brodil (DPI)"
+"company":"ACI Limited"
+"type":" Inhalation Powder"
+"strange":"200 mcg/acucap"
+"ganare":"Salbutamol"
+"unitPrice":"Unit Price : ৳ 2.51"
+"price":2.51
+},
+{
+"name":"Brodil HFA "
+"company":"ACI Limited"
+"type":"Inhaler"
+"strange":"100 mcg/puff"
+"ganare":"Salbutamol (Inhaler)"
+"unitPrice":"200 metered doses (refill) : ৳ 198.00"
+"price":198.00
+},
+{
+"name":"Brodil HFA "
+"company":"ACI Limited"
+"type":"Inhaler"
+"strange":"100 mcg/puff"
+"ganare":"Salbutamol (Inhaler)"
+"unitPrice":"200 metered doses : ৳ 240.00"
+"price":240.00
+},
+{
+"name":"Brodil Levo"
+"company":"ACI Limited"
+"type":" Tablet"
+"strange":"1 mg"
+"ganare":"Levosalbutamol (Oral)"
+"unitPrice":"Unit Price : ৳ 1.10"
+"price":1.10
+},
+{
+"name":"Brodil Levo"
+"company":"ACI Limited"
+"type":" Tablet"
+"strange":"2 mg"
+"ganare":"Levosalbutamol (Oral)"
+"unitPrice":"Unit Price : ৳ 1.91"
+"price":1.91
+},
+{
+"name":"Brodil Levo"
+"company":"ACI Limited"
+"type":" Syrup"
+"strange":"1 mg/5 ml"
+"ganare":"Levosalbutamol (Oral)"
+"unitPrice":"50 ml bottle : ৳ 30.09"
+"price":30.09
+},
+{
+"name":"Brodil Levo HFA"
+"company":"ACI Limited"
+"type":" Inhaler"
+"strange":"50 mcg/puff"
+"ganare":"Levosalbutamol (Inhaler)"
+"unitPrice":"200 metered doses : ৳ 250.00"
+"price":250.00
+},
+{
+"name":"Cab"
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Amlodipine"
+"unitPrice":"Unit Price : ৳ 5.02"
+"price":5.02
+},
+{
+"name":"Caber"
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"0.5 mg"
+"ganare":"Cabergoline"
+"unitPrice":"Unit Price : ৳ 80.00"
+"price":80.00
+},
+{
+"name":"Canazole "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Fluconazole"
+"unitPrice":"Unit Price : ৳ 8.05"
+"price":8.05
+},
+{
+"name":"Canazole "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"150 mg"
+"ganare":"Fluconazole"
+"unitPrice":"Unit Price : ৳ 22.15"
+"price":22.15
+},
+{
+"name":"Canazole "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"200 mg"
+"ganare":"Fluconazole"
+"unitPrice":"Unit Price : ৳ 25.08"
+"price":25.08
+},
+{
+"name":"Canazole "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"50 mg/5 ml"
+"ganare":"Fluconazole"
+"unitPrice":"35 ml bottle : ৳ 78.53"
+"price":78.53
+},
+{
+"name":"Cardopa "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"200 mg/5 ml"
+"ganare":"Dopamine Hydrochloride"
+"unitPrice":"5 ml ampoule : ৳ 45.31"
+"price":45.31
+},
+{
+"name":"Cartilex "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"250 mg+200 mg"
+"ganare":"Glucosamine Sulphate + Chondroitin"
+"unitPrice":"Unit Price : ৳ 8.05"
+"price":8.05
+},
+{
+"name":"Cartilex D "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"750 mg+50 mg"
+"ganare":"Glucosamine Sulphate + Diacerein"
+"unitPrice":"Unit Price : ৳ 12.00"
+"price":12.00
+},
+{
+"name":"Cartilex Plus "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"750 mg+600 mg"
+"ganare":"Glucosamine Sulphate + Chondroitin"
+"unitPrice":"Unit Price : ৳ 16.00"
+"price":16.00
+},
+{
+"name":"Cefdox "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"40 mg/5 ml"
+"ganare":"Cefpodoxime Proxetil"
+"unitPrice":"50 ml bottle : ৳ 98.67"
+"price":98.67
+},
+{
+"name":"Cefdox "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"200 mg"
+"ganare":"Cefpodoxime Proxetil"
+"unitPrice":"Unit Price : ৳ 37.00"
+"price":37.00
+},
+{
+"name":"Cefim-3 "
+"company":"ACI Limited"
+"type":"Pediatric Drop"
+"strange":"25 mg/ml"
+"ganare":"Cefixime Trihydrate"
+"unitPrice":"21 ml bottle : ৳ 100.00"
+"price":100.00
+},
+{
+"name":"Cefim-3 "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"200 mg"
+"ganare":"Cefixime Trihydrate"
+"unitPrice":"Unit Price : ৳ 35.11"
+"price": 35.11
+},
+{
+"name":"Cefim-3 "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"100 mg/5 ml"
+"ganare":"Cefixime Trihydrate"
+"unitPrice":"30 ml bottle : ৳ 130.39"
+"price":130.39
+},
+{
+"name":"Cefim-3 "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"200 mg"
+"ganare":"Cefixime Trihydrate"
+"unitPrice":"Unit Price : ৳ 30.09"
+"price":30.09
+},
+{
+"name":"Cefim-3 DS "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"400 mg"
+"ganare":"Cefixime Trihydrate"
+"unitPrice":"Unit Price : ৳ 50.34"
+"price": 50.34
+},
+{
+"name":"Cefim-3 DS "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"200 mg/5 ml"
+"ganare":"Cefixime Trihydrate"
+"unitPrice":"50 ml bottle : ৳ 300.90"
+"price":300.90
+},
+{
+"name":"Cefim-3 DS "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"400 mg"
+"ganare":"Cefixime Trihydrate"
+"unitPrice":"Unit Price : ৳ 50.15"
+"price":50.15
+},
+{
+"name":"Cefot "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"250 mg/5 ml"
+"ganare":"Cefotaxime"
+"unitPrice":"250 mg vial : ৳ 50.15"
+"price":50.15
+},
+{
+"name":"Cefot "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"500 mg/10 ml"
+"ganare":"Cefotaxime"
+"unitPrice":"500 mg vial : ৳ 76.23"
+"price":76.23
+},

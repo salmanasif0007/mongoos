@@ -1,0 +1,776 @@
+{
+"name":"Arafa ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Ibuprofen",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Ascab ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Emulsion",
+"strange":"1.25 gm/5 ml",
+"ganare":"Benzyl Benzoate",
+"unitPrice":"60 ml bottle : ৳ 12.13"
+},
+{
+"name":"Aumi ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Aumi ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 7.50"
+},
+{
+"name":"Becoson ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.56"
+},
+{
+"name":"Becoson ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 20.60"
+},
+{
+"name":"Becoson-M ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Betnoson ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"0.1%",
+"ganare":"Betamethasone",
+"unitPrice":"15 gm tube : ৳ 30.00"
+},
+{
+"name":"Bevit ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.43"
+},
+{
+"name":"Bumirate ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"7.5 mg/5 ml",
+"ganare":"Butamirate Citrate",
+"unitPrice":"Price not available"
+},
+{
+"name":"Butason ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Hyoscine Butylbromide",
+"unitPrice":"Unit Price : ৳ 1.75"
+},
+{
+"name":"Calmax ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Calmax-D ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Calson ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Calcium Lactate",
+"unitPrice":"Unit Price : ৳ 0.29"
+},
+{
+"name":"Ceconac ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Cef-Plus ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 28.00"
+},
+{
+"name":"Cef-Plus ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 170.00"
+},
+{
+"name":"Chloramphenicol ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Chloramphenicol",
+"unitPrice":"Unit Price : ৳ 2.20"
+},
+{
+"name":"Clarison ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Clarithromycin",
+"unitPrice":"Unit Price : ৳ 45.00"
+},
+{
+"name":"Clit ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Chloroquine Phosphate",
+"unitPrice":"Unit Price : ৳ 1.20"
+},
+{
+"name":"Clit ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"80 mg/5 ml",
+"ganare":"Chloroquine Phosphate",
+"unitPrice":"60 ml bottle : ৳ 22.00"
+},
+{
+"name":"Cofson ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"(30 mg+100 mg+1.25 mg)/5 ml",
+"ganare":"Pseudoephedrine + Guaiphenasine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"Decoff ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"(10 mg+30 mg+1.25 mg)/5 ml",
+"ganare":"Dextromethorphan + Pseudoephedrine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"Doxyson ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Doxycycline",
+"unitPrice":"Unit Price : ৳ 1.90"
+},
+{
+"name":"ERO ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Evocin ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Fereson ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"200 mg/5 ml",
+"ganare":"Ferrous Sulfate",
+"unitPrice":"Price not available"
+},
+{
+"name":"Ferofol ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg+350 mcg",
+"ganare":"Ferrous Fumerate + Folic acid",
+"unitPrice":"Unit Price : ৳ 0.25"
+},
+{
+"name":"Feroson ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Ferrous Fumarate",
+"unitPrice":"200 ml bottle : ৳ 27.00"
+},
+{
+"name":"Feroson ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Ferrous Fumerate + Folic acid",
+"unitPrice":"200 ml bottle : ৳ 27.00"
+},
+{
+"name":"Feroson TR ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg",
+"ganare":"Ferrous Sulphate + Folic Acid",
+"unitPrice":"Unit Price : ৳ 2.10"
+},
+{
+"name":"Feroson-TR ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg+500 mcg",
+"ganare":"Ferrous Fumerate + Folic acid",
+"unitPrice":"Unit Price : ৳ 2.10"
+},
+{
+"name":"Ferovit TR ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Ferovit TR ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron + Folic acid + Vitamin B complex + Vitamin C",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Filazine ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Diethylcarbamazine Citrate",
+"unitPrice":"Unit Price : ৳ 1.30"
+},
+{
+"name":"Floxason ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Floxason ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Floxason-DS ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Glitab ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"H Ben ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 3.60"
+},
+{
+"name":"H-Nap ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"H-Pen ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Phenoxymethyl Penicillin (Penicillin V)",
+"unitPrice":"Unit Price : ৳ 1.35"
+},
+{
+"name":"H-Selax ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.34"
+},
+{
+"name":"H-Selax ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"60 ml bottle : ৳ 10.80"
+},
+{
+"name":"Hax ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"6 mg+200 mg+50 mg",
+"ganare":"Betacarotene + Vitamin C + Vitamin E",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Henxit ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Flupentixol + Melitracen",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Hepa ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.55"
+},
+{
+"name":"Hepa ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 16.28"
+},
+{
+"name":"Hepa-Plus ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Hi Floxin ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg+80 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Price not available"
+},
+{
+"name":"Hi Floxin ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(200 mg+40 mg)/5 ml",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Price not available"
+},
+{
+"name":"Hi Gel ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg+400 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"Unit Price : ৳ 0.52"
+},
+{
+"name":"Hi Tac ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Hi-cef ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephalexin",
+"unitPrice":"Unit Price : ৳ 10.50"
+},
+{
+"name":"Hi-cef ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephalexin",
+"unitPrice":"100 ml bottle : ৳ 70.00"
+},
+{
+"name":"Hi-clox ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cloxacillin",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Hi-clox ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cloxacillin",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Hi-Fenac ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 0.50"
+},
+{
+"name":"Hi-Fenac TR ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Hi-Floxin ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Hi-Lac ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Hi-met ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Hi-mox ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Hi-mox ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Hi-mox DS ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Hi-Trol ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Hi-Trol ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"60 ml bottle : ৳ 16.00"
+},
+{
+"name":"Hiprazole ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Histason ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"Unit Price : ৳ 0.18"
+},
+{
+"name":"Histason ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"100 ml bottle : ৳ 12.00"
+},
+{
+"name":"Iron Z TR ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Keto SR ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Ketoprofen",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Lactulose H ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Oral Solution",
+"strange":"3.35 gm/5 ml",
+"ganare":"Lactulose",
+"unitPrice":"100 ml bottle : ৳ 110.00"
+},
+{
+"name":"Lara ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Desloratadine",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Malason ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+25 mg",
+"ganare":"Sulphadoxine + Pyrimethamine",
+"unitPrice":"Unit Price : ৳ 3.80"
+},
+{
+"name":"Mega Cef ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 11.90"
+},
+{
+"name":"Mega Cef ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 81.00"
+},
+{
+"name":"Mega Flox ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Sparfloxacin",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Metroson ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.05"
+},
+{
+"name":"Metroson ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 18.00"
+},
+{
+"name":"Mox-plus ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 65.00"
+},
+{
+"name":"Neuroson ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"P Phos ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Primaquine Phosphate",
+"unitPrice":"Unit Price : ৳ 0.62"
+},
+{
+"name":"Peri ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Peri ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"100 ml bottle : ৳ 35.00"
+},
+{
+"name":"Quin ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Quinine Sulfate",
+"unitPrice":"Unit Price : ৳ 3.47"
+},
+{
+"name":"Riboflavin ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Riboflavin",
+"unitPrice":"Price not available"
+},
+{
+"name":"Seftrim ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(200 mg+40 mg)/5 ml",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"60 ml bottle : ৳ 17.00"
+},
+{
+"name":"Seftrim DS ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"800 mg+160 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Soto ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Price not available"
+},
+{
+"name":"Soto ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 32.00"
+},
+{
+"name":"Soto ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"35 ml bottle : ৳ 130.00"
+},
+{
+"name":"Tetracycline H ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Tetracycline Hydrochloride (Oral)",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Venium ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Clobazam",
+"unitPrice":"Unit Price : ৳ 2.70"
+},
+{
+"name":"Viola ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Solution",
+"strange":"1.25 gm/5 ml",
+"ganare":"Benzyl Benzoate",
+"unitPrice":"60 ml pack : ৳ 12.00"
+},
+{
+"name":"Zee-1 ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"4.05 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 30.00"
+},
+{
+"name":"Zee-2 ",
+"company":"Hudson Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},

@@ -1,0 +1,16 @@
+{
+"name":"Viola ",
+"company":"Kawsar Chemicals",
+"type":"Topical Solution",
+"strange":"1%",
+"ganare":"Gentian Violet",
+"unitPrice":"15 ml solution : ৳ 20.00"
+},
+{
+"name":"Viola ",
+"company":"Kawsar Chemicals",
+"type":"Topical Solution",
+"strange":"2%",
+"ganare":"Gentian Violet",
+"unitPrice":"15 ml solution : ৳ 20.00"
+},

@@ -1,0 +1,288 @@
+{
+"name":"Age M ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"6 mg+200 mg+50 mg",
+"ganare":"Betacarotene + Vitamin C + Vitamin E",
+"unitPrice":"Unit Price : ৳ 2.53"
+},
+{
+"name":"Age Plus ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Super Antioxidant Vitamins & Multimineral",
+"unitPrice":"Unit Price : ৳ 3.75"
+},
+{
+"name":"Atol ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Atenolol",
+"unitPrice":"Unit Price : ৳ 0.75"
+},
+{
+"name":"Atol ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Atenolol",
+"unitPrice":"Unit Price : ৳ 1.37"
+},
+{
+"name":"Cinomyst ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Cinnarizine",
+"unitPrice":"Unit Price : ৳ 0.70"
+},
+{
+"name":"Clenol ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"0.1%+0.5%",
+"ganare":"Chlorhexidine Hydrochloride + Cetrimide",
+"unitPrice":"15 gm tube : ৳ 12.00"
+},
+{
+"name":"Comvit-B ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 20.70"
+},
+{
+"name":"Diafre ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Diafre ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Dilol ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"6.25 mg",
+"ganare":"Carvedilol",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Dilol ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"12.5 mg",
+"ganare":"Carvedilol",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Dora ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Desloratadine",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Dora ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"2.5 mg/5 ml",
+"ganare":"Desloratadine",
+"unitPrice":"60 ml bottle : ৳ 25.75"
+},
+{
+"name":"Foliron TR ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Krimizole ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Albendazole",
+"unitPrice":"10 ml bottle : ৳ 15.00"
+},
+{
+"name":"Krimizole DS ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 3.25"
+},
+{
+"name":"Maret ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Clotrimazole (Topical)",
+"unitPrice":"10 gm tube : ৳ 30.00"
+},
+{
+"name":"Motiper ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Motiper ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 28.00"
+},
+{
+"name":"Mylac ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Oral Solution",
+"strange":"3.35 gm/5 ml",
+"ganare":"Lactulose",
+"unitPrice":"100 ml bottle : ৳ 75.00"
+},
+{
+"name":"Mystacin ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Mystocal ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 2.54"
+},
+{
+"name":"Mystrum ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral [A-Z gold preparation]",
+"unitPrice":"Unit Price : ৳ 4.83"
+},
+{
+"name":"NSB ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Ointment",
+"strange":"(5 mg+500 IU)/gm",
+"ganare":"Neomycin Sulfate + Bacitracin Zinc",
+"unitPrice":"10 gm tube : ৳ 12.55"
+},
+{
+"name":"Onida ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Onida ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 21.00"
+},
+{
+"name":"Orfix ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 45.00"
+},
+{
+"name":"Orfix DS ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 250.00"
+},
+{
+"name":"Rheuma ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 2.80"
+},
+{
+"name":"Tamadol ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.25"
+},
+{
+"name":"Thiatab ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Thiamine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 0.73"
+},
+{
+"name":"Tolin ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.34"
+},
+{
+"name":"Tolin ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"100 ml bottle : ৳ 15.00"
+},
+{
+"name":"Valsan ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"80 mg",
+"ganare":"Valsartan",
+"unitPrice":"Unit Price : ৳ 9.80"
+},
+{
+"name":"Volpro 50 ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Zithrolex ",
+"company":"Mystic Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 28.00"
+},

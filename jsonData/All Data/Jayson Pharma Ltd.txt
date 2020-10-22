@@ -1,0 +1,1552 @@
+{
+"name":"Amoxon ",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.62"
+},
+{
+"name":"Amoxon ",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.78"
+},
+{
+"name":"Amoxon ",
+"company":"Jayson Pharma Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 47.60"
+},
+{
+"name":"Amoxon ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"500 mg vial : ৳ 24.67"
+},
+{
+"name":"Ampirex ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ampicillin",
+"unitPrice":"500 mg vial : ৳ 22.49"
+},
+{
+"name":"Antima ",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 30.09"
+},
+{
+"name":"Antima ",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 50.15"
+},
+{
+"name":"Antima ",
+"company":"Jayson Pharma Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 200.00"
+},
+{
+"name":"Arexel ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"20 mg+120 mg",
+"ganare":"Artemether + Lumefantrine",
+"unitPrice":"Unit Price : ৳ 17.12"
+},
+{
+"name":"Arocaine-A DC ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"4%+0.001%",
+"ganare":"Articaine Hydrochloride + Epinephrine",
+"unitPrice":"1.8 ml cartridge : ৳ 48.33"
+},
+{
+"name":"Artex ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Artesunate",
+"unitPrice":"Unit Price : ৳ 12.08"
+},
+{
+"name":"Ascoson ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Vitamin C (Ascorbic acid)",
+"unitPrice":"Unit Price : ৳ 1.90"
+},
+{
+"name":"Ascoson ",
+"company":"Jayson Pharma Ltd",
+"type":"Syrup",
+"strange":"100 mg/5 ml",
+"ganare":"Vitamin C (Ascorbic acid)",
+"unitPrice":"100 ml bottle : ৳ 33.44"
+},
+{
+"name":"Ascoson ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"500 mg/5 ml",
+"ganare":"Vitamin C (Ascorbic acid)",
+"unitPrice":"5 ml ampoule : ৳ 6.00"
+},
+{
+"name":"Astin ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 8.06"
+},
+{
+"name":"Astin ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 15.10"
+},
+{
+"name":"Atin ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Atenolol",
+"unitPrice":"Unit Price : ৳ 0.76"
+},
+{
+"name":"Atropine ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"0.6 mg/ml",
+"ganare":"Atropine Sulfate",
+"unitPrice":"1 ml ampoule : ৳ 5.16"
+},
+{
+"name":"Biofez ",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":"50 mg+0.50 mg+61.80 mg",
+"ganare":"Carbonyl Iron + Folic Acid + Zinc Sulfate Monohydrate",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Broxolin ",
+"company":"Jayson Pharma Ltd",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 40.12"
+},
+{
+"name":"Cadolin ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 5.01"
+},
+{
+"name":"Caid ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"75 mg",
+"ganare":"Aspirin",
+"unitPrice":"Unit Price : ৳ 0.60"
+},
+{
+"name":"Calcium-Jayson ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"500 mg/5 ml",
+"ganare":"Calcium Gluconate",
+"unitPrice":"10 ml ampoule : ৳ 9.77"
+},
+{
+"name":"Calcium-Jayson ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"500 mg/5 ml",
+"ganare":"Calcium Gluconate",
+"unitPrice":"5 ml ampoule : ৳ 9.18"
+},
+{
+"name":"Canstat ",
+"company":"Jayson Pharma Ltd",
+"type":"Suspension",
+"strange":"100000 unit/ml",
+"ganare":"Nystatin (Oral)",
+"unitPrice":"10 ml bottle : ৳ 17.25"
+},
+{
+"name":"Cinalid ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 34.00"
+},
+{
+"name":"Cinalid ",
+"company":"Jayson Pharma Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 75.50"
+},
+{
+"name":"Codomix ",
+"company":"Jayson Pharma Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Cod Liver Oil",
+"unitPrice":"100 ml bottle : ৳ 85.00"
+},
+{
+"name":"Combisol ",
+"company":"Jayson Pharma Ltd",
+"type":"Solution",
+"strange":"0.3%+3%",
+"ganare":"Chlorhexidine Gluconate + Cetrimide",
+"unitPrice":"1 liter pack : ৳ 220.00"
+},
+{
+"name":"Cynomin ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"250 mcg/ml",
+"ganare":"Cyanocobalamin",
+"unitPrice":"1 ml ampoule : ৳ 4.51"
+},
+{
+"name":"Cynomin ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"1 mg/ml",
+"ganare":"Cyanocobalamin",
+"unitPrice":"1 ml ampoule : ৳ 5.02"
+},
+{
+"name":"Cynomin-H ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"1000 mcg/ml",
+"ganare":"Hydroxocobalamin",
+"unitPrice":"1 ml ampoule : ৳ 30.09"
+},
+{
+"name":"Decalor ",
+"company":"Jayson Pharma Ltd",
+"type":"E/E Drop",
+"strange":"0.1%+0.5%",
+"ganare":"Dexamethasone + Chloramphenicol",
+"unitPrice":"5 ml drop : ৳ 50.33"
+},
+{
+"name":"Depnox SR ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Bupropion Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.06"
+},
+{
+"name":"Dermalog ",
+"company":"Jayson Pharma Ltd",
+"type":"Cream",
+"strange":"0.1%",
+"ganare":"Halcinonide",
+"unitPrice":"10 gm tube : ৳ 40.12"
+},
+{
+"name":"Dermin ",
+"company":"Jayson Pharma Ltd",
+"type":"Ointment",
+"strange":"6%+3%",
+"ganare":"Benzoic Acid + Salicylic Acid",
+"unitPrice":"25 gm tube : ৳ 20.06"
+},
+{
+"name":"Dexamin ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Dexamethasone Sodium Phosphate",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Dexamin ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"5 mg/ml",
+"ganare":"Dexamethasone Sodium Phosphate",
+"unitPrice":"1 ml ampoule : ৳ 18.05"
+},
+{
+"name":"Dexamin ",
+"company":"Jayson Pharma Ltd",
+"type":"E/E Drop",
+"strange":"0.1%",
+"ganare":"Dexamethasone Sodium Phosphate (E/E)",
+"unitPrice":"5 ml drop : ৳ 45.00"
+},
+{
+"name":"Dicon ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Glibenclamide",
+"unitPrice":"Unit Price : ৳ 0.28"
+},
+{
+"name":"Dixicon ",
+"company":"Jayson Pharma Ltd",
+"type":"Suspension",
+"strange":"300 mg/5 ml",
+"ganare":"Nalidixic Acid",
+"unitPrice":"50 ml bottle : ৳ 30.54"
+},
+{
+"name":"Eflucin ",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.79"
+},
+{
+"name":"Eflucin ",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.07"
+},
+{
+"name":"Eflucin ",
+"company":"Jayson Pharma Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 61.43"
+},
+{
+"name":"Eflucin ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"250 mg vial : ৳ 30.00"
+},
+{
+"name":"Eflucin ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"500 mg vial : ৳ 40.00"
+},
+{
+"name":"Eladin ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Loratadine",
+"unitPrice":"Unit Price : ৳ 3.05"
+},
+{
+"name":"Eladin ",
+"company":"Jayson Pharma Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Loratadine",
+"unitPrice":"60 ml bottle : ৳ 26.48"
+},
+{
+"name":"Elmin ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Elmin-DT ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 4.26"
+},
+{
+"name":"Emodol ",
+"company":"Jayson Pharma Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Ketorolac Tromethamine (Eye Drops)",
+"unitPrice":"5 ml drop : ৳ 65.00"
+},
+{
+"name":"Emodol ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.18"
+},
+{
+"name":"Emodol ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"30 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 55.17"
+},
+{
+"name":"Ermite ",
+"company":"Jayson Pharma Ltd",
+"type":"Cream",
+"strange":"5%w/w",
+"ganare":"Permethrin",
+"unitPrice":"30 gm tube : ৳ 40.27"
+},
+{
+"name":"Esotron ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Esotron ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Evonex ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 13.09"
+},
+{
+"name":"Fedrin ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"25 mg/5 ml",
+"ganare":"Ephedrine Hydrochloride",
+"unitPrice":"5 ml ampoule : ৳ 12.06"
+},
+{
+"name":"Femicap ",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":"200 mg+200 mcg",
+"ganare":"Ferrous Fumerate + Folic acid",
+"unitPrice":"Unit Price : ৳ 0.51"
+},
+{
+"name":"Femitab ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"200 mg+200 mcg",
+"ganare":"Ferrous Fumerate + Folic acid",
+"unitPrice":"Unit Price : ৳ 0.38"
+},
+{
+"name":"Flubest ",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 22.07"
+},
+{
+"name":"Flubest",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Flubest ",
+"company":"Jayson Pharma Ltd",
+"type":"Suspension",
+"strange":"50 mg/5 ml",
+"ganare":"Fluconazole",
+"unitPrice":"35 ml bottle : ৳ 78.23"
+},
+{
+"name":"Folison ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Folic acid",
+"unitPrice":"Unit Price : ৳ 0.34"
+},
+{
+"name":"Hexaplex ",
+"company":"Jayson Pharma Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 35.00"
+},
+{
+"name":"Histacin ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"10 mg/ml",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"1 ml ampoule : ৳ 3.35"
+},
+{
+"name":"Histacin ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"Unit Price : ৳ 0.29"
+},
+{
+"name":"Histacin ",
+"company":"Jayson Pharma Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"60 ml bottle : ৳ 14.94"
+},
+{
+"name":"Histafen ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Indoxyl ",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":"25 mg",
+"ganare":"Indomethacin",
+"unitPrice":"Unit Price : ৳ 0.63"
+},
+{
+"name":"Japime ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Cefepime Hydrochloride",
+"unitPrice":"1 gm vial : ৳ 551.65"
+},
+{
+"name":"Jasocaine ",
+"company":"Jayson Pharma Ltd",
+"type":"Gel",
+"strange":"2%",
+"ganare":"Lidocaine Hydrochloride",
+"unitPrice":"5 gm tube : ৳ 18.00"
+},
+{
+"name":"Jasocaine ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"1%",
+"ganare":"Lidocaine Hydrochloride",
+"unitPrice":"50 ml vial : ৳ 23.00"
+},
+{
+"name":"Jasocaine ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"2%",
+"ganare":"Lidocaine Hydrochloride",
+"unitPrice":"50 ml vial : ৳ 28.74"
+},
+{
+"name":"Jasocaine ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"4%",
+"ganare":"Lidocaine Hydrochloride",
+"unitPrice":"2 ml ampoule : ৳ 3.74"
+},
+{
+"name":"Jasocaine-A ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"2%+0.0005%",
+"ganare":"Lidocaine + Adrenaline",
+"unitPrice":"50 ml vial : ৳ 65.00"
+},
+{
+"name":"Jasocaine-A DC ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"2%+0.00125%",
+"ganare":"Lidocaine + Epinephrine",
+"unitPrice":"1.8 ml cartridge : ৳ 30.10"
+},
+{
+"name":"Jasocal ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 1.51"
+},
+{
+"name":"Jasocal ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 2.01"
+},
+{
+"name":"Jasochlor ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Chloroquine Phosphate",
+"unitPrice":"Unit Price : ৳ 1.21"
+},
+{
+"name":"Jasochlor ",
+"company":"Jayson Pharma Ltd",
+"type":"Syrup",
+"strange":"80 mg/5 ml",
+"ganare":"Chloroquine Phosphate",
+"unitPrice":"60 ml bottle : ৳ 14.91"
+},
+{
+"name":"Jasophylin ",
+"company":"Jayson Pharma Ltd",
+"type":"Syrup",
+"strange":"120 mg/5 ml",
+"ganare":"Theophylline",
+"unitPrice":"100 ml bottle : ৳ 25.17"
+},
+{
+"name":"Jasoprim ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Primaquine Phosphate",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Jasoquin ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Quinine Sulfate",
+"unitPrice":"Unit Price : ৳ 6.44"
+},
+{
+"name":"Jasoquin ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"300 mg/5 ml",
+"ganare":"Quinine Sulfate",
+"unitPrice":"5 ml ampoule : ৳ 20.65"
+},
+{
+"name":"Jasotrim ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"400 mg+80 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Unit Price : ৳ 1.49"
+},
+{
+"name":"Jasotrim ",
+"company":"Jayson Pharma Ltd",
+"type":"Suspension",
+"strange":"(200 mg+40 mg)/5 ml",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"60 ml bottle : ৳ 21.68"
+},
+{
+"name":"Jasovit ",
+"company":"Jayson Pharma Ltd",
+"type":"Pediatric Drop",
+"strange":" ",
+"ganare":"Multivitamin [Adult preparation]",
+"unitPrice":"15 ml drop : ৳ 20.00"
+},
+{
+"name":"Jasovit-M ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Jmycin ",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Tetracycline Hydrochloride (Oral)",
+"unitPrice":"Unit Price : ৳ 1.31"
+},
+{
+"name":"Jpdrox ",
+"company":"Jayson Pharma Ltd",
+"type":"Suspension",
+"strange":"(200 mg+125 mg)/5 ml",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"200 ml bottle : ৳ 57.17"
+},
+{
+"name":"Jpdrox ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"250 mg+400 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"Unit Price : ৳ 0.73"
+},
+{
+"name":"Jpdrox-S ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"400 mg+400 mg+30 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"KT ",
+"company":"Jayson Pharma Ltd",
+"type":"Syrup",
+"strange":"500 mg/5 ml",
+"ganare":"Potassium Chloride",
+"unitPrice":"100 ml bottle : ৳ 30.09"
+},
+{
+"name":"KT ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"150 mg/ml",
+"ganare":"Potassium Chloride",
+"unitPrice":"10 ml ampoule : ৳ 15.05"
+},
+{
+"name":"Locard ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 3.05"
+},
+{
+"name":"Locard Plus ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"5 mg+50 mg",
+"ganare":"Amlodipine + Atenolol",
+"unitPrice":"Unit Price : ৳ 3.02"
+},
+{
+"name":"Loval ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.01"
+},
+{
+"name":"Loval ",
+"company":"Jayson Pharma Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 28.19"
+},
+{
+"name":"Magnason ",
+"company":"Jayson Pharma Ltd",
+"type":"Suspension",
+"strange":"400 mg/5 ml",
+"ganare":"Magnesium Hydroxide",
+"unitPrice":"100 ml bottle : ৳ 50.15"
+},
+{
+"name":"Meclid ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"10 mg/2 ml",
+"ganare":"Metoclopramide Hydrochloride",
+"unitPrice":"2 ml ampoule : ৳ 3.77"
+},
+{
+"name":"Meforex ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Meforex ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Megafen ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 0.81"
+},
+{
+"name":"Megafen ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"75 mg/3 ml",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"3 ml ampoule : ৳ 10.18"
+},
+{
+"name":"Megafen Plus ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"(75 mg+20 mg)/2 ml",
+"ganare":"Diclofenac Sodium + Lidocaine Hydrochloride",
+"unitPrice":"2 ml ampoule : ৳ 15.05"
+},
+{
+"name":"Megafen-SR ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 3.02"
+},
+{
+"name":"Meliva ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Escitalopram",
+"unitPrice":"Unit Price : ৳ 8.06"
+},
+{
+"name":"Metason ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Metason ",
+"company":"Jayson Pharma Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 25.17"
+},
+{
+"name":"Multicod ",
+"company":"Jayson Pharma Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Cod Liver Oil",
+"unitPrice":"100 ml bottle : ৳ 79.93"
+},
+{
+"name":"Naproson ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 4.07"
+},
+{
+"name":"Naproson ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 7.06"
+},
+{
+"name":"Natavit TR ",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron + Folic acid + Vitamin B complex + Vitamin C",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Nebason ",
+"company":"Jayson Pharma Ltd",
+"type":"Ointment",
+"strange":"(5 mg+500 IU)/gm",
+"ganare":"Neomycin Sulfate + Bacitracin Zinc",
+"unitPrice":"10 gm tube : ৳ 17.41"
+},
+{
+"name":"Nervin ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"(100 mg+50 mg+100 mg)/2 ml",
+"ganare":"Vitamin B1 B2 & B6",
+"unitPrice":"2 ml ampoule : ৳ 11.00"
+},
+{
+"name":"Nerviplex ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Nerviplex ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"(100 mg+100 mg+1 mg)/3 ml",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"3 ml ampoule : ৳ 25.17"
+},
+{
+"name":"Nikethamide ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"25%",
+"ganare":"Nikethamide",
+"unitPrice":"2 ml ampoule : ৳ 12.04"
+},
+{
+"name":"Omirex ",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 5.01"
+},
+{
+"name":"Omirex ",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Oncodex ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Ondansetron",
+"unitPrice":"Unit Price : ৳ 4.54"
+},
+{
+"name":"Oncodex ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"8 mg",
+"ganare":"Ondansetron",
+"unitPrice":"Unit Price : ৳ 8.06"
+},
+{
+"name":"Oncodex ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"8 mg/4 ml",
+"ganare":"Ondansetron",
+"unitPrice":"4 ml ampoule : ৳ 25.17"
+},
+{
+"name":"Optibet ",
+"company":"Jayson Pharma Ltd",
+"type":"Eye Drop",
+"strange":"0.25%",
+"ganare":"Betaxolol Hydrochloride",
+"unitPrice":"5 ml drop : ৳ 151.00"
+},
+{
+"name":"Optichlor ",
+"company":"Jayson Pharma Ltd",
+"type":"Eye Ointment",
+"strange":"1%",
+"ganare":"Chloramphenicol",
+"unitPrice":"5 gm tube : ৳ 12.09"
+},
+{
+"name":"Optichlor ",
+"company":"Jayson Pharma Ltd",
+"type":"E/E Drop",
+"strange":"0.5%",
+"ganare":"Chloramphenicol",
+"unitPrice":"10 ml drop : ৳ 34.00"
+},
+{
+"name":"Optiflox ",
+"company":"Jayson Pharma Ltd",
+"type":"E/E Drop",
+"strange":"0.3%",
+"ganare":"Lomefloxacin (Eye Drop)",
+"unitPrice":"5 ml drop : ৳ 50.33"
+},
+{
+"name":"Optipan ",
+"company":"Jayson Pharma Ltd",
+"type":"Drops",
+"strange":"2%",
+"ganare":"Sodium Cromoglicate (2%)",
+"unitPrice":"10 ml drop : ৳ 50.92"
+},
+{
+"name":"Optirex ",
+"company":"Jayson Pharma Ltd",
+"type":"Eye Drop",
+"strange":"5%",
+"ganare":"Povidone Iodine (Eye Drop)",
+"unitPrice":"10 ml drop : ৳ 80.55"
+},
+{
+"name":"Orabex ",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Orabex ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.62"
+},
+{
+"name":"Orabex ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"2 ml ampoule : ৳ 11.31"
+},
+{
+"name":"ORS-Jayson ",
+"company":"Jayson Pharma Ltd",
+"type":"Powder",
+"strange":"10.25 gm",
+"ganare":"Oral Rehydration Salt (Powder)",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Panamox ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Mebendazole",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Panamox ",
+"company":"Jayson Pharma Ltd",
+"type":"Syrup",
+"strange":"100 mg/5 ml",
+"ganare":"Mebendazole",
+"unitPrice":"30 ml bottle : ৳ 14.79"
+},
+{
+"name":"Parcef ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"2 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"2 gm vial : ৳ 300.00"
+},
+{
+"name":"Parcef ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"250 mg vial : ৳ 75.00"
+},
+{
+"name":"Parcef ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 110.00"
+},
+{
+"name":"Parcef ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 160.48"
+},
+{
+"name":"Parcef ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"250 mg vial : ৳ 80.24"
+},
+{
+"name":"Parcef ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 120.36"
+},
+{
+"name":"Parcef ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 160.48"
+},
+{
+"name":"Paroxet ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Paroxetine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 9.06"
+},
+{
+"name":"Parten ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 5.03"
+},
+{
+"name":"Parten Plus ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"50 mg+12.5 mg",
+"ganare":"Losartan Potassium + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 6.04"
+},
+{
+"name":"Phenerex ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"25 mg/ml",
+"ganare":"Promethazine Hydrochloride (Injection)",
+"unitPrice":"1 ml ampoule : ৳ 3.38"
+},
+{
+"name":"Phenerex ",
+"company":"Jayson Pharma Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Promethazine Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 24.03"
+},
+{
+"name":"Phenerex ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"50 mg/2 ml",
+"ganare":"Promethazine Hydrochloride (Injection)",
+"unitPrice":"2 ml ampoule : ৳ 4.18"
+},
+{
+"name":"Phenoson ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Phenobarbital",
+"unitPrice":"Unit Price : ৳ 0.78"
+},
+{
+"name":"Povisep ",
+"company":"Jayson Pharma Ltd",
+"type":"Solution",
+"strange":"5%w/v",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"20 ml bottle : ৳ 25.07"
+},
+{
+"name":"Povisep ",
+"company":"Jayson Pharma Ltd",
+"type":"Solution",
+"strange":"10%w/v",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"30 ml bottle : ৳ 55.17"
+},
+{
+"name":"Povisep ",
+"company":"Jayson Pharma Ltd",
+"type":"Vaginal Gel",
+"strange":"10%",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"30 gm tube : ৳ 80.24"
+},
+{
+"name":"Povisep ",
+"company":"Jayson Pharma Ltd",
+"type":"Cream",
+"strange":"6%w/w",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"5 gm tube : ৳ 22.07"
+},
+{
+"name":"Povisep ",
+"company":"Jayson Pharma Ltd",
+"type":"Mouthwash",
+"strange":"1%w/v",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"100 ml bottle : ৳ 35.11"
+},
+{
+"name":"Povisep ",
+"company":"Jayson Pharma Ltd",
+"type":"Powder",
+"strange":"5%w/w",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"10 gm pack : ৳ 30.09"
+},
+{
+"name":"Povisep ",
+"company":"Jayson Pharma Ltd",
+"type":"Surgical Scrub",
+"strange":"7.5%w/v",
+"ganare":"Povidone Iodine (Surgical Scrub)",
+"unitPrice":"250 ml bottle : ৳ 325.98"
+},
+{
+"name":"Povisep ",
+"company":"Jayson Pharma Ltd",
+"type":"Eye Drop",
+"strange":"1.25%",
+"ganare":"Povidone Iodine (Eye Drop)",
+"unitPrice":"5 ml drop : ৳ 48.33"
+},
+{
+"name":"Pyrol ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Pyridoxine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 0.90"
+},
+{
+"name":"Ranison ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 1.73"
+},
+{
+"name":"Ranison ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"50 mg/2 ml",
+"ganare":"Ranitidine",
+"unitPrice":"2 ml ampoule : ৳ 10.03"
+},
+{
+"name":"Respolin ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.45"
+},
+{
+"name":"Respolin ",
+"company":"Jayson Pharma Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"100 ml bottle : ৳ 22.99"
+},
+{
+"name":"Riboson ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Riboflavin",
+"unitPrice":"Unit Price : ৳ 0.30"
+},
+{
+"name":"Scabisol ",
+"company":"Jayson Pharma Ltd",
+"type":"Emulsion",
+"strange":"1.25 gm/5 ml",
+"ganare":"Benzyl Benzoate",
+"unitPrice":"100 ml bottle : ৳ 35.11"
+},
+{
+"name":"Silcream ",
+"company":"Jayson Pharma Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Silver Sulfadiazine",
+"unitPrice":"5 gm tube : ৳ 14.00"
+},
+{
+"name":"Sodib ",
+"company":"Jayson Pharma Ltd",
+"type":"Infusion",
+"strange":"7.5%",
+"ganare":"Sodium Bicarbonate",
+"unitPrice":"25 ml vial : ৳ 25.08"
+},
+{
+"name":"Spasmoson ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Hyoscine Butylbromide",
+"unitPrice":"Unit Price : ৳ 6.80"
+},
+{
+"name":"Spasmoson ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"20 mg/ml",
+"ganare":"Hyoscine Butylbromide",
+"unitPrice":"1 ml ampoule : ৳ 29.00"
+},
+{
+"name":"Spectra ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 10.19"
+},
+{
+"name":"Spectra ",
+"company":"Jayson Pharma Ltd",
+"type":"E/E Drop",
+"strange":"0.3%",
+"ganare":"Ciprofloxacin (Eye/Ear)",
+"unitPrice":"5 ml drop : ৳ 40.12"
+},
+{
+"name":"Sulfamin ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg+25 mg",
+"ganare":"Sulphadoxine + Pyrimethamine",
+"unitPrice":"Unit Price : ৳ 4.43"
+},
+{
+"name":"Thiason ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"100 mg/ml",
+"ganare":"Thiamine Hydrochloride",
+"unitPrice":"10 ml vial : ৳ 19.22"
+},
+{
+"name":"Thiason ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"100 mg/ml",
+"ganare":"Thiamine Hydrochloride",
+"unitPrice":"1 ml ampoule : ৳ 3.56"
+},
+{
+"name":"Topra ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Topra ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 5.03"
+},
+{
+"name":"Ultracaine ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"0.5%",
+"ganare":"Bupivacaine Hydrochloride",
+"unitPrice":"30 ml vial : ৳ 60.42"
+},
+{
+"name":"Ultracaine Heavy ",
+"company":"Jayson Pharma Ltd",
+"type":"Injection",
+"strange":"0.5%+8%",
+"ganare":"Bupivacaine Hydrochloride + Dextrose",
+"unitPrice":"4 ml ampoule : ৳ 30.20"
+},
+{
+"name":"Ultrasef ",
+"company":"Jayson Pharma Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cephradine",
+"unitPrice":"15 ml drop : ৳ 50.35"
+},
+{
+"name":"Ultrasef ",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 6.87"
+},
+{
+"name":"Ultrasef ",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.58"
+},
+{
+"name":"Ultrasef ",
+"company":"Jayson Pharma Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 90.27"
+},
+{
+"name":"Vidox ",
+"company":"Jayson Pharma Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Doxycycline",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Vitaminz ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral [A-Z gold preparation]",
+"unitPrice":"Unit Price : ৳ 6.04"
+},
+{
+"name":"Water for injection",
+"company":"Jayson Pharma Ltd",
+"type":" ",
+"strange":"5 ml/ampoule",
+"ganare":"Water for injection",
+"unitPrice":"5 ml ampoule : ৳ 5.01"
+},
+{
+"name":"Water for injection",
+"company":"Jayson Pharma Ltd",
+"type":" ",
+"strange":"10 ml/ampoule",
+"ganare":"Water for injection",
+"unitPrice":"10 ml ampoule : ৳ 8.02"
+},
+{
+"name":"Winsol ",
+"company":"Jayson Pharma Ltd",
+"type":"Hand Rub",
+"strange":"0.5%+70%",
+"ganare":"Chlorhexidine Gluconate + Isopropyl alcohol",
+"unitPrice":"50 ml bottle : ৳ 40.00"
+},
+{
+"name":"Zeal ",
+"company":"Jayson Pharma Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 30.15"
+},
+{
+"name":"Zerin ",
+"company":"Jayson Pharma Ltd",
+"type":"Pediatric Drop",
+"strange":"80 mg/ml",
+"ganare":"Paracetamol",
+"unitPrice":"15 ml drop : ৳ 12.34"
+},
+{
+"name":"Zerin ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Zerin ",
+"company":"Jayson Pharma Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 20.70"
+},
+{
+"name":"Zerin-XP ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.90"
+},
+{
+"name":"Zest ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"6 mg+200 mg+50 mg",
+"ganare":"Betacarotene + Vitamin C + Vitamin E",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Zincare ",
+"company":"Jayson Pharma Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},

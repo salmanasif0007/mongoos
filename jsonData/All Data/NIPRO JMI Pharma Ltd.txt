@@ -1,0 +1,720 @@
+{
+"name":"Adarbi ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Azilsartan Medoxomil",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Adarbi ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Azilsartan Medoxomil",
+"unitPrice":"Unit Price : ৳ 22.00"
+},
+{
+"name":"Altrip ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"6.25 mg",
+"ganare":"Almotriptan",
+"unitPrice":"Unit Price : ৳ 25.08"
+},
+{
+"name":"AMX ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.61"
+},
+{
+"name":"AMX ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.78"
+},
+{
+"name":"AMX ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 47.61"
+},
+{
+"name":"AMX DS ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 78.00"
+},
+{
+"name":"Anxionil ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"3 mg",
+"ganare":"Bromazepam",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Arcet ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.01"
+},
+{
+"name":"Arcet ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"60 ml bottle : ৳ 25.08"
+},
+{
+"name":"Avamist ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Nasal Spray",
+"strange":"27.5 mcg/spray",
+"ganare":"Fluticasone Furoate",
+"unitPrice":"120 metered sprays : ৳ 250.00"
+},
+{
+"name":"Avator ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 10.03"
+},
+{
+"name":"Avator ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 18.05"
+},
+{
+"name":"Azaltic ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Azaltic ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.00"
+},
+{
+"name":"Bactropen ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Ointment",
+"strange":"2%w/w",
+"ganare":"Mupirocin",
+"unitPrice":"10 gm tube : ৳ 140.00"
+},
+{
+"name":"Bexen ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cefadroxil Monohydrate",
+"unitPrice":"Unit Price : ৳ 12.07"
+},
+{
+"name":"Bexen ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefadroxil Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 70.00"
+},
+{
+"name":"Bisopress ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Bisoprolol Fumarate",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Bisopress ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Bisoprolol Fumarate",
+"unitPrice":"Unit Price : ৳ 10.03"
+},
+{
+"name":"Broculyt ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 40.12"
+},
+{
+"name":"Camphor Plus ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Cream",
+"strange":"30%+10%+4%",
+"ganare":"Methyl Salicylate + Menthol + Camphor",
+"unitPrice":"15 gm tube : ৳ 95.00"
+},
+{
+"name":"Carceva ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"75 mg",
+"ganare":"Clopidogrel Bisulphate",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Cefracef ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 6.55"
+},
+{
+"name":"Cefracef ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.59"
+},
+{
+"name":"Cefracef ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.55"
+},
+{
+"name":"Cefracef DS ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 135.00"
+},
+{
+"name":"Cialix ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Tadalafil",
+"unitPrice":"Unit Price : ৳ 35.11"
+},
+{
+"name":"Cialix ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Tadalafil",
+"unitPrice":"Unit Price : ৳ 18.05"
+},
+{
+"name":"Cialix ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Tadalafil",
+"unitPrice":"Unit Price : ৳ 60.18"
+},
+{
+"name":"D-Star ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Capsule",
+"strange":"20000 IU",
+"ganare":"Colecalciferol (Vitamin D3)",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"D-Star ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Capsule",
+"strange":"40000 IU",
+"ganare":"Colecalciferol (Vitamin D3)",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Danafil ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 30.09"
+},
+{
+"name":"Danafil ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 18.05"
+},
+{
+"name":"Danafil ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Sildenafil Citrate",
+"unitPrice":"Unit Price : ৳ 50.15"
+},
+{
+"name":"Defungi ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.06"
+},
+{
+"name":"Defungi ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 22.16"
+},
+{
+"name":"Diacana ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Canagliflozin Hemihydrate",
+"unitPrice":"Unit Price : ৳ 60.00"
+},
+{
+"name":"Diazid ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Dmigrain ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Pizotifen",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Dmigrain ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"1.5 mg",
+"ganare":"Pizotifen",
+"unitPrice":"Unit Price : ৳ 7.02"
+},
+{
+"name":"Doxiva ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Doxiva ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Doxiva ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Syrup",
+"strange":"100 mg/5 ml",
+"ganare":"Doxophylline",
+"unitPrice":"100 ml bottle : ৳ 100.00"
+},
+{
+"name":"Empa ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Empagliflozin",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Empa ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Empagliflozin",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Erdostin ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Capsule",
+"strange":"300 mg",
+"ganare":"Erdosteine",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Esotor ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Esotor ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Esotor ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Esotor ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Etrib ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Etrib ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 12.04"
+},
+{
+"name":"Fenticona ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Vaginal Cream",
+"strange":"2%w/w",
+"ganare":"Fenticonazole Nitrate",
+"unitPrice":"30 gm tube : ৳ 195.00"
+},
+{
+"name":"Fexten ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Fexten ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Fexten ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Suspension",
+"strange":"30 mg/5 ml",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"50 ml bottle : ৳ 48.14"
+},
+{
+"name":"Fixpro ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Fixpro ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 50.34"
+},
+{
+"name":"Fixpro ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 196.33"
+},
+{
+"name":"Fixpro DS ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 280.00"
+},
+{
+"name":"Flexivan ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Flexivan ER ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Florazol ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.14"
+},
+{
+"name":"Florazol ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 24.94"
+},
+{
+"name":"Florocin ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 12.09"
+},
+{
+"name":"Florocin ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"60 ml bottle : ৳ 100.00"
+},
+{
+"name":"Flurodent ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Mouthwash",
+"strange":"0.022%",
+"ganare":"Sodium Fluoride (Mouthwash)",
+"unitPrice":"120 ml bottle : ৳ 80.00"
+},
+{
+"name":"Fluvigan ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Favipiravir",
+"unitPrice":"Unit Price : ৳ 400.00"
+},
+{
+"name":"Gastab ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.01"
+},
+{
+"name":"Gastab ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Syrup",
+"strange":"75 mg/5 ml",
+"ganare":"Ranitidine",
+"unitPrice":"100 ml bottle : ৳ 45.31"
+},
+{
+"name":"Glucomin ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Glucomin ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Halopen ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.55"
+},
+{
+"name":"Halopen ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.03"
+},
+{
+"name":"Halopen ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 60.41"
+},
+{
+"name":"Irobest ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"47 mg+0.5 mg+22.5 mg",
+"ganare":"Iron Polymaltose Complex + Folic Acid + Zinc Sulfate",
+"unitPrice":"Unit Price : ৳ 3.01"
+},
+{
+"name":"Itchlor ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Loratadine",
+"unitPrice":"Unit Price : ৳ 3.03"
+},
+{
+"name":"Itchlor ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Loratadine",
+"unitPrice":"60 ml bottle : ৳ 30.21"
+},
+{
+"name":"Lijenta ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Linagliptin",
+"unitPrice":"Unit Price : ৳ 22.00"
+},
+{
+"name":"Lijenta-M ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"2.5 mg+500 mg",
+"ganare":"Linagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Lijenta-M ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"2.5 mg+850 mg",
+"ganare":"Linagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Lijenta-M ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"2.5 mg+1000 mg",
+"ganare":"Linagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Lijenta-MX ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"2.5 mg+1000 mg",
+"ganare":"Linagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 17.00"
+},
+{
+"name":"Lijenta-MX ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"5 mg+1000 mg",
+"ganare":"Linagliptin + Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 24.00"
+},
+{
+"name":"Losarva ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Losarva ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Losarva Plus ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"50 mg+12.5 mg",
+"ganare":"Losartan Potassium + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Lovapres ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Lyrinex ",
+"company":"NIPRO JMI Pharma Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 12.00"
+},

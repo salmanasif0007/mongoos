@@ -1,0 +1,664 @@
+{
+"name":"Alugel ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"250 mg+400 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"Unit Price : ৳ 0.50"
+},
+{
+"name":"Amezol ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.25"
+},
+{
+"name":"Amezol ",
+"company":"Cosmic Pharma Limited",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 24.21"
+},
+{
+"name":"Anxitol ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Flupentixol + Melitracen",
+"unitPrice":"Unit Price : ৳ 0.40"
+},
+{
+"name":"Azitel ",
+"company":"Cosmic Pharma Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Azitel ",
+"company":"Cosmic Pharma Limited",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.00"
+},
+{
+"name":"B-Vit 4 ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.43"
+},
+{
+"name":"B-Vit 4 ",
+"company":"Cosmic Pharma Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"200 ml bottle : ৳ 38.00"
+},
+{
+"name":"Bena-Flu ",
+"company":"Cosmic Pharma Limited",
+"type":"Syrup",
+"strange":"12.5 mg/5 ml",
+"ganare":"Diphenhydramine Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 30.00"
+},
+{
+"name":"Bioderm ",
+"company":"Cosmic Pharma Limited",
+"type":"Ointment",
+"strange":"(5 mg+500 IU)/gm",
+"ganare":"Neomycin Sulfate + Bacitracin Zinc",
+"unitPrice":"15 gm tube : ৳ 32.00"
+},
+{
+"name":"Breasy ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Brodamox ",
+"company":"Cosmic Pharma Limited",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.60"
+},
+{
+"name":"Brodamox ",
+"company":"Cosmic Pharma Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 48.00"
+},
+{
+"name":"Brodamox DS ",
+"company":"Cosmic Pharma Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.75"
+},
+{
+"name":"Cetzin ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Cetzin ",
+"company":"Cosmic Pharma Limited",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"60 ml bottle : ৳ 15.00"
+},
+{
+"name":"Ciprolyn ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 6.18"
+},
+{
+"name":"Ciprolyn ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 12.30"
+},
+{
+"name":"Ciprolyn ",
+"company":"Cosmic Pharma Limited",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"60 ml bottle : ৳ 90.00"
+},
+{
+"name":"Clofen ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 0.77"
+},
+{
+"name":"Clofen TR ",
+"company":"Cosmic Pharma Limited",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 3.09"
+},
+{
+"name":"Colaz ",
+"company":"Cosmic Pharma Limited",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Albendazole",
+"unitPrice":"10 ml bottle : ৳ 18.00"
+},
+{
+"name":"Colaz ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Darmol ",
+"company":"Cosmic Pharma Limited",
+"type":"Ointment",
+"strange":"6%+3%",
+"ganare":"Benzoic Acid + Salicylic Acid",
+"unitPrice":"15 gm pack : ৳ 6.18"
+},
+{
+"name":"Dolonac ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Doxycin ",
+"company":"Cosmic Pharma Limited",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Doxycycline",
+"unitPrice":"Unit Price : ৳ 2.10"
+},
+{
+"name":"Emedom ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 1.54"
+},
+{
+"name":"Erylin ",
+"company":"Cosmic Pharma Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Etorgin ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Etorgin ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Flamzin ",
+"company":"Cosmic Pharma Limited",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Silver Sulfadiazine",
+"unitPrice":"25 gm tube : ৳ 26.00"
+},
+{
+"name":"Florixe ",
+"company":"Cosmic Pharma Limited",
+"type":"Cream",
+"strange":"5%w/w",
+"ganare":"Permethrin",
+"unitPrice":"15 gm tube : ৳ 25.00"
+},
+{
+"name":"Flumin ",
+"company":"Cosmic Pharma Limited",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Promethazine Hydrochloride",
+"unitPrice":"60 ml bottle : ৳ 18.75"
+},
+{
+"name":"Fungard ",
+"company":"Cosmic Pharma Limited",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.23"
+},
+{
+"name":"Gatilac ",
+"company":"Cosmic Pharma Limited",
+"type":"Oral Solution",
+"strange":"3.35 gm/5 ml",
+"ganare":"Lactulose",
+"unitPrice":"100 ml bottle : ৳ 98.00"
+},
+{
+"name":"Hypoten ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Ifen ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"400 mgI",
+"ganare":"buprofen",
+"unitPrice":"Unit Price : ৳ 1.41"
+},
+{
+"name":"Levocos ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 14.40"
+},
+{
+"name":"Licod-M ",
+"company":"Cosmic Pharma Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Cod Liver Oil",
+"unitPrice":"100 ml bottle : ৳ 82.00"
+},
+{
+"name":"Lixidol ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Mefalgin ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Mefenamic acid",
+"unitPrice":"Unit Price : ৳ 1.80"
+},
+{
+"name":"Mefalgin ",
+"company":"Cosmic Pharma Limited",
+"type":"Suspension",
+"strange":"50 mg/5 ml",
+"ganare":"Mefenamic acid",
+"unitPrice":"60 ml bottle : ৳ 30.00"
+},
+{
+"name":"Melafresh ",
+"company":"Cosmic Pharma Limited",
+"type":"Cream",
+"strange":"0.01%+4%+0.05%",
+"ganare":"Fluocinolone Acetonide + Hydroquinone + Tretinoin",
+"unitPrice":"30 gm tube : ৳ 190.00"
+},
+{
+"name":"Mucopront ",
+"company":"Cosmic Pharma Limited",
+"type":"Syrup",
+"strange":"4 mg/5 ml",
+"ganare":"Bromhexine Hyrdochloride",
+"unitPrice":"100 ml bottle : ৳ 31.00"
+},
+{
+"name":"Neu-3 ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Nova ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Nova ",
+"company":"Cosmic Pharma Limited",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 20.00"
+},
+{
+"name":"Nova Plus ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Odofex ",
+"company":"Cosmic Pharma Limited",
+"type":"Suspension",
+"strange":"30 mg/5 ml",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"50 ml bottle : ৳ 48.00"
+},
+{
+"name":"Odofex ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Odofex ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"180 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Optimin ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"25 mg+50 mg",
+"ganare":"Meclizine + Pyridoxine",
+"unitPrice":"Unit Price : ৳ 3.10"
+},
+{
+"name":"Peptidin ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Pevicort ",
+"company":"Cosmic Pharma Limited",
+"type":"Cream",
+"strange":"1%+0.1%",
+"ganare":"Econazole Nitrate + Triamcinolone Acetonide",
+"unitPrice":"10 gm tube : ৳ 45.00"
+},
+{
+"name":"Rabium ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Rabeprazole Sodium",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Rhinex ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Desloratadine",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Roxenole ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Roxipar ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Sparfloxacin",
+"unitPrice":"Unit Price : ৳ 15.40"
+},
+{
+"name":"Salol ",
+"company":"Cosmic Pharma Limited",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"100 ml bottle : ৳ 22.00"
+},
+{
+"name":"Sectil ",
+"company":"Cosmic Pharma Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Sectil ",
+"company":"Cosmic Pharma Limited",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Sinex ",
+"company":"Cosmic Pharma Limited",
+"type":"Ointment",
+"strange":" ",
+"ganare":"Camphor + Menthol + Oil Clove + Oil Eucalyptus + Oil Turpentine",
+"unitPrice":"10 gm tube : ৳ 12.00"
+},
+{
+"name":"Suplecal ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Suplical-D ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Suplivit-M ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Suprax ",
+"company":"Cosmic Pharma Limited",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 32.00"
+},
+{
+"name":"Suprax ",
+"company":"Cosmic Pharma Limited",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 195.00"
+},
+{
+"name":"Suprax-DS ",
+"company":"Cosmic Pharma Limited",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Surgeflox ",
+"company":"Cosmic Pharma Limited",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 6.18"
+},
+{
+"name":"Surgeflox ",
+"company":"Cosmic Pharma Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Surgeflox ",
+"company":"Cosmic Pharma Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 62.00"
+},
+{
+"name":"Timopa ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Vecarot ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"6 mg+200 mg+50 mg",
+"ganare":"Betacarotene + Vitamin C + Vitamin E",
+"unitPrice":"Unit Price : ৳ 2.57"
+},
+{
+"name":"Versal ",
+"company":"Cosmic Pharma Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Versal ",
+"company":"Cosmic Pharma Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Xpotil ",
+"company":"Cosmic Pharma Limited",
+"type":"Suspension",
+"strange":"40 mg/5 ml",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"50 ml bottle : ৳ 98.00"
+},
+{
+"name":"Zeenk ",
+"company":"Cosmic Pharma Limited",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 32.00"
+},
+{
+"name":"Zeeplex ",
+"company":"Cosmic Pharma Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Zenaf ",
+"company":"Cosmic Pharma Limited",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 6.70"
+},
+{
+"name":"Zenaf ",
+"company":"Cosmic Pharma Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 13.38"
+},
+{
+"name":"Zenaf ",
+"company":"Cosmic Pharma Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Zenaf ",
+"company":"Cosmic Pharma Limited",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cephradine",
+"unitPrice":"15 ml bottle : ৳ 55.00"
+},
+{
+"name":"Ziron-F ",
+"company":"Cosmic Pharma Limited",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},

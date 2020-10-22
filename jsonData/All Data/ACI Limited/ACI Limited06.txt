@@ -1,0 +1,293 @@
+{
+"name":"Cefot "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"1 gm/10 ml"
+"ganare":"Cefotaxime"
+"unitPrice":"1 gm vial : ৳ 132.40"
+"price":132.40
+
+},
+{
+"name":"Cefteria "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"400 mg"
+"ganare":"Ceftibuten Dihydrate"
+"unitPrice":"Unit Price : ৳ 120.00"
+"price":120.00
+
+},
+{
+"name":"Cefteria "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"90 mg/5 ml"
+"ganare":"Ceftibuten Dihydrate"
+"unitPrice":"60 ml bottle : ৳ 481.00"
+"price":481.00
+
+},
+{
+"name":"Ceftoren "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"200 mg"
+"ganare":"Cefditoren"
+"unitPrice":"Unit Price : ৳ 150.00"
+"price":150.00
+
+},
+{
+"name":"Ceftoren "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"400 mg"
+"ganare":"Cefditoren"
+"unitPrice":"Unit Price : ৳ 250.00"
+"price":250.00
+
+},
+{
+"name":"Celofen "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"100 mg"
+"ganare":"Aceclofenac"
+"unitPrice":"Unit Price : ৳ 4.01"
+"price":4.01
+
+},
+{
+"name":"Ceptiva "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"30 mcg+150 mcg"
+"ganare":"Ethinylestradiol + Desogestrel"
+"unitPrice":"Unit Price : ৳ 5.00"
+"price":5.00
+
+},
+{
+"name":"Cerox CV "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"(125 mg+31.25 mg)/5 ml"
+"ganare":"Cefuroxime Axetil + Clavulanic Acid"
+"unitPrice":"70 ml bottle : ৳ 250.75"
+"price":250.75
+
+},
+{
+"name":"Cerox CV "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"125 mg+31.25 mg"
+"ganare":"Cefuroxime Axetil + Clavulanic Acid"
+"unitPrice":"Unit Price : ৳ 21.06"
+"price":21.06
+
+},
+{
+"name":"Cerox CV "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"250 mg+62.50 mg"
+"ganare":"Cefuroxime Axetil + Clavulanic Acid"
+"unitPrice":"Unit Price : ৳ 32.00"
+"price":32.00
+
+},
+{
+"name":"Cerox CV "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"500 mg+125 mg"
+"ganare":"Cefuroxime Axetil + Clavulanic Acid"
+"unitPrice":"Unit Price : ৳ 55.00"
+"price":55.00
+
+},
+{
+"name":"Cerox-A "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Cefuroxime Axetil"
+"unitPrice":"Unit Price : ৳ 25.17"
+"price":25.17
+
+},
+{
+"name":"Cerox-A "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Cefuroxime Axetil"
+"unitPrice":"Unit Price : ৳ 45.31"
+"price":45.31
+
+},
+{
+"name":"Cerox-A "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"125 mg/5 ml"
+"ganare":"Cefuroxime Axetil"
+"unitPrice":"70 ml bottle : ৳ 199.35"
+"price":199.35
+
+},
+{
+"name":"Cerox-A "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"250 mg/vial"
+"ganare":"Cefuroxime Axetil"
+"unitPrice":"250 mg vial : ৳ 55.38"
+"price":55.38
+
+},
+{
+"name":"Cerox-A "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"750 mg/vial"
+"ganare":"Cefuroxime Axetil"
+"unitPrice":"750 mg vial : ৳ 126.12"
+"price":126.12
+
+},
+{
+"name":"Cerox-A "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"1.5 gm/vial"
+"ganare":"Cefuroxime Axetil"
+"unitPrice":"1.5 gm vial : ৳ 201.35"
+"price":201.35
+
+},
+{
+"name":"Chear "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"25 mg"
+"ganare":"Sertraline"
+"unitPrice":"Unit Price : ৳ 3.02"
+"price":3.02
+
+},
+{
+"name":"Chear "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Sertraline"
+"unitPrice":"Unit Price : ৳ 6.04"
+"price":6.04
+
+},
+{
+"name":"Chear "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"100 mg"
+"ganare":"Sertraline"
+"unitPrice":"Unit Price : ৳ 10.07"
+"price":10.07
+
+},
+{
+"name":"Chrocee "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"200 mg"
+"ganare":"Ribavirin"
+"unitPrice":"Unit Price : ৳ 35.00"
+"price":35.00
+
+},
+{
+"name":"Ciaton "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Tadalafil"
+"unitPrice":"Unit Price : ৳ 18.05"
+"price":18.05
+
+},
+{
+"name":"Ciaton "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Tadalafil"
+"unitPrice":"Unit Price : ৳ 35.11"
+"price": 35.11
+
+},
+{
+"name":"Ciaton "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Tadalafil"
+"unitPrice":"Unit Price : ৳ 60.18"
+"price":60.18
+},
+{
+"name":"Cilocab "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Cilnidipine"
+"unitPrice":"Unit Price : ৳ 9.00"
+"price":9.00
+},
+{
+"name":"Cilocab "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Cilnidipine"
+"unitPrice":"Unit Price : ৳ 7.00"
+"price": 7.00
+},
+{
+"name":"Cinemet CR "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"200 mg+50 mg"
+"ganare":"Levodopa + Carbidopa"
+"unitPrice":"Unit Price : ৳ 12.50"
+"price":12.50
+},
+{
+"name":"Citalam "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Escitalopram"
+"unitPrice":"Unit Price : ৳ 7.00"
+"price":7.00
+},
+{
+"name":"Citalam "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Escitalopram"
+"unitPrice":"Unit Price : ৳ 12.00"
+"price":12.00
+},
+{
+"name":"Citazar "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Levetiracetam"
+"unitPrice":"Unit Price : ৳ 15.11"
+"price":15.11
+},

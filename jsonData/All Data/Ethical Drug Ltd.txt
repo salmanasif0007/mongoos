@@ -1,0 +1,728 @@
+{
+"name":"Alargol ",
+"company":"Ethical Drug Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"60 ml bottle : ৳ 25.00"
+},
+{
+"name":"Alargol ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Albol-DS ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Ambeet ",
+"company":"Ethical Drug Ltd",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 35.00"
+},
+{
+"name":"Ambeet ",
+"company":"Ethical Drug Ltd",
+"type":"Capsule",
+"strange":"75 mg",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Cal-aid ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Casyn ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Conazol-T ",
+"company":"Ethical Drug Ltd",
+"type":"Cream",
+"strange":"1%+0.1%",
+"ganare":"Econazole Nitrate + Triamcinolone Acetonide",
+"unitPrice":"10 gm tube : ৳ 40.00"
+},
+{
+"name":"Cortucin-N ",
+"company":"Ethical Drug Ltd",
+"type":"Cream",
+"strange":"0.1%+0.5%",
+"ganare":"Betamethasone + Neomycin Sulphate (Topical)",
+"unitPrice":"5 gm tube : ৳ 18.00"
+},
+{
+"name":"Covit-M ",
+"company":"Ethical Drug Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin (Adult preparation)",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Crotam Plus ",
+"company":"Ethical Drug Ltd",
+"type":"Lotion",
+"strange":"5%+10%",
+"ganare":"Permethrin + Crotamiton",
+"unitPrice":"60 ml bottle : ৳ 100.00"
+},
+{
+"name":"E-Hexin ",
+"company":"Ethical Drug Ltd",
+"type":"Syrup",
+"strange":"4 mg/5 ml",
+"ganare":"Bromhexine Hyrdochloride",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"E-Hexin ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"8 mg",
+"ganare":"Bromhexine Hyrdochloride",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"E-Reb ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Rabeprazole Sodium",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Ecal-D3 ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Efloxin ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Efloxin ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 7.50"
+},
+{
+"name":"Efloxin ",
+"company":"Ethical Drug Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"60 ml bottle : ৳ 90.00"
+},
+{
+"name":"Efloxin ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"750 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 18.00"
+},
+{
+"name":"Ehexin ",
+"company":"Ethical Drug Ltd",
+"type":"Syrup",
+"strange":"4 mg/5 ml",
+"ganare":"Bromhexine Hyrdochloride",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Elocef ",
+"company":"Ethical Drug Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Elocef ",
+"company":"Ethical Drug Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 13.00"
+},
+{
+"name":"Elocef ",
+"company":"Ethical Drug Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Emoxil ",
+"company":"Ethical Drug Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.10"
+},
+{
+"name":"Emoxil ",
+"company":"Ethical Drug Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Emoxil ",
+"company":"Ethical Drug Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"15 ml bottle : ৳ 28.00"
+},
+{
+"name":"Emoxil ",
+"company":"Ethical Drug Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 47.00"
+},
+{
+"name":"Enystin ",
+"company":"Ethical Drug Ltd",
+"type":"Suspension",
+"strange":"100000 unit/ml",
+"ganare":"Nystatin (Oral)",
+"unitPrice":"12 ml bottle : ৳ 23.00"
+},
+{
+"name":"Ethibion ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Ethidin ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.15"
+},
+{
+"name":"Ethifen ",
+"company":"Ethical Drug Ltd",
+"type":"Syrup",
+"strange":"1 mg/5 ml",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Ethifen ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Ethiplex ",
+"company":"Ethical Drug Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 35.00"
+},
+{
+"name":"Ethiplex-Z ",
+"company":"Ethical Drug Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Ethiplex-Z ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B Complex + Zinc",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Ethiplex-ZI ",
+"company":"Ethical Drug Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"Ethivit-B ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.77"
+},
+{
+"name":"Ethivit-M ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Eurix ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Eurix ",
+"company":"Ethical Drug Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"70 ml bottle : ৳ 190.00"
+},
+{
+"name":"Evit-C ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Vitamin C (Ascorbic acid)",
+"unitPrice":"Unit Price : ৳ 1.90"
+},
+{
+"name":"F-Gurd ",
+"company":"Ethical Drug Ltd",
+"type":"Cream",
+"strange":"0.1%+1%",
+"ganare":"Betamethasone + Clotrimazole",
+"unitPrice":"10 gm tube : ৳ 35.00"
+},
+{
+"name":"Falcon ",
+"company":"Ethical Drug Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Falcon ",
+"company":"Ethical Drug Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 22.00"
+},
+{
+"name":"Flunid ",
+"company":"Ethical Drug Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Flunid ",
+"company":"Ethical Drug Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Flunid ",
+"company":"Ethical Drug Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 58.00"
+},
+{
+"name":"Folex Plus ",
+"company":"Ethical Drug Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Gaspain ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Gaspain ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Gaspro ",
+"company":"Ethical Drug Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Gaspro ",
+"company":"Ethical Drug Ltd",
+"type":"Injection",
+"strange":"40 mg/vial",
+"ganare":"Esomeprazole",
+"unitPrice":"40 mg vial : ৳ 90.00"
+},
+{
+"name":"Gaspro ",
+"company":"Ethical Drug Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Gastril ",
+"company":"Ethical Drug Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Gastril ",
+"company":"Ethical Drug Ltd",
+"type":"Injection",
+"strange":"40 mg/vial",
+"ganare":"Omeprazole",
+"unitPrice":"40 mg vial : ৳ 70.00"
+},
+{
+"name":"Geriton-MD ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Calcium Carbonate + Vitamin D3 + Multimineral",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Gold A-Z ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z gold preparation)",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"K-Lac ",
+"company":"Ethical Drug Ltd",
+"type":"Injection",
+"strange":"60 mg/2 ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"2 ml ampoule : ৳ 92.50"
+},
+{
+"name":"K-Lac ",
+"company":"Ethical Drug Ltd",
+"type":"Injection",
+"strange":"30 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 55.00"
+},
+{
+"name":"K-Lac ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"L-Sol ",
+"company":"Ethical Drug Ltd",
+"type":"Syrup",
+"strange":"1 mg/5 ml",
+"ganare":"Levosalbutamol (Oral)",
+"unitPrice":"60 ml bottle : ৳ 30.00"
+},
+{
+"name":"L-Sol ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Levosalbutamol (Oral)",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Levosafe ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Maclid ",
+"company":"Ethical Drug Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Maclid ",
+"company":"Ethical Drug Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Maclid ",
+"company":"Ethical Drug Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 90.00"
+},
+{
+"name":"Magalcon Plus ",
+"company":"Ethical Drug Ltd",
+"type":"Suspension",
+"strange":"(480 mg+20 mg)/5 ml",
+"ganare":"Magaldrate + Simethicone",
+"unitPrice":"200 ml bottle : ৳ 100.00"
+},
+{
+"name":"Melit ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Flupentixol + Melitracen",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Motilium ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Motilium ",
+"company":"Ethical Drug Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 35.00"
+},
+{
+"name":"Nebs ",
+"company":"Ethical Drug Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 21.00"
+},
+{
+"name":"Nebs Plus ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Nilicon ",
+"company":"Ethical Drug Ltd",
+"type":"Injection",
+"strange":"2 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"2 gm vial : ৳ 300.00"
+},
+{
+"name":"Nilicon ",
+"company":"Ethical Drug Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 180.00"
+},
+{
+"name":"Nilicon ",
+"company":"Ethical Drug Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 120.00"
+},
+{
+"name":"Nilicon ",
+"company":"Ethical Drug Ltd",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"250 mg vial : ৳ 90.00"
+},
+{
+"name":"Nilicon ",
+"company":"Ethical Drug Ltd",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"250 mg vial : ৳ 90.00"
+},
+{
+"name":"Niz ",
+"company":"Ethical Drug Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Nitazoxanide",
+"unitPrice":"30 ml bottle : ৳ 35.00"
+},
+{
+"name":"Niz ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Nitazoxanide",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Odessy ",
+"company":"Ethical Drug Ltd",
+"type":"Shampoo",
+"strange":"2%",
+"ganare":"Ketoconazole",
+"unitPrice":"60 ml bottle : ৳ 165.00"
+},
+{
+"name":"Probet ",
+"company":"Ethical Drug Ltd",
+"type":"Cream",
+"strange":"0.05%",
+"ganare":"Clobetasol Propionate",
+"unitPrice":"10 gm tube : ৳ 45.00"
+},
+{
+"name":"Rispain Plus ",
+"company":"Ethical Drug Ltd",
+"type":"Injection",
+"strange":"(75 mg+20 mg)/2 ml",
+"ganare":"Diclofenac Sodium + Lidocaine Hydrochloride",
+"unitPrice":"2 ml ampoule : ৳ 14.00"
+},
+{
+"name":"Save Gurd ",
+"company":"Ethical Drug Ltd",
+"type":"Ointment",
+"strange":"(5 mg+500 IU)/gm",
+"ganare":"Neomycin Sulfate + Bacitracin Zinc",
+"unitPrice":"10 gm tube : ৳ 20.00"
+},
+{
+"name":"Supoxim ",
+"company":"Ethical Drug Ltd",
+"type":"Suspension",
+"strange":"40 mg/5 ml",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"50 ml bottle : ৳ 98.00"
+},
+{
+"name":"Trixim ",
+"company":"Ethical Drug Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Trixim ",
+"company":"Ethical Drug Ltd",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Trixim ",
+"company":"Ethical Drug Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 190.00"
+},
+{
+"name":"Tyvas ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Ventair ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Ventair ",
+"company":"Ethical Drug Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Zifort ",
+"company":"Ethical Drug Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 30.00"
+},

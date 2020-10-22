@@ -1,0 +1,440 @@
+{
+"name":"Acelon ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Albazol DS ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Antrin ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Arigram ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Azitor ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Azitor ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"35 ml bottle : ৳ 140.00"
+},
+{
+"name":"Benzalic ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Ointment",
+"strange":"6%+3%",
+"ganare":"Benzoic Acid + Salicylic Acid",
+"unitPrice":"20 gm tube : ৳ 14.00"
+},
+{
+"name":"C-BZ ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"C-Zinc ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 30.00"
+},
+{
+"name":"Cedol ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Cedol ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 22.00"
+},
+{
+"name":"Cemoxin ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.40"
+},
+{
+"name":"Cemoxin ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.50"
+},
+{
+"name":"Cemoxin ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Cenet ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 1.60"
+},
+{
+"name":"Centagan ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"100 ml bottle : ৳ 12.00"
+},
+{
+"name":"Centamol ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.90"
+},
+{
+"name":"Centamol ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.55"
+},
+{
+"name":"Centamol ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 16.00"
+},
+{
+"name":"Central Gold ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z gold preparation)",
+"unitPrice":"Unit Price : ৳ 6.50"
+},
+{
+"name":"Ceodin ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Cofdil ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"(30 mg+100 mg+1.25 mg)/5 ml",
+"ganare":"Pseudoephedrine + Guaiphenasine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"Cytaplex ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.55"
+},
+{
+"name":"Cytaplex ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"200 ml bottle : ৳ 37.60"
+},
+{
+"name":"Cytaplex-M ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Cytocid ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"250 mg+400 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"Unit Price : ৳ 0.50"
+},
+{
+"name":"Cytocid ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"(175 mg+225 mg)/5 ml",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"200 ml bottle : ৳ 32.00"
+},
+{
+"name":"Diclon ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Eye Drop",
+"strange":"0.1%",
+"ganare":"Diclofenac Sodium (Eye Drops)",
+"unitPrice":"5 ml drop : ৳ 78.50"
+},
+{
+"name":"Diclon SR ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Dos ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+ {
+"name":"DP-Done ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"DP-Done ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 28.00"
+},
+{
+"name":"Easy ORS ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Powder",
+"strange":"19.95 gm",
+"ganare":"Oral Rehydration Salt (Powder)",
+"unitPrice":"Unit Price : ৳ 4.58"
+},
+{
+"name":"Easy ORS ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Powder",
+"strange":" ",
+"ganare":"Oral Rehydration Salt (Rice Based)",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Ferofol-Z ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 2.90"
+},
+{
+"name":"Flujale ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"GL-80 ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Iben ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"400 mgI",
+"ganare":"buprofen",
+"unitPrice":"Unit Price : ৳ 1.30"
+},
+{
+"name":"Isoflu ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Isoflu ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Karbon ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Carbonyl Iron + FolicAcid + Vitamin-B Complex + Vitamin C + Zinc",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"KPR ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"M Boss ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"M-Form ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"850 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Neoflox ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Neopep ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"OC-20 ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"OST ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"PC-20 ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Penclox ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cloxacillin",
+"unitPrice":"Unit Price : ৳ 5.80"
+},
+{
+"name":"Penclox ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cloxacillin",
+"unitPrice":"100 ml bottle : ৳ 43.00"
+},
+{
+"name":"Perex ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"6 mg+200 mg+50 mg",
+"ganare":"Betacarotene + Vitamin C + Vitamin E",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"PGT ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Pioglitazone",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Ventol ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"60 ml bottle : ৳ 10.50"
+},
+{
+"name":"Vita-C ",
+"company":"Central Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Vitamin C (Ascorbic acid)",
+"unitPrice":"Unit Price : ৳ 1.30"
+},

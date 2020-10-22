@@ -1,0 +1,2216 @@
+{
+"name":"Acebid ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Acupain ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.06"
+},
+{
+"name":"Acupain ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"30 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 55.20"
+},
+{
+"name":"Agotin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Agomelatine",
+"unitPrice":"Unit Price : ৳ 50.15"
+},
+{
+"name":"Alertadin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Desloratadine",
+"unitPrice":"Unit Price : ৳ 2.51"
+},
+{
+"name":"Allion ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z gold preparation)",
+"unitPrice":"Unit Price : ৳ 9.50"
+},
+{
+"name":"Alvenor ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"900 mg+100 mg",
+"ganare":"Micronised Diosmin + Hesperidin",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Alvenor ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"450 mg+50 mg",
+"ganare":"Micronised Diosmin + Hesperidin",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Amekast ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Amekast ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Amekast ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 15.05"
+},
+{
+"name":"Amlocom ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg+25 mg",
+"ganare":"Amlodipine + Atenolol",
+"unitPrice":"Unit Price : ৳ 4.52"
+},
+{
+"name":"Amlowide ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 3.02"
+},
+{
+"name":"Amlozep ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"5 mg+10 mg",
+"ganare":"Amlodipine + Benazepril Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.04"
+},
+{
+"name":"Amovast ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg+10 mg",
+"ganare":"Amlodipine + Atorvastatin",
+"unitPrice":"Unit Price : ৳ 11.07"
+},
+{
+"name":"Anastrol ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Anastrozole",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Arsenor ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Apremilast",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Arsenor ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Apremilast",
+"unitPrice":"Unit Price : ৳ 60.00"
+},
+{
+"name":"Axinix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Axitinib",
+"unitPrice":"Unit Price : ৳ 1000.00"
+},
+{
+"name":"Axinix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Axitinib",
+"unitPrice":"Unit Price : ৳ 500.00"
+},
+{
+"name":"Becovir ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Tenofovir Disoproxil Fumarate",
+"unitPrice":"Unit Price : ৳ 85.26"
+},
+{
+"name":"Bendamax ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"25 mg/vial",
+"ganare":"Bendamustine",
+"unitPrice":"25 mg vial : ৳ 1200.00"
+},
+{
+"name":"Bevastim ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"400 mg/16 ml",
+"ganare":"Bevacizumab",
+"unitPrice":"400 mg vial : ৳ 74000.00"
+},
+{
+"name":"Bevastim ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"100 mg/4 ml",
+"ganare":"Bevacizumab",
+"unitPrice":"100 mg vial : ৳ 18560.00"
+},
+{
+"name":"Bical ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Bicalutamide",
+"unitPrice":"Unit Price : ৳ 80.00"
+},
+{
+"name":"BioBran ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Granules",
+"strange":"1 gm/sachet",
+"ganare":"Arabinoxylan",
+"unitPrice":"1 gm sachet : ৳ 500.00"
+},
+{
+"name":"BioBran ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Arabinoxylan",
+"unitPrice":"Unit Price : ৳ 100.00"
+},
+{
+"name":"Bleonix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"120 mg/vial",
+"ganare":"Bleomycin Sulfate",
+"unitPrice":"120 mg vial : ৳ 1500.00"
+},
+{
+"name":"Bortez ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"2 gm/vial",
+"ganare":"Bortezomib",
+"unitPrice":"2 gm vial : ৳ 12000.00"
+},
+{
+"name":"Bortez ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 mg/vial",
+"ganare":"Bortezomib",
+"unitPrice":"1 mg vial : ৳ 7500.00"
+},
+{
+"name":"Bukof ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Butamirate Citrate",
+"unitPrice":"Unit Price : ৳ 10.03"
+},
+{
+"name":"Bukof ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"7.5 mg/5 ml",
+"ganare":"Butamirate Citrate",
+"unitPrice":"100 ml bottle : ৳ 80.24"
+},
+{
+"name":"Cabozanix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Cabozantinib",
+"unitPrice":"Unit Price : ৳ 25.47"
+},
+{
+"name":"Cabozanix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"80 mg",
+"ganare":"Cabozantinib",
+"unitPrice":"Unit Price : ৳ 67.41"
+},
+{
+"name":"Carboplat ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"10 mg/ml",
+"ganare":"Carboplatin",
+"unitPrice":"150 mg vial : ৳ 1400.00"
+},
+{
+"name":"Cardisan ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Cardisan Plus ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg+12.5 mg",
+"ganare":"Losartan Potassium + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Caviral ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Entecavir",
+"unitPrice":"Unit Price : ৳ 60.18"
+},
+{
+"name":"Cetuxim ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"5 mg/ml",
+"ganare":"Cetuximab",
+"unitPrice":"100 mg vial : ৳ 25000.00"
+},
+{
+"name":"Combiplat ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"75 mg+75 mg",
+"ganare":"Clopidogrel + Aspirin",
+"unitPrice":"Unit Price : ৳ 11.07"
+},
+{
+"name":"Copeg ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Ribavirin",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"CoQ ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"30 mg",
+"ganare":"Coenzyme Q10 (Ubidecarenone)",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"CoQ ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"60 mg",
+"ganare":"Coenzyme Q10 (Ubidecarenone)",
+"unitPrice":"Unit Price : ৳ 15.05"
+},
+{
+"name":"Coxitor ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Coxitor ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 7.05"
+},
+{
+"name":"Coxitor ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 12.08"
+},
+{
+"name":"Criston ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 mg/vail",
+"ganare":"Vincristine Sulfate",
+"unitPrice":"1 mg vial : ৳ 350.00"
+},
+{
+"name":"Criston ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"2 mg/vail",
+"ganare":"Vincristine Sulfate",
+"unitPrice":"2 mg vial : ৳ 580.00"
+},
+{
+"name":"Crizonix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Crizotinib",
+"unitPrice":"Unit Price : ৳ 2000.00"
+},
+{
+"name":"Cyclotox ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Cyclophosphamide",
+"unitPrice":"1 gm vial : ৳ 650.00"
+},
+{
+"name":"Cyclotox ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"200 mg/vial",
+"ganare":"Cyclophosphamide",
+"unitPrice":"200 mg vial : ৳ 180.00"
+},
+{
+"name":"Cytabin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"100 mg/ml",
+"ganare":"Cytarabine",
+"unitPrice":"100 mg vial : ৳ 180.00"
+},
+{
+"name":"Dacarzin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"200 mg/vial",
+"ganare":"Dacarbazine",
+"unitPrice":"200 mg vial : ৳ 1000.00"
+},
+{
+"name":"Daclavir ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Daclatasvir",
+"unitPrice":"Unit Price : ৳ 400.00"
+},
+{
+"name":"Dapawin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Dapagliflozin Propanediol",
+"unitPrice":"Unit Price : ৳ 16.00"
+},
+{
+"name":"Dapotin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Dapoxetine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 30.09"
+},
+{
+"name":"Darbesis ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"25 mcg/0.42 ml",
+"ganare":"Darbepoetin Alfa",
+"unitPrice":"25 mcg prefilled syringe : ৳ 2840.00"
+},
+{
+"name":"Darbesis ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"40 mcg/0.4 ml",
+"ganare":"Darbepoetin Alfa",
+"unitPrice":"40 mcg pre-filled syringe : ৳ 4545.00"
+},
+{
+"name":"Darbesis ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"60 mcg/0.3 ml",
+"ganare":"Darbepoetin Alfa",
+"unitPrice":"60 mcg pre-filled syringe : ৳ 5505.00"
+},
+{
+"name":"Darvoni ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"60 mg+400 mg",
+"ganare":"Daclatasvir + Sofosbuvir",
+"unitPrice":"Unit Price : ৳ 1000.00"
+},
+{
+"name":"Dasanix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Dasatinib",
+"unitPrice":"Unit Price : ৳ 80.00"
+},
+{
+"name":"Dasanix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Dasatinib",
+"unitPrice":"Unit Price : ৳ 400.00"
+},
+{
+"name":"Dasanix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Dasatinib",
+"unitPrice":"Unit Price : ৳ 200.00"
+},
+{
+"name":"Daykof ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"(100 mg+1.1 mg+14 mg) / 5 ml",
+"ganare":"Guaifenesin + Levomenthol + Diphenhydramine",
+"unitPrice":"100 ml bottle : ৳ 80.24"
+},
+{
+"name":"Diacer Plus ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"750 mg+50 mg",
+"ganare":"Glucosamine Sulphate + Diacerein",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Docexan ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"20 mg/vial",
+"ganare":"Docetaxel Trihydrate",
+"unitPrice":"20 mg vial : ৳ 3200.00"
+},
+{
+"name":"Docexan ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"80 mg/vial",
+"ganare":"Docetaxel Trihydrate",
+"unitPrice":"80 mg vial : ৳ 11000.00"
+},
+{
+"name":"Dorakid ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Cod Liver Oil",
+"unitPrice":"100 ml bottle : ৳ 100.00"
+},
+{
+"name":"Doxoven ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Doxoven ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"100 mg/5 ml",
+"ganare":"Doxophylline",
+"unitPrice":"100 ml bottle : ৳ 100.00"
+},
+{
+"name":"Doxoven ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Duratocin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"100 mcg/ml",
+"ganare":"Carbetocin",
+"unitPrice":"1 ml ampoule : ৳ 150.45"
+},
+{
+"name":"Eparin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"60 mg/0.6 ml",
+"ganare":"Enoxaparin Sodium",
+"unitPrice":"0.6 ml pre-filled syringe : ৳ 576.73"
+},
+{
+"name":"Eposis ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"10000 IU/ml",
+"ganare":"Erythropoietin",
+"unitPrice":"10000 IU prefilled syringe : ৳ 4000.00"
+},
+{
+"name":"Eposis ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"4000 IU/0.4 ml",
+"ganare":"Erythropoietin",
+"unitPrice":"4000 IU pre-filled syringe : ৳ 1935.80"
+},
+{
+"name":"Eposis ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"2000 IU/0.5 ml",
+"ganare":"Erythropoietin",
+"unitPrice":"2000 IU pre-filled syringe : ৳ 1028.08"
+},
+{
+"name":"Eposis ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"3000 IU/0.75 ml",
+"ganare":"Erythropoietin",
+"unitPrice":"3000 IU pre-filled syringe : ৳ 1484.45"
+},
+{
+"name":"Eposis ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"5000 IU/0.5 ml",
+"ganare":"Erythropoietin",
+"unitPrice":"5000 IU pre-filled syringe : ৳ 2166.50"
+},
+{
+"name":"Eptase ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1.5 million unit",
+"ganare":"Streptokinase",
+"unitPrice":"1.5 million unit vial : ৳ 4500.00"
+},
+{
+"name":"Erlonix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Erlotinib",
+"unitPrice":"Unit Price : ৳ 600.00"
+},
+{
+"name":"Erlonix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Erlotinib",
+"unitPrice":"Unit Price : ৳ 750.00"
+},
+{
+"name":"Erubin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"2 mg/ml",
+"ganare":"Epirubicin Hydrochloride",
+"unitPrice":"10 mg vial : ৳ 915.00"
+},
+{
+"name":"Esoprex ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"40 mg/vial",
+"ganare":"Esomeprazole",
+"unitPrice":"40 mg vial : ৳ 100.30"
+},
+{
+"name":"Esoprex",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":" ",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Esoprex",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":" ",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Esoprex ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 7.02"
+},
+{
+"name":"Esoprex ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 9.03"
+},
+{
+"name":"ETP ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Eltrombopag Olamine",
+"unitPrice":"Unit Price : ৳ 511.33"
+},
+{
+"name":"ETP ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Eltrombopag Olamine",
+"unitPrice":"Unit Price : ৳ 909.02"
+},
+{
+"name":"Fap ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Fap Plus ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.92"
+},
+{
+"name":"Fapdol ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"325 mg+37.5 mg",
+"ganare":"Paracetamol + Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Favipir ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Favipiravir",
+"unitPrice":"Unit Price : ৳ 400.00"
+},
+{
+"name":"Filgrast ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"300 mcg/0.5 ml",
+"ganare":"Filgrastim",
+"unitPrice":"300 mcg prefilled syringe : ৳ 2500.00"
+},
+{
+"name":"Fixvel ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg+100 mg",
+"ganare":"Sofosbuvir + Velpatasvir",
+"unitPrice":"Unit Price : ৳ 1000.00"
+},
+{
+"name":"Flexibac ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Baclofen",
+"unitPrice":"100 ml bottle : ৳ 100.00"
+},
+{
+"name":"Flexibac ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Flexibac ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Flexibac ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 20.06"
+},
+{
+"name":"Fluroxan ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"25 mg/ml",
+"ganare":"5-Fluorouracil (5-FU)",
+"unitPrice":"250 mg vial : ৳ 60.00"
+},
+{
+"name":"Folinex ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"50 mg/5 ml",
+"ganare":"Calcium Folinate (Folinic Acid)",
+"unitPrice":"5 ml vial : ৳ 500.00"
+},
+{
+"name":"Furo Plus ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg+50 mg",
+"ganare":"Furosemide + Spironolactone",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"FXR ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Obeticholic Acid",
+"unitPrice":"Unit Price : ৳ 55.00"
+},
+{
+"name":"FXR ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Obeticholic Acid",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Gabamax ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Gabapentin",
+"unitPrice":"Unit Price : ৳ 16.11"
+},
+{
+"name":"Gastroloc ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Gaviflux ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(500 mg+267 mg+160 mg) /10 ml",
+"ganare":"Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+"unitPrice":"200 ml bottle : ৳ 250.00"
+},
+{
+"name":"Gefinix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Gefitinib",
+"unitPrice":"Unit Price : ৳ 250.00"
+},
+{
+"name":"Gemif ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"320 mg",
+"ganare":"Gemifloxacin",
+"unitPrice":"Unit Price : ৳ 65.20"
+},
+{
+"name":"Gemoxen ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Gemcitabine",
+"unitPrice":"1 gm vial : ৳ 5000.00"
+},
+{
+"name":"Gemoxen ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"200 mg/vial",
+"ganare":"Gemcitabine",
+"unitPrice":"200 mg vial : ৳ 1400.00"
+},
+{
+"name":"Heparon ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"25000 IU/5 ml",
+"ganare":"Heparin Sodium",
+"unitPrice":"5 ml vial : ৳ 397.72"
+},
+{
+"name":"Hernix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Neratinib",
+"unitPrice":"Unit Price : ৳ 56.99"
+},
+{
+"name":"Hexinor ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Trihexyphenidyl Hydrochloride",
+"unitPrice":"Unit Price : ৳ 5.25"
+},
+{
+"name":"Hexinor ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Trihexyphenidyl Hydrochloride",
+"unitPrice":"Unit Price : ৳ 11.00"
+},
+{
+"name":"Hexinor ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Trihexyphenidyl Hydrochloride",
+"unitPrice":"50 ml bottle : ৳ 100.00"
+},
+{
+"name":"Hexinor ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Trihexyphenidyl Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Humphry ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Calcium Orotate Dihydrate",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Humphry ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"740 mg",
+"ganare":"Calcium Orotate Dihydrate",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Hydronix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Hydroxyurea",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Ibrutix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"140 mgI",
+"ganare":"brutinib",
+"unitPrice":"Unit Price : ৳ 1326.00"
+},
+{
+"name":"Ifomes ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"400 mg/4 ml",
+"ganare":"Mesna",
+"unitPrice":"4 ml ampoule : ৳ 190.00"
+},
+{
+"name":"Ilodon ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Iloperidone",
+"unitPrice":"Unit Price : ৳ 2.01"
+},
+{
+"name":"Ilodon ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"6 mg",
+"ganare":"Iloperidone",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Imanix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Imatinib Mesylate",
+"unitPrice":"Unit Price : ৳ 100.00"
+},
+{
+"name":"Imanix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Imatinib Mesylate",
+"unitPrice":"Unit Price : ৳ 320.00"
+},
+{
+"name":"Infusol ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"5%",
+"ganare":"Dextrose",
+"unitPrice":"500 ml bottle : ৳ 125.38"
+},
+{
+"name":"Infusol Plus ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"0.9%+5%",
+"ganare":"Sodium Chloride + Dextrose",
+"unitPrice":"500 ml bottle : ৳ 126.00"
+},
+{
+"name":"Interon ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"4.5 MIU/0.5 ml",
+"ganare":"Interferon Alfa-2a (Recombinant)",
+"unitPrice":"4.5 MIU vial : ৳ 1200.00"
+},
+{
+"name":"Irinox ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"20 mg/ml",
+"ganare":"Irinotecan Hydrochloride",
+"unitPrice":"40 mg vial : ৳ 2000.00"
+},
+{
+"name":"Jaktor ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Tofacitinib",
+"unitPrice":"Unit Price : ৳ 48.00"
+},
+{
+"name":"Jaktor XR ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"11 mg",
+"ganare":"Tofacitinib",
+"unitPrice":"Unit Price : ৳ 75.00"
+},
+{
+"name":"Kidcef ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"40 mg/5 ml",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"50 ml bottle : ৳ 98.67"
+},
+{
+"name":"Lapanix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Lapatinib",
+"unitPrice":"Unit Price : ৳ 154.81"
+},
+{
+"name":"Lenvanix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"4 mg",
+"ganare":"Lenvatinib",
+"unitPrice":"30 capsule in a bottle : ৳ 542.40"
+},
+{
+"name":"Lenvanix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"10 mg",
+"ganare":"Lenvatinib",
+"unitPrice":"30 capsule in a bottle : ৳ 1019.40"
+},
+{
+"name":"Leukin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Mercaptopurine",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Levofed ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"2 mg/2 ml",
+"ganare":"Norepinephrine",
+"unitPrice":"2 ml ampoule : ৳ 250.00"
+},
+{
+"name":"Lexel ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Letrozole",
+"unitPrice":"Unit Price : ৳ 40.00"
+},
+{
+"name":"Linamide ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"10 mg",
+"ganare":"Lenalidomide",
+"unitPrice":"Unit Price : ৳ 200.00"
+},
+{
+"name":"Linamide ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"25 mg",
+"ganare":"Lenalidomide",
+"unitPrice":"Unit Price : ৳ 400.00"
+},
+{
+"name":"Lipofit ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"10%",
+"ganare":"Intravenous Fat Emulsion",
+"unitPrice":"500 ml bottle : ৳ 1100.00"
+},
+{
+"name":"Liqu-E ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Vitamin E (Alpha Tocopherol Acetate)",
+"unitPrice":"30 capsule in a bottle : ৳ 120.60"
+},
+{
+"name":"Liquical ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"0.25 mcg",
+"ganare":"Calcitriol",
+"unitPrice":"Unit Price : ৳ 10.06"
+},
+{
+"name":"Liqumint ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"0.2 ml",
+"ganare":"Peppermint Oil",
+"unitPrice":"Unit Price : ৳ 7.05"
+},
+{
+"name":"Lubilax ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"8 mcg",
+"ganare":"Lubiprostone",
+"unitPrice":"Unit Price : ৳ 15.05"
+},
+{
+"name":"Lubilax ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"24 mcg",
+"ganare":"Lubiprostone",
+"unitPrice":"Unit Price : ৳ 40.12"
+},
+{
+"name":"Maxtra ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.4 mg",
+"ganare":"Tamsulosin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Medrina ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Medroxyprogesterone Acetate",
+"unitPrice":"Unit Price : ৳ 4.70"
+},
+{
+"name":"Merocon ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Meropenem Trihydrate",
+"unitPrice":"500 mg vial : ৳ 702.11"
+},
+{
+"name":"Merocon ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Meropenem Trihydrate",
+"unitPrice":"1 gm vial : ৳ 1303.91"
+},
+{
+"name":"Mezest ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"160 mg",
+"ganare":"Megestrol Acetate",
+"unitPrice":"Unit Price : ৳ 90.00"
+},
+{
+"name":"Mezest ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Megestrol Acetate",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Migratol ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Tolfenamic acid",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Milran ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"12.5 mg",
+"ganare":"Milnacipran Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.02"
+},
+{
+"name":"Milran ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Milnacipran Hydrochloride",
+"unitPrice":"Unit Price : ৳ 15.05"
+},
+{
+"name":"Mirapin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Mirtazapine",
+"unitPrice":"Unit Price : ৳ 9.03"
+},
+{
+"name":"Nab-Xelpac ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"100 mg/vial",
+"ganare":"Nab-Paclitaxel (Nanoparticle Albumin-Bound Paclitaxel)",
+"unitPrice":"100 mg vial : ৳ 25000.00"
+},
+{
+"name":"Noburn ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Nytkof ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"(10 mg+30 mg+1.25 mg)/5 ml",
+"ganare":"Dextromethorphan + Pseudoephedrine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 100.00"
+},
+{
+"name":"Olanor ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Olanzapine",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Olanor ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Olanzapine",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Olaparix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Olaparib",
+"unitPrice":"Unit Price : ৳ 487.50"
+},
+{
+"name":"Olaparix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Olaparib",
+"unitPrice":"Unit Price : ৳ 1540.00"
+},
+{
+"name":"Oliver ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"L-Ornithine L-Aspartate",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Ovocal-D ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Egg Sheel) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Ovocal-DX ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"600 mg+400 IU",
+"ganare":"Calcium Carbonate (Egg Sheel) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Palbonix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Palbociclib",
+"unitPrice":"21 capsule pot : ৳ 27384.00"
+},
+{
+"name":"Palbonix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"125 mg",
+"ganare":"Palbociclib",
+"unitPrice":"21 capsule pot : ৳ 2849.91"
+},
+{
+"name":"Paloxi ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Palonosetron",
+"unitPrice":"Unit Price : ৳ 20.06"
+},
+{
+"name":"Paloxi ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Palonosetron",
+"unitPrice":"Unit Price : ৳ 22.00"
+},
+{
+"name":"Paloxi ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"0.5 mg",
+"ganare":"Palonosetron",
+"unitPrice":"Unit Price : ৳ 22.00"
+},
+{
+"name":"Paloxi ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"0.075 mg/1.5 ml",
+"ganare":"Palonosetron",
+"unitPrice":"1.5 ml ampoule : ৳ 75.23"
+},
+{
+"name":"Paloxi ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"0.25 mg/5 ml",
+"ganare":"Palonosetron",
+"unitPrice":"5 ml ampoule : ৳ 100.30"
+},
+{
+"name":"Paraciv ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"10 mg/ml",
+"ganare":"Paracetamol (IV Infusion)",
+"unitPrice":"100 ml bottle : ৳ 120.36"
+},
+{
+"name":"Pegfilgrast ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"6 mg/0.6 ml",
+"ganare":"Pegfilgrastim (Pegylated Filgrastim)",
+"unitPrice":"0.6 ml prefilled syringe : ৳ 18000.00"
+},
+{
+"name":"Pegin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"180 mcg/0.5 ml",
+"ganare":"Peginterferon alfa-2a (Pegylated Interferon alfa-2a)",
+"unitPrice":"0.5 ml pre-filled syringe : ৳ 9800.00"
+},
+{
+"name":"Pegin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"135 mcg/0.5 ml",
+"ganare":"Peginterferon alfa-2a (Pegylated Interferon alfa-2a)",
+"unitPrice":"0.5 ml pre-filled syringe : ৳ 8800.00"
+},
+{
+"name":"Pemetrex ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"500 mg/5 ml",
+"ganare":"Pemetrexed",
+"unitPrice":"500 mg vial : ৳ 25000.00"
+},
+{
+"name":"Pemetrex I",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"nfusion",
+"strange":"100 mg/ml",
+"ganare":"Pemetrexed",
+"unitPrice":"100 mg vial : ৳ 5000.00"
+},
+{
+"name":"Rubicin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"20 mg/vial",
+"ganare":"Daunorubicin",
+"unitPrice":"20 mg vial : ৳ 600.00"
+},
+{
+"name":"Rupadin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Oral Solution",
+"strange":"5 mg/5 ml",
+"ganare":"Rupatadine Fumarate",
+"unitPrice":"60 ml bottle : ৳ 75.00"
+},
+{
+"name":"Rupadin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rupatadine Fumarate",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Safoxol ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 45.14"
+},
+{
+"name":"Safoxol ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"75 mg",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Simegal ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(480 mg+20 mg)/5 ml",
+"ganare":"Magaldrate + Simethicone",
+"unitPrice":"200 ml bottle : ৳ 110.00"
+},
+{
+"name":"Simpli ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 35.11"
+},
+{
+"name":"Simpli ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"20 ml bottle : ৳ 85.57"
+},
+{
+"name":"Simpli ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"500 mg/vial",
+"ganare":"Azithromycin",
+"unitPrice":"500 mg vial : ৳ 461.38"
+},
+{
+"name":"Sixvit ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pyridoxine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 1.30"
+},
+{
+"name":"Slipaid ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"3 mg",
+"ganare":"Doxepin (Oral)",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Slipaid ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"6 mg",
+"ganare":"Doxepin (Oral)",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Soforal ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Sofosbuvir",
+"unitPrice":"Unit Price : ৳ 600.00"
+},
+{
+"name":"Soforal-LP ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"90 mg+400 mg",
+"ganare":"Ledipasvir + Sofosbuvir",
+"unitPrice":"Unit Price : ৳ 1000.00"
+},
+{
+"name":"Sofosvel ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg+100 mg",
+"ganare":"Sofosbuvir + Velpatasvir",
+"unitPrice":"Unit Price : ৳ 1170.00"
+},
+{
+"name":"Soranix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Sorafenib",
+"unitPrice":"Unit Price : ৳ 250.00"
+},
+{
+"name":"Spasverin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Alverine Citrate",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Starcef ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Starcef ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 35.11"
+},
+{
+"name":"Starcef ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 196.33"
+},
+{
+"name":"Sunitix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Sunitinib",
+"unitPrice":"Unit Price : ৳ 1800.00"
+},
+{
+"name":"Tafecta ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Tenofovir Alafenamide",
+"unitPrice":"Unit Price : ৳ 312.00"
+},
+{
+"name":"Tagrix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Osimertinib",
+"unitPrice":"Unit Price : ৳ 1300.00"
+},
+{
+"name":"Tagrix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Osimertinib",
+"unitPrice":"Unit Price : ৳ 2600.00"
+},
+{
+"name":"Tamolex ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Tamoxifen Citrate",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Tamolex ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"10 mg",
+"ganare":"Tamoxifen Citrate",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Temonix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Temozolomide",
+"unitPrice":"Unit Price : ৳ 600.00"
+},
+{
+"name":"Temonix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Temozolomide",
+"unitPrice":"Unit Price : ৳ 1300.00"
+},
+{
+"name":"Tenoflex ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Tenoxicam",
+"unitPrice":"Unit Price : ৳ 8.05"
+},
+{
+"name":"Terbicon ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Terbinafine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Tericin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"50 mg/vial",
+"ganare":"Amphotericin B",
+"unitPrice":"50 mg vial : ৳ 15045.10"
+},
+{
+"name":"Tetrazin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Tetrabenazine",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Tetrazin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"12.5 mg",
+"ganare":"Tetrabenazine",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Tinizol DS ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"1 gm",
+"ganare":"Tinidazole",
+"unitPrice":"Unit Price : ৳ 5.72"
+},
+{
+"name":"Tivis ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"5 mg/2 ml",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"2 ml ampoule : ৳ 16.05"
+},
+{
+"name":"Tivis ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"Unit Price : ৳ 5.04"
+},
+{
+"name":"Tofacinix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"11 mg",
+"ganare":"Tofacitinib",
+"unitPrice":"Unit Price : ৳ 75.00"
+},
+{
+"name":"Topoxin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"100 mg/5 ml",
+"ganare":"Etoposide",
+"unitPrice":"100 mg vial : ৳ 400.00"
+},
+{
+"name":"Trastunix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"440 mg/20 ml",
+"ganare":"Trastuzumab",
+"unitPrice":"440 mg vial : ৳ 80000.00"
+},
+{
+"name":"Traxef ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 320.96"
+},
+{
+"name":"Traxef ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 320.96"
+},
+{
+"name":"Trexonate ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"2.5 mg",
+"ganare":"Methotrexate",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Trexonate ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Methotrexate",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Trexonate ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"50 mg/2 ml",
+"ganare":"Methotrexate",
+"unitPrice":"50 mg vial : ৳ 130.00"
+},
+{
+"name":"Uronase ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500000 IU/10 ml",
+"ganare":"Urokinase",
+"unitPrice":"10 ml vial : ৳ 3523.77"
+},
+{
+"name":"Velvin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"10 mg/10 ml",
+"ganare":"Vinblastine Sulfate",
+"unitPrice":"10 mg vial : ৳ 850.00"
+},
+{
+"name":"Veripel SR ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Mebeverine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 9.03"
+},
+{
+"name":"Vinorel ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"10 mg/ml",
+"ganare":"Vinorelbine Tartrate",
+"unitPrice":"50 mg vial : ৳ 7800.00"
+},
+{
+"name":"Wedica ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Trelagliptin Succinate",
+"unitPrice":"Unit Price : ৳ 526.50"
+},
+{
+"name":"Wedica ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Trelagliptin Succinate",
+"unitPrice":"Unit Price : ৳ 265.20"
+},
+{
+"name":"Xalcort ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"6 mg",
+"ganare":"Deflazacort",
+"unitPrice":"Unit Price : ৳ 8.02"
+},
+{
+"name":"Xalcort ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"6 mg/5 ml",
+"ganare":"Deflazacort",
+"unitPrice":"100 ml bottle : ৳ 200.00"
+},
+{
+"name":"Xalcort ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"24 mg",
+"ganare":"Deflazacort",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Xaloplat ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"5 mg/ml",
+"ganare":"Oxaliplatin",
+"unitPrice":"50 mg vial : ৳ 3000.00"
+},
+{
+"name":"Xbac ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 14.09"
+},
+{
+"name":"Xbac ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"750 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 18.11"
+},
+{
+"name":"Xbac ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"60 ml bottle : ৳ 90.60"
+},
+{
+"name":"Xbac ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"200 mg/100 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"100 ml bottle : ৳ 145.99"
+},
+{
+"name":"Xefrim ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 25.08"
+},
+{
+"name":"Xefrim ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"70 ml bottle : ৳ 199.35"
+},
+{
+"name":"Xelopes ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Xelopes ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 7.02"
+},
+{
+"name":"Xelopes ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"40 mg/vial",
+"ganare":"Omeprazole",
+"unitPrice":"40 mg vial : ৳ 90.27"
+},
+{
+"name":"Xelpac ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"6 mg/ml",
+"ganare":"Paclitaxel",
+"unitPrice":"30 mg vial : ৳ 1700.00"
+},
+{
+"name":"Xemocid ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"5%",
+"ganare":"Amino acid",
+"unitPrice":"500 ml bottle : ৳ 501.50"
+},
+{
+"name":"Xemocid Gold ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"7%+10%",
+"ganare":"Amino Acid + Glucose & Electrolytes",
+"unitPrice":"500 ml bottle : ৳ 551.64"
+},
+{
+"name":"Xenofer ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"100 mg/5 ml",
+"ganare":"Iron Sucrose Injection (Elemental Iron)",
+"unitPrice":"5 ml ampoule : ৳ 350.00"
+},
+{
+"name":"Xenofer ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"50 mg/2.5 ml",
+"ganare":"Iron Sucrose Injection (Elemental Iron)",
+"unitPrice":"2.5 ml ampoule : ৳ 273.96"
+},
+{
+"name":"Xenosol ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"0.9%",
+"ganare":"Sodium Chloride (Intravenous Solution)",
+"unitPrice":"100 ml bag : ৳ 74.22"
+},
+{
+"name":"Xentoin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Phenytoin Sodium",
+"unitPrice":"Unit Price : ৳ 4.01"
+},
+{
+"name":"Xeroder ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 22.15"
+},
+{
+"name":"Xeroder ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.05"
+},
+{
+"name":"Xeroder ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"200 mg/100 ml",
+"ganare":"Fluconazole",
+"unitPrice":"100 ml bottle : ৳ 200.60"
+},
+{
+"name":"Xerova ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 10.06"
+},
+{
+"name":"Xerova ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 18.11"
+},
+{
+"name":"Xevirol ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Everolimus",
+"unitPrice":"Unit Price : ৳ 1500.00"
+},
+{
+"name":"Xifos ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"1 gm/vial",
+"ganare":"Ifosfamide",
+"unitPrice":"1 gm vial : ৳ 1800.00"
+},
+{
+"name":"Xifos",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"2 gm/vial",
+"ganare":"Ifosfamide",
+"unitPrice":"2 gm vial : ৳ 3200.00"
+},
+{
+"name":"Xitabin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Capecitabine",
+"unitPrice":"Unit Price : ৳ 125.00"
+},
+{
+"name":"Xitabin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Capecitabine",
+"unitPrice":"Unit Price : ৳ 60.00"
+},
+{
+"name":"Xmec ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"25 mg+50 mg",
+"ganare":"Meclizine + Pyridoxine",
+"unitPrice":"Unit Price : ৳ 3.02"
+},
+{
+"name":"Xoleron ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"4 mg/5 ml",
+"ganare":"Zoledronic Acid (For hypercalcemia)",
+"unitPrice":"4 mg vial : ৳ 5000.00"
+},
+{
+"name":"Xolitra ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Flupentixol + Melitracen",
+"unitPrice":"Unit Price : ৳ 5.02"
+},
+{
+"name":"Xonimide ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Zonisamide",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Xonimide ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Zonisamide",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Xorubin ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"2 mg/ml",
+"ganare":"Doxorubicin Hydrochloride",
+"unitPrice":"10 mg vial : ৳ 300.00"
+},
+{
+"name":"Xovir ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Acyclovir (Oral)",
+"unitPrice":"70 ml bottle : ৳ 125.00"
+},
+{
+"name":"Xovir ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Acyclovir (Oral)",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Xovir ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Acyclovir (Oral)",
+"unitPrice":"Unit Price : ৳ 22.00"
+},
+{
+"name":"Xovir ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"250 mg/vial",
+"ganare":"Acyclovir (Injection)",
+"unitPrice":"250 mg vial : ৳ 401.20"
+},
+{
+"name":"Xovir ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Infusion",
+"strange":"500 mg/vial",
+"ganare":"Acyclovir (Injection)",
+"unitPrice":"500 mg vial : ৳ 702.11"
+},
+{
+"name":"Xtrapel ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.05"
+},
+{
+"name":"Xtrapel ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"100 mg/2 ml",
+"ganare":"Tramadol Hydrochloride",
+"unitPrice":"2 mg ampoule : ৳ 20.13"
+},
+{
+"name":"Xtrapel SR ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 12.08"
+},
+{
+"name":"Xvit ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Carbonyl Iron + FolicAcid + Vitamin-B Complex + Vitamin C + Zinc",
+"unitPrice":"Unit Price : ৳ 3.51"
+},
+{
+"name":"ZT ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"Unit Price : ৳ 1.51"
+},
+{
+"name":"Zytix ",
+"company":"Beacon Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Abiraterone Acetate",
+"unitPrice":"Unit Price : ৳ 580.00"
+},

@@ -1,0 +1,299 @@
+{
+"name":"Probis "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"2.5 mg"
+"ganare":"Bisoprolol Fumarate"
+"unitPrice":"
+Unit Price : ৳ 6.02"
+},
+{
+"name":"
+Probis "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Bisoprolol Fumarate"
+"unitPrice":"
+Unit Price : ৳ 10.03"
+},
+{
+"name":"
+Probis Plus "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"2.5 mg+6.25 mg"
+"ganare":"Bisoprolol Fumarate + Hydrochlorothiazide"
+"unitPrice":"
+Unit Price : ৳ 6.02"
+},
+{
+"name":"
+Probis Plus "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg+6.25 mg"
+"ganare":"Bisoprolol Fumarate + Hydrochlorothiazide"
+"unitPrice":"
+Unit Price : ৳ 10.03"
+},
+{
+"name":"
+Prosma "
+"company":"ACI Limited"
+"type":"Eye Drop"
+"strange":"0.025%"
+"ganare":"Ketotifen Fumarate (Eye drops)"
+"unitPrice":"
+5 ml drop : ৳ 100.00"
+},
+{
+"name":"
+Prosma "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"1 mg"
+"ganare":"Ketotifen Fumarate (Oral)"
+"unitPrice":"
+Unit Price : ৳ 3.00"
+},
+{
+"name":"
+Prosma "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"1 mg/5 ml"
+"ganare":"Ketotifen Fumarate (Oral)"
+"unitPrice":"
+100 ml bottle : ৳ 60.00"
+},
+{
+"name":"
+Pyrimac "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"25 mg+50 mg"
+"ganare":"Meclizine + Pyridoxine"
+"unitPrice":"
+Unit Price : ৳ 2.50"
+},
+{
+"name":"
+Qmax "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"25 mg"
+"ganare":"Quetiapine Fumarate"
+"unitPrice":"
+Unit Price : ৳ 3.01"
+},
+{
+"name":"
+Qmax "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"100 mg"
+"ganare":"Quetiapine Fumarate"
+"unitPrice":"
+Unit Price : ৳ 10.03"
+},
+{
+"name":"
+Radola "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"100 mg"
+"ganare":"Racecadotril"
+"unitPrice":"
+Unit Price : ৳ 6.00"
+},
+{
+"name":"
+Rapine "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"15 mg"
+"ganare":"Mirtazapine"
+"unitPrice":"
+Unit Price : ৳ 8.00"
+},
+{
+"name":"
+Rapine "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"30 mg"
+"ganare":"Mirtazapine"
+"unitPrice":"
+Unit Price : ৳ 15.00"
+},
+{
+"name":"
+Rapine "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"7.5 mg"
+"ganare":"Mirtazapine"
+"unitPrice":"
+Unit Price : ৳ 6.00"
+},
+{
+"name":"
+Recogen "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"2000 IU/0.5 ml"
+"ganare":"Erythropoietin"
+"unitPrice":"
+2000 IU prefilled syringe : ৳ 1,000.00"
+},
+{
+"name":"
+Recogen "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"3000 IU/0.75 ml"
+"ganare":"Erythropoietin"
+"unitPrice":"
+3000 IU prefilled syringe : ৳ 1,300.00"
+},
+{
+"name":"
+Recogen "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"5000 IU/0.5 ml"
+"ganare":"Erythropoietin"
+"unitPrice":"
+5000 IU prefilled syringe : ৳ 2,000.00"
+},
+{
+"name":"
+Recogen "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"10000 IU/ml"
+"ganare":"Erythropoietin"
+"unitPrice":"
+10000 IU prefilled syringe : ৳ 3,900.00"
+},
+{
+"name":"
+Remophos "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"667 mg"
+"ganare":"Calcium Acetate"
+"unitPrice":"
+Unit Price : ৳ 6.02"
+},
+{
+"name":"
+Repotyn "
+"company":"ACI Limited"
+"type":"Infusion"
+"strange":"5%"
+"ganare":"Amino acid"
+"unitPrice":"
+500 ml bottle : ৳ 352.38"
+},
+{
+"name":"
+Repotyn Max "
+"company":"ACI Limited"
+"type":"Infusion"
+"strange":"7%+10%"
+"ganare":"Amino Acid + Glucose & Electrolytes"
+"unitPrice":"
+500 ml bottle : ৳ 401.20"
+},
+{
+"name":"
+Reversair "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"4 mg"
+"ganare":"Montelukast Sodium"
+"unitPrice":"
+Unit Price : ৳ 7.05"
+},
+{
+"name":"
+Reversair "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Montelukast Sodium"
+"unitPrice":"
+Unit Price : ৳ 8.05"
+},
+{
+"name":"
+Reversair "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Montelukast Sodium"
+"unitPrice":"
+Unit Price : ৳ 15.11"
+},
+{
+"name":"
+Revital "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":" "
+"ganare":"Multivitamin & Multimineral"
+"unitPrice":"
+100 ml bottle : ৳ 90.00"
+},
+{
+"name":"
+Revital 30 "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":" "
+"ganare":"Multivitamin & Multimineral (A-Z silver preparation)"
+"unitPrice":"
+Unit Price : ৳ 9.00"
+},
+{
+"name":"
+Revital 32 "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":" "
+"ganare":"Multivitamin & Multimineral (A-Z gold preparation)"
+"unitPrice":"
+Unit Price : ৳ 9.50"
+},
+{
+"name":"
+Revital Teen B "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":" "
+"ganare":"Multivitamin & Multimineral (A-Z teen boys preparation)"
+"unitPrice":"
+Unit Price : ৳ 6.00"
+},
+{
+"name":"
+Revital Teen G "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":" "
+"ganare":"Multivitamin & Multimineral (A-Z teen girls preparation)"
+"unitPrice":"
+Unit Price : ৳ 6.00"
+},
+{
+"name":"
+Rinase "
+"company":"ACI Limited"
+"type":"Nebuliser"
+"strange":"250 mcg/ml"
+"ganare":"Ipratropium Bromide (Nebuliser Solution)"
+"unitPrice":"
+20 ml bottle : ৳ 130.39"
+},

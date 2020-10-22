@@ -1,0 +1,1232 @@
+{
+"name":"Albendazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 1.15"
+},
+{
+"name":"Albendazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 4.30"
+},
+{
+"name":"Albendazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Albendazole",
+"unitPrice":"10 ml bottle : ৳ 13.00"
+},
+{
+"name":"Aminophylline ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aminophylline",
+"unitPrice":"Price not available"
+},
+{
+"name":"Amlodipine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 0.96"
+},
+{
+"name":"Amlodipine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 1.65"
+},
+{
+"name":"Ampicillin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Ampicillin",
+"unitPrice":"Price not available"
+},
+{
+"name":"Ampicillin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Ampicillin",
+"unitPrice":"Price not available"
+},
+{
+"name":"Ampicillin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Ampicillin",
+"unitPrice":"Price not available"
+},
+{
+"name":"Antacid ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"250 mg+400 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"Price not available"
+},
+{
+"name":"Antacid Chewable ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"250 mg+500 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"Price not available"
+},
+{
+"name":"Antioxidant Vitamin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"6 mg+200 mg+50 mg",
+"ganare":"Betacarotene + Vitamin C + Vitamin E",
+"unitPrice":"Unit Price : ৳ 2.32"
+},
+{
+"name":"Antiseptic Handrub Solution",
+"company":"Essential Drugs Company Ltd",
+"type":"Hand Rub",
+"strange":"(1.45 ml+4.17 ml+75 ml)/100 ml",
+"ganare":"Glycerol + Hydrogen Peroxide Solution + Isopropyl Alcohol",
+"unitPrice":"100 ml Bottle : ৳ 30.67"
+},
+{
+"name":"Aspirin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Aspirin",
+"unitPrice":"Price not available"
+},
+{
+"name":"Atropine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"0.6 mg/ml",
+"ganare":"Atropine Sulfate",
+"unitPrice":"Price not available"
+},
+{
+"name":"Atropine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"1 mg/ml",
+"ganare":"Atropine Sulfate",
+"unitPrice":"Price not available"
+},
+{
+"name":"Azithromycin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 38.24"
+},
+{
+"name":"Azithromycin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 18.28"
+},
+{
+"name":"Benzyl Benzoate ",
+"company":"Essential Drugs Company Ltd",
+"type":"Emulsion",
+"strange":"1.25 gm/5 ml",
+"ganare":"Benzyl Benzoate",
+"unitPrice":"100 ml bottle : ৳ 32.20"
+},
+{
+"name":"Calcium ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 1.70"
+},
+{
+"name":"Calcium Lactate ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Calcium Lactate",
+"unitPrice":"Unit Price : ৳ 0.50"
+},
+{
+"name":"Cefixime ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 19.00"
+},
+{
+"name":"Cefixime ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Cefixime ",
+"company":"Essential Drugs Company Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 140.00"
+},
+{
+"name":"Cefotaxime ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"250 mg/5 ml",
+"ganare":"Cefotaxime",
+"unitPrice":"250 mg vial : ৳ 45.00"
+},
+{
+"name":"Cefotaxime ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"500 mg/10 ml",
+"ganare":"Cefotaxime",
+"unitPrice":"500 mg vial : ৳ 65.00"
+},
+{
+"name":"Cefotaxime ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"1 gm/10 ml",
+"ganare":"Cefotaxime",
+"unitPrice":"1 gm vial : ৳ 110.00"
+},
+{
+"name":"Cefpodoxime ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"Price not available"
+},
+{
+"name":"Cefpodoxime ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"Price not available"
+},
+{
+"name":"Ceftazidime ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftazidime Pentahydrate",
+"unitPrice":"500 mg vial : ৳ 85.00"
+}
+{
+"name":"Ceftazidime ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"250 mg/vial",
+"ganare":"Ceftazidime Pentahydrate",
+"unitPrice":"250 mg vial : ৳ 55.00"
+},
+{
+"name":"Ceftazidime ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftazidime Pentahydrate",
+"unitPrice":"1 gm vial : ৳ 150.00"
+},
+{
+"name":"Cefuroxime ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"750 mg/vial",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"750 mg vial : ৳ 115.00"
+},
+{
+"name":"Cefuroxime ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"1.5 gm/vial",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"1.5 gm vial : ৳ 175.00"
+},
+{
+"name":"Cephalexin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephalexin",
+"unitPrice":"Price not available"
+},
+{
+"name":"Cephalexin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephalexin",
+"unitPrice":"Price not available"
+},
+{
+"name":"Cephalexin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephalexin",
+"unitPrice":"Price not available"
+},
+{
+"name":"Cephradine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 5.46"
+},
+{
+"name":"Cephradine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 11.22"
+},
+{
+"name":"Cephradine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 58.53"
+},
+{
+"name":"Cephradine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Cephradine",
+"unitPrice":"1 gm vial : ৳ 70.00"
+},
+{
+"name":"Cetirizine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Price not available"
+},
+{
+"name":"Cetirizine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Chloramphenicol ",
+"company":"Essential Drugs Company Ltd",
+"type":"E/E Drop",
+"strange":"0.5%",
+"ganare":"Chloramphenicol",
+"unitPrice":"10 ml drop : ৳ 18.31"
+},
+{
+"name":"Chloramphenicol ",
+"company":"Essential Drugs Company Ltd",
+"type":"Eye Ointment",
+"strange":"1%",
+"ganare":"Chloramphenicol",
+"unitPrice":"3 gm tube : ৳ 10.37"
+},
+{
+"name":"Chloroquine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Chloroquine Phosphate",
+"unitPrice":"Price not available"
+},
+{
+"name":"Chloroquine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Syrup",
+"strange":"80 mg/5 ml",
+"ganare":"Chloroquine Phosphate",
+"unitPrice":"Price not available"
+},
+{
+"name":"Chlorpheniramine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"Unit Price : ৳ 0.30"
+},
+{
+"name":"Chlorpheniramine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"60 ml bottle : ৳ 14.95"
+},
+{
+"name":"Ciprofloxacin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Eye Drop",
+"strange":"0.3%",
+"ganare":"Ciprofloxacin (Eye/Ear)",
+"unitPrice":"5 ml drop : ৳ 18.50"
+},
+{
+"name":"Clobazam ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Clobazam",
+"unitPrice":"Price not available"
+},
+{
+"name":"Clotrimazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Clotrimazole (Topical)",
+"unitPrice":"Price not available"
+},
+{
+"name":"Cloxacillin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cloxacillin",
+"unitPrice":"Unit Price : ৳ 5.92"
+},
+{
+"name":"Cloxacillin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cloxacillin",
+"unitPrice":"100 ml bottle : ৳ 42.40"
+},
+{
+"name":"Co Trimoxazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"100 mg+20 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Price not available"
+},
+{
+"name":"Co Trimoxazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"400 mg+80 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Unit Price : ৳ 1.22"
+},
+{
+"name":"Co Trimoxazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"800 mg+160 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Unit Price : ৳ 2.44"
+},
+{
+"name":"Co Trimoxazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Suspension",
+"strange":"(200 mg+40 mg)/5 ml",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"60 ml bottle : ৳ 15.77"
+},
+{
+"name":"Copm. Benzoic ",
+"company":"Essential Drugs Company Ltd",
+"type":"Ointment",
+"strange":"6%+3%",
+"ganare":"Benzoic Acid + Salicylic Acid",
+"unitPrice":"Price not available"
+},
+{
+"name":"Dapsone ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Dapsone",
+"unitPrice":"Price not available"
+},
+{
+"name":"Dapsone ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Dapsone",
+"unitPrice":"Unit Price : ৳ 0.21"
+},
+{
+"name":"Dexamethasone ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"5 mg/ml",
+"ganare":"Dexamethasone Sodium Phosphate",
+"unitPrice":"1 ml ampoule : ৳ 14.50"
+},
+{
+"name":"Dexamethasone ",
+"company":"Essential Drugs Company Ltd",
+"type":"E/E Drop",
+"strange":"0.1%",
+"ganare":"Dexamethasone Sodium Phosphate (E/E)",
+"unitPrice":"5 ml drop : ৳ 10.69"
+},
+{
+"name":"Diazepam ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Diazepam",
+"unitPrice":"Unit Price : ৳ 0.19"
+},
+{
+"name":"Diethylcarbamazine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Diethylcarbamazine Citrate",
+"unitPrice":"Price not available"
+},
+{
+"name":"Diethylcarbamazine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Diethylcarbamazine Citrate",
+"unitPrice":"Unit Price : ৳ 0.46"
+},
+{
+"name":"Ephedrine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Ephedrine Hydrochloride",
+"unitPrice":"Price not available"
+},
+{
+"name":"Ephedrine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Ephedrine Hydrochloride",
+"unitPrice":"Price not available"
+},
+{
+"name":"Ergometrine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"0.125 mg",
+"ganare":"Ergometrine Maleate",
+"unitPrice":"Unit Price : ৳ 0.58"
+},
+{
+"name":"Ergometrine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"0.2 mg",
+"ganare":"Ergometrine Maleate",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Ergometrine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"0.2 mg/ml",
+"ganare":"Ergometrine Maleate",
+"unitPrice":"1 ml ampoule : ৳ 6.97"
+},
+{
+"name":"Ethambutol ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Ethambutol",
+"unitPrice":"Price not available"
+},
+{
+"name":"Folic Acid ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Folic acid",
+"unitPrice":"Unit Price : ৳ 0.34"
+},
+{
+"name":"Frusemide ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Furosemide",
+"unitPrice":"Unit Price : ৳ 0.50"
+},
+{
+"name":"Frusemide ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"20 mg/2 ml",
+"ganare":"Furosemide",
+"unitPrice":"2 ml ampoule : ৳ 6.48"
+},
+{
+"name":"Gentian Violet ",
+"company":"Essential Drugs Company Ltd",
+"type":"Powder",
+"strange":"100%",
+"ganare":"Gentian Violet",
+"unitPrice":"Price not available"
+},
+{
+"name":"Gentian Violet ",
+"company":"Essential Drugs Company Ltd",
+"type":"Topical Solution",
+"strange":"2%",
+"ganare":"Gentian Violet",
+"unitPrice":"15 ml solution : ৳ 7.37"
+},
+{
+"name":"Glibenclamide ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Glibenclamide",
+"unitPrice":"Price not available"
+},
+{
+"name":"Gliclazide ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Price not available"
+},
+{
+"name":"Glimepiride ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Glimepiride",
+"unitPrice":"Price not available"
+},
+{
+"name":"Grisofulvin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Griseofulvin (Microsize)",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Halazone ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Halazone",
+"unitPrice":"Unit Price : ৳ 0.23"
+},
+{
+"name":"Hyoscine Butyl Bromide ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Hyoscine Butylbromide",
+"unitPrice":"Unit Price : ৳ 6.67"
+},
+{
+"name":"Hyoscine Butyl Bromide ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"20 mg/ml",
+"ganare":"Hyoscine Butylbromide",
+"unitPrice":"1 ml ampoule : ৳ 17.81"
+},
+{
+"name":"Ibuprofen ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Ibuprofen",
+"unitPrice":"Price not available"
+},
+{
+"name":"Ibuprofen ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Ibuprofen",
+"unitPrice":"Unit Price : ৳ 1.32"
+},
+{
+"name":"Indomethacin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"25 mg",
+"ganare":"Indomethacin",
+"unitPrice":"Unit Price : ৳ 0.90"
+},
+{
+"name":"Iron Folic Acid & Zinc ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 2.25"
+},
+{
+"name":"Isoniazid ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Isoniazid",
+"unitPrice":"Unit Price : ৳ 0.31"
+},
+{
+"name":"Isoniazid ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Isoniazid",
+"unitPrice":"Unit Price : ৳ 0.92"
+},
+{
+"name":"Ketorolac ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 5.70"
+},
+{
+"name":"Ketorolac ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"30 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 30.50"
+},
+{
+"name":"Lamivudine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Lamivudine (For HIV Infection)",
+"unitPrice":"Price not available"
+},
+{
+"name":"Lamivudine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Syrup",
+"strange":"50 mg/5 ml",
+"ganare":"Lamivudine (For HIV Infection)",
+"unitPrice":"Price not available"
+},
+{
+"name":"Lamivudine & Zidovudine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"150 mg+300 mg",
+"ganare":"Lamivudine + Zidovudine",
+"unitPrice":"Price not available"
+},
+{
+"name":"Levamisole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Levamisole",
+"unitPrice":"Unit Price : ৳ 0.22"
+},
+{
+"name":"Levamisole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Syrup",
+"strange":"40 mg/5 ml",
+"ganare":"Levamisole",
+"unitPrice":"100 ml bottle : ৳ 22.39"
+},
+{
+"name":"Levofloxacin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 10.73"
+},
+{
+"name":"Levofloxacin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Levofloxacin (Eye)",
+"unitPrice":"5 ml drop : ৳ 37.00"
+},
+{
+"name":"Lignocaine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"2%",
+"ganare":"Lidocaine Hydrochloride",
+"unitPrice":"2 ml vial : ৳ 17.57"
+},
+{
+"name":"Lignocaine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"500 mg/50 ml",
+"ganare":"Lidocaine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 24.46"
+},
+{
+"name":"Lignocaine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"1%",
+"ganare":"Lidocaine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 20.73"
+},
+{
+"name":"Magnesium Sulphate ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"2.5 gm/5 ml",
+"ganare":"Magnesium Sulfate",
+"unitPrice":"Unit Price : ৳ 17.00"
+},
+{
+"name":"Mebendazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Mebendazole",
+"unitPrice":"30 ml bottle : ৳ 17.38"
+},
+{
+"name":"Mebendazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Mebendazole",
+"unitPrice":"Unit Price : ৳ 0.49"
+},
+{
+"name":"Mebendazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Mebendazole",
+"unitPrice":"Unit Price : ৳ 1.17"
+},
+{
+"name":"Mefloquine Hydrochloride ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Mefloquine",
+"unitPrice":"Unit Price : ৳ 35.19"
+},
+{
+"name":"Methyldopa ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Methyldopa",
+"unitPrice":"Price not available"
+},
+{
+"name":"Metoclopramide ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Metoclopramide Hydrochloride",
+"unitPrice":"Price not available"
+},
+{
+"name":"Metronidazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Price not available"
+},
+{
+"name":"Metronidazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.10"
+},
+{
+"name":"Metronidazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 24.92"
+},
+{
+"name":"Metronidazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Infusion",
+"strange":"500 mg/100 ml",
+"ganare":"Metronidazole",
+"unitPrice":"100 ml bottle : ৳ 51.48"
+},
+{
+"name":"Misoprostol ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"200 mcg",
+"ganare":"Misoprostol",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Morphine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Morphine Sulfate",
+"unitPrice":"Unit Price : ৳ 7.12"
+},
+{
+"name":"Morphine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"15 mg/ml",
+"ganare":"Morphine Sulfate",
+"unitPrice":"1 ml ampoule : ৳ 13.50"
+},
+{
+"name":"Nalidixic Acid ",
+"company":"Essential Drugs Company Ltd",
+"type":"Suspension",
+"strange":"300 mg/5 ml",
+"ganare":"Nalidixic Acid",
+"unitPrice":"100 ml bottle : ৳ 58.34"
+},
+{
+"name":"Nalidixic Acid ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Nalidixic Acid",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Naproxen ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Naproxen ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Omeprazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 1.47"
+},
+{
+"name":"Omeprazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 2.41"
+},
+{
+"name":"Orsaline Fruity ",
+"company":"Essential Drugs Company Ltd",
+"type":"Powder",
+"strange":" ",
+"ganare":"Oral Rehydration Salt (Flavored)",
+"unitPrice":"Price not available"
+},
+{
+"name":"Orsaline-N ",
+"company":"Essential Drugs Company Ltd",
+"type":"Powder",
+"strange":"13.95 gm",
+"ganare":"Oral Rehydration Salt (Powder)",
+"unitPrice":"Unit Price : ৳ 3.45"
+},
+{
+"name":"Oseltamivir ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"75 mg",
+"ganare":"Oseltamivir",
+"unitPrice":"Unit Price : ৳ 145.00"
+},
+{
+"name":"Oseltamivir ",
+"company":"Essential Drugs Company Ltd",
+"type":"Suspension",
+"strange":"60 mg/5 ml",
+"ganare":"Oseltamivir",
+"unitPrice":"Unit Price : ৳ 427.02"
+},
+{
+"name":"Pantoprazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 3.25"
+},
+{
+"name":"Pantoprazole ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 2.40"
+},
+{
+"name":"Paracetamol ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.70"
+},
+{
+"name":"Paracetamol ",
+"company":"Essential Drugs Company Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 16.26"
+},
+{
+"name":"Pencillin V ",
+"company":"Essential Drugs Company Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Phenoxymethyl Penicillin (Penicillin V)",
+"unitPrice":"50 ml bottle : ৳ 24.73"
+},
+{
+"name":"Pencillin V ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Phenoxymethyl Penicillin (Penicillin V)",
+"unitPrice":"Unit Price : ৳ 1.76"
+},
+{
+"name":"Pethidine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"50 mg/ml",
+"ganare":"Pethidine Hydrochloride",
+"unitPrice":"1 ml ampoule : ৳ 13.80"
+},
+{
+"name":"Phenobarbitone 30 ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"30 mg",
+"ganare":"Phenobarbital",
+"unitPrice":"Unit Price : ৳ 0.53"
+},
+{
+"name":"Potassium Chloride ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"600 mg",
+"ganare":"Potassium Chloride",
+"unitPrice":"Price not available"
+},
+{
+"name":"Povidone-Iodine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Solution",
+"strange":"10%w/v",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"100 ml bottle : ৳ 31.49"
+},
+{
+"name":"Propranolol 10 ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Propranolol Hydrochloride",
+"unitPrice":"Price not available"
+},
+{
+"name":"Propranolol 40 ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Propranolol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 0.17"
+},
+{
+"name":"Pyrazinamide ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Pyrazinamide",
+"unitPrice":"Price not available"
+},
+{
+"name":"Pyridoxine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pyridoxine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 0.23"
+},
+{
+"name":"Ranitidine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"50 mg/2 ml",
+"ganare":"Ranitidine",
+"unitPrice":"2 ml ampoule : ৳ 8.00"
+},
+{
+"name":"Ranitidine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 1.81"
+},
+{
+"name":"Ranitidine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"300 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Price not available"
+},
+{
+"name":"Retinol ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"200000 IU",
+"ganare":"Vitamin A",
+"unitPrice":"Price not available"
+},
+{
+"name":"Riboflavine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Riboflavin",
+"unitPrice":"Unit Price : ৳ 0.17"
+},
+{
+"name":"Rifampicin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Rifampicin",
+"unitPrice":"Unit Price : ৳ 3.22"
+},
+{
+"name":"Rifampicin ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"450 mg",
+"ganare":"Rifampicin",
+"unitPrice":"Unit Price : ৳ 9.28"
+},
+{
+"name":"Rifampicin+Inh ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"150 mg+100 mg",
+"ganare":"Rifampicin + Isoniazid",
+"unitPrice":"Unit Price : ৳ 2.30"
+},
+{
+"name":"Rifampicin+Inh ",
+"company":"Essential Drugs Company Ltd",
+"type":"Capsule",
+"strange":"300 mg+150 mg",
+"ganare":"Rifampicin + Isoniazid",
+"unitPrice":"Price not available"
+},
+{
+"name":"Salbutamol ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.18"
+},
+{
+"name":"Salbutamol ",
+"company":"Essential Drugs Company Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.30"
+},
+{
+"name":"Salbutamol ",
+"company":"Essential Drugs Company Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"60 ml bottle : ৳ 14.51"
+},
+{
+"name":"Sod. Stibogluconate ",
+"company":"Essential Drugs Company Ltd",
+"type":"Injection",
+"strange":"100 mg/ml",
+"ganare":"Sodium Stibogluconate",
+"unitPrice":"30 ml vial : ৳ 310.00"
+},
+{
+"name":"Zidovudine ",
+"company":"Essential Drugs Company Ltd",
+"type":"Syrup",
+"strange":"50 mg/5 ml",
+"ganare":"Zidovudine",
+"unitPrice":"Price not available"
+},

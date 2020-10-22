@@ -1,0 +1,8 @@
+{
+"name":"Poviclean ",
+"company":"Greenland Pharmaceuticals Limited ",
+"type":"Solution",
+"strange":"10%w/v",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"100 ml bottle : ৳ 28.00"
+},

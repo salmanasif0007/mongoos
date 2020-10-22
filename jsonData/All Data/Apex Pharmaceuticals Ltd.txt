@@ -1,0 +1,880 @@
+{
+"name":"A-One ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 20.59"
+},
+{
+"name":"A-One Plus ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"A-One XR ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"665 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 1.51"
+},
+{
+"name":"Acorex",
+"company":"Apex Pharmaceuticals Ltd",
+"type":" Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"Adnor ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"3 mg",
+"ganare":"Doxepin (Oral)",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Alafree ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.50"
+},
+{
+"name":"Alafree ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"30 mg/5 ml",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"50 ml bottle : ৳ 48.00"
+},
+{
+"name":"Alchek ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.1%",
+"ganare":"Olopatadine Hydrochloride (Eye Drops)",
+"unitPrice":"5 ml drop : ৳ 100.00"
+},
+{
+"name":"Alchek DS ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.2%",
+"ganare":"Olopatadine Hydrochloride (Eye Drops)",
+"unitPrice":"5 ml drop : ৳ 150.08"
+},
+{
+"name":"Angical ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg+50 mg",
+"ganare":"Amlodipine + Atenolol",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Apdox ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Doxycycline",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Apeclo ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Apeclo SR ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Aphrin ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Aphrin ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Apocal-D ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Apocal-DM ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Calcium Carbonate + Vitamin D3 + Multimineral",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Apoxy ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.73"
+},
+{
+"name":"Apoxy ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 47.47"
+},
+{
+"name":"Apoxyclav ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+125 mg",
+"ganare":"Amoxicillin + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Apoxyclav ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(125 mg+31.25 mg)/5 ml",
+"ganare":"Amoxicillin + Clavulanic Acid",
+"unitPrice":"100 ml bottle : ৳ 150.02"
+},
+{
+"name":"Aspra ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Aspra ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Azinil ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"Azinil ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Azinil ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"20 ml bottle : ৳ 85.00"
+},
+{
+"name":"Aztrum Gold ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z gold preparation)",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Aztrum Kidz ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z syrup preparation)",
+"unitPrice":"100 ml bottle : ৳ 85.00"
+},
+{
+"name":"Aztrum Silver ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z silver preparation)",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Aztrum-I",
+"company":"Apex Pharmaceuticals Ltd",
+"type":" ",
+"strange":" ",
+"ganare":"Vitamin C Vitamin E Lutein Copper & Zinc",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Baclofen ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Brimolol ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.2%+0.5%",
+"ganare":"Brimonidine Tartrate + Timolol Maleate",
+"unitPrice":"5 ml drop : ৳ 110.00"
+},
+{
+"name":"Catavit E",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"ye Drop",
+"strange":" ",
+"ganare":"Sodium Succinate + Cytochrome C + Adenosine + Nicotinamide",
+"unitPrice":"5 ml drop : ৳ 120.00"
+},
+{
+"name":"Cepoxid ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"40 mg/5 ml",
+"ganare":"Cefpodoxime Proxetil",
+"unitPrice":"50 ml bottle : ৳ 98.00"
+},
+{
+"name":"Clavutil ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"(125 mg+31.25 mg)/5 ml",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"70 ml bottle : ৳ 252.75"
+},
+{
+"name":"Clavutil ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg+62.5 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Clavutil ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+125 mg",
+"ganare":"Cefuroxime Axetil + Clavulanic Acid",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Cod Plus ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Cod Liver Oil",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Delot ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Desloratadine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Delot ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"2.5 mg/5 ml",
+"ganare":"Desloratadine",
+"unitPrice":"60 ml bottle : ৳ 25.00"
+},
+{
+"name":"Diacon",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Dix Plus ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"(75 mg+20 mg)/2 ml",
+"ganare":"Diclofenac Sodium + Lidocaine Hydrochloride",
+"unitPrice":"2 ml ampoule : ৳ 9.50"
+},
+{
+"name":"Dix-TR ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 2.80"
+},
+{
+"name":"Eflam ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Eflam ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Eflam ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Eyetrop ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"1%",
+"ganare":"Tropicamide",
+"unitPrice":"5 ml drop : ৳ 80.00"
+},
+{
+"name":"Fixgut ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Fixgut ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 28.00"
+},
+{
+"name":"Flunarin ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Flunarizine",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Flunarin ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Flunarizine",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Hemostop ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Tranexamic Acid",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"I-Aqua ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"1%",
+"ganare":"Carboxymethyl Cellulose",
+"unitPrice":"10 ml drop : ৳ 250.00"
+},
+{
+"name":"Keptrix ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"500 mg/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"500 mg vial : ৳ 80.00"
+},
+{
+"name":"Keptrix ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 120.00"
+},
+{
+"name":"Keptrix ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"1 gm vial : ৳ 120.00"
+},
+{
+"name":"Keptrix ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"2 gm/vial",
+"ganare":"Ceftriaxone",
+"unitPrice":"2 gm vial : ৳ 220.00"
+},
+{
+"name":"Kflam ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"60 mg/2 ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"2 ml ampoule : ৳ 95.38"
+},
+{
+"name":"Kflam ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Kflam ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"30 mg/ml",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"1 ml ampoule : ৳ 55.00"
+},
+{
+"name":"Lequin ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Levofloxacin (Eye)",
+"unitPrice":"5 ml drop : ৳ 80.00"
+},
+{
+"name":"Lequin ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Lesal ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"1 mg/5 ml",
+"ganare":"Levosalbutamol (Oral)",
+"unitPrice":"60 ml bottle : ৳ 30.00"
+},
+{
+"name":"Lox ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.3%",
+"ganare":"Ciprofloxacin (Eye/Ear)",
+"unitPrice":"5 ml drop : ৳ 35.00"
+},
+{
+"name":"Luf ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Luf ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Luf ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Maxirom ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Carbonyl Iron + FolicAcid + Vitamin-B Complex + Vitamin C + Zinc",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Mixit ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Flupentixol + Melitracen",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Montelon ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 7.50"
+},
+{
+"name":"Montelon Kidz ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Moxigram ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.5%",
+"ganare":"Moxifloxacin Hydrochloride",
+"unitPrice":"5 ml drop : ৳ 100.00"
+},
+{
+"name":"Napronex ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Napronex ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"375 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Nervopex ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Nexe ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Nexe ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Nexe ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"40 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 9.00"
+},
+{
+"name":"Niazid ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Nitazoxanide",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Niazid ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Nitazoxanide",
+"unitPrice":"30 ml bottle : ৳ 35.00"
+},
+{
+"name":"Ocubac ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.5%",
+"ganare":"Chloramphenicol",
+"unitPrice":"10 ml drop : ৳ 34.50"
+},
+{
+"name":"Ocubac-D ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"E/E Drop",
+"strange":"0.1%+0.5%",
+"ganare":"Dexamethasone + Chloramphenicol",
+"unitPrice":"5 ml drop : ৳ 60.00"
+},
+{
+"name":"Onamis ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"8 mg",
+"ganare":"Ondansetron",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Optafresh ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.2%+0.2%",
+"ganare":"Dextran + Hypromellose",
+"unitPrice":"10 ml drop : ৳ 80.00"
+},
+{
+"name":"Pantrol ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Polysol ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"0.4%+0.3%",
+"ganare":"Polyethylene Glycol + Propylene Glycol",
+"unitPrice":"10 ml drop : ৳ 150.00"
+},
+{
+"name":"Ranul ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Renisol ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Eye Drop",
+"strange":"1%",
+"ganare":"Prednisolone Acetate (Eye drops)",
+"unitPrice":"5 ml drop : ৳ 90.00"
+},
+{
+"name":"Ribaplex ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"200 ml bottle : ৳ 38.17"
+},
+{
+"name":"Tamsol ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"0.4 mg",
+"ganare":"Tamsulosin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Texicam ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Tenoxicam",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Texit ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"20 ml bottle : ৳ 95.01"
+},
+{
+"name":"Texit ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Texit ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Texit ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 195.01"
+},
+{
+"name":"TIL ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 25.00"
+},
+{
+"name":"TIL ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 52.50"
+},
+{
+"name":"TIL ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"70 ml bottle : ৳ 198.00"
+},
+{
+"name":"Visnor ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Visnor ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Injection",
+"strange":"5 mg/2 ml",
+"ganare":"Tiemonium Methylsulphate",
+"unitPrice":"2 ml ampoule : ৳ 6.00"
+},
+{
+"name":"Vocet ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Levocetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Winspa ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Dicycloverine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Winspa ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Dicycloverine Hydrochloride",
+"unitPrice":"50 ml bottle : ৳ 30.00"
+},
+{
+"name":"Xiva ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Doxophylline",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Xiva ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"100 mg/5 ml",
+"ganare":"Doxophylline",
+"unitPrice":"60 ml bottle : ৳ 60.00"
+},
+{
+"name":"Zapitor ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Zipol ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 32.00"
+},
+{
+"name":"Zipol Plus ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 45.00"
+},
+{
+"name":"Zolen ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Zolen ",
+"company":"Apex Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 18.00"
+},

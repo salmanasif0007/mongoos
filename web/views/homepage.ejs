@@ -1,0 +1,45 @@
+<!-- const ejs= require ('ejs');
+const express= require ('express');
+const fs=require('fs');
+const app= express();
+app.use(express.urlencoded());
+app.set('view engine','ejs')
+app.get('/',function(req,res){
+  res.render('homepage');     
+})
+
+app.post('/save',function(req,res){
+  var a=req.body;
+  a=JSON.stringify(a);
+  // commentList=[];
+  // commentList.push(a);
+  res.write("<h1>comments:" +a+"</h1>");
+
+});
+app.listen(4000);
+ -->
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup</title>
+</head>
+<body>
+  <h1 style="font-size: 100px;text-align: center;">Sign up Page</h1>
+    <form  action="/signUpRouth" style="text-align: center;" method="POST">
+        <label for="name">Name:</label><br>
+        <input type="text" id="fname" name="name" placeholder="Aleister black"><br>
+        <label for="email">Email:</label><br>
+        <input type="text" id="email" name="email" placeholder="aleisterbalck@gmail.com"><br><br>
+        <label for="password">Password:</label><br>
+        <input type="password" minlength="5" maxlength="50" id="password" name="password" placeholder="*****" ><br><br>
+        <input  type="submit" value="Submit"> 
+    </form> 
+</body>
+</html>

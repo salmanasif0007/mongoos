@@ -1,0 +1,136 @@
+{
+"name":"Carboplatin Sindan ",
+"company":"Actavis (BOTS Pvt. Limited)",
+"type":"Infusion",
+"strange":"10 mg/ml",
+"ganare":"Carboplatin",
+"unitPrice":"450 gm vial : ৳ 4340.00"
+},
+{
+"name":"Cyclogest ",
+"company":"Actavis (BOTS Pvt. Limited)",
+"type":"Vaginal Pessary",
+"strange":"400 mg",
+"ganare":"Progesterone",
+"unitPrice":"Price not available"
+},
+{
+"name":"Docetaxel Actavis ",
+"company":"Actavis (BOTS Pvt. Limited)",
+"type":"Infusion",
+"strange":"80 mg/vial",
+"ganare":"Docetaxel Trihydrate",
+"unitPrice":"80 mg vial : ৳ 13900.00"
+},
+{
+"name":"Docetaxel Actavis ",
+"company":"Actavis (BOTS Pvt. Limited)",
+"type":"Infusion",
+"strange":"20 mg/vial",
+"ganare":"Docetaxel Trihydrate",
+"unitPrice":"20 mg vial : ৳ 4320.00"
+},
+{
+"name":"Episindan ",
+"company":"Actavis (BOTS Pvt. Limited)",
+"type":"Injection",
+"strange":"2 mg/ml",
+"ganare":"Epirubicin Hydrochloride",
+"unitPrice":"10 mg vial : ৳ 915.00"
+},
+{
+"name":"Folcasin ",
+"company":"Actavis (BOTS Pvt. Limited)",
+"type":"Injection",
+"strange":"10 mg/ml",
+"ganare":"Calcium Folinate (Folinic Acid)",
+"unitPrice":"100 mg vial : ৳ 1477.00"
+},
+{
+"name":"Gitabin ",
+"company":"Actavis (BOTS Pvt. Limited)",
+"type":"Injection",
+"strange":"1 gm/vial",
+"ganare":"Gemcitabine",
+"unitPrice":"1 gm vial : ৳ 6500.00"
+},
+{
+"name":"Gitabin ",
+"company":"Actavis (BOTS Pvt. Limited)",
+"type":"Infusion",
+"strange":"200 mg/vial",
+"ganare":"Gemcitabine",
+"unitPrice":"200 mg vial : ৳ 1950.00"
+},
+{
+"name":"Irinotesin ",
+"company":"Actavis (BOTS Pvt. Limited)",
+"type":"Infusion",
+"strange":"20 mg/ml",
+"ganare":"Irinotecan Hydrochloride",
+"unitPrice":"40 mg vial : ৳ 3030.00"
+},
+{
+"name":"Neotigason ",
+"company":"Actavis (BOTS Pvt. Limited)",
+"type":"Capsule",
+"strange":"10 mg",
+"ganare":"Acitretin",
+"unitPrice":"Price not available"
+},
+{
+"name":"Neotigason ",
+"company":"Actavis (BOTS Pvt. Limited)",
+"type":"Capsule",
+"strange":"25 mg",
+"ganare":"Acitretin",
+"unitPrice":"Price not available"
+},
+{
+"name":"Paclitaxel Actavis ",
+"company":"Actavis (BOTS Pvt. Limited)",
+"type":"Infusion",
+"strange":"6 mg/ml",
+"ganare":"Paclitaxel",
+"unitPrice":"100 mg vial : ৳ 5200.00"
+},
+{
+"name":"Sindoxplatin ",
+"company":"Actavis (BOTS Pvt. Limited)",
+"type":"Infusion",
+"strange":"5 mg/ml",
+"ganare":"Oxaliplatin",
+"unitPrice":"50 mg vial : ৳ 4377.00"
+},
+{
+"name":"Sindroxocin ",
+"company":"Actavis (BOTS Pvt. Limited)",
+"type":"Injection",
+"strange":"2 mg/ml",
+"ganare":"Doxorubicin Hydrochloride",
+"unitPrice":"10 mg vial : ৳ 908.00"
+},
+{
+"name":"Sinplatin ",
+"company":"Actavis (BOTS Pvt. Limited)",
+"type":"Infusion",
+"strange":"1 mg/ml",
+"ganare":"Cisplatin",
+"unitPrice":"50 mg vial : ৳ 1545.00"
+},
+{
+"name":"Vinorelbine Actavis ",
+"company":"Actavis (BOTS Pvt. Limited)",
+"type":"Injection",
+"strange":"10 mg/ml",
+"ganare":"Vinorelbine Tartrate",
+"unitPrice":"50 mg vial : ৳ 10510.00"
+},
+{
+"name":"Zerlinda",
+"company":"Actavis (BOTS Pvt. Limited)",
+"type":"Infusion",
+"strange":"4 mg/5 ml",
+"ganare":"Zoledronic Acid (For hypercalcemia)",
+"unitPrice":"4 mg vial : ৳ 7800.00"
+},

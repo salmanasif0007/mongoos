@@ -1,0 +1,8 @@
+{
+"name":"Epamycetin ",
+"company":"Eastern Pharmaceuticals Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Chloramphenicol",
+"unitPrice":"Unit Price : ৳ 2.50"
+},

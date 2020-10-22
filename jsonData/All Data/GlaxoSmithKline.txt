@@ -1,0 +1,888 @@
+{
+"name":"Acne-Aid ",
+"company":"GlaxoSmithKline",
+"type":"Medicated Bar",
+"strange":"6.3%",
+"ganare":"Sulphonated Surfactant",
+"unitPrice":"100 gm bar : ৳ 315.00"
+},
+{
+"name":"Acne-Aid ",
+"company":"GlaxoSmithKline",
+"type":"Cleanser Saop",
+"strange":"2%",
+"ganare":"Sulphonated Surfactant",
+"unitPrice":"150 ml bottle : ৳ 649.00"
+},
+{
+"name":"Acticol ",
+"company":"GlaxoSmithKline",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"Amitriptyline ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Amitriptyline hydrochloride",
+"unitPrice":"Unit Price : ৳ 0.55"
+},
+{
+"name":"Amitriptyline ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Amitriptyline hydrochloride",
+"unitPrice":"Unit Price : ৳ 0.99"
+},
+{
+"name":"Avamys ",
+"company":"GlaxoSmithKline",
+"type":"Nasal Spray",
+"strange":"27.5 mcg/spray",
+"ganare":"Fluticasone Furoate",
+"unitPrice":"120 metered sprays : ৳ 354.00"
+},
+{
+"name":"Bactroban ",
+"company":"GlaxoSmithKline",
+"type":"Ointment",
+"strange":"2%w/w",
+"ganare":"Mupirocin",
+"unitPrice":"15 gm tube : ৳ 140.53"
+},
+{
+"name":"Beconase ",
+"company":"GlaxoSmithKline",
+"type":"Nasal Spray",
+"strange":"50 mcg/spray",
+"ganare":"Beclomethasone Dipropionate (Nasal Spray)",
+"unitPrice":"200 metered sprays : ৳ 235.54"
+},
+{
+"name":"Berin ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Thiamine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 0.75"
+},
+{
+"name":"Berin Plus ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 4.45"
+},
+{
+"name":"Betnelan ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Betamethasone",
+"unitPrice":"Unit Price : ৳ 0.76"
+},
+{
+"name":"Betnovate ",
+"company":"GlaxoSmithKline",
+"type":"Cream",
+"strange":"0.1%",
+"ganare":"Betamethasone",
+"unitPrice":"20 gm tube : ৳ 44.74"
+},
+{
+"name":"Betnovate ",
+"company":"GlaxoSmithKline",
+"type":"Ointment",
+"strange":"0.1%",
+"ganare":"Betamethasone",
+"unitPrice":"20 gm tube : ৳ 48.00"
+},
+{
+"name":"Betnovate-N ",
+"company":"GlaxoSmithKline",
+"type":"Cream",
+"strange":"0.1%+0.5%",
+"ganare":"Betamethasone + Neomycin Sulphate (Topical)",
+"unitPrice":"5 gm tube : ৳ 18.51"
+},
+{
+"name":"Betnovate-N ",
+"company":"GlaxoSmithKline",
+"type":"Ointmen",
+"strange":"t0.1%+0.5%",
+"ganare":"Betamethasone + Neomycin Sulphate (Topical)",
+"unitPrice":"5 gm tube : ৳ 18.54"
+},
+{
+"name":"Betovate CL ",
+"company":"GlaxoSmithKline",
+"type":"Ointment",
+"strange":"0.1%+1%",
+"ganare":"Betamethasone + Clotrimazole",
+"unitPrice":"10 gm tube : ৳ 29.31"
+},
+{
+"name":"Brevoxyl ",
+"company":"GlaxoSmithKline",
+"type":"Cream",
+"strange":"4%",
+"ganare":"Benzoyl Peroxide",
+"unitPrice":"40 gm tube : ৳ 372.30"
+},
+{
+"name":"Caldivit ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Ceporex ",
+"company":"GlaxoSmithKline",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephalexin",
+"unitPrice":"Unit Price : ৳ 6.90"
+},
+{
+"name":"Ceporex ",
+"company":"GlaxoSmithKline",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephalexin",
+"unitPrice":"Unit Price : ৳ 12.73"
+},
+{
+"name":"Ceporex ",
+"company":"GlaxoSmithKline",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephalexin",
+"unitPrice":"100 ml bottle : ৳ 84.27"
+},
+{
+"name":"Cervarix ",
+"company":"GlaxoSmithKline",
+"type":"Injection",
+"strange":"0.5 ml",
+"ganare":"Human Papillomavirus Vaccine (Types 16 & 18)",
+"unitPrice":"0.5 ml prefilled syringe : ৳ 2100.00"
+},
+{
+"name":"Cexime ",
+"company":"GlaxoSmithKline",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 35.11"
+},
+{
+"name":"Cexime ",
+"company":"GlaxoSmithKline",
+"type":"Capsule",
+"strange":"400 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Cexime ",
+"company":"GlaxoSmithKline",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 200.00"
+},
+{
+"name":"Complavit ",
+"company":"GlaxoSmithKline",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 20.92"
+},
+{
+"name":"Cutivate ",
+"company":"GlaxoSmithKline",
+"type":"Cream",
+"strange":"0.05%",
+"ganare":"Fluticasone Propionate (Topical)",
+"unitPrice":"10 gm tube : ৳ 115.43"
+},
+{
+"name":"Cutivate ",
+"company":"GlaxoSmithKline",
+"type":"Ointment",
+"strange":"0.005%",
+"ganare":"Fluticasone Propionate (Topical)",
+"unitPrice":"10 gm tube : ৳ 76.14"
+},
+{
+"name":"Dermovate ",
+"company":"GlaxoSmithKline",
+"type":"Cream",
+"strange":"0.05%",
+"ganare":"Clobetasol Propionate",
+"unitPrice":"10 gm tube : ৳ 58.21"
+},
+{
+"name":"Dermovate ",
+"company":"GlaxoSmithKline",
+"type":"Ointment",
+"strange":"0.05%",
+"ganare":"Clobetasol Propionate",
+"unitPrice":"10 gm tube : ৳ 69.13"
+},
+{
+"name":"Dermovate ",
+"company":"GlaxoSmithKline",
+"type":"Scalp Lotion",
+"strange":"0.05%",
+"ganare":"Clobetasol Propionate",
+"unitPrice":"30 ml bottle : ৳ 250.00"
+},
+{
+"name":"Duac ",
+"company":"GlaxoSmithKline",
+"type":"Topical Gel",
+"strange":"1%+5%",
+"ganare":"Clindamycin + Benzoyl peroxide",
+"unitPrice":"25 gm tube : ৳ 697.85"
+},
+{
+"name":"Duoflam ",
+"company":"GlaxoSmithKline",
+"type":"Solution",
+"strange":"16.7%+16.7%",
+"ganare":"Salicylic Acid + Lactic Acid",
+"unitPrice":"15 ml bottle : ৳ 265.13"
+},
+{
+"name":"Eltroxin ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"50 mcg",
+"ganare":"Levothyroxine Sodium",
+"unitPrice":"Unit Price : ৳ 2.55"
+},
+{
+"name":"Engerix-B ",
+"company":"GlaxoSmithKline",
+"type":"Injection",
+"strange":"20 mcg/ml",
+"ganare":"Hepatitis B Vaccine (rDNA)",
+"unitPrice":"1 ml vial : ৳ 531.22"
+},
+{
+"name":"Engerix-B ",
+"company":"GlaxoSmithKline",
+"type":"Injection",
+"strange":"10 mcg/0.5 ml",
+"ganare":"Hepatitis B Vaccine (rDNA)",
+"unitPrice":"0.5 ml vial : ৳ 298.81"
+},
+{
+"name":"Eumovate ",
+"company":"GlaxoSmithKline",
+"type":"Cream",
+"strange":"0.05%",
+"ganare":"Clobetasone Butyrate",
+"unitPrice":"10 gm tube : ৳ 40.48"
+},
+{
+"name":"Eumovate ",
+"company":"GlaxoSmithKline",
+"type":"Ointment",
+"strange":"0.05%",
+"ganare":"Clobetasone Butyrate",
+"unitPrice":"10 gm tube : ৳ 40.17"
+},
+{
+"name":"Fefovit ",
+"company":"GlaxoSmithKline",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron + Folic acid + Vitamin B complex + Vitamin C",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Flixonase ",
+"company":"GlaxoSmithKline",
+"type":"Nasal Spray",
+"strange":"50 mcg/spray",
+"ganare":"Fluticasone Propionate (Nasal Spray)",
+"unitPrice":"120 metered sprays : ৳ 275.00"
+},
+{
+"name":"Fluarix ",
+"company":"GlaxoSmithKline",
+"type":"Injection",
+"strange":"0.5 ml/prefilled syringe",
+"ganare":"Inactivated Influenza Vaccine",
+"unitPrice":"0.5 ml prefilled syringe : ৳ 364.00"
+},
+{
+"name":"Fluvin OD ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Fluvin OD ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 20.70"
+},
+{
+"name":"Glaxipro ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Grisovin FP ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Griseofulvin (Microsize)",
+"unitPrice":"Unit Price : ৳ 5.60"
+},
+{
+"name":"Havrix ",
+"company":"GlaxoSmithKline",
+"type":"Injection",
+"strange":"720 unit/0.5 ml",
+"ganare":"Hepatitis A Vaccine",
+"unitPrice":"0.5 ml prefilled syringe : ৳ 734.50"
+},
+{
+"name":"Havrix ",
+"company":"GlaxoSmithKline",
+"type":"Injection",
+"strange":"1440 unit/1 ml",
+"ganare":"Hepatitis A Vaccine",
+"unitPrice":"1 ml prefilled syringe : ৳ 1189.90"
+},
+{
+"name":"Hiberix ",
+"company":"GlaxoSmithKline",
+"type":"Injection",
+"strange":"10 mcg/0.5 ml",
+"ganare":"Haemophilus Influenzae Type B Vaccine (Conjugated)",
+"unitPrice":"0.5 ml prefilled syringe : ৳ 180.60"
+},
+{
+"name":"Imuran ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Azathioprine",
+"unitPrice":"Unit Price : ৳ 16.00"
+},
+{
+"name":"Infanrix Hexa ",
+"company":"GlaxoSmithKline",
+"type":"Injection",
+"strange":"0.5 ml",
+"ganare":"DPT + Poliomyelitis + Haemophilus Influenzae Type B (HIB) + Hepatitis B Conjugate Vaccines",
+"unitPrice":"0.5 ml prefilled syringe : ৳ 1737.00"
+},
+{
+"name":"Isotrex ",
+"company":"GlaxoSmithKline",
+"type":"Gel",
+"strange":"0.05%",
+"ganare":"Tretinoin",
+"unitPrice":"10 gm tube : ৳ 296.94"
+},
+{
+"name":"Kefdrin ",
+"company":"GlaxoSmithKline",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 13.60"
+},
+{
+"name":"Kefdrin ",
+"company":"GlaxoSmithKline",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 86.30"
+},
+{
+"name":"Kefdrin ",
+"company":"GlaxoSmithKline",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 7.09"
+},
+{
+"name":"Kemadrin ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Procyclidine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 1.87"
+},
+{
+"name":"Lacticare ",
+"company":"GlaxoSmithKline",
+"type":"Lotion",
+"strange":"5%+2.5%",
+"ganare":"Lactic acid + Sodium PCA",
+"unitPrice":"100 gm tube : ৳ 455.00"
+},
+{
+"name":"Lamictal ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Lamotrigine",
+"unitPrice":"Unit Price : ৳ 52.53"
+},
+{
+"name":"Lanoxin ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"0.25 mg",
+"ganare":"Digoxin",
+"unitPrice":"Unit Price : ৳ 2.36"
+},
+{
+"name":"Laxenna ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"12 mg",
+"ganare":"Sennosides",
+"unitPrice":"Unit Price : ৳ 1.25"
+},
+{
+"name":"Lotrix ",
+"company":"GlaxoSmithKline",
+"type":"Cream",
+"strange":"5%w/w",
+"ganare":"Permethrin",
+"unitPrice":"30 gm tube : ৳ 55.37"
+},
+{
+"name":"Mencevax ACWY ",
+"company":"GlaxoSmithKline",
+"type":"Injection",
+"strange":"50 mcg/0.5 ml",
+"ganare":"Meningococcal Polysaccharide Vaccine",
+"unitPrice":"0.5 ml vial : ৳ 535.71"
+},
+{
+"name":"Neobacrin ",
+"company":"GlaxoSmithKline",
+"type":"Ointment",
+"strange":"(5 mg+500 IU)/gm",
+"ganare":"Neomycin Sulfate + Bacitracin Zinc",
+"unitPrice":"20 gm tube : ৳ 44.06"
+},
+{
+"name":"Norain ",
+"company":"GlaxoSmithKline",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Oilatum ",
+"company":"GlaxoSmithKline",
+"type":"Medicated Bar",
+"strange":"7.5%+7.5%",
+"ganare":"Light Paraffin + White Paraffin",
+"unitPrice":"100 gm bar : ৳ 325.00"
+},
+{
+"name":"Oilatum ",
+"company":"GlaxoSmithKline",
+"type":"Cream",
+"strange":"6%+15%",
+"ganare":"Light Paraffin + White Paraffin",
+"unitPrice":"40 gm tube : ৳ 350.00"
+},
+{
+"name":"Oilatum ",
+"company":"GlaxoSmithKline",
+"type":"Emulsion",
+"strange":"63.4%+5%",
+"ganare":"Light Paraffin + White Paraffin",
+"unitPrice":"150 ml bottle : ৳ 672.00"
+},
+{
+"name":"Otosporin ",
+"company":"GlaxoSmithKline",
+"type":"E/E Drop",
+"strange":"(10 mg+3400 Units+10000 Units)/ml",
+"ganare":"Hydrocortisone + Neomycin Sulphate + Polymixin B",
+"unitPrice":"5 ml drop : ৳ 60.00"
+},
+{
+"name":"Panadol Extra ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Parapyrol ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Parapyrol ",
+"company":"GlaxoSmithKline",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"100 ml bottle : ৳ 30.00"
+},
+{
+"name":"Peflon ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Pefloxacin",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Physiogel ",
+"company":"GlaxoSmithKline",
+"type":"Cream",
+"strange":" ",
+"ganare":"Caprylic + Capric Triglyceride",
+"unitPrice":"75 ml tube : ৳ 499.00"
+},
+{
+"name":"Physiogel ",
+"company":"GlaxoSmithKline",
+"type":"Lotion",
+"strange":" ",
+"ganare":"Caprylic + Capric Triglyceride",
+"unitPrice":"200 ml bottle : ৳ 960.00"
+},
+{
+"name":"Piriton ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"Unit Price : ৳ 0.50"
+},
+{
+"name":"Piriton ",
+"company":"GlaxoSmithKline",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"100 ml bottle : ৳ 22.00"
+},
+{
+"name":"Prednelan ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Prednisolone",
+"unitPrice":"Unit Price : ৳ 1.70"
+},
+{
+"name":"Prednelan ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Prednisolone",
+"unitPrice":"Unit Price : ৳ 4.02"
+},
+{
+"name":"Priorix ",
+"company":"GlaxoSmithKline",
+"type":"Injection",
+"strange":"0.5 ml",
+"ganare":"Measles Mumps and Rubella Vaccine (MMR)",
+"unitPrice":"0.5 ml vial : ৳ 572.00"
+},
+{
+"name":"Purinethol ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Mercaptopurine",
+"unitPrice":"Unit Price : ৳ 40.76"
+},
+{
+"name":"Revolade ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"25 mg",
+"ganare":"Eltrombopag Olamine",
+"unitPrice":"Unit Price : ৳ 916.64"
+},
+{
+"name":"Rotarix ",
+"company":"GlaxoSmithKline",
+"type":"Suspension",
+"strange":"1 dose (1.5 ml)",
+"ganare":"Rotavirus vaccine (Live)",
+"unitPrice":"1 prefilled oral applicator : ৳ 1474.00"
+},
+{
+"name":"Seretide ",
+"company":"GlaxoSmithKline",
+"type":"Inhalation Capsule",
+"strange":"50 mcg+100 mcg",
+"ganare":"Salmeterol + Fluticasone Propionate",
+"unitPrice":"60 doses unit : ৳ 935.00"
+},
+{
+"name":"Seretide ",
+"company":"GlaxoSmithKline",
+"type":"Inhalation Capsule",
+"strange":"50 mcg+250 mcg",
+"ganare":"Salmeterol + Fluticasone Propionate",
+"unitPrice":"60 doses unit : ৳ 1238.12"
+},
+{
+"name":"Seretide ",
+"company":"GlaxoSmithKline",
+"type":"Inhalation Capsule",
+"strange":"50 mcg+500 mcg",
+"ganare":"Salmeterol + Fluticasone Propionate",
+"unitPrice":"60 doses unit : ৳ 1440.26"
+},
+{
+"name":"Seretide ",
+"company":"GlaxoSmithKline",
+"type":"Inhaler",
+"strange":"25 mcg+50 mcg",
+"ganare":"Salmeterol + Fluticasone Propionate",
+"unitPrice":"120 dose unit : ৳ 750.00"
+},
+{
+"name":"Seretide ",
+"company":"GlaxoSmithKline",
+"type":"Inhaler",
+"strange":"25 mcg+125 mcg",
+"ganare":"Salmeterol + Fluticasone Propionate",
+"unitPrice":"120 dose unit : ৳ 1074.69"
+},
+{
+"name":"Seretide ",
+"company":"GlaxoSmithKline",
+"type":"Inhaler",
+"strange":"25 mcg+250 mcg",
+"ganare":"Salmeterol + Fluticasone Propionate",
+"unitPrice":"120 dose unit : ৳ 1250.00"
+},
+{
+"name":"SpectraBAN 60 ",
+"company":"GlaxoSmithKline",
+"type":"Cream",
+"strange":"10%+7%+3.5%+1%",
+"ganare":"Microfine Zinc Oxide + Octyl methoxycinnamate + Methylbenzylidene camphor + Butyl methoxy dibenzoylmethane",
+"unitPrice":"60 gm tube : ৳ 849.00"
+},
+{
+"name":"SpectraBAN Ultra 28 ",
+"company":"GlaxoSmithKline",
+"type":"Lotion",
+"strange":"2%+2%+0.8%+3%",
+"ganare":"Titanium dioxide + Butyl methoxydibenzoyl methane + Padimate + Oxybenzone",
+"unitPrice":"60 ml bottle : ৳ 499.21"
+},
+{
+"name":"Sudafed ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Pseudoephedrine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Synflorix ",
+"company":"GlaxoSmithKline",
+"type":"Injection",
+"strange":"0.5 ml",
+"ganare":"Pnenmococcal Polysaccharide Conjugated Vaccine",
+"unitPrice":"0.5 ml prefilled syringe : ৳ 1936.49"
+},
+{
+"name":"Tinatrim ",
+"company":"GlaxoSmithKline",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Clotrimazole (Topical)",
+"unitPrice":"10 gm tube : ৳ 35.00"
+},
+{
+"name":"Tracrium ",
+"company":"GlaxoSmithKline",
+"type":"Injection",
+"strange":"25 mg/2.5 ml",
+"ganare":"Atracurium Besilate",
+"unitPrice":"2.5 ml ampoule : ৳ 144.59"
+},
+{
+"name":"Tritanrix HB ",
+"company":"GlaxoSmithKline",
+"type":"Injection",
+"strange":"(30 IU+60 IU+4 IU+10 mcg)/0.5 ml",
+"ganare":"Diphtheria Toxoid + Tetanus Toxoid + Bordetella Pertussis + Hepatitis B (Vaccine)",
+"unitPrice":"0.5 ml vial : ৳ 393.00"
+},
+{
+"name":"Tykerb ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Lapatinib",
+"unitPrice":"Unit Price : ৳ 356.59"
+},
+{
+"name":"Typherix ",
+"company":"GlaxoSmithKline",
+"type":"Injection",
+"strange":"25 mcg/0.5 ml",
+"ganare":"Typhoid Polysaccharide Vaccine",
+"unitPrice":"0.5 ml prefilled syringe : ৳ 394.00"
+},
+{
+"name":"Varilrix ",
+"company":"GlaxoSmithKline",
+"type":"Injection",
+"strange":"0.5 ml",
+"ganare":"Varicella Virus Vaccine",
+"unitPrice":"0.5 ml vial : ৳ 2350.00"
+},
+{
+"name":"Ventolin ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.26"
+},
+{
+"name":"Ventolin ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.40"
+},
+{
+"name":"Ventolin ",
+"company":"GlaxoSmithKline",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"100 ml bottle : ৳ 22.93"
+},
+{
+"name":"Ventolin ",
+"company":"GlaxoSmithKline",
+"type":"Inhaler",
+"strange":"100 mcg/puff",
+"ganare":"Salbutamol (Inhaler)",
+"unitPrice":"200 metered doses : ৳ 200.00"
+},
+{
+"name":"Ventolin ",
+"company":"GlaxoSmithKline",
+"type":"Nebuliser",
+"strange":"2.5 mg/2.5 ml",
+"ganare":"Salbutamol (Nebuliser Solution)",
+"unitPrice":"Unit Price : ৳ 26.78"
+},
+{
+"name":"Ventolin ",
+"company":"GlaxoSmithKline",
+"type":"Nebuliser",
+"strange":"5 mg/ml",
+"ganare":"Salbutamol (Nebuliser Solution)",
+"unitPrice":"20 ml pack : ৳ 172.90"
+},
+{
+"name":"Ventolin SR ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"8 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.79"
+},
+{
+"name":"Votrient ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Pazopanib Hydrochloride",
+"unitPrice":"Unit Price : ৳ 625.69"
+},
+{
+"name":"Zantac ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 4.07"
+},
+{
+"name":"Zeffix ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Lamivudine (For Chronic Hepatitis B)",
+"unitPrice":"Unit Price : ৳ 90.30"
+},
+{
+"name":"Zinnat ",
+"company":"GlaxoSmithKline",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"70 ml bottle : ৳ 360.00"
+},
+{
+"name":"Zinnat ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"125 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Zinnat ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 27.00"
+},
+{
+"name":"Zinnat ",
+"company":"GlaxoSmithKline",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 48.00"
+},

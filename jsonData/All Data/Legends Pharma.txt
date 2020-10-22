@@ -1,0 +1,104 @@
+{
+"name":"Aztrum A-Z ",
+"company":"Legends Pharma",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Clonapex ",
+"company":"Legends Pharma",
+"type":"Tablet",
+"strange":"0.5 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Clonapex ",
+"company":"Legends Pharma",
+"type":"Tablet",
+"strange":"2 mg",
+"ganare":"Clonazepam",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Coralgen D ",
+"company":"Legends Pharma",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Calcium Carbonate (Coral source) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 10.01"
+},
+{
+"name":"Legaba ",
+"company":"Legends Pharma",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Pregabalin",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"Lerupa ",
+"company":"Legends Pharma",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Rupatadine Fumarate",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Losarpex ",
+"company":"Legends Pharma",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Losarpex Plus ",
+"company":"Legends Pharma",
+"type":"Tablet",
+"strange":"50 mg+12.5 mg",
+"ganare":"Losartan Potassium + Hydrochlorothiazide",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Metle ",
+"company":"Legends Pharma",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Pressle ",
+"company":"Legends Pharma",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Amlodipine",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Progend ",
+"company":"Legends Pharma",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Rabegend ",
+"company":"Legends Pharma",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Rabeprazole Sodium",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Zapitor ",
+"company":"Legends Pharma",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},

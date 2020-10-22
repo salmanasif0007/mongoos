@@ -1,0 +1,299 @@
+{
+"name":"Risomax "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"1 mg"
+"ganare":"Risperidone"
+"unitPrice":"
+Unit Price : ৳ 3.00"
+},
+{
+"name":"
+Risomax "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"2 mg"
+"ganare":"Risperidone"
+"unitPrice":"
+Unit Price : ৳ 5.00"
+},
+{
+"name":"
+Risomax "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"4 mg"
+"ganare":"Risperidone"
+"unitPrice":"
+Unit Price : ৳ 9.00"
+},
+{
+"name":"
+Ritch "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"30 mg"
+"ganare":"Fexofenadine Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 3.00"
+},
+{
+"name":"
+Ritch "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"60 mg"
+"ganare":"Fexofenadine Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 5.04"
+},
+{
+"name":"
+Ritch "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"120 mg"
+"ganare":"Fexofenadine Hydrochlorider"
+"unitPrice":"
+Unit Price : ৳ 8.00"
+},
+{
+"name":"
+Ritch "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"180 mg"
+"ganare":"Fexofenadine Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 10.00"
+},
+{
+"name":"
+Ritch "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"30 mg/5 ml"
+"ganare":"Fexofenadine Hydrochloride"
+"unitPrice":"
+50 ml bottle : ৳ 48.14"
+},
+{
+"name":"
+Ritopar "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Ritodrine Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 8.02"
+},
+{
+"name":"
+Ritopar "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"50 mg/5 ml"
+"ganare":"Ritodrine Hydrochloride"
+"unitPrice":"
+5 ml ampoule : ৳ 70.00"
+},
+{
+"name":"
+Rivaban "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Rivaroxaban"
+"unitPrice":"
+Unit Price : ৳ 22.50"
+},
+{
+"name":"
+Rivaban "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Rivaroxaban"
+"unitPrice":"
+Unit Price : ৳ 45.00"
+},
+{
+"name":"
+Rivaban "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"2.5 mg"
+"ganare":"Rivaroxaban"
+"unitPrice":"
+Unit Price : ৳ 8.00"
+},
+{
+"name":"
+Ropenia "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"30 MU/0.5 ml"
+"ganare":"Filgrastim"
+"unitPrice":"
+30 MU prefilled syringe : ৳ 3,400.00"
+},
+{
+"name":"
+Rosatan "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"25 mg"
+"ganare":"Losartan Potassium"
+"unitPrice":"
+Unit Price : ৳ 3.52"
+},
+{
+"name":"
+Rosatan "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Losartan Potassium"
+"unitPrice":"
+Unit Price : ৳ 6.04"
+},
+{
+"name":"
+Rosatan H "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"50 mg+12.5 mg"
+"ganare":"Losartan Potassium + Hydrochlorothiazide"
+"unitPrice":"
+Unit Price : ৳ 5.00"
+},
+{
+"name":"
+Rosetor "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Rosuvastatin"
+"unitPrice":"
+Unit Price : ৳ 10.03"
+},
+{
+"name":"
+Rosetor "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Rosuvastatin"
+"unitPrice":"
+Unit Price : ৳ 18.05"
+},
+{
+"name":"
+Rosetor "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"20 mg"
+"ganare":"Rosuvastatin"
+"unitPrice":"
+Unit Price : ৳ 30.00"
+},
+{
+"name":"
+Rotacal "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"400 mg"
+"ganare":"Calcium Orotate Dihydrate"
+"unitPrice":"
+Unit Price : ৳ 8.00"
+},
+{
+"name":"
+Rotacal Max "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"740 mg"
+"ganare":"Calcium Orotate Dihydrate"
+"unitPrice":"
+Unit Price : ৳ 12.00"
+},
+{
+"name":"
+Rotarac "
+"company":"ACI Limited"
+"type":"Eye Drop"
+"strange":"0.09%"
+"ganare":"Bromfenac Sodium"
+"unitPrice":"
+5 ml drop : ৳ 110.00"
+},
+{
+"name":"
+Rotarac LS "
+"company":"ACI Limited"
+"type":"Eye Drop"
+"strange":"0.07%"
+"ganare":"Bromfenac Sodium"
+"unitPrice":"
+5 ml drop : ৳ 90.00"
+},
+{
+"name":"
+Rovidone "
+"company":"ACI Limited"
+"type":"Eye Drop"
+"strange":"5%"
+"ganare":"Povidone Iodine (Eye Drop)"
+"unitPrice":"
+10 ml drop : ৳ 82.17"
+},
+{
+"name":"
+Sapotor "
+"company":"ACI Limited"
+"type":"Suppository"
+"strange":"1.15 gm"
+"ganare":"Glycerin"
+"unitPrice":"
+Unit Price : ৳ 3.00"
+},
+{
+"name":"
+Sasolin MR "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"0.4 mg"
+"ganare":"Tamsulosin Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 10.07"
+},
+{
+"name":"
+Savlon "
+"company":"ACI Limited"
+"type":"Solution"
+"strange":"0.3%+3%"
+"ganare":"Chlorhexidine Gluconate + Cetrimide"
+"unitPrice":"
+56 ml bottle : ৳ 15.00"
+},
+{
+"name":"
+Savlon "
+"company":"ACI Limited"
+"type":"Solution"
+"strange":"1.5%+15%"
+"ganare":"Chlorhexidine Gluconate + Cetrimide"
+"unitPrice":"
+5 liter pack : ৳ 1,415.00"
+},
+{
+"name":"
+Savlon "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"0.1%+0.5%"
+"ganare":"Chlorhexidine Hydrochloride + Cetrimide"
+"unitPrice":"
+30 gm tube : ৳ 22.00"
+},

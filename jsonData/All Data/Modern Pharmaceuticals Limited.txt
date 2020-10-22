@@ -1,0 +1,536 @@
+{
+"name":"ACN ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Aceclofenac",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Ambix ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 30.00"
+},
+{
+"name":"Amoxima ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Amoxima ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 44.51"
+},
+{
+"name":"Amoxima ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"15 ml bottle : ৳ 28.33"
+},
+{
+"name":"Anol ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Atenolol",
+"unitPrice":"Unit Price : ৳ 0.77"
+},
+{
+"name":"Azmin ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 35.00"
+},
+{
+"name":"Azmin ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.00"
+},
+{
+"name":"Bestal ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron + Folic acid + Vitamin B complex + Vitamin C",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Betanic ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"6 mg+200 mg+50 mg",
+"ganare":"Betacarotene + Vitamin C + Vitamin E",
+"unitPrice":"Unit Price : ৳ 3.75"
+},
+{
+"name":"Calos ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Calos-D ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Cipro-M ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Cipro-M ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"750 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Cloxima ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cloxacillin",
+"unitPrice":"Unit Price : ৳ 5.06"
+},
+{
+"name":"Droxigel Plus ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"(200 mg+400 mg+30 mg)/5 ml",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+"unitPrice":"200 ml bottle : ৳ 65.00"
+},
+{
+"name":"Droxigel Plus ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"200 mg+200 mg+30 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+"unitPrice":"Unit Price : ৳ 0.79"
+},
+{
+"name":"EM ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"EM ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Erythromycin (Oral)",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"Enoclox ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Enoclox ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 60.00"
+},
+{
+"name":"EZ ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Esomeprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Fe-Z ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 2.90"
+},
+{
+"name":"Ferrum ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"200 mg/5 ml",
+"ganare":"Ferrous Sulfate",
+"unitPrice":"200 ml bottle : ৳ 24.89"
+},
+{
+"name":"Fluma ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Fluma ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 20.00"
+},
+{
+"name":"Glica ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"80 mg",
+"ganare":"Gliclazide",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Grisofulvin M ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Griseofulvin (Microsize)",
+"unitPrice":"Unit Price : ৳ 6.94"
+},
+{
+"name":"Helben DS ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 3.04"
+},
+{
+"name":"Hysoma ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Hyoscine Butylbromide",
+"unitPrice":"Unit Price : ৳ 1.67"
+},
+{
+"name":"K-Pol ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Loridon ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Loridon ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 28.00"
+},
+{
+"name":"Loridon ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Pediatric Drop",
+"strange":"5 mg/ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"15 ml drop : ৳ 20.00"
+},
+{
+"name":"Ltdin ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Loratadine",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"M-Dazole ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 0.61"
+},
+{
+"name":"M-Dazole ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.02"
+},
+{
+"name":"M-Plex ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.57"
+},
+{
+"name":"M-Plex ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"100 ml bottle : ৳ 20.84"
+},
+{
+"name":"M-Pol ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.61"
+},
+{
+"name":"M-Pol ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 12.14"
+},
+{
+"name":"M-Trim ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"400 mg+80 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Unit Price : ৳ 1.46"
+},
+{
+"name":"M-Trim ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"(200 mg+40 mg)/5 ml",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"60 ml bottle : ৳ 21.24"
+},
+{
+"name":"M-Trim DS ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"800 mg+160 mg",
+"ganare":"Cotrimoxazole (Sulphamethoxazole + Trimethoprim)",
+"unitPrice":"Unit Price : ৳ 2.02"
+},
+{
+"name":"Mefrad ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.55"
+},
+{
+"name":"Mefrad ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cephradine",
+"unitPrice":"15 ml bottle : ৳ 50.00"
+},
+{
+"name":"Mefrad DS ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 100.00"
+},
+{
+"name":"Modern's Milk of Magnesia ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"400 mg/5 ml",
+"ganare":"Magnesium Hydroxide",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"Modern's Whitfield ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Ointment",
+"strange":"6%+3%",
+"ganare":"Benzoic Acid + Salicylic Acid",
+"unitPrice":"15 gm pot : ৳ 8.00"
+},
+{
+"name":"Napix ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Neofenac ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 0.84"
+},
+{
+"name":"Neofenac SR ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Neofix ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 50.00"
+},
+{
+"name":"Neofix ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 200.00"
+},
+{
+"name":"Neotid ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Omidex ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Promalex M ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Promethazine Hydrochloride",
+"unitPrice":"60 ml bottle : ৳ 11.13"
+},
+{
+"name":"PZ-20 ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"PZ-40 ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Salix ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Salbutamol",
+"unitPrice":"Unit Price : ৳ 0.34"
+},
+{
+"name":"Salix ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"60 ml bottle : ৳ 9.60"
+},
+{
+"name":"Sedilux-M ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"Unit Price : ৳ 0.34"
+},
+{
+"name":"Sedilux-M ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"60 ml bottle : ৳ 6.90"
+},
+{
+"name":"Tetram ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Tetracycline Hydrochloride (Oral)",
+"unitPrice":"Unit Price : ৳ 1.33"
+},
+{
+"name":"Trufen ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Ibuprofen",
+"unitPrice":"Unit Price : ৳ 1.26"
+},
+{
+"name":"Zinofa ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 30.00"
+},
+{
+"name":"Zinofa-B ",
+"company":"Modern Pharmaceuticals Limited",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B Complex + Zinc",
+"unitPrice":"200 ml bottle : ৳ 85.00"
+},

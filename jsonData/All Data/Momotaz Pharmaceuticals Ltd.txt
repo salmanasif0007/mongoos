@@ -1,0 +1,24 @@
+{
+"name":"Eusoft ",
+"company":"Momotaz Pharmaceuticals Ltd",
+"type":"Cream",
+"strange":"10%",
+"ganare":"Urea (10%)",
+"unitPrice":"15 gm tube : ৳ 28.00"
+},
+{
+"name":"Gentian Violet ",
+"company":"Momotaz Pharmaceuticals Ltd",
+"type":"Topical Solution",
+"strange":"2%",
+"ganare":"Gentian Violet",
+"unitPrice":"15 ml solution : ৳ 12.00"
+},
+{
+"name":"Hyperoxi ",
+"company":"Momotaz Pharmaceuticals Ltd",
+"type":"Solution",
+"strange":"12 ml/100 ml",
+"ganare":"Hydrogen peroxide",
+"unitPrice":"100 ml bottle : ৳ 20.00"
+},

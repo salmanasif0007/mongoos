@@ -1,0 +1,329 @@
+{
+"name":"Citazar "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Levetiracetam"
+"unitPrice":"
+Unit Price : ৳ 25.17"
+"price":25.17
+
+},
+{
+"name":"Clean gel "
+"company":"ACI Limited"
+"type":"Hand Rub"
+"strange":"66%+3.5%"
+"ganare":"Ethanol + Isopropyl alcohol"
+"unitPrice":"
+10 ml pen device : ৳ 75.00"
+"price":75.00
+
+},
+{
+"name":"Clonium "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"0.5 mg"
+"ganare":"Clonazepam"
+"unitPrice":"
+Unit Price : ৳ 6.00"
+"price":6.00
+
+},
+{
+"name":"Clonium "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"1 mg"
+"ganare":"Clonazepam"
+"unitPrice":"
+Unit Price : ৳ 8.00"
+"price":8.00
+
+},
+{
+"name":"Clonium "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"2 mg"
+"ganare":"Clonazepam"
+"unitPrice":"
+Unit Price : ৳ 10.00"
+"price":10.00
+
+},
+{
+"name":"Clorel "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"75 mg"
+"ganare":"Clopidogrel Bisulphate"
+"unitPrice":"
+Unit Price : ৳ 12.04"
+"price":12.04
+
+},
+{
+"name":"Clorel-A "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"75 mg+75 mg"
+"ganare":"Clopidogrel + Aspirin"
+"unitPrice":"
+Unit Price : ৳ 12.04"
+"price":12.04
+
+},
+{
+"name":"Clovate "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"0.05%"
+"ganare":"Clobetasol Propionate"
+"unitPrice":"
+10 gm tube : ৳ 58.17"
+"price":58.17
+
+},
+{
+"name":"Clovate "
+"company":"ACI Limited"
+"type":"Ointment"
+"strange":"0.05%"
+"ganare":"Clobetasol Propionate"
+"unitPrice":"
+10 gm tube : ৳ 68.20"
+"price":68.20
+
+},
+{
+"name":"Clovate "
+"company":"ACI Limited"
+"type":"Scalp Solution"
+"strange":"0.05%"
+"ganare":"Clobetasol Propionate"
+"unitPrice":"
+30 ml bottle : ৳ 200.60"
+"price": 200.60
+
+},
+{
+"name":"Clovate-N "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"0.05%+0.5%+2%"
+"ganare":"Clobetasol Propionate + Neomycin Sulphate + Nystatin"
+"unitPrice":"
+10 gm tube : ৳ 65.20"
+"price":65.20
+
+},
+{
+"name":"Clovate-N "
+"company":"ACI Limited"
+"type":"Ointment"
+"strange":"0.05%+0.5%+2%"
+"ganare":"Clobetasol Propionate + Neomycin Sulphate + Nystatin"
+"unitPrice":"
+15 gm tube : ৳ 70.21"
+"price":70.21
+
+},
+{
+"name":"Combair HFA "
+"company":"ACI Limited"
+"type":"Inhaler"
+"strange":"100 mcg+20 mcg"
+"ganare":"Salbutamol + Ipratropium Bromide"
+"unitPrice":"
+200 metered doses : ৳ 250.75"
+"price":250.75
+
+},
+{
+"name":"Combair HFA "
+"company":"ACI Limited"
+"type":"Inhaler"
+"strange":"100 mcg+20 mcg"
+"ganare":"Salbutamol + Ipratropium Bromide"
+"unitPrice":"
+200 metered doses (refill) : ৳ 230.69"
+"price":230.69
+
+},
+{
+"name":"Combocef "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"200 mg+125 mg"
+"ganare":"Cefpodoxime + Clavulanic Acid"
+"unitPrice":"
+Unit Price : ৳ 50.15"
+"price":50.15
+
+},
+{
+"name":"Combocef "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"100 mg+62.5 mg"
+"ganare":"Cefpodoxime + Clavulanic Acid"
+"unitPrice":"
+Unit Price : ৳ 30.09"
+"price":30.09
+
+},
+{
+"name":"Conart "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"1 mg"
+"ganare":"Bumetanide"
+"unitPrice":"
+Unit Price : ৳ 5.02"
+"price":5.02
+
+},
+{
+"name":"Contova "
+"company":"ACI Limited"
+"type":"Eye Drop"
+"strange":"0.1%"
+"ganare":"Olopatadine Hydrochloride (Eye Drops)"
+"unitPrice":"
+5 ml drop : ৳ 107.00"
+"price":107.00
+
+},
+{
+"name":"Contova DS "
+"company":"ACI Limited"
+"type":"Eye Drop"
+"strange":"0.2%"
+"ganare":"Olopatadine Hydrochloride (Eye Drops)"
+"unitPrice":"
+5 ml drop : ৳ 150.00"
+"price":150.00
+
+},
+{
+"name":"Cora-D "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"500 mg+200 IU"
+"ganare":"Calcium Carbonate (Coral source) + Cholecalciferol"
+"unitPrice":"
+Unit Price : ৳ 10.50"
+"price":10.50
+
+},
+{
+"name":"Cora-DX "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"600 mg+400 IU"
+"ganare":"Calcium Carbonate (Coral source) + Cholecalciferol"
+"unitPrice":"
+Unit Price : ৳ 15.00"
+"price":15.00
+
+},
+{
+"name":"Cora-DX Vita "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"1050 mg+600 mg+400 IU"
+"ganare":"Calcium Lactate Gluconate + Calcium Carbonate + Cholecalciferol"
+"unitPrice":"
+Unit Price : ৳ 17.00"
+"price":17.00
+
+},
+{
+"name":"Cortefin "
+"company":"ACI Limited"
+"type":"Ointment"
+"strange":"0.1%"
+"ganare":"Triamcinolone Acetonide (Topical)"
+"unitPrice":"
+10 gm tube : ৳ 25.08"
+"price":25.08
+
+},
+{
+"name":"Cortefin "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"0.1%"
+"ganare":"Triamcinolone Acetonide (Topical)"
+"unitPrice":"
+10 gm tube : ৳ 25.12"
+"price":25.12
+
+},
+{
+"name":"Cortefin "
+"company":"ACI Limited"
+"type":"Nasal Spray"
+"strange":"55 mcg/spray"
+"ganare":"Triamcinolone Acetonide (Nasal Preparation)"
+"unitPrice":"
+120 metered sprays : ৳ 200.00"
+"price":200.00
+
+},
+{
+"name":"Corzil "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"40 mg"
+"ganare":"Azilsartan Medoxomil"
+"unitPrice":"
+Unit Price : ৳ 12.00"
+"price":12.00
+
+},
+{
+"name":"Corzil "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"80 mg"
+"ganare":"Azilsartan Medoxomil"
+"unitPrice":"
+Unit Price : ৳ 22.00"
+"price":22.00
+
+},
+{
+"name":"Coufix "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"200 mg+15 mg+15 mg"
+"ganare":"Guaifenesin + Dextromethorphan + Menthol"
+"unitPrice":"
+100 ml bottle : ৳ 85.00"
+"price":85.00
+
+},
+{
+"name":"Coxia "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"60 mg"
+"ganare":"Etoricoxib"
+"unitPrice":"
+Unit Price : ৳ 7.05"
+"price":7.05
+
+},
+{
+"name":"Coxia "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"90 mg"
+"ganare":"Etoricoxib"
+"unitPrice":"
+Unit Price : ৳ 12.09"
+"price":12.09
+},

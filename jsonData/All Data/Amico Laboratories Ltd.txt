@@ -1,0 +1,976 @@
+{
+"name":"Aeropac ",
+"company":"Amico Laboratories Ltd",
+"type":"Pediatric Drop",
+"strange":"67 mg/ml",
+"ganare":"Simethicone",
+"unitPrice":"15 ml drop : ৳ 30.00"
+},
+{
+"name":"Ambrotil ",
+"company":"Amico Laboratories Ltd",
+"type":"Syrup",
+"strange":"15 mg/5 ml",
+"ganare":"Ambroxol Hydrochloride",
+"unitPrice":"100 ml bottle : ৳ 35.00"
+},
+{
+"name":"AmiClean ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"7.5 mg",
+"ganare":"Sodium Thiosulfate",
+"unitPrice":"Unit Price : ৳ 0.60"
+},
+{
+"name":"AmiClean ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"15 mg",
+"ganare":"Sodium Thiosulfate",
+"unitPrice":"Unit Price : ৳ 0.95"
+},
+{
+"name":"AmiCoxib ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"90 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 12.00"
+},
+{
+"name":"AmiCoxib ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Etoricoxib",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Amifex ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"60 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Amifex ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"120 mg",
+"ganare":"Fexofenadine Hydrochloride",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Amiflox ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Amiflox ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Amiflox ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"750 mg",
+"ganare":"Ciprofloxacin",
+"unitPrice":"Unit Price : ৳ 16.00"
+},
+{
+"name":"Amiflox DS ",
+"company":"Amico Laboratories Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Ciprofloxacin",
+"unitPrice":"60 ml bottle : ৳ 85.00"
+},
+{
+"name":"Amikast ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Amikast ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Montelukast Sodium",
+"unitPrice":"Unit Price : ৳ 15.00"
+},
+{
+"name":"Amilax ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Flupentixol + Melitracen",
+"unitPrice":"Unit Price : ৳ 3.20"
+},
+{
+"name":"Amiquin ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Gatifloxacin (Tablet & Injection)",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Amival ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"0.5 mg+10 mg",
+"ganare":"Fluphenazine + Nortriptyline",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Amival F ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"1.5 mg+30 mg",
+"ganare":"Fluphenazine + Nortriptyline",
+"unitPrice":"Unit Price : ৳ 2.01"
+},
+{
+"name":"Atenolol ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"100 mg",
+"ganare":"Atenolol",
+"unitPrice":"Unit Price : ৳ 1.38"
+},
+{
+"name":"Azix ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Azithromycin",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Azix ",
+"company":"Amico Laboratories Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Azithromycin",
+"unitPrice":"15 ml bottle : ৳ 85.00"
+},
+{
+"name":"Baclofen ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Baclofen",
+"unitPrice":"Unit Price : ৳ 7.00"
+},
+{
+"name":"Belocef ",
+"company":"Amico Laboratories Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Cephradine",
+"unitPrice":"Unit Price : ৳ 12.05"
+},
+{
+"name":"Belocef ",
+"company":"Amico Laboratories Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Belocef ",
+"company":"Amico Laboratories Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Cephradine",
+"unitPrice":"15 ml bottle : ৳ 50.00"
+},
+{
+"name":"Belocef DS ",
+"company":"Amico Laboratories Ltd",
+"type":"Suspension",
+"strange":"250 mg/5 ml",
+"ganare":"Cephradine",
+"unitPrice":"100 ml bottle : ৳ 110.00"
+},
+{
+"name":"Benosol ",
+"company":"Amico Laboratories Ltd",
+"type":"Emulsion",
+"strange":"1.25 gm/5 ml",
+"ganare":"Benzyl Benzoate",
+"unitPrice":"100 ml bottle : ৳ 35.25"
+},
+{
+"name":"Big B ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"100 mg+200 mg+200 mcg",
+"ganare":"Vitamin B1 B6 & B12",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Calamine ",
+"company":"Amico Laboratories Ltd",
+"type":"Lotion",
+"strange":"(15 mg+5 mg+5 mg)/100 ml",
+"ganare":"Calamine + Zinc Oxide + Glycerine",
+"unitPrice":"100 ml bottle : ৳ 38.00"
+},
+{
+"name":"Candid ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 8.00"
+},
+{
+"name":"Candid ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Fluconazole",
+"unitPrice":"Unit Price : ৳ 22.00"
+},
+{
+"name":"Carboten DS ",
+"company":"Amico Laboratories Ltd",
+"type":"Syrup",
+"strange":"250 mg/5 ml",
+"ganare":"Carbocisteine",
+"unitPrice":"100 ml bottle : ৳ 40.00"
+},
+{
+"name":"Clarimycin ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Clarithromycin",
+"unitPrice":"Unit Price : ৳ 45.00"
+},
+{
+"name":"Clocef ",
+"company":"Amico Laboratories Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Cefaclor Monohydrate",
+"unitPrice":"Unit Price : ৳ 45.00"
+},
+{
+"name":"Clocef ",
+"company":"Amico Laboratories Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Cefaclor Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 175.00"
+},
+{
+"name":"Clotrimazole ",
+"company":"Amico Laboratories Ltd",
+"type":"Cream",
+"strange":"1%",
+"ganare":"Clotrimazole (Topical)",
+"unitPrice":"10 gm tube : ৳ 35.00"
+},
+{
+"name":"Codvita ",
+"company":"Amico Laboratories Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Cod Liver Oil",
+"unitPrice":"100 ml bottle : ৳ 80.00"
+},
+{
+"name":"Coldflu ",
+"company":"Amico Laboratories Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Dextromethorphan Hydrobromide",
+"unitPrice":"100 ml bottle : ৳ 23.00"
+},
+{
+"name":"Delice ",
+"company":"Amico Laboratories Ltd",
+"type":"Cream",
+"strange":"5% w/w",
+"ganare":"Permethrin",
+"unitPrice":"30 gm tube : ৳ 45.00"
+},
+{
+"name":"Dermidex ",
+"company":"Amico Laboratories Ltd",
+"type":"Cream",
+"strange":"0.025%",
+"ganare":"Fluocinolone Acetonide",
+"unitPrice":"5 gm tube : ৳ 30.00"
+},
+{
+"name":"Dyzin ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"Unit Price : ৳ 2.75"
+},
+{
+"name":"Dyzin ",
+"company":"Amico Laboratories Ltd",
+"type":"Syrup",
+"strange":"5 mg/5 ml",
+"ganare":"Cetirizine Dihydrochloride",
+"unitPrice":"60 ml bottle : ৳ 22.00"
+},
+{
+"name":"Elocon ",
+"company":"Amico Laboratories Ltd",
+"type":"Cream",
+"strange":"1%+0.1%",
+"ganare":"Econazole Nitrate + Triamcinolone Acetonide",
+"unitPrice":"10 gm tube : ৳ 40.00"
+},
+{
+"name":"Fefun ",
+"company":"Amico Laboratories Ltd",
+"type":"Suspension",
+"strange":"100000 unit/ml",
+"ganare":"Nystatin (Oral)",
+"unitPrice":"12 ml bottle : ৳ 21.00"
+},
+{
+"name":"Feraz ",
+"company":"Amico Laboratories Ltd",
+"type":"Capsule",
+"strange":"150 mg+0.5 mg+61.8 mg",
+"ganare":"Ferrous Sulphate + Folic Acid + Zinc Sulphate",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Fero Plus ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"200 mg+400 mcg",
+"ganare":"Ferrous Fumerate + Folic acid",
+"unitPrice":"Unit Price : ৳ 0.38"
+},
+{
+"name":"Fero TR ",
+"company":"Amico Laboratories Ltd",
+"type":"Capsule",
+"strange":"200 mg+200 mcg",
+"ganare":"Ferrous Fumerate + Folic acid",
+"unitPrice":"Unit Price : ৳ 2.37"
+},
+{
+"name":"Feropreg TR ",
+"company":"Amico Laboratories Ltd",
+"type":"Capsule",
+"strange":"50 mg+0.50 mg+61.80 mg",
+"ganare":"Carbonyl Iron + Folic Acid + Zinc Sulfate Monohydrate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Flavit ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Vitamin B complex",
+"unitPrice":"Unit Price : ৳ 0.44"
+},
+{
+"name":"Flavit-M ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"Unit Price : ৳ 1.50"
+},
+{
+"name":"Flupion ",
+"company":"Amico Laboratories Ltd",
+"type":"Ointment",
+"strange":"0.005%",
+"ganare":"Fluticasone Propionate (Topical)",
+"unitPrice":"10 gm tube : ৳ 50.00"
+},
+{
+"name":"Folic Acid ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Folic acid",
+"unitPrice":"Unit Price : ৳ 0.35"
+},
+{
+"name":"Gen-3 ",
+"company":"Amico Laboratories Ltd",
+"type":"Capsule",
+"strange":"200 mg",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"Unit Price : ৳ 30.00"
+},
+{
+"name":"Gen-3 ",
+"company":"Amico Laboratories Ltd",
+"type":"Suspension",
+"strange":"100 mg/5 ml",
+"ganare":"Cefixime Trihydrate",
+"unitPrice":"50 ml bottle : ৳ 175.00"
+},
+{
+"name":"Healer ",
+"company":"Amico Laboratories Ltd",
+"type":"Capsule",
+"strange":"20 mg",
+"ganare":"Omeprazole",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Isonil ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Oxyphenonium Bromide (Oral preparation)",
+"unitPrice":"Unit Price : ৳ 1.41"
+},
+{
+"name":"Ketofun ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"200 mg",
+"ganare":"Ketoconazole",
+"unitPrice":"Unit Price : ৳ 8.33"
+},
+{
+"name":"Ketotifen ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"1 mg",
+"ganare":"Ketotifen Fumarate (Oral)",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Kidovit ",
+"company":"Amico Laboratories Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral",
+"unitPrice":"100 ml bottle : ৳ 65.00"
+},
+{
+"name":"Koftex ",
+"company":"Amico Laboratories Ltd",
+"type":"Syrup",
+"strange":"(30 mg+100 mg+1.25 mg) / 5 ml",
+"ganare":"Pseudoephedrine + Guaiphenasine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"Koftex-D ",
+"company":"Amico Laboratories Ltd",
+"type":"Syrup",
+"strange":"(10 mg+30 mg+1.25 mg)/5 ml",
+"ganare":"Dextromethorphan + Pseudoephedrine + Triprolidine",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"Lansopril ",
+"company":"Amico Laboratories Ltd",
+"type":"Capsule",
+"strange":"30 mg",
+"ganare":"Lansoprazole",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Lepath ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Cefuroxime Axetil",
+"unitPrice":"Unit Price : ৳ 22.00"
+},
+{
+"name":"Levin ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Levofloxacin (Oral)",
+"unitPrice":"Unit Price : ৳ 14.00"
+},
+{
+"name":"Loctoz ",
+"company":"Amico Laboratories Ltd",
+"type":"Oral Solution",
+"strange":"3.35 gm/5 ml",
+"ganare":"Lactulose",
+"unitPrice":"100 ml bottle : ৳ 100.00"
+},
+{
+"name":"Lodin Plus ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg+240 mg",
+"ganare":"Loratadine + Pseudoephedrine",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Losaron ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"50 mg",
+"ganare":"Losartan Potassium",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Magnogel ",
+"company":"Amico Laboratories Ltd",
+"type":"Suspension",
+"strange":"(175 mg+225 mg)/5 ml",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"200 ml bottle : ৳ 32.00"
+},
+{
+"name":"Magnogel ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"250 mg+400 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide",
+"unitPrice":"Unit Price : ৳ 0.73"
+},
+{
+"name":"Mecozol ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Metronidazole",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Mecozol ",
+"company":"Amico Laboratories Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Metronidazole",
+"unitPrice":"60 ml bottle : ৳ 25.00"
+},
+{
+"name":"Monaclox-F ",
+"company":"Amico Laboratories Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Monaclox-F ",
+"company":"Amico Laboratories Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Monaclox-F ",
+"company":"Amico Laboratories Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Flucloxacillin Sodium",
+"unitPrice":"100 ml bottle : ৳ 65.00"
+},
+{
+"name":"Monacom ",
+"company":"Amico Laboratories Ltd",
+"type":"Cream",
+"strange":" ",
+"ganare":"Triamcinolone + Neomycin + Nystatin + Gramicidin",
+"unitPrice":"5 gm tube : ৳ 30.00"
+},
+{
+"name":"Monamox ",
+"company":"Amico Laboratories Ltd",
+"type":"Capsule",
+"strange":"250 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Monamox ",
+"company":"Amico Laboratories Ltd",
+"type":"Capsule",
+"strange":"500 mg",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Monamox ",
+"company":"Amico Laboratories Ltd",
+"type":"Suspension",
+"strange":"125 mg/5 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"100 ml bottle : ৳ 47.40"
+},
+{
+"name":"Monamox ",
+"company":"Amico Laboratories Ltd",
+"type":"Pediatric Drop",
+"strange":"125 mg/1.25 ml",
+"ganare":"Amoxicillin Trihydrate",
+"unitPrice":"15 ml bottle : ৳ 28.00"
+},
+{
+"name":"Monamycin ",
+"company":"Amico Laboratories Ltd",
+"type":"Cream",
+"strange":"0.3 %",
+"ganare":"Gentamicin Sulphate (Topical Preparation)",
+"unitPrice":"15 mg tube : ৳ 16.75"
+},
+{
+"name":"Mucola ",
+"company":"Amico Laboratories Ltd",
+"type":"Syrup",
+"strange":"4 mg/5 ml",
+"ganare":"Bromhexine Hyrdochloride",
+"unitPrice":"100 ml bottle : ৳ 25.00"
+},
+{
+"name":"Naproxen ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Naproxen Sodium",
+"unitPrice":"Unit Price : ৳ 10.22"
+},
+{
+"name":"Naproxzia Plus ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg+20 mg",
+"ganare":"Naproxen Sodium + Esomeprazole",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Novarin ",
+"company":"Amico Laboratories Ltd",
+"type":"Gel",
+"strange":"1% w/w",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"10 gm tube : ৳ 12.90"
+},
+{
+"name":"Novarin SR ",
+"company":"Amico Laboratories Ltd",
+"type":"Capsule",
+"strange":"100 mg",
+"ganare":"Diclofenac Sodium",
+"unitPrice":"Unit Price : ৳ 2.50"
+},
+{
+"name":"Oracal ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Calcium Carbonate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Oracal D ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg+200 IU",
+"ganare":"Calcium Carbonate (Elemental) + Cholecalciferol",
+"unitPrice":"Unit Price : ৳ 5.00"
+},
+{
+"name":"Oracal M ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Calcium Carbonate + Vitamin D3 + Multimineral",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Panzol ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"20 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 3.50"
+},
+{
+"name":"Panzol ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"40 mg",
+"ganare":"Pantoprazole",
+"unitPrice":"Unit Price : ৳ 5.50"
+},
+{
+"name":"Para ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Paracetamol",
+"unitPrice":"Unit Price : ৳ 0.80"
+},
+{
+"name":"Para ",
+"company":"Amico Laboratories Ltd",
+"type":"Suspension",
+"strange":"120 mg/5 ml",
+"ganare":"Paracetamol",
+"unitPrice":"60 ml bottle : ৳ 20.00"
+},
+{
+"name":"Para ",
+"company":"Amico Laboratories Ltd",
+"type":"Pediatric Drop",
+"strange":"80 mg/ml",
+"ganare":"Paracetamol",
+"unitPrice":"15 ml bottle : ৳ 12.00"
+},
+{
+"name":"Para C ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg+65 mg",
+"ganare":"Paracetamol + Caffeine",
+"unitPrice":"Unit Price : ৳ 1.90"
+},
+{
+"name":"Peptacid ",
+"company":"Amico Laboratories Ltd",
+"type":"Suspension",
+"strange":"(400 mg+400 mg+30 mg)/5 ml",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+"unitPrice":"200 ml bottle : ৳ 55.00"
+},
+{
+"name":"Peptacid ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"200 mg+200 mg+30 mg",
+"ganare":"Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+"unitPrice":"Unit Price : ৳ 1.00"
+},
+{
+"name":"Pheramin ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"4 mg",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"Unit Price : ৳ 0.20"
+},
+{
+"name":"Pheramin ",
+"company":"Amico Laboratories Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Chlorpheniramine Maleate",
+"unitPrice":"60 ml bottle : ৳ 14.90"
+},
+{
+"name":"Povidone ",
+"company":"Amico Laboratories Ltd",
+"type":"Solution",
+"strange":"10% w/v",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"100 ml bottle : ৳ 31.59"
+},
+{
+"name":"Povidone ",
+"company":"Amico Laboratories Ltd",
+"type":"Cream",
+"strange":"6% w/w",
+"ganare":"Povidone Iodine (Mouthwash & Topical)",
+"unitPrice":"5 gm tube : ৳ 22.00"
+},
+{
+"name":"Pregnacare ",
+"company":"Amico Laboratories Ltd",
+"type":"Capsule",
+"strange":" ",
+"ganare":"Iron Polymaltose Complex + Folic Acid + Zinc + Vitamin B-Complex",
+"unitPrice":"Unit Price : ৳ 3.00"
+},
+{
+"name":"Relaxium ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"3 mg",
+"ganare":"Bromazepam",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Ruzmet ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"500 mg",
+"ganare":"Metformin Hydrochloride",
+"unitPrice":"Unit Price : ৳ 8.33"
+},
+{
+"name":"Salbutamol ",
+"company":"Amico Laboratories Ltd",
+"type":"Syrup",
+"strange":"2 mg/5 ml",
+"ganare":"Salbutamol",
+"unitPrice":"100 ml bottle : ৳ 17.00"
+},
+{
+"name":"Saliben ",
+"company":"Amico Laboratories Ltd",
+"type":"Ointment",
+"strange":"6%+3%",
+"ganare":"Benzoic Acid + Salicylic Acid",
+"unitPrice":"25 gm tube : ৳ 25.00"
+},
+{
+"name":"Sedapen ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"5 mg",
+"ganare":"Diazepam",
+"unitPrice":"Unit Price : ৳ 0.69"
+},
+{
+"name":"Super Saline ",
+"company":"Amico Laboratories Ltd",
+"type":"Powder",
+"strange":"13.95 gm",
+"ganare":"Oral Rehydration Salt (Powder)",
+"unitPrice":"Unit Price : ৳ 4.57"
+},
+{
+"name":"Suvic ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"250 mg",
+"ganare":"Vitamin C (Ascorbic acid)",
+"unitPrice":"Unit Price : ৳ 0.75"
+},
+{
+"name":"Synergy ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Super Antioxidant Vitamins & Multimineral",
+"unitPrice":"Unit Price : ৳ 4.00"
+},
+{
+"name":"Tramadol ",
+"company":"Amico Laboratories Ltd",
+"type":"Capsule",
+"strange":"50 mg",
+"ganare":"Tramadol Hydrochloride",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Troy ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Ketorolac Tromethamine",
+"unitPrice":"Unit Price : ৳ 10.00"
+},
+{
+"name":"Vastin ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Atorvastatin Calcium",
+"unitPrice":"Unit Price : ৳ 8.03"
+},
+{
+"name":"Vitan ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z silver preparation)",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Vitan Gold ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":" ",
+"ganare":"Multivitamin & Multimineral (A-Z gold preparation)",
+"unitPrice":"Unit Price : ৳ 6.00"
+},
+{
+"name":"Xepadon ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"10 mg",
+"ganare":"Domperidone Maleate",
+"unitPrice":"Unit Price : ৳ 2.00"
+},
+{
+"name":"Xepadon ",
+"company":"Amico Laboratories Ltd",
+"type":"Suspension",
+"strange":"5 mg/5 ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"60 ml bottle : ৳ 25.00"
+},
+{
+"name":"Xepadon ",
+"company":"Amico Laboratories Ltd",
+"type":"Pediatric Drop",
+"strange":"5 mg/ml",
+"ganare":"Domperidone Maleate",
+"unitPrice":"15 ml drop : ৳ 18.00"
+},
+{
+"name":"Zn ",
+"company":"Amico Laboratories Ltd",
+"type":"Syrup",
+"strange":"10 mg/5 ml",
+"ganare":"Zinc Sulphate Monohydrate",
+"unitPrice":"100 ml bottle : ৳ 35.00"
+},
+{
+"name":"Zn-B ",
+"company":"Amico Laboratories Ltd",
+"type":"Syrup",
+"strange":" ",
+"ganare":"Vitamin B Complex + Zinc",
+"unitPrice":"100 ml bottle : ৳ 50.00"
+},
+{
+"name":"Zoben ",
+"company":"Amico Laboratories Ltd",
+"type":"Suspension",
+"strange":"200 mg/5 ml",
+"ganare":"Albendazole",
+"unitPrice":"10 ml bottle : ৳ 18.00"
+},
+{
+"name":"Zoben ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"400 mg",
+"ganare":"Albendazole",
+"unitPrice":"Unit Price : ৳ 4.50"
+},
+{
+"name":"Zorep ",
+"company":"Amico Laboratories Ltd",
+"type":"Tablet",
+"strange":"150 mg",
+"ganare":"Ranitidine",
+"unitPrice":"Unit Price : ৳ 1.50"
+},

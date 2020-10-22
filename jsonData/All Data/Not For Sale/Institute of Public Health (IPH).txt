@@ -1,0 +1,64 @@
+{
+"name":"Cholera Fluid",
+"company":"Institute of Public Health (IPH)",
+"type":"Infusion",
+"strange":" ",
+"ganare":"Cholera Saline",
+"unitPrice":"500 ml bag : Not for sale"
+},
+{
+"name":"Dextran ",
+"company":"Institute of Public Health (IPH)",
+"type":"Infusion",
+"strange":"6%+5%",
+"ganare":"Dextran + Dextrose",
+"unitPrice":"500 ml bag : Not for sale"
+},
+{
+"name":"Dextran ",
+"company":"Institute of Public Health (IPH)",
+"type":"Infusion",
+"strange":"10%+5%",
+"ganare":"Dextran + Dextrose",
+"unitPrice":"500 ml bag : Not for sale"
+},
+{
+"name":"Dextran 40 ",
+"company":"Institute of Public Health (IPH)",
+"type":"Infusion",
+"strange":"10%+0.9%",
+"ganare":"Dextran + Sodium Chloride",
+"unitPrice":"500 ml bag : Not for sale"
+},
+{
+"name":"Dextran 70 ",
+"company":"Institute of Public Health (IPH)",
+"type":"Infusion",
+"strange":"6%+0.9%",
+"ganare":"Dextran + Sodium Chloride",
+"unitPrice":"500 ml bag : Not for sale"
+},
+{
+"name":"Dextrose ",
+"company":"Institute of Public Health (IPH)",
+"type":"Infusion",
+"strange":"10%",
+"ganare":"Dextrose",
+"unitPrice":"500 ml bag : Not for sale"
+},
+{
+"name":"Glucose Saline ",
+"company":"Institute of Public Health (IPH)",
+"type":"Infusion",
+"strange":"0.9%+5%",
+"ganare":"Sodium Chloride + Dextrose",
+"unitPrice":"500 ml bag : Not for sale"
+},
+{
+"name":"Normal Saline ",
+"company":"Institute of Public Health (IPH)",
+"type":"Infusion",
+"strange":"0.9%",
+"ganare":"Sodium Chloride (Intravenous Solution)",
+"unitPrice":"500 ml bag : Not for sale"
+},

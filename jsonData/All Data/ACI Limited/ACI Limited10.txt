@@ -1,0 +1,299 @@
+{
+"name":"Etrax "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"40 mg/5 ml"
+"ganare":"Levamisole"
+"unitPrice":"30 ml bottle : ৳ 24.07"
+"price":24.07
+
+},
+{
+"name":"Ezolid "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"400 mg"
+"ganare":"Linezolid"
+"unitPrice":"Unit Price : ৳ 60.00"
+"price":60.00
+
+},
+{
+"name":"Ezolid "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"600 mg"
+"ganare":"Linezolid"
+"unitPrice":"Unit Price : ৳ 85.00"
+"price":85.00
+
+},
+{
+"name":"Febus "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"40 mg"
+"ganare":"Febuxostat"
+"unitPrice":"Unit Price : ৳ 12.04"
+"price":12.04
+
+},
+{
+"name":"Febus "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"80 mg"
+"ganare":"Febuxostat"
+"unitPrice":"Unit Price : ৳ 22.07"
+"price":22.07
+
+},
+{
+"name":"Flamex "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"200 mg"
+"ganare":"Ibuprofen"
+"unitPrice":"Unit Price : ৳ 0.88"
+"price": 0.88
+
+},
+{
+"name":"Flamex "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"400 mg"
+"ganare":"Ibuprofen"
+"unitPrice":"Unit Price : ৳ 1.43"
+"price":1.43
+
+},
+{
+"name":"Flamex "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"100 mg/5 ml"
+"ganare":"Ibuprofen"
+"unitPrice":"100 ml bottle : ৳ 33.81"
+"price":33.81
+
+},
+{
+"name":"Floxabid "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"250 mg"
+"ganare":"Ciprofloxacin"
+"unitPrice":"Unit Price : ৳ 8.56"
+"price":8.56
+
+},
+{
+"name":"Floxabid "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Ciprofloxacin"
+"unitPrice":"Unit Price : ৳ 15.05"
+"price":15.05
+
+},
+{
+"name":"Floxabid "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"750 mg"
+"ganare":"Ciprofloxacin"
+"unitPrice":"Unit Price : ৳ 18.12"
+"price":18.12
+
+},
+{
+"name":"Floxabid "
+"company":"ACI Limited"
+"type":"E/E Drop"
+"strange":"0.3%"
+"ganare":"Ciprofloxacin (Eye/Ear)"
+"unitPrice":"5 ml drop : ৳ 40.12"
+"price":40.12
+
+},
+{
+"name":"Floxabid "
+"company":"ACI Limited"
+"type":"Infusion"
+"strange":"200 mg/100 ml"
+"ganare":"Ciprofloxacin"
+"unitPrice":"100 ml bottle : ৳ 146.44"
+"price":146.44
+
+},
+{
+"name":"Floxabid DS "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"250 mg/5 ml"
+"ganare":"Ciprofloxacin"
+"unitPrice":"60 ml bottle : ৳ 100.30"
+"price":100.30
+
+},
+{
+"name":"Fluclox "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"250 mg"
+"ganare":"Flucloxacillin Sodium"
+"unitPrice":"Unit Price : ৳ 5.80"
+"price":5.80
+
+},
+{
+"name":"Fluclox "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"500 mg"
+"ganare":"Flucloxacillin Sodium"
+"unitPrice":"Unit Price : ৳ 10.60"
+"price":10.60
+
+},
+{
+"name":"Fluclox "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"125 mg/5 ml"
+"ganare":"Flucloxacillin Sodium"
+"unitPrice":"100 ml bottle : ৳ 61.50"
+"price":61.50
+
+},
+{
+"name":"Fluclox "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"250 mg/vial"
+"ganare":"Flucloxacillin Sodium"
+"unitPrice":"250 mg vial : ৳ 35.24"
+"price":35.24
+
+},
+{
+"name":"Fluclox "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"500 mg/vial"
+"ganare":"Flucloxacillin Sodium"
+"unitPrice":"500 mg vial : ৳ 45.28"
+"price":45.28
+
+},
+{
+"name":"Fluclox DS "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"250 mg/5 ml"
+"ganare":"Flucloxacillin Sodium"
+"unitPrice":"100 ml bottle : ৳ 110.74"
+"price":110.74
+
+},
+{
+"name":"Fluvent "
+"company":"ACI Limited"
+"type":"Nasal Spray"
+"strange":"50 mcg/spray"
+"ganare":"Fluticasone Propionate (Nasal Spray)"
+"unitPrice":"120 metered sprays : ৳ 250.75"
+"price":250.75
+
+},
+{
+"name":"Fluver "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Flunarizine"
+"unitPrice":"Unit Price : ৳ 3.51"
+"price":3.51
+
+},
+{
+"name":"Fluver "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Flunarizine"
+"unitPrice":"Unit Price : ৳ 5.02"
+"price":5.02
+
+},
+{
+"name":"Fosfocin "
+"company":"ACI Limited"
+"type":"Granules"
+"strange":"3 gm/sachet"
+"ganare":"Fosfomycin"
+"unitPrice":"3 gm sachet : ৳ 350.00"
+"price":350.00
+
+},
+{
+"name":"Foviral "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"300 mg"
+"ganare":"Tenofovir Disoproxil Fumarate"
+"unitPrice":"Unit Price : ৳ 85.26"
+"price":85.26
+
+},
+{
+"name":"Gabarol "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"25 mg"
+"ganare":"Pregabalin"
+"unitPrice":"Unit Price : ৳ 8.02"
+"price":8.02
+
+},
+{
+"name":"Gabarol "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"50 mg"
+"ganare":"Pregabalin"
+"unitPrice":"Unit Price : ৳ 12.04"
+"price":12.04
+
+},
+{
+"name":"Gabarol "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"75 mg"
+"ganare":"Pregabalin"
+"unitPrice":"Unit Price : ৳ 16.11"
+"price":16.11
+
+},
+{
+"name":"Gabarol "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"100 mg"
+"ganare":"Pregabalin"
+"unitPrice":"Unit Price : ৳ 22.15"
+"price":22.15
+
+},
+{
+"name":"Gabarol "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"150 mg"
+"ganare":"Pregabalin"
+"unitPrice":"Unit Price : ৳ 30.20"
+"price":30.20
+},

@@ -1,0 +1,299 @@
+{
+"name":"Trena "
+"company":"ACI Limited"
+"type":"Gel"
+"strange":"0.025%"
+"ganare":"Tretinoin"
+"unitPrice":"
+10 gm tube : ৳ 44.95"
+},
+{
+"name":"
+Tricalm "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"2 mg"
+"ganare":"Trihexyphenidyl Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 5.00"
+},
+{
+"name":"
+Tricalm "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"5 mg"
+"ganare":"Trihexyphenidyl Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 10.00"
+},
+{
+"name":"
+Tridopa "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"50 mg+12.5 mg +200 mg"
+"ganare":"Levodopa + Carbidopa + Entacapone"
+"unitPrice":"
+Unit Price : ৳ 15.05"
+},
+{
+"name":"
+Tridopa "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"100 mg+25 mg+200 mg"
+"ganare":"Levodopa + Carbidopa + Entacapone"
+"unitPrice":"
+Unit Price : ৳ 25.08"
+},
+{
+"name":"
+Tridopa "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"150 mg+37.5 mg+200 mg"
+"ganare":"Levodopa + Carbidopa + Entacapone"
+"unitPrice":"
+Unit Price : ৳ 30.09"
+},
+{
+"name":"
+Tridopa "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"200 mg+50 mg+200 mg"
+"ganare":"Levodopa + Carbidopa + Entacapone"
+"unitPrice":"
+Unit Price : ৳ 40.12"
+},
+{
+"name":"
+Tynium "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"50 mg"
+"ganare":"Tiemonium Methylsulphate"
+"unitPrice":"
+Unit Price : ৳ 8.00"
+},
+{
+"name":"
+Tynium "
+"company":"ACI Limited"
+"type":"Syrup"
+"strange":"10 mg/5 ml"
+"ganare":"Tiemonium Methylsulphate"
+"unitPrice":"
+100 ml bottle : ৳ 88.00"
+},
+{
+"name":"
+Tynium "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"5 mg/2 ml"
+"ganare":"Tiemonium Methylsulphate"
+"unitPrice":"
+2 ml ampoule : ৳ 17.60"
+},
+{
+"name":"
+Tyroid "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"50 mcg"
+"ganare":"Levothyroxine Sodium"
+"unitPrice":"
+Unit Price : ৳ 1.35"
+},
+{
+"name":"
+Vave "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"10 mg"
+"ganare":"Domperidone Maleate"
+"unitPrice":"
+Unit Price : ৳ 2.50"
+},
+{
+"name":"
+Vave "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"5 mg/5 ml"
+"ganare":"Domperidone Maleate"
+"unitPrice":"
+60 ml bottle : ৳ 35.11"
+},
+{
+"name":"
+Vave "
+"company":"ACI Limited"
+"type":"Pediatric Drop"
+"strange":"5 mg/ml"
+"ganare":"Domperidone Maleate"
+"unitPrice":"
+15 ml drop : ৳ 25.08"
+},
+{
+"name":"
+Viscon "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"15%+10%"
+"ganare":"Methyl Salicylate + Menthol"
+"unitPrice":"
+20 gm tube : ৳ 40.27"
+},
+{
+"name":"
+Viscon "
+"company":"ACI Limited"
+"type":"Cream"
+"strange":"30%+8%"
+"ganare":"Methyl Salicylate + Menthol"
+"unitPrice":"
+20 gm tube : ৳ 60.41"
+},
+{
+"name":"
+Xantid "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"150 mg"
+"ganare":"Ranitidine"
+"unitPrice":"
+Unit Price : ৳ 2.51"
+},
+{
+"name":"
+Xantid "
+"company":"ACI Limited"
+"type":"Injection"
+"strange":"50 mg/2 ml"
+"ganare":"Ranitidine"
+"unitPrice":"
+2 ml ampoule : ৳ 7.55"
+},
+{
+"name":"
+Xcel "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"500 mg"
+"ganare":"Paracetamol"
+"unitPrice":"
+Unit Price : ৳ 0.80"
+},
+{
+"name":"
+Xcel "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"120 mg/5 ml"
+"ganare":"Paracetamol"
+"unitPrice":"
+60 ml bottle : ৳ 20.70"
+},
+{
+"name":"
+Xcel "
+"company":"ACI Limited"
+"type":"Suspension"
+"strange":"120 mg/5 ml"
+"ganare":"Paracetamol"
+"unitPrice":"
+60 ml bottle : ৳ 20.70"
+},
+{
+"name":"
+Xcel "
+"company":"ACI Limited"
+"type":"Pediatric Drop"
+"strange":"80 mg/ml"
+"ganare":"Paracetamol"
+"unitPrice":"
+15 ml bottle : ৳ 12.35"
+},
+{
+"name":"
+Xcel "
+"company":"ACI Limited"
+"type":"Suppository"
+"strange":"250 mg"
+"ganare":"Paracetamol"
+"unitPrice":"
+Unit Price : ৳ 5.00"
+},
+{
+"name":"
+Xcel "
+"company":"ACI Limited"
+"type":"Suppository"
+"strange":"125 mg"
+"ganare":"Paracetamol"
+"unitPrice":"
+Unit Price : ৳ 4.00"
+},
+{
+"name":"
+Xcel "
+"company":"ACI Limited"
+"type":"Suppository"
+"strange":"500 mg"
+"ganare":"Paracetamol"
+"unitPrice":"
+Unit Price : ৳ 8.00"
+},
+{
+"name":"
+Xcel ER "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"665 mg"
+"ganare":"Paracetamol"
+"unitPrice":"
+Unit Price : ৳ 1.50"
+},
+{
+"name":"
+Xcel Max "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"325 mg+37.5 mg"
+"ganare":"Paracetamol + Tramadol Hydrochloride"
+"unitPrice":"
+Unit Price : ৳ 8.02"
+},
+{
+"name":"
+Xcel Plus "
+"company":"ACI Limited"
+"type":"Tablet"
+"strange":"500 mg+65 mg"
+"ganare":"Paracetamol + Caffeine"
+"unitPrice":"
+Unit Price : ৳ 2.35"
+},
+{
+"name":"
+Xeldrin "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"10 mg"
+"ganare":"Omeprazole"
+"unitPrice":"
+Unit Price : ৳ 2.02"
+},
+{
+"name":"
+Xeldrin "
+"company":"ACI Limited"
+"type":"Capsule"
+"strange":"20 mg"
+"ganare":"Omeprazole"
+"unitPrice":"
+Unit Price : ৳ 5.02"
+},
